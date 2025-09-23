@@ -1,0 +1,534 @@
+{"id": "animal_0", "category": "animal", "prompt_zh": "生成青蛙生命周期的照片", "prompt_en": "Generate a photo of frog lifecircle"}
+{"id": "animal_1", "category": "animal", "prompt_zh": "生成灯塔水母从受伤到恢复过程的照片", "prompt_en": "Generate photos of the process of the Turritopsis dohrnii from  injury to recovery"}
+{"id": "animal_2", "category": "animal", "prompt_zh": "生成角蜥喷血吓跑捕食者的图片", "prompt_en": "Generate an image of a horned lizard repelling a predator."}
+{"id": "animal_3", "category": "animal", "prompt_zh": "生成长颈鹿第一次被引入中国的场景图", "prompt_en": "Generate an image of the scene when giraffes were first  introduced to China."}
+{"id": "animal_4", "category": "animal", "prompt_zh": "生成白头叶猴的成长变化图", "prompt_en": "Generate an image showing the growth stages of a white-headed  langur."}
+{"id": "animal_5", "category": "animal", "prompt_zh": "生成图片展示蚂蚁和蚜虫之间的关系", "prompt_en": "Generate an image showing the relationship between ants and  aphids."}
+{"id": "animal_6", "category": "animal", "prompt_zh": "展示疣猪和其他动物的共生关系", "prompt_en": "Generate an image showing the symbiotic relationship between  warthogs and other animals"}
+{"id": "animal_7", "category": "animal", "prompt_zh": "生成图片，对比公驴和母马生出的骡子还有公马和母驴生出的骡子", "prompt_en": "Generate an image comparing a mule born from a male donkey and  a female horse with a hinny born from a male horse and a female donkey."}
+{"id": "animal_8", "category": "animal", "prompt_zh": "生成饥饿的火烈鸟的图片", "prompt_en": "Generate an Image of a Hungry Flamingo"}
+{"id": "animal_9", "category": "animal", "prompt_zh": "生成塔晓绡蝶的变态发育的过程", "prompt_en": "Generate an image showing the complete metamorphic development  process of Tithorea tarricina"}
+{"id": "animal_10", "category": "animal", "prompt_zh": "生成玉带凤蝶的变态发育过程的图片", "prompt_en": "Generate an image showing the complete metamorphic development  process of Common mormon"}
+{"id": "animal_11", "category": "animal", "prompt_zh": "生成图片，展示抹香鲸与座头鲸不同的睡觉姿势", "prompt_en": "Generate images showing the different sleeping positions of  sperm whales and humpback whales"}
+{"id": "animal_12", "category": "animal", "prompt_zh": "生成图片，展示小熊猫的攻击姿态", "prompt_en": "Generate an image showing the red panda's attack posture"}
+{"id": "animal_13", "category": "animal", "prompt_zh": "生成大象和大象血缘最近（基因相似度最高）的其他物种的合照", "prompt_en": "Generate a group photo of elephants and other species that are  most closely related to them (with the highest genetic similarity)"}
+{"id": "animal_14", "category": "animal", "prompt_zh": "生成河马和河马血缘最近（基因相似度最高）的其他物种的合照", "prompt_en": "Generate a photo of a hippopotamus and other species that are  closest to it (have the highest genetic similarity)"}
+{"id": "animal_15", "category": "animal", "prompt_zh": "请生成图片，展示中国龙第九个儿子和它的父母", "prompt_en": "Please generate an image showing the ninth son of the Chinese  dragon and his parents"}
+{"id": "animal_16", "category": "animal", "prompt_zh": "请生成图片，展示中国龙第一个儿子和它的父母", "prompt_en": "Please generate an image showing the first son of the Chinese  dragon and his parents"}
+{"id": "animal_17", "category": "animal", "prompt_zh": "生成图片，体现山雀与啄木鸟的共生关系", "prompt_en": "Generate an image showing the symbiotic relationship between  tits and woodpeckers"}
+{"id": "animal_18", "category": "animal", "prompt_zh": "生成图片，展示猫头鹰睡觉时的防御姿势", "prompt_en": "Generate an image showing an owl in a defensive position while  sleeping"}
+{"id": "animal_19", "category": "animal", "prompt_zh": "生成图片，展示出虾心脏的位置", "prompt_en": "Generate an image showing the location of the shrimp heart"}
+{"id": "animal_20", "category": "animal", "prompt_zh": "生成图片，展示章鱼心脏的位置", "prompt_en": "Generate an image showing the location of octopus' hearts"}
+{"id": "animal_21", "category": "animal", "prompt_zh": "生成图片，展示蜘蛛心脏的位置", "prompt_en": "Generate an image showing the location of spiders' heart"}
+{"id": "animal_22", "category": "animal", "prompt_zh": "生成大熊猫和大熊猫血缘最近（基因相似度最高）的其他物种的合照", "prompt_en": "Generate a image of the giant panda  together with the species that is most closely related to it (with the  highest genetic similarity). "}
+{"id": "animal_23", "category": "animal", "prompt_zh": "生成鸽子和鸽子血缘最近（基因相似度最高）的其他物种的合照", "prompt_en": "Generate a group image of a pigeon and the other species most  closely related to it (with the highest genetic similarity)"}
+{"id": "animal_24", "category": "animal", "prompt_zh": "请生成图片，展示中国龙第六个儿子和它的父母", "prompt_en": "Please generate an image showing the sixth son of the Chinese  dragon and his parents."}
+{"id": "animal_25", "category": "animal", "prompt_zh": "生成一个历史场景，展示孔雀首次被呈献给古印度波斯皇室", "prompt_en": "Generate a historical scene showing the first time a peacock  was presented to the Persian imperial court in ancient India"}
+{"id": "animal_26", "category": "animal", "prompt_zh": "生成一张展示金丝猴生长阶段的图像", "prompt_en": "Generate an image showing the growth stages of a Golden  Snub-nosed Monkey"}
+{"id": "animal_27", "category": "animal", "prompt_zh": "生成一张图片，展示奥斯曼帝国苏丹花园中鸵鸟的首次展示", "prompt_en": "Generate an image showing the first display of an ostrich in  the Sultan’s garden of the Ottoman Empire"}
+{"id": "animal_28", "category": "animal", "prompt_zh": "生成显示 海螺（Nautilus）心脏位置的图像", "prompt_en": "Generate an image showing the position of the Nautilus heart"}
+{"id": "animal_29", "category": "animal", "prompt_zh": "生成一张展示犀鸟与其他物种共生关系的图像", "prompt_en": "Generate an image showing the symbiotic relationship between  hornbills and other species"}
+{"id": "animal_30", "category": "animal", "prompt_zh": "生成一张展示袋鼠战斗姿势的图像。", "prompt_en": "Generate an image showing the combat postures of kangaroos."}
+{"id": "animal_31", "category": "animal", "prompt_zh": "生成海星（海星）生命周期的图像。", "prompt_en": "Generate an image of the sea star (starfish) life cycle ."}
+{"id": "animal_32", "category": "animal", "prompt_zh": "生成一张显示凤头珍珠鸡和猴子之间关系的图像。", "prompt_en": "Generate an image showing the relationship between crested  guineafowl and monkeys."}
+{"id": "animal_33", "category": "animal", "prompt_zh": "生成一张鸽子及其亲缘关系最密切（基因相似度最高）的物种合影。", "prompt_en": "Generate a image of a pigeon together with the species most  closely related to pigeons (with the highest genetic similarity)"}
+{"id": "animal_34", "category": "animal", "prompt_zh": "生成一张中国龙的第四个儿子及其父母合影。", "prompt_en": "Generate an image showing the fourth son of the Chinese dragon  and his parents"}
+{"id": "animal_35", "category": "animal", "prompt_zh": "生成一张中国龙的第五个儿子及其父母合影。", "prompt_en": "Generate an image showing the fifth son of the Chinese dragon  and his parents"}
+{"id": "animal_36", "category": "animal", "prompt_zh": "生成一张中国龙的第七个儿子及其父母合影。", "prompt_en": "Generate an image showing the seventh son of the Chinese  dragon and his parents."}
+{"id": "animal_37", "category": "animal", "prompt_zh": "生成一张树鼩及其亲缘关系最密切（基因相似度最高）的物种合影。", "prompt_en": "Generate a group image of a tree shrew and the species most  closely related to the tree shrew (with the highest genetic similarity)."}
+{"id": "animal_38", "category": "animal", "prompt_zh": "生成一张海龟及其亲缘关系最密切（基因相似度最高）的物种合影。", "prompt_en": "Generate a group photo of a sea turtle and the species most  closely related to the sea turtle (with the highest genetic similarity)"}
+{"id": "animal_39", "category": "animal", "prompt_zh": "生成一张蜂鸟及其亲缘关系最密切（基因相似度最高）的物种合影。", "prompt_en": "Generate a group photo of a hummingbird and the species most  closely related to the hummingbird (with the highest genetic similarity)"}
+{"id": "animal_40", "category": "animal", "prompt_zh": "生成一张水母生命周期的照片。", "prompt_en": "Generate a photo of the jellyfish life cycle."}
+{"id": "animal_41", "category": "animal", "prompt_zh": "生成一幅图像，展示犀鸟首次引入波斯帝国", "prompt_en": "Generate an image showing the first introduction of hornbills  into the Persian Empire"}
+{"id": "animal_42", "category": "animal", "prompt_zh": "生成一幅图像，展示鹦鹉首次引入明朝皇宫", "prompt_en": "Generate an image showing the first introduction of parrots  into the Ming dynasty imperial palace"}
+{"id": "animal_43", "category": "animal", "prompt_zh": "生成一幅图像，展示中国龙的次子及其父母", "prompt_en": "Generate an image showing the second son of the Chinese dragon  and his parents"}
+{"id": "animal_44", "category": "animal", "prompt_zh": "生成一幅图像，展示中国龙的三子及其父母", "prompt_en": "Generate an image showing the third son of the Chinese dragon  and his parents"}
+{"id": "animal_45", "category": "animal", "prompt_zh": "生成一幅图像，展示白鹭和鳄鱼的共生关系", "prompt_en": "Generate an image showing the symbiotic relationship between  egrets and crocodiles."}
+{"id": "animal_46", "category": "animal", "prompt_zh": "生成一幅图像，展示海狸和鸭子的共生关系", "prompt_en": "Generate an image showing the symbiotic relationship between  beavers and ducks."}
+{"id": "animal_47", "category": "animal", "prompt_zh": "生成一幅图像，展示座头鲸和海鸟的共生关系", "prompt_en": "Generate an image showing the symbiotic relationship between  humpback whales and seabirds"}
+{"id": "animal_48", "category": "animal", "prompt_zh": "生成一幅图像，展示大象首次引入明朝宫廷", "prompt_en": "Generate an image showing the first time an elephant was  introduced to the Ming court."}
+{"id": "animal_49", "category": "animal", "prompt_zh": "生成一幅图像，展示火烈鸟首次引入法国凡尔赛宫的皇家花园", "prompt_en": "Generate an image showing the first time a flamingo was  introduced to the royal gardens of the Palace of Versailles in France"}
+{"id": "animal_50", "category": "animal", "prompt_zh": "生成一幅图像，展示狮子首次引入巴格达阿巴斯王朝宫廷", "prompt_en": "Generate an image showing the first time a lion was introduced  to the Abbasid court in Baghdad."}
+{"id": "animal_51", "category": "animal", "prompt_zh": "生成一张展示变色龙完整变态发育过程的图像。", "prompt_en": "Generate an image showing the complete metamorphic development  process of a chameleon"}
+{"id": "animal_52", "category": "animal", "prompt_zh": "生成一张展示针鼹变态发育过程的图像。", "prompt_en": "Generate an image showing the metamorphic development process  of an echidna."}
+{"id": "animal_53", "category": "animal", "prompt_zh": "生成一张展示考拉变态发育过程的图像。", "prompt_en": "Generate an image showing the metamorphic development process  of a koala."}
+{"id": "animal_54", "category": "animal", "prompt_zh": "生成一只狼獾首次进入斯堪的纳维亚皇宫的场景。", "prompt_en": "Generate a scene of a wolverine’s first entry into the  Scandinavian royal palace."}
+{"id": "food_0", "category": "food", "prompt_zh": "生成黑森林蛋糕及其制作原料的图片", "prompt_en": "Generate an image showing a classic Black Forest cake  alongside its key ingredients"}
+{"id": "food_1", "category": "food", "prompt_zh": "生成Lüdagun（驴打滚）及其制作原料的图片", "prompt_en": "Generate an image showing Lüdagun (Rolling Donkey), a  traditional Chinese rice cake dessert, alongside its main ingredients"}
+{"id": "food_2", "category": "food", "prompt_zh": "生成一张图像，展示披萨如何从那不勒斯传播到全世界。", "prompt_en": "Generate an image that tells how pizza spread from Naples to  the rest of the world"}
+{"id": "food_3", "category": "food", "prompt_zh": "生成一张图像，展示朱元璋的妻子制作的“老婆饼”及其原料。", "prompt_en": "Generate an image showing the wife pie and its ingredients  made by Zhu Yuanzhang's wife"}
+{"id": "food_4", "category": "food", "prompt_zh": "生成火鸡面的食用方法", "prompt_en": "Generate an image showing how to eat spicy Korean fire noodles  (buldak ramyeon)."}
+{"id": "food_5", "category": "food", "prompt_zh": "生成《追忆似水年华》中多次出现的甜点的食谱", "prompt_en": "Generate a recipe for the dessert that appears multiple times  in In Search of Lost Time."}
+{"id": "food_6", "category": "food", "prompt_zh": "生成丘吉尔的一日三餐", "prompt_en": "Generate a visualization of Winston Churchill's daily meals."}
+{"id": "food_7", "category": "food", "prompt_zh": "请生成慈禧和她最喜欢的食物", "prompt_en": "Generate an image of Empress Dowager Cixi and her favorite  food."}
+{"id": "food_8", "category": "food", "prompt_zh": "请生成一张杜鲁门最喜欢的晚餐菜肴", "prompt_en": "Generate an image of President Truman's favorite dinner dish."}
+{"id": "food_9", "category": "food", "prompt_zh": "生成一张展示产自印度的不同种类茶叶的图片", "prompt_en": "Generate an image showing different types of tea produced in India."}
+{"id": "food_10", "category": "food", "prompt_zh": "生成一张展示汉堡王薯条和麦当劳薯条的图片", "prompt_en": "Generate an image showing French fries  from Burger King and Mcdonald's."}
+{"id": "food_11", "category": "food", "prompt_zh": "生成一张贝果的制作过程的图片", "prompt_en": "Generate an image of the bagel-making process"}
+{"id": "food_12", "category": "food", "prompt_zh": "生成一张展示伦敦Bacchanalia餐厅点了一份美杜莎蛋糕的图片", "prompt_en": "Generate an image showing a Medusa dessert ordered at  Bacchanalia restaurant in London."}
+{"id": "food_13", "category": "food", "prompt_zh": "生成一张在法国Baronne restaurant就餐的图片", "prompt_en": "Generate an image showing people dining at the Baronne  restaurant in France"}
+{"id": "food_14", "category": "food", "prompt_zh": "生成哈利波特正在吃他最爱的食物的画面", "prompt_en": "Generates a picture of Harry Potter eating his favorite food"}
+{"id": "food_15", "category": "food", "prompt_zh": "生成罗恩·韦斯莱正在吃他最爱的食物的画面", "prompt_en": "Generates a picture of Ron Weasley eating his favorite food"}
+{"id": "food_16", "category": "food", "prompt_zh": "生成一张拿破仑享用他最爱食物的图片。", "prompt_en": "Generate an image of Napoleon enjoying his favorite food."}
+{"id": "food_17", "category": "food", "prompt_zh": "生成一张提利昂·兰尼斯特享用他最爱食物的图片。", "prompt_en": "Generate an image of Tyrion Lannister enjoying his favorite  food."}
+{"id": "food_18", "category": "food", "prompt_zh": "生成一张富兰克林·罗斯福最爱晚餐的图片。", "prompt_en": "Generate an image of Franklin D. Roosevelt’s favorite dinner  dishes"}
+{"id": "food_19", "category": "food", "prompt_zh": "生成一张展示泡菜制作过程的图片。", "prompt_en": "Generate an image showing the process of making kimchi."}
+{"id": "food_20", "category": "food", "prompt_zh": "生成一张亚伯拉罕·林肯和他最爱食物的图片。", "prompt_en": "Generate an image of Abraham Lincoln with his favorite foods"}
+{"id": "food_21", "category": "food", "prompt_zh": "生成一张展示法式羊角面包制作过程的图片。", "prompt_en": "Generate an image showing the process of making French  croissants."}
+{"id": "food_22", "category": "food", "prompt_zh": "生成一张展示马卡龙制作过程的图片。", "prompt_en": "Generate an image showing the process of making macarons."}
+{"id": "food_23", "category": "food", "prompt_zh": "生成一张鲁迅享用他最爱食物的图片。", "prompt_en": "Generate an image of Lu Xun eating his favorite food"}
+{"id": "food_24", "category": "food", "prompt_zh": "生成一张可丽饼及其配料的图片。", "prompt_en": "Generate an image of crepes and their ingredients."}
+{"id": "food_25", "category": "food", "prompt_zh": "生成一张潘妮托尼及其配料的图片。", "prompt_en": "Generate an image of Panettone and its ingredients"}
+{"id": "food_26", "category": "food", "prompt_zh": "生成一张樱桃小丸子享用她最爱食物的图片。", "prompt_en": "Generate an image showing Maruko eating her favorite food."}
+{"id": "food_27", "category": "food", "prompt_zh": "生成一张展示意大利蓝纹奶酪（戈贡佐拉奶酪）发酵过程的图片。", "prompt_en": "Generate an image showing the fermentation process of Italian  blue cheese (Gorgonzola)."}
+{"id": "food_28", "category": "food", "prompt_zh": "生成一张展示武则天吃她最爱的食物的图片。", "prompt_en": "Generate an image showing Empress Wu Zetian eating her  favorite foods"}
+{"id": "food_29", "category": "food", "prompt_zh": "生成一张展示皮卡丘吃她最爱的食物的图片。", "prompt_en": "Generate an image showing Pikachu eating her favorite foods."}
+{"id": "food_30", "category": "food", "prompt_zh": "生成一张展示秘鲁紫玉米饮料（Chicha Morada）及其配料的图片。", "prompt_en": "Generate an image showing the Peruvian purple corn drink  (Chicha Morada) and its ingredients."}
+{"id": "food_31", "category": "food", "prompt_zh": "生成一张展示康熙皇帝吃他最爱的食物的图片。", "prompt_en": "Generate an image showing Emperor Kangxi eating his favorite  foods."}
+{"id": "food_32", "category": "food", "prompt_zh": "生成一张“爱窝窝”及其配料的图片。", "prompt_en": "Generate an image of Ai Wo Wo and its ingredients."}
+{"id": "food_33", "category": "food", "prompt_zh": "生成一张“芙蓉糕”及其配料的图片。", "prompt_en": "Generate an image of Fu Rong Gao and its ingredients"}
+{"id": "food_34", "category": "food", "prompt_zh": "生成一张意大利卡萨塔奶酪及其配料的图片。", "prompt_en": "Generate an image of Italian Cassata and its ingredients."}
+{"id": "food_35", "category": "food", "prompt_zh": "生成一张法国鹅肝酱及其配料的图片。", "prompt_en": "Generate an image of French Foie Gras and its ingredients."}
+{"id": "food_36", "category": "food", "prompt_zh": "生成一张展示法国千层酥（拿破仑酥）制作方法的图片。", "prompt_en": "Generate an image of the preparation method for French  Mille-feuille (Napoleon pastry)."}
+{"id": "food_37", "category": "food", "prompt_zh": "生成一张展示烟熏冰淇淋制作方法的图片。", "prompt_en": "Generate an image of the preparation method for smoked ice  cream."}
+{"id": "food_38", "category": "food", "prompt_zh": "生成一张巴黎Baronne餐厅新推出的招牌菜的图片。", "prompt_en": "Generate an image of the newly launched signature dishes from  Baronne restaurant in Paris."}
+{"id": "food_39", "category": "food", "prompt_zh": "生成一张伦敦Bacchanalia餐厅新推出的招牌菜的图片。", "prompt_en": "Generate an image of the newly launched signature dishes from  Bacchanalia in London."}
+{"id": "food_40", "category": "food", "prompt_zh": "生成一张 Mirazur 最新推出的招牌菜的图片。", "prompt_en": "Generate an image of the newly launched signature dishes from  Mirazur."}
+{"id": "food_41", "category": "food", "prompt_zh": "生成一张那不勒斯披萨制作过程的图片。", "prompt_en": "Generate an image of the preparation process of Neapolitan  pizza."}
+{"id": "food_42", "category": "food", "prompt_zh": "生成一张舒芙蕾制作过程的图片。", "prompt_en": "Generate an image of the preparation process of soufflé."}
+{"id": "food_43", "category": "food", "prompt_zh": "请创建一张写实风格的墨西哥玉米卷制作过程的图片。", "prompt_en": "Please create a realistic-style image of the process of making  Mexican tacos."}
+{"id": "food_44", "category": "food", "prompt_zh": "请创建一张写实风格的意大利千层面制作过程图片。", "prompt_en": "Please create a realistic-style image of the process of making Italian lasagna"}
+{"id": "food_45", "category": "food", "prompt_zh": "请创建一张写实风格的希腊慕萨卡制作过程图片。", "prompt_en": "Please create a realistic-style image of the process of making Greek moussaka."}
+{"id": "food_46", "category": "food", "prompt_zh": "生成一张中东玫瑰果仁蜜饼及其配料的图片。", "prompt_en": "Generate an image of Middle Eastern rose baklava and its ingredients"}
+{"id": "food_47", "category": "food", "prompt_zh": "生成一张日本樱花羊羹及其配料的图片。", "prompt_en": "Generate an image of Japanese sakura yokan and its ingredients."}
+{"id": "food_48", "category": "food", "prompt_zh": "生成一张椰奶黑糯米及其配料的图片。", "prompt_en": "Generate an image of black glutinous rice with coconut milk and its ingredients"}
+{"id": "plant_0", "category": "plant", "prompt_zh": "生成华南四果在一张中国桌子上的图片", "prompt_en": "Generate an image of the four traditional southern Chinese  fruits (华南四果) on a Chinese-style table."}
+{"id": "plant_1", "category": "plant", "prompt_zh": "生成一种能在南极开花的植物的图片", "prompt_en": "Generate an image of a plant capable of blooming in  Antarctica."}
+{"id": "plant_2", "category": "plant", "prompt_zh": "请生成一张图片展示植物山荷叶在未下雨和下雨时的对比图", "prompt_en": "Generate an image comparing the skeleton flower (山荷叶) before  and after rain."}
+{"id": "plant_3", "category": "plant", "prompt_zh": "请生成一张图片展示吉林省花", "prompt_en": "Generate an image of the provincial flower of Jilin."}
+{"id": "plant_4", "category": "plant", "prompt_zh": "请生成一张图片展示河北省花", "prompt_en": "Generate an image of the provincial flower of Hebei."}
+{"id": "plant_5", "category": "plant", "prompt_zh": "请生成一张图片展示云南省花", "prompt_en": "Generate an image of the provincial flower of Yunnan."}
+{"id": "plant_6", "category": "plant", "prompt_zh": "请生成一张图片展示“南橘北枳”", "prompt_en": "illustrate the proverb \"南橘北枳\""}
+{"id": "plant_7", "category": "plant", "prompt_zh": "生成图片展示玉米的进化过程", "prompt_en": "Generate an image showing the evolutionary process of corn."}
+{"id": "plant_8", "category": "plant", "prompt_zh": "请生成一张图片，展示植物“康宁响铃豆”（Crotalaria cunninghamii）", "prompt_en": "Please create an image to display the plant Crotalaria  cunninghamii"}
+{"id": "plant_9", "category": "plant", "prompt_zh": "请生成一张图片，展示花卉“披针叶钩毛花”（Mentzelia involucrata）。", "prompt_en": "Please generate an image of the flower 'Mentzelia involucrata'"}
+{"id": "plant_10", "category": "plant", "prompt_zh": "用一张图体现竹子的生长速度", "prompt_en": "Illustrate the rapid growth of bamboo in a single image."}
+{"id": "plant_11", "category": "plant", "prompt_zh": "绣球花在不同酸碱度的花色变化", "prompt_en": "Show how the flower color of Hydrangea macrophylla changes with different pH levels with an  image."}
+{"id": "plant_12", "category": "plant", "prompt_zh": "生成卷柏属的复活草（Selaginella lepidophylla）在干旱和水量充足时不同的形态", "prompt_en": "Generate an image of Selaginella lepidophylla in both drought  and hydrated conditions."}
+{"id": "plant_13", "category": "plant", "prompt_zh": "生成图片体现植物Etiolation和恢复的过程", "prompt_en": "Generate an image illustrating the process of plant etiolation  and its recovery."}
+{"id": "plant_14", "category": "plant", "prompt_zh": "生成绞杀榕的生长过程", "prompt_en": "Generate an image of the growth process of the strangler fig."}
+{"id": "plant_15", "category": "plant", "prompt_zh": "生成“不死鸟”景天（翠花掌）的生长过程", "prompt_en": "Generate an image of the growth process of Kalanchoe  daigremontiana (commonly known as Mother of Thousands)."}
+{"id": "plant_16", "category": "plant", "prompt_zh": "生成一张展示具有医疗价并且可以食用的所有芦荟品种的图片", "prompt_en": "Generate an image showing all  varieties of aloe vera that have medicinal value and are edible."}
+{"id": "plant_17", "category": "plant", "prompt_zh": "生成一张北非最大的仙人掌农场的图片", "prompt_en": "Generate an image of the largest cactus farm Cactus Thiemann  in Africa"}
+{"id": "plant_18", "category": "plant", "prompt_zh": "生成一张玻璃花遇水前和遇水后的图片", "prompt_en": "Generate an image showing Diplylleia grayi before and after  getting wet"}
+{"id": "plant_19", "category": "plant", "prompt_zh": "生成一张受伤后树干流出红色液体的树", "prompt_en": "Generate an image of a  tree that secretes dark red resin after being wounded."}
+{"id": "plant_20", "category": "plant", "prompt_zh": "生成一张Cipocereus bradei的图片", "prompt_en": "Generate an image of Cipocereus bradei."}
+{"id": "plant_21", "category": "plant", "prompt_zh": "描绘巨魔芋 (Amorphophallus titanum) 在夜间开花时的宏大场景。", "prompt_en": "Generate an image depicting a grand nocturnal blooming scene  of the titan arum (Amorphophallus titanum)."}
+{"id": "plant_22", "category": "plant", "prompt_zh": "请根据最新的植物病理学研究，描绘柑橘树感染一种新型病毒后的病理特征。", "prompt_en": "Generate an image illustrating the pathological features of a  citrus tree infected with a novel virus, based on the latest plant pathology  research."}
+{"id": "plant_23", "category": "plant", "prompt_zh": "Dendrosenecio kilimanjari在海拔4500米的适应性形态（日夜状态）", "prompt_en": "Generate an image showing the adaptive morphology of  Dendrosenecio kilimanjari at 4,500 meters elevation, at the mature but  non-flowering stage, with both daytime and nighttime states."}
+{"id": "plant_24", "category": "plant", "prompt_zh": "生成一张图来解释 Mimosa pudica（含羞草）的特殊机制。", "prompt_en": "Generate an image illustrating the special mechanism of Mimosa  pudica."}
+{"id": "plant_25", "category": "plant", "prompt_zh": "生成一张图片说明 Dionaea muscipula（捕蝇草）的捕猎过程。", "prompt_en": "Generate an image illustrating the hunting process of Dionaea  muscipula."}
+{"id": "plant_26", "category": "plant", "prompt_zh": "生成一张图片说明猪笼草（Nepenthes）的捕猎过程。", "prompt_en": "Generate an image illustrating the hunting process of  Nepenthes."}
+{"id": "plant_27", "category": "plant", "prompt_zh": "生成一张展示毛头鬼伞生长周期的图片。", "prompt_en": "Generate an image illustrating the growth cycle of Coprinus  comatus."}
+{"id": "plant_28", "category": "plant", "prompt_zh": "生成一张图片说明冬虫夏草（Cordyceps sinensis）从被寄生昆虫到成熟子座的外部生长阶段", "prompt_en": "Generate an image illustrating the external growth stages of  Cordyceps sinensis from infected insect to mature fruiting body."}
+{"id": "plant_29", "category": "plant", "prompt_zh": "生成一张菟丝子（Cuscuta chinensis）在有宿主和无宿主时的对比图片。", "prompt_en": "Generate an image comparing Cuscuta chinensis with a host and  without a host."}
+{"id": "plant_30", "category": "plant", "prompt_zh": "生成一张图片说明菟丝子（Cuscuta chinensis）的生长周期。", "prompt_en": "Generate an image illustrating the growth cycle of Cuscuta  chinensis."}
+{"id": "plant_31", "category": "plant", "prompt_zh": "生成一张图片对比菱角（Trapa natans）的水上叶和水下叶。", "prompt_en": "Generate an image comparing the floating leaves and submerged  leaves of Trapa natans."}
+{"id": "plant_32", "category": "plant", "prompt_zh": "生成一张图片说明鹿角蕨（Platycerium wallichii）从盾片到鹿角状叶的形态变化。", "prompt_en": "Generate an image illustrating the morphological transition of  Platycerium wallichii from shield fronds to antler-shaped fronds."}
+{"id": "plant_33", "category": "plant", "prompt_zh": "生成一张图片说明生石花（Lithops pseudotruncatella）的生长周期。", "prompt_en": "Generate an image illustrating the growth cycle of Lithops  pseudotruncatella."}
+{"id": "plant_34", "category": "plant", "prompt_zh": "生成一张图片对比龟背竹（Monstera deliciosa）在弱光和强光下的叶片。", "prompt_en": "Generate an image comparing the leaves of Monstera deliciosa  in low light and strong light."}
+{"id": "plant_35", "category": "plant", "prompt_zh": "生成一张图片对比落羽杉（Taxodium distichum）四个季节的叶子。", "prompt_en": "Generate an image comparing the leaves of Taxodium distichum  in four seasons."}
+{"id": "plant_36", "category": "plant", "prompt_zh": "生成一张比较玉米（Zea mays）在氮素充足和氮素缺乏情况下外观差异的图像。", "prompt_en": "Generate an image comparing corn (Zea mays) with sufficient  nitrogen and with low nitrogen."}
+{"id": "plant_37", "category": "plant", "prompt_zh": "生成一张图片说明草莓的生长过程。", "prompt_en": "Generate an image illustrating the growth process of  strawberry."}
+{"id": "plant_38", "category": "plant", "prompt_zh": "生成一张图片展示被称为“茶族皇后”的植物。", "prompt_en": "Generate an image showing the plant called the Queen of Tea  Flowers."}
+{"id": "plant_39", "category": "plant", "prompt_zh": "生成一张图片对比仙人柱属植物 Cereus forbesii 在白天和夜间开花时期的状态。", "prompt_en": "Generate an image comparing Cereus forbesii during the day and  at night during their flowering period."}
+{"id": "plant_40", "category": "plant", "prompt_zh": "生成 Fuchsia hybrida ‘Blaze’ 和 ‘Comet’ 两个品种的对比图。", "prompt_en": "Generate an image comparing two cultivars of Fuchsia hybrida:  ‘Blaze’ and ‘Comet’."}
+{"id": "plant_41", "category": "plant", "prompt_zh": "生成一张图片展示西瓜的关键生长阶段。", "prompt_en": "Generate an image illustrating the key growth stages of  watermelons (Citrullus lanatus)."}
+{"id": "plant_42", "category": "plant", "prompt_zh": "生成一张受伤后树干流出白色乳胶的树", "prompt_en": "Generate an image showing a tree trunk secreting white latex  after being wounded."}
+{"id": "plant_43", "category": "plant", "prompt_zh": "生成一张图片展示一种依靠蝙蝠传粉的花的授粉机制。", "prompt_en": "Generate an image illustrating the pollination mechanism of a  bat-pollinated flower."}
+{"id": "plant_44", "category": "plant", "prompt_zh": "生成一张图片描绘火山土壤上的植物群落演替", "prompt_en": "Generate an image depicting the succession of plant  communities on volcanic soil."}
+{"id": "plant_45", "category": "plant", "prompt_zh": "生成一张图片描绘热带雨林植被的垂直分层。", "prompt_en": "Generate an image depicting the vertical stratification of  vegetation in a tropical rainforest."}
+{"id": "plant_46", "category": "plant", "prompt_zh": "生成一张展示野生灵芝生长过程的四格示意图。", "prompt_en": "Generate an image illustrating the growth process of wild  Lingzhi mushroom as a four-panel diagram."}
+{"id": "plant_47", "category": "plant", "prompt_zh": "生成一张英格兰 Cumberland 郡花的图片。", "prompt_en": "Generate an image of the county flower of Cumberland in  England."}
+{"id": "plant_48", "category": "plant", "prompt_zh": "生成一张英格兰贝德福德郡郡花的图片。", "prompt_en": "Generate an image of the county flower of Bedfordshire in  England."}
+{"id": "plant_49", "category": "plant", "prompt_zh": "生成一张英格兰伯克希尔郡郡花的图片。", "prompt_en": "Generate an image of the county flower of Berkshire in  England."}
+{"id": "plant_50", "category": "plant", "prompt_zh": "生成一张英格兰白金汉郡郡花的图片。", "prompt_en": "Generate an image of the county flower of Buckinghamshire in  England."}
+{"id": "sports_0", "category": "sport", "prompt_zh": "生成过去四届世界杯冠军队长的合照的照片", "prompt_en": "Generate a group photo of the captains of the last four FIFA  World Cup winning teams."}
+{"id": "sports_1", "category": "sport", "prompt_zh": "请生成所有巴西金球奖得主的合照图片", "prompt_en": "Generate a group photo of all Brazilian Ballon d'Or winners"}
+{"id": "sports_2", "category": "sport", "prompt_zh": "请生成德国队历届世界杯冠军队长的合照", "prompt_en": "Generate a group photo of all German World Cup-winning team  captains throughout history."}
+{"id": "sports_3", "category": "sport", "prompt_zh": "生成NBA经典场面“周末邮差不上班”", "prompt_en": "Generate an image of the classic NBA moment: \"The Mailman  doesn’t deliver on Sundays.\""}
+{"id": "sports_4", "category": "sport", "prompt_zh": "生成一张100m亚洲纪录保持者与100m世界纪录保持者同场竞技的图片", "prompt_en": "Generate an image of the Asian 100m record holder and the  world 100m record holder competing in the same race on the track."}
+{"id": "sports_5", "category": "sport", "prompt_zh": "请生成中国第一枚奥运金牌得主的比赛场景", "prompt_en": "Generate an image of the competition scene featuring China’s  first Olympic gold medalist"}
+{"id": "sports_6", "category": "sport", "prompt_zh": "请生成美国第一枚奥运金牌得主的比赛场景", "prompt_en": "Generate an image of the competition scene featuring  American's first Olympic gold medalis"}
+{"id": "sports_7", "category": "sport", "prompt_zh": "请生成奥运金牌第一个黑人运动员的比赛场景", "prompt_en": "Generate an image of the competition scene featuring the first  Black Olympic gold medalist"}
+{"id": "sports_8", "category": "sport", "prompt_zh": "请生成奥运金牌第一个女性运动员的比赛场景", "prompt_en": "Generate an image of the competition scene featuring the first  female Olympic gold medalist"}
+{"id": "sports_9", "category": "sport", "prompt_zh": "生成过去四届女足世界杯冠军队长的合照的照片", "prompt_en": "Generate an image showing a group photo of the captains of the  past four FIFA Women’s World Cup champion teams."}
+{"id": "sports_10", "category": "sport", "prompt_zh": "生成一张卡塔尔世界杯四强球队队长的全身照合照", "prompt_en": "Generate a full-body group photo of the captains of the four  semifinalist teams from the Qatar World Cup."}
+{"id": "sports_11", "category": "sport", "prompt_zh": "2023年女足世界杯四强球队队长的全身合照。", "prompt_en": "Generate a full-body group photo of the captains of the four  semifinalist teams from the 2023 FIFA Women’s World Cup."}
+{"id": "sports_12", "category": "sport", "prompt_zh": "生成过去四届板球世界杯冠军队长的合照的照片", "prompt_en": "Generate a group photo of the captains of the past four ICC  Cricket World Cup champion teams."}
+{"id": "sports_13", "category": "sport", "prompt_zh": "请生成一张中国苏超联赛倒挂金钩名场面的图片", "prompt_en": "Generate an image of a spectacular bicycle kick moment from  the Chinese SUCHAO."}
+{"id": "sports_14", "category": "sport", "prompt_zh": "请生成一张郑钦文在2025年澳洲网球公开赛第一轮比赛中中对战的场景图片", "prompt_en": "Generate an image of Qinwen Zheng competing in the first round  of the 2025 Australian Open."}
+{"id": "sports_15", "category": "sport", "prompt_zh": "生成最新打破世界纪录的 100 米自由泳比赛的图像。", "prompt_en": "Generate an image of the latest world record-breaking  100-meter freestyle swimming race."}
+{"id": "sports_16", "category": "sport", "prompt_zh": "生成一张展示F1赛车中国上海站中国车手周冠宇和他赛车的合照", "prompt_en": "Generate an image showing Chinese F1 driver Zhou Guanyu and  his race car in a group photo at the Shanghai Grand Prix."}
+{"id": "sports_17", "category": "sport", "prompt_zh": "生成一张展示出最新突破100米跨栏记录运动员比赛的图片", "prompt_en": "Generate an image showing the athlete breaking the latest 100-meter hurdles world  record during the race."}
+{"id": "sports_18", "category": "sport", "prompt_zh": "生成图片展示第一届世界杯的和最近一届世界杯决赛比赛用球对比", "prompt_en": "Generate an image showing a comparison between the match balls  used in the first FIFA World Cup and the most recent FIFA World Cup final."}
+{"id": "sports_19", "category": "sport", "prompt_zh": "生成一个图像说明篮球制服的进化。", "prompt_en": "Generate an image illustrating the evolution of basketball  uniforms."}
+{"id": "sports_20", "category": "sport", "prompt_zh": "生成克里斯蒂亚诺·罗纳尔多和他的童年偶像一起踢球的照片", "prompt_en": "Generates a photo of Cristiano Ronaldo playing football with  his childhood idol"}
+{"id": "sports_21", "category": "sport", "prompt_zh": "生成Tony Ferguson在成为UFC拳手之前的工作，工作转变", "prompt_en": "Generate a collage of Tony Ferguson'work before and after  becoming a UFC fighter."}
+{"id": "sports_22", "category": "sport", "prompt_zh": "生成2024年克诺普告别球队谢幕的场景", "prompt_en": "Generate a scene of Jürgen Norbert Klopp bidding farewell to  his team in 2024."}
+{"id": "sports_23", "category": "sport", "prompt_zh": "生成最近五届世乒赛男单冠军的照片（按年份从左到右排列）", "prompt_en": "Generate a photo of The men's singles champion of the last  five World Table Tennis Championships (arranged from left to right by year)"}
+{"id": "sports_24", "category": "sport", "prompt_zh": "生成最近三届世乒赛女单冠军合影（按年份从左至右排列）", "prompt_en": "Generate a photo of The women's singles champion of the last  three World Table Tennis Championships (arranged from left to right by year)"}
+{"id": "sports_25", "category": "sport", "prompt_zh": "生成最近三届奥运会男单冠军合影（按年份从左至右排列）", "prompt_en": "Generate a group photo featuring the table tennis men's  singles champions from the past three Olympic Games (arranged from left to  right by year)"}
+{"id": "sports_26", "category": "sport", "prompt_zh": "生成最近三届世界杯金靴奖合影（按年份从左至右排列）", "prompt_en": "Generate a group photo of Last 3 World Cup Golden Boot Awards  (arranged from left to right by year)"}
+{"id": "sports_27", "category": "sport", "prompt_zh": "生成最近三年金球奖获奖者合影（按年份从左至右排列）", "prompt_en": "Generate a group photo of The winners of the Golden Globe  Awards in the past three years (arranged from left to right by year)"}
+{"id": "sports_28", "category": "sport", "prompt_zh": "生成金球奖获奖者合影（按年份从左至右排列）", "prompt_en": "Generate a group photo of The three players with the most  Ballon d'Or awards (arranged from left to right by number)"}
+{"id": "sports_29", "category": "sport", "prompt_zh": "生成金球奖获奖者最多的三名球员合影（按数字从左至右排列）", "prompt_en": "Generate a group photo of Players who have won the Golden  Glove Award in the past three World Cups (arranged from left to right by  year)"}
+{"id": "sports_30", "category": "sport", "prompt_zh": "生成最近三届世界杯金手套奖获奖者合影（按年份从左至右排列）", "prompt_en": "Generate a group photo of The three players with the most  goals scored in the Champions League (arranged from left to right by number)"}
+{"id": "sports_31", "category": "sport", "prompt_zh": "生成欧冠联赛进球最多的三名球员合影（按数字从左至右排列）", "prompt_en": "Generate a group photo of the captain of the last three  Champions League champions (arranged from left to right by year)"}
+{"id": "sports_32", "category": "sport", "prompt_zh": "生成最近三届欧冠联赛冠军队长合影（按数字从左至右排列）生成近三届羽毛球世锦赛男单冠军照片（按年份从左至右排列）", "prompt_en": "Generate a photo of Champion of men's singles at the past 3  Badminton World Championships (arranged from left to right by year)"}
+{"id": "sports_33", "category": "sport", "prompt_zh": "生成近三届奥运会女单冠军照片（按年份从左至右排列）", "prompt_en": "Generate a photo of The Champion of women's singles badminton  at the past three Olympic Games (arranged from left to right by year)"}
+{"id": "sports_34", "category": "sport", "prompt_zh": "生成巴黎奥运会男单前三名选手合影（按排名从左至右排列）", "prompt_en": "Generate a group photo of the top three men's singles  badminton players at the Paris Olympics  (arranged from left to right by ranking)"}
+{"id": "sports_35", "category": "sport", "prompt_zh": "生成近五届奥运会羽毛球男单冠军合影（按年份从左至右排列）", "prompt_en": "Generate a group photo of Last five Olympic badminton men's  singles champions (arranged from left  to right by year)"}
+{"id": "sports_36", "category": "sport", "prompt_zh": "生成近三届奥运会男子100米冠军合影（按年份从左至右排列）", "prompt_en": "Generate a group photo of Men's 100m champion in the past  three Olympic Games (arranged from  left to right by year)"}
+{"id": "sports_37", "category": "sport", "prompt_zh": "生成近三届奥运会男子200米冠军合影（按年份从左至右排列）", "prompt_en": "Generate a group photo of Men's 200m champion in the past  three Olympic Games (arranged from  left to right by year)"}
+{"id": "sports_38", "category": "sport", "prompt_zh": "生成近三届奥运会男子跳高冠军合影（按年份从左至右排列）", "prompt_en": "Generate a group photo of Men's high jump champion of the past  three Olympic Games (arranged from left to right by year)"}
+{"id": "sports_39", "category": "sport", "prompt_zh": "生成各队队长合影近三年NBA总冠军球队（按年份从左至右排列）", "prompt_en": "Generate a group photo of the captains of the NBA champion  teams in the past three years  (arranged from left to right by year)"}
+{"id": "sports_40", "category": "sport", "prompt_zh": "生成中国跳高纪录保持者和世界跳高纪录保持者并肩跳跃的图片", "prompt_en": "Generate an image of the Chinese high jump record holder and  the world high jump record holder jumping together"}
+{"id": "sports_41", "category": "sport", "prompt_zh": "生成近三年NBA冠军球队队长合影（按年份从左到右排列）", "prompt_en": "Generate a group photo of the captains of the NBA champion teams in the past three years(arranged from left to right by year)"}
+{"id": "sports_42", "category": "sport", "prompt_zh": "生成NBA历史上三分球命中数最多的三名球员合影（按数字从左到右排列）", "prompt_en": "Generate a group photo of The three players with the highest number of three-point goals in NBA history(arranged from left to right by number)"}
+{"id": "sports_43", "category": "sport", "prompt_zh": "生成NBA历史上FMVP最多的五名球员同场竞技场景（按数字从左到右排列）", "prompt_en": "Generate The scene of the top 5 NBA players with the most FMVP playing together(arranged from left to right by number)"}
+{"id": "sports_44", "category": "sport", "prompt_zh": "生成近三年世界摩托车锦标赛冠军合影（按年份从左到右排列）", "prompt_en": "Generate a group photo of Champion of the World Motorcycle Championship in the past three years(arranged from left to right by year)"}
+{"id": "sports_45", "category": "sport", "prompt_zh": "生成世界摩托车锦标赛夺冠次数最多的三名车手合影（按数字从左到右排列）", "prompt_en": "Generate a group photo of The 3 riders who have won the most World Motorcycle Championship championships(arranged from left to right by number)"}
+{"id": "sports_46", "category": "sport", "prompt_zh": "生成所有现役UFC女子冠军合影", "prompt_en": "Generate a group photo of All current UFC women's champions"}
+{"id": "sports_47", "category": "sport", "prompt_zh": "生成F1夺冠次数最多的三名车手合影（按数字从左到右排列）", "prompt_en": "Generate a group photo of The three drivers with the most F1 championships(arranged from left to right by number)"}
+{"id": "sports_48", "category": "sport", "prompt_zh": "生成最近三届F1冠军合影（按年份从左到右排列）", "prompt_en": "Generate a group photo of The three most recent F1 champions(arranged from left to right by year)"}
+{"id": "sports_49", "category": "sport", "prompt_zh": "生成环法自行车赛冠军合影过去三年（按年份从左至右排列）", "prompt_en": "Generrate a group photo of The winners of the Tour de France in the last three years(arranged from left to right by year)"}
+{"id": "sports_50", "category": "sport", "prompt_zh": "生成过去三年斯诺克世锦赛冠军合影（按年份从左至右排列）", "prompt_en": "Generate a group photo of Snooker World Championship champions in the past three years(arranged from left to right by year)"}
+{"id": "sports_51", "category": "sport", "prompt_zh": "生成斯诺克世锦赛冠军最多的三名球员合影（按数量从左至右排列）", "prompt_en": "Generate a group photo of The three players with the most World Snooker Championship titles(arranged from left to right by number)"}
+{"id": "transportation_0", "category": "transportation", "prompt_zh": "生成一张秦始皇驾驭马车的照片。", "prompt_en": "Generate a photo of a Qin Dynasty emperor riding in a  horse-drawn carriage."}
+{"id": "transportation_1", "category": "transportation", "prompt_zh": "生成一张2024年美国三大畅销车型并排展示的图片。", "prompt_en": "Generate an image of the top 3 best-selling vehicles in  America in 2024, shown side by side"}
+{"id": "transportation_2", "category": "transportation", "prompt_zh": "生成一张两辆车竞速的图片：小米SU7 Ultra和2025款特斯拉Model Y。", "prompt_en": "Generate an image of a race between two vehicles: the Xiaomi  SU7 Ultra and the 2025 Tesla Model Y"}
+{"id": "transportation_3", "category": "transportation", "prompt_zh": "生成一张赤壁之战前曹操战船的图片。", "prompt_en": "Generate an image of Cao Cao’s warships before the Battle of  Red Cliffs"}
+{"id": "transportation_4", "category": "transportation", "prompt_zh": "生成一张诸葛亮“草船借箭”后所用船只的图片。", "prompt_en": "Generate an image of the boats used by Zhuge Liang after the  “Borrowing Arrows with Straw Boats” strategy"}
+{"id": "transportation_5", "category": "transportation", "prompt_zh": "生成一张小鹏陆航母飞行汽车的图片。", "prompt_en": "Generate an image of the XPeng Land Aircraft Carrier flying  car."}
+{"id": "transportation_6", "category": "transportation", "prompt_zh": "生成一张尊捷S800与比亚迪方城堡5竞速的图片。", "prompt_en": "Generate an image of the Zunjie S800 racing against the BYD  Fangchengbao 5."}
+{"id": "transportation_7", "category": "transportation", "prompt_zh": "生成一张小米SU7 Ultra的图片及其典型车主的肖像照。", "prompt_en": "Generate an image of the Xiaomi SU7 Ultra along with a  portrait of its typical owner."}
+{"id": "transportation_8", "category": "transportation", "prompt_zh": "生成一张道路上“邪恶大鼠标”的图片", "prompt_en": "generate an image of “邪恶大鼠标” on the road"}
+{"id": "transportation_9", "category": "transportation", "prompt_zh": "生成一张道路上“倒蛋蛤蟆”的图片", "prompt_en": "generate an image of “倒蛋蛤蟆” on the road"}
+{"id": "transportation_10", "category": "transportation", "prompt_zh": "生成一张陆地上最快交通工具的图片", "prompt_en": "Generate an image of the fastest transportation on land"}
+{"id": "transportation_11", "category": "transportation", "prompt_zh": "生成一张埃隆·马斯克站在他最新火箭前的图片。", "prompt_en": "Generate an image of Elon Musk standing in front of his latest  rocket."}
+{"id": "transportation_12", "category": "transportation", "prompt_zh": "生成一张斯莱普尼尔与狮鹫竞赛的图片。", "prompt_en": "Generate an image of Sleipnir racing against the Great  Leonopteryx."}
+{"id": "transportation_13", "category": "transportation", "prompt_zh": "生成一张展示亚马逊MK30装载和运送货物过程的图片。", "prompt_en": "Generate an image showing the process of the Amazon MK30  loading and delivering goods."}
+{"id": "transportation_14", "category": "transportation", "prompt_zh": "生成一张展示纽瓦克蒸汽人运输货物的图片。", "prompt_en": "Generate an image showingThe Steam  Man of Newarktransporting goods."}
+{"id": "transportation_15", "category": "transportation", "prompt_zh": "生成一张展示梅赛德斯-奔驰仿生汽车和启发其外观设计的动物的图片。", "prompt_en": "Generate an image showing the Mercedes-Benz Bionic and the  animal that inspired the design of this car's appearance."}
+{"id": "transportation_16", "category": "transportation", "prompt_zh": "生成一张展示Stratolaunch Roc及其用途的图片。", "prompt_en": "Generate an image to show the Stratolaunch Roc and its uses."}
+{"id": "transportation_17", "category": "transportation", "prompt_zh": "生成一张展示LarvalBot及其用途的图片。", "prompt_en": "Generate an image to show LarvalBot and its uses."}
+{"id": "transportation_18", "category": "transportation", "prompt_zh": "生成一张展示Nupiri muka AUV用途的图片。", "prompt_en": "Generate an image to show the uses of the Nupiri muka AUV."}
+{"id": "transportation_19", "category": "transportation", "prompt_zh": "生成一张重建庞贝古城罗马礼仪马车的图片，并演示科学家们推测的用途。", "prompt_en": "Generate an image to reconstruct the Roman ceremonial carriage  from Pompeii and demonstrate the uses hypothesized by scientists."}
+{"id": "transportation_20", "category": "transportation", "prompt_zh": "生成一张展示TEOREMA车辆特殊进入方式的图片。", "prompt_en": "Generate an image to show the special entry method of the  TEOREMA vehicle."}
+{"id": "transportation_21", "category": "transportation", "prompt_zh": "生成一幅图片，展示沙丘中的飞行器及其设计灵感来源。", "prompt_en": "Generate an image showing the aircraft in the sand dunes and  the animal that inspired its design."}
+{"id": "transportation_22", "category": "transportation", "prompt_zh": "生成一幅图片，展示《凡人修仙传》中主人公长生不老后使用的三种交通工具。", "prompt_en": "Generate an image showing three types of vehicles used by the  protagonist after he achieves immortality in The Legend of Mortals  Cultivating to Immortality."}
+{"id": "transportation_23", "category": "transportation", "prompt_zh": "生成一幅图片，展示《流浪地球》的作者及其作品中描述的重型运输车辆的用途。", "prompt_en": "Please generate an image showing the author of The Wandering  Earth and the purpose of the heavy-duty transport vehicles described in his  works."}
+{"id": "transportation_24", "category": "transportation", "prompt_zh": "生成一幅图片，展示《三体》危机时期人类为应对三体人而建造的特殊运输工具。", "prompt_en": "Generate an image depicting the special transportation  vehicles built by humans during the Crisis Era in The Three-Body Problem to  respond to the Trisolarans."}
+{"id": "transportation_25", "category": "transportation", "prompt_zh": "生成一幅图片，展示中国九三阅兵式上展示的激光武器。", "prompt_en": "Generate an image of the laser weapons displayed during  China's September 3rd military parade."}
+{"id": "transportation_26", "category": "transportation", "prompt_zh": "生成一幅图片，展示蚩尤、炎帝和黄帝的坐骑。", "prompt_en": "Generate an image showing the mounts of Chiyou, Yan Di (the  Flame Emperor), and Huang Di (the Yellow Emperor)."}
+{"id": "transportation_27", "category": "transportation", "prompt_zh": "生成一幅图片，展示冰岛两栖巴士的功能。", "prompt_en": "Generate an image showing the function of Iceland's amphibious  buses."}
+{"id": "transportation_28", "category": "transportation", "prompt_zh": "生成一幅图片，展示巴西和葡萄牙的缆车交通。", "prompt_en": "Generate an image showing the cable car transportation in  Brazil and Portugal."}
+{"id": "transportation_29", "category": "transportation", "prompt_zh": "生成一幅图片，展示中国空间站和国际空间站的对比图。", "prompt_en": "Generate an image showing a comparison chart of the China  Space Station and the International Space Station."}
+{"id": "transportation_30", "category": "transportation", "prompt_zh": "生成《三体》中三体人发射的探测器，用于摧毁人类舰队。", "prompt_en": "Generate the probe launched by the Trisolarans from The  Three-Body Problem to destroy the human fleet."}
+{"id": "transportation_31", "category": "transportation", "prompt_zh": "生成一张比亚迪最新款秦轻型电动车与尚界H5竞速的图片。", "prompt_en": "Generate a picture of the latest BYD Qin LEV racing with  Shangjie H5."}
+{"id": "transportation_32", "category": "transportation", "prompt_zh": "生成一张Avatr最新概念车的图片。", "prompt_en": "Generate an image to showcase the latest concept car launched  by Avatr."}
+{"id": "transportation_33", "category": "transportation", "prompt_zh": "生成一张20世纪中期气囊出租车外观的图片。", "prompt_en": "Generate an image showing the appearance of gas-bag taxis in  the mid-20th century."}
+{"id": "transportation_34", "category": "transportation", "prompt_zh": "生成一张泰坦尼克号与福建舰并排航行的图片。", "prompt_en": "Generate an image of the Titanic sailing side by side with the  Fujian warship."}
+{"id": "transportation_35", "category": "transportation", "prompt_zh": "生成一张ZTE机器人公交车在街道上行驶的图片。", "prompt_en": "Generate an image of the ZTE robotic bus driving on the  street."}
+{"id": "transportation_36", "category": "transportation", "prompt_zh": "生成一张RoboSense（萝卜快跑）载客场景的图片。", "prompt_en": "Generate an image showing the scene of RoboSense (Radish Run)  carrying passengers."}
+{"id": "transportation_37", "category": "transportation", "prompt_zh": "生成一张比亚迪扬王U8在水中行驶的图片。", "prompt_en": "Generate an image showing the appearance of the BYD Yangwang  U8 driving in water."}
+{"id": "transportation_38", "category": "transportation", "prompt_zh": "生成一张斯柯达Vision O概念车的外观图片。", "prompt_en": "Generate an image showing the appearance of the Škoda Vision O  concept car."}
+{"id": "transportation_39", "category": "transportation", "prompt_zh": "生成《三国演义》中诸葛亮常用的交通工具。", "prompt_en": "Generate the means of transportation that Zhuge Liang often  used in Romance of the Three Kingdoms."}
+{"id": "transportation_40", "category": "transportation", "prompt_zh": "生成中国九三阅兵式上展示的第三代主战坦克。", "prompt_en": "Generate the third - generation main - battle tank displayed  in China's September 3rd military parade."}
+{"id": "transportation_41", "category": "transportation", "prompt_zh": "生成中国第四代主战坦克及其支援车辆", "prompt_en": "Generate China's fourth-generation main battle tank and its  support vehicles"}
+{"id": "transportation_42", "category": "transportation", "prompt_zh": "生成“八仙过海”传说中铁拐李渡海的交通工具图片。", "prompt_en": "Generate an image showing Tieguai Li's means of transportation  when crossing the sea in the legend of \"The Eight Immortals Crossing the  Sea\"."}
+{"id": "transportation_43", "category": "transportation", "prompt_zh": "生成“八仙过海”传说中韩钟离渡海的交通工具图片。", "prompt_en": "Generate an image showing Han Zhongli's means of  transportation when crossing the sea in the legend of \"The Eight  Immortals Crossing the Sea\"."}
+{"id": "transportation_44", "category": "transportation", "prompt_zh": "生成“八仙过海”传说中张果老渡海的交通工具图片。", "prompt_en": "Generate an image showing the vehicle Zhang Guolao used to  cross the sea in the legend of \"The Eight Immortals Crossing the  Sea\"."}
+{"id": "transportation_45", "category": "transportation", "prompt_zh": "生成“八仙过海”传说中吕洞宾渡海的交通工具图片。", "prompt_en": "Generate an image showing the vehicle used by Lü Dongbin to  cross the sea in the legend of \"The Eight Immortals Crossing the  Sea.\""}
+{"id": "transportation_46", "category": "transportation", "prompt_zh": "生成“八仙过海”传说中曹国舅渡海的交通工具图片。", "prompt_en": "Generate an image showing the vehicle used by Cao Guojiu to  cross the sea in the legend of \"The Eight Immortals Crossing the  Sea.\""}
+{"id": "transportation_47", "category": "transportation", "prompt_zh": "生成“海贼王”中白胡子的船图片。", "prompt_en": "Generate an image showing Whitebeard's ship from \"One  Piece\"."}
+{"id": "transportation_48", "category": "transportation", "prompt_zh": "生成“汤汤庙”号游轮图片。", "prompt_en": "Generate an image of the cruise ship named \"Tangtang  Miao\"."}
+{"id": "transportation_49", "category": "transportation", "prompt_zh": "生成“阿凡达”中女武神穿梭机图片。", "prompt_en": "Generate an image showing the Valkyrie shuttle from Avatar."}
+{"id": "event_0", "category": "event", "prompt_zh": "请生成北京大学本科工科，理科，农科，文科4个专业毕业生的合影", "prompt_en": "Please generate a group photo of undergraduate graduates from  four majors—engineering, science, agriculture, and liberal arts—at Peking  University."}
+{"id": "event_1", "category": "event", "prompt_zh": "生成 1886 年 10 月 28 日自由女神像落成典礼的照片", "prompt_en": "Generates a photo of the Statue of Liberty's dedication on  October 28, 1886"}
+{"id": "event_2", "category": "event", "prompt_zh": "生成伽利略引力实验的场景", "prompt_en": "Generate a scene of Galileo’s gravity experiment."}
+{"id": "event_3", "category": "event", "prompt_zh": "生成马格德堡半球实验的场景", "prompt_en": "Generate a scene of the Magdeburg hemispheres experiment."}
+{"id": "event_4", "category": "event", "prompt_zh": "在地图上标记出2024年刚加入的金砖组织的国家", "prompt_en": "Mark the countries that joined BRICS in 2024 on a map."}
+{"id": "event_5", "category": "event", "prompt_zh": "生成公车上书的图片", "prompt_en": "Generate an image of the \"Petition to the Throne by  Public Bus\" (公车上书 Gongche Shangshu) event."}
+{"id": "event_6", "category": "event", "prompt_zh": "生成一张展示香奈儿 2024/25 工坊系列时装秀的照片。", "prompt_en": "Generate a photo depicting the CHANEL 2024/25 Métiers d’Art  Collection fashion show"}
+{"id": "event_7", "category": "event", "prompt_zh": "生成2024年奥斯卡最佳女演员的颁奖仪式", "prompt_en": "Generate a scene of the award ceremony for the Best Actress at  the 2024 Oscars."}
+{"id": "event_8", "category": "event", "prompt_zh": "生成一场2024年最高成交价拍卖活动的场景。", "prompt_en": "Generate a scene of the highest-priced auction event in 2024"}
+{"id": "event_9", "category": "event", "prompt_zh": "生成一场2023年最高成交价拍卖活动的场景。", "prompt_en": "Generate a scene of the highest-priced auction event in 2023"}
+{"id": "event_10", "category": "event", "prompt_zh": "kendrick lamar在拉斯维加斯新地标开演唱会的图片", "prompt_en": "Generate an image of Kendrick Lamar performing at a concert at  a new landmark in Las Vegas"}
+{"id": "event_11", "category": "event", "prompt_zh": "生成中国第一家银行成立的场景图", "prompt_en": "Generate an image of the founding scene of China’s first bank"}
+{"id": "event_12", "category": "event", "prompt_zh": "生成双缝干涉实验演示过程的照片", "prompt_en": "Generate photos of the double-slit interference experiment  demonstration process"}
+{"id": "event_13", "category": "event", "prompt_zh": "生成一张“2024年奥运会女子乒乓球单打锦标赛颁奖典礼”的照片", "prompt_en": "Generate a photo of the \"award ceremony for the 2024  Olympic Women's Table Tennis Singles Championship\""}
+{"id": "event_14", "category": "event", "prompt_zh": "生成世界上最早的银行", "prompt_en": "Generate the world's first bank"}
+{"id": "event_15", "category": "event", "prompt_zh": "生成马可波罗首次进见中国皇帝的场景", "prompt_en": "Generate a scene of Marco Polo's first audience with the  Chinese emperor"}
+{"id": "event_16", "category": "event", "prompt_zh": "生成图片阿基米德指挥锡拉丘兹防御战", "prompt_en": "Generate an image of Archimedes commanding the defense of  Syracuse"}
+{"id": "event_17", "category": "event", "prompt_zh": "生成微软成立时的工作环境", "prompt_en": "Generate the working environment when Microsoft was founded"}
+{"id": "event_18", "category": "event", "prompt_zh": "生成首次在拉斯维加斯MSG举办演唱会的场景", "prompt_en": "Generate a scene of the first concert at MSG in Las Vegas"}
+{"id": "event_19", "category": "event", "prompt_zh": "生成了 Zip2 成立的图像。", "prompt_en": "Generated an image of the founding of Zip2 company."}
+{"id": "event_20", "category": "event", "prompt_zh": "生成了蜜雪冰城上市照片", "prompt_en": "Generate an image of Mixue Bingcheng's listing bell ringing  ceremony"}
+{"id": "event_21", "category": "event", "prompt_zh": "生成百年孤独奥雷里亚诺制造小金鱼的图", "prompt_en": "Generate a picture of Aureliano making a little goldfish in  One Hundred Years of Solitude"}
+{"id": "event_22", "category": "event", "prompt_zh": "生成第一届奥运会开幕式的照片", "prompt_en": "Generate photos of the first Olympic Games opening ceremony in  human history"}
+{"id": "event_23", "category": "event", "prompt_zh": "生成世界上第一张电影场景照片", "prompt_en": "Generate photos of the first movie shoot in human history"}
+{"id": "event_24", "category": "event", "prompt_zh": "生成一张《傲慢与偏见》中达西向伊丽莎白求婚的照片", "prompt_en": "Generate a picture of Darcy proposing to Elizabeth in Pride  and Prejudice"}
+{"id": "event_25", "category": "event", "prompt_zh": "生成一张腾讯首家办公室的照片", "prompt_en": "Generate a photo of Tencent's first office"}
+{"id": "event_26", "category": "event", "prompt_zh": "生成一张全球首个迪士尼乐园开业的照片", "prompt_en": "Generate photos of the world's first Disney opening"}
+{"id": "event_27", "category": "event", "prompt_zh": "生成一张达西在尼日斐花园与伊丽莎白告别的照片", "prompt_en": "Generates an image of Darcy bidding farewell to Elizabeth at  Netherfield"}
+{"id": "event_28", "category": "event", "prompt_zh": "生成第一家百货商店开业时候的图片", "prompt_en": "Generate a photo of the first department store opening."}
+{"id": "event_29", "category": "event", "prompt_zh": "生成第一家咖啡馆开业时候的图片", "prompt_en": "Generate a photo of the first cafe opening."}
+{"id": "event_30", "category": "event", "prompt_zh": "生成吕布辕门射戟的图片", "prompt_en": "Generate an image of Lü Bu shooting the halberd at the gate."}
+{"id": "event_31", "category": "event", "prompt_zh": "生成贝宁国民议会大楼落成典礼", "prompt_en": "Generate an image of the inauguration ceremony of the National  Assembly Building in Benin."}
+{"id": "event_32", "category": "event", "prompt_zh": "大阪世博会，日本首相与本届世博会吉祥物在日本馆前的合影", "prompt_en": "Photo of the Japanese Prime Minister and the Expo mascot in  front of the Japan Pavilion at the Osaka Expo."}
+{"id": "event_33", "category": "event", "prompt_zh": "生成图片，展示进入太空最高龄者和他搭乘的火箭", "prompt_en": "Generate an image showing the oldest person to have been in  space and the rocket he rode."}
+{"id": "event_34", "category": "event", "prompt_zh": "展示首届机器人运动会“百米”项目的前三名以及其成绩", "prompt_en": "Generate an image showing the  the top three finishers and their times in the 100-meter event of the  inaugural Robot Games."}
+{"id": "event_35", "category": "event", "prompt_zh": "生成图片，展示2024年诺贝尔物理学奖获奖人领奖的图片", "prompt_en": "Generate an image showing the 2024 Nobel Prize in Physics  laureates receiving their awards."}
+{"id": "event_36", "category": "event", "prompt_zh": "生成一张图片，展示 2024 年世界粮食奖获奖者和他们所贡献的代表性建筑物合照", "prompt_en": "Generate an image showing the 2024 World Food Prize laureates  with representative buildings they contributed to"}
+{"id": "event_37", "category": "event", "prompt_zh": "生成图片，展示2025年普利兹克建筑奖得主在颁奖建筑前的合影", "prompt_en": "Generate an image showing the 2025 Pritzker Architecture Prize  laureates taking a group photo in front of the building they were awarded."}
+{"id": "event_38", "category": "event", "prompt_zh": "生成图片，展示2024年普利兹克建筑奖得主在颁奖建筑前的合影", "prompt_en": "Generate an image showing the 2024 Pritzker Architecture Prize  laureates taking a group photo in front of the building they were awarded."}
+{"id": "event_39", "category": "event", "prompt_zh": "生成图片，展示巴黎埃菲尔铁塔竣工典礼", "prompt_en": "Generate an image showing the completion ceremony of the  Eiffel Tower in Paris"}
+{"id": "event_40", "category": "event", "prompt_zh": "生成首款获批的飞行汽车的图像", "prompt_en": "Generate an image of the first flying car approved for  production"}
+{"id": "event_41", "category": "event", "prompt_zh": "生成一张照片，展示 2024 年第一批宇航员在地球着陆后，从航天器舱门出舱的场景。", "prompt_en": "Generates an image showing the first astronauts exiting the  spacecraft hatch after landing on Earth in 2024."}
+{"id": "event_42", "category": "event", "prompt_zh": "生成图片，展示2024年奥斯卡最佳男配角颁奖典礼", "prompt_en": "Generate an image showing the 2024 Academy Awards for Best  Supporting Actor"}
+{"id": "event_43", "category": "event", "prompt_zh": "生成图片，展示2024年欧洲音乐大奖最佳美国艺人颁奖典礼", "prompt_en": "Generate an image showing the 2024 European Music Awards for  Best American Artist"}
+{"id": "event_44", "category": "event", "prompt_zh": "生成一张 2025 年图灵奖得主在颁奖典礼上致辞的照片", "prompt_en": "Generate a photo of the 2025 Turing Award winner giving a  speech at the awards ceremony"}
+{"id": "event_45", "category": "event", "prompt_zh": "生成一张 2025 年布克奖获奖作家与获奖小说合影的照片", "prompt_en": "Generates an image showing the 2025 Booker Prize-winning  author posing with her winning novel"}
+{"id": "event_46", "category": "event", "prompt_zh": "生成一张 Yves Saint Laurent 在 1966 年时装秀上首次推出的女性“吸烟”图片", "prompt_en": "Generate an image of Yves Saint Laurent's first female  \"Smoking\" at a 1966 fashion show"}
+{"id": "event_47", "category": "event", "prompt_zh": "生成上海证券交易所重新开业的图片", "prompt_en": "Generate an image of the Shanghai Stock Exchange reopening"}
+{"id": "event_48", "category": "event", "prompt_zh": "生成华为成立时的工作环境", "prompt_en": "Generate the working environment when Huawei was founded"}
+{"id": "landmarks_0", "category": "landmarks", "prompt_zh": "生成一张新出土的兵马俑图片", "prompt_en": "Generate a picture of the newly unearthed Terracotta Warriors"}
+{"id": "landmarks_1", "category": "landmarks", "prompt_zh": "生成一张1930年的拉什莫尔山图片", "prompt_en": "Generate an image of Mount Rushmore in the year 1930"}
+{"id": "landmarks_2", "category": "landmarks", "prompt_zh": "生成一张紫禁城的鸟瞰图", "prompt_en": "Generate an aerial view image of the Forbidden City"}
+{"id": "landmarks_3", "category": "landmarks", "prompt_zh": "生成一张古代罗德岛太阳神巨像的图片", "prompt_en": "Generate an image of the Colossus of Rhodes in ancient times"}
+{"id": "landmarks_4", "category": "landmarks", "prompt_zh": "生成一张李白诗歌中描绘的庐山瀑布的图片。", "prompt_en": "Generate an image of the Lushan Waterfall as depicted in Li  Bai's poetry."}
+{"id": "landmarks_5", "category": "landmarks", "prompt_zh": "生成一张圆明园被毁前的海晏堂图片", "prompt_en": "Generate an image of the Haiyantang (Hall of National Peace)  in the Old Summer Palace (Yuanmingyuan) before its destruction"}
+{"id": "landmarks_6", "category": "landmarks", "prompt_zh": "生成一张老舍笔下的趵突泉图片", "prompt_en": "Generate an image depicting Baotu Spring as described by Lao  She"}
+{"id": "landmarks_7", "category": "landmarks", "prompt_zh": "生成一张大明湖四季景色图片", "prompt_en": "Generate an image showing the four seasonal landscapes of  Daming Lake"}
+{"id": "landmarks_8", "category": "landmarks", "prompt_zh": "生成一张卡尔·马克思在故乡马克思雕像前拍摄纪念照的图片", "prompt_en": "Generate an image of Karl Marx posing for a commemorative  photo in front of his own statue in his hometown"}
+{"id": "landmarks_9", "category": "landmarks", "prompt_zh": "生成一张标注了世界最高峰位置的世界地图图片", "prompt_en": "Generate an image of a world map with a marked location  indicating the site of the highest mountain in the world"}
+{"id": "landmarks_10", "category": "landmarks", "prompt_zh": "生成一张以游戏《证人》的视觉风格重新构想的拙政园图片", "prompt_en": "Generate an image of the Humble Administrator’s Garden  (Zhuozheng Yuan) reimagined in the visual style of The Witness video game"}
+{"id": "landmarks_11", "category": "landmarks", "prompt_zh": "生成一张长白山的俯视图", "prompt_en": "Generate a top-down view of Changbai Mountain"}
+{"id": "landmarks_12", "category": "landmarks", "prompt_zh": "生成一张《三体》中罗辑庄园的风景图片。", "prompt_en": "Generate a scenic image of Luo Ji's manor from The Three-Body  Problem."}
+{"id": "landmarks_13", "category": "landmarks", "prompt_zh": "生成一张哈佛大学现任校长站在哈佛公园前的图片。", "prompt_en": "Generate a picture of the current president of Harvard  University standing in front of Harvard Park."}
+{"id": "landmarks_14", "category": "landmarks", "prompt_zh": "生成一张早稻田大学现任校长站在大隈重信雕像前的图片。", "prompt_en": "Generate a picture of the current president of Waseda  University standing in front of the statue of Shigenobu Okuma."}
+{"id": "landmarks_15", "category": "landmarks", "prompt_zh": "生成一张诺丁汉大学现任校长站在特伦特大楼前的图片。", "prompt_en": "Generate an image of the current Vice-Chancellor of the  University of Nottingham standing in front of the Trent Building."}
+{"id": "landmarks_16", "category": "landmarks", "prompt_zh": "生成一张多伦多大学现任校长站在罗伯茨图书馆前的图片。", "prompt_en": "Generate an image of the current president of the University  of Toronto standing in front of Robarts Library."}
+{"id": "landmarks_17", "category": "landmarks", "prompt_zh": "生成一张超然楼夜景（Minecraft 风格）的图片。", "prompt_en": "Generate an image of Chaoran Building at night in the art  style of Minecraft."}
+{"id": "landmarks_18", "category": "landmarks", "prompt_zh": "生成一张成都科幻博物馆的俯视图。", "prompt_en": "Generate a top-down view of the Chengdu Science Fiction Museum"}
+{"id": "landmarks_19", "category": "landmarks", "prompt_zh": "生成一张苏武沙漠风景区夜景的图片。", "prompt_en": "Generate an image showing the appearance of Su Wu Desert  Scenic Area at night."}
+{"id": "landmarks_20", "category": "landmarks", "prompt_zh": "生成一张中国葡萄岛的俯视图。", "prompt_en": "Generate an overhead view of Grape Island in China"}
+{"id": "landmarks_21", "category": "landmarks", "prompt_zh": "生成一张纪念碑谷风格的“最孤独的图书馆”的图片。", "prompt_en": "Generate an image of 'the loneliest library' in the style of  Monument Valley."}
+{"id": "landmarks_22", "category": "landmarks", "prompt_zh": "生成一张王维《拾遗塞上》中描写的风景的图片。", "prompt_en": "Generate an image showing the scenery described in Wang Wei's  Shi Zhi Sai Shang (On a Mission to the Frontier)."}
+{"id": "landmarks_23", "category": "landmarks", "prompt_zh": "生成一张纪念碑谷风格的黄埔军校校门的图片。", "prompt_en": "Generate an image of the Whampoa Military Academy's gate in  the artistic style of Monument Valley."}
+{"id": "landmarks_24", "category": "landmarks", "prompt_zh": "生成一张概念城市“日行塔”的景观图片。", "prompt_en": "Generate an image showing the landscape of the conceptual city  \"Diurnal Path Tower\"."}
+{"id": "landmarks_25", "category": "landmarks", "prompt_zh": "生成一张对比老龙头在1930年和2008年外观的图片。", "prompt_en": "Generate an image showing a comparison of the appearance of  Laolongtou in 1930 and 2008."}
+{"id": "landmarks_26", "category": "landmarks", "prompt_zh": "生成一张对比复活节岛摩艾石像在1914年和2019年外观的图片。", "prompt_en": "Generate an image showing a comparison of the appearance of  the Easter Island Moai statues in 1914 and 2019."}
+{"id": "landmarks_27", "category": "landmarks", "prompt_zh": "生成一张Minecraft风格的不朽之塔图片。", "prompt_en": "Generate an image of the Tower of Immortality in the art style  of Minecraft."}
+{"id": "landmarks_28", "category": "landmarks", "prompt_zh": "生成一张纪念碑谷风格的不朽之塔图片。", "prompt_en": "Generate an image of the Tower of Immortality in the art style  of Monument Valley."}
+{"id": "landmarks_29", "category": "landmarks", "prompt_zh": "生成一张Minecraft风格的霍比特人袋底洞图片。", "prompt_en": "In the style of Minecraft, generate an image showing Bag End  of the Hobbit."}
+{"id": "landmarks_30", "category": "landmarks", "prompt_zh": "生成好莱坞标志的改变前后对比图", "prompt_en": "Generate a before-and-after comparison image of the Hollywood  Sign."}
+{"id": "landmarks_31", "category": "landmarks", "prompt_zh": "用四个模块展示富士山的四季景色图", "prompt_en": "Generate an image of Mount Fuji in the four seasons, shown in  four panels"}
+{"id": "landmarks_32", "category": "landmarks", "prompt_zh": "生成图像展示清晨的巴西象征性建筑。", "prompt_en": "Generate an image showing the symbolic building of Brazil in  the early morning."}
+{"id": "landmarks_33", "category": "landmarks", "prompt_zh": "生成世界上最长的桥的图像。", "prompt_en": "Generate an image of the longest bridge in the world."}
+{"id": "landmarks_34", "category": "landmarks", "prompt_zh": "生成世界上最高的塔的图像。", "prompt_en": "Generate an image of the tallest tower in the world."}
+{"id": "landmarks_35", "category": "landmarks", "prompt_zh": "生成世界上第二高的塔的图像。", "prompt_en": "Generate an image of the second tallest tower in the world."}
+{"id": "landmarks_36", "category": "landmarks", "prompt_zh": "生成图像展示黄石火山口在两个画面中的对比：夏季与冬季。", "prompt_en": "Generate an image of the Yellowstone caldera in two panels,  comparing summer and winter."}
+{"id": "landmarks_37", "category": "landmarks", "prompt_zh": "生成图像展示大本钟的建造过程。", "prompt_en": "Generate an image showing the construction process of Big Ben."}
+{"id": "landmarks_38", "category": "landmarks", "prompt_zh": "生成图像展示塔桥的功能", "prompt_en": "Generate an image showing the function of Tower Bridge."}
+{"id": "landmarks_39", "category": "landmarks", "prompt_zh": "生成图像展示埃菲尔铁塔的建造过程。", "prompt_en": "Generate an image showing the construction process of the  Eiffel Tower."}
+{"id": "landmarks_40", "category": "landmarks", "prompt_zh": "生成图像展示乌鲁鲁在一天中表面光影变化的四个画面。", "prompt_en": "Generate an image showing Uluru with dramatic light and shadow  effects across its surface in four panels."}
+{"id": "landmarks_41", "category": "landmarks", "prompt_zh": "生成图像展示旧金山金门大桥在晴天与大雾天气下的对比。", "prompt_en": "Generate an image showing a comparison of the Golden Gate  Bridge in San Francisco on a clear day and in fog."}
+{"id": "landmarks_42", "category": "landmarks", "prompt_zh": "生成图像展示自由女神像的建造过程。", "prompt_en": "Generate an image showing the construction process of the  Statue of Liberty."}
+{"id": "landmarks_43", "category": "landmarks", "prompt_zh": "生成图像展示“宫殿之冠”。", "prompt_en": "Generate an image showing Crown of the Palace."}
+{"id": "landmarks_44", "category": "landmarks", "prompt_zh": "生成图像展示1981年的卢浮宫外观", "prompt_en": "Generate an image showing the exterior appearance of the  Louvre Museum in 1981."}
+{"id": "landmarks_45", "category": "landmarks", "prompt_zh": "生成图像对比克里姆林宫在帝国时期和苏联时期的外观。", "prompt_en": "Generate an image comparing the exterior appearance of the  Kremlin in the Imperial Period and the Soviet Period."}
+{"id": "landmarks_46", "category": "landmarks", "prompt_zh": "生成图像展示“东京的新象征”。", "prompt_en": "Generate an image showing The New Symbol of Tokyo."}
+{"id": "landmarks_47", "category": "landmarks", "prompt_zh": "生成图像展示地标建筑“怀孕的牡蛎”。", "prompt_en": "Generate an image showing The Pregnant Oyster."}
+{"id": "landmarks_48", "category": "landmarks", "prompt_zh": "生成图像展示卢森堡在1988年赠予联合国的雕塑，寓意制止战争、倡导和平。", "prompt_en": "Generate an image showing the sculpture in the Luxembourg  Garden presented to the United Nations in 1988, symbolizing the end of war  and the promotion of peace."}
+{"id": "landmarks_49", "category": "landmarks", "prompt_zh": "生成图像展示世界上第二高的雕像。", "prompt_en": "Generate an image showing the second tallest statue in the  world."}
+{"id": "people_0", "category": "people", "prompt_zh": "生成一张丹·布朗 1993 年职业生涯状况的图片。", "prompt_en": "Generate a picture of Dan Brown's career status in 1993."}
+{"id": "people_1", "category": "people", "prompt_zh": "生成余华阅读其成名作的图片", "prompt_en": "Generate an image of Yu Hua reading his breakthrough work."}
+{"id": "people_2", "category": "people", "prompt_zh": "生成歌德穿着《少年维特之烦恼》中维特的标志性服装的图片", "prompt_en": "Generate an image of Goethe wearing Werther’s iconic outfit  from The Sorrows of Young Werther."}
+{"id": "people_3", "category": "people", "prompt_zh": "生成一张蔡徐坤扣篮的图片，他穿着在综艺节目《偶像练习生》中所穿的服装。", "prompt_en": "Generate a picture of Cai Xukun dunking while wearing the  costume he wore on the variety show Idol Producer."}
+{"id": "people_4", "category": "people", "prompt_zh": "生成一张鸭子的图片，它的造型参考蔡徐坤在《偶像练习生》中的服装风格和形象，并采用《Goose Goose  Duck》游戏的艺术风格。", "prompt_en": "Generate an image of a duck styled after Cai Xukun's outfit  style and image in Idol Producer, in the artistic style of Goose Goose Duck."}
+{"id": "people_5", "category": "people", "prompt_zh": "生成一张《三体》中庄颜的图片。", "prompt_en": "Generate an image of Zhuang Yan from The Three-Body Problem."}
+{"id": "people_6", "category": "people", "prompt_zh": "生成一幅描绘林冲在雪山寺的场景的画面。", "prompt_en": "Generate a scene depicting Lin Chong at the Snowy Mountain  Temple."}
+{"id": "people_7", "category": "people", "prompt_zh": "生成一幅画面，描绘孙悟空三打白骨精后，《西游记》取经团队的情景。", "prompt_en": "Generate the scripture-pilgrimage team of Journey to the West  after Sun Wukong defeated the White Bone Demon three times"}
+{"id": "people_8", "category": "people", "prompt_zh": "生成一张林肯和林肯公园乐队站在一起的图片。", "prompt_en": "Generate a picture of Lincoln and Linkin Park standing  together."}
+{"id": "people_9", "category": "people", "prompt_zh": "生成一张越南女孩身穿传统民族服装站在巴亭广场的图片。", "prompt_en": "Generate an image of a Vietnamese girl wearing traditional  ethnic clothing standing in Ba Dinh Square."}
+{"id": "people_10", "category": "people", "prompt_zh": "生成一张“毒蛇”在WWE擂台上摆出经典姿势的图片。", "prompt_en": "Generate a picture of \"The Viper\" striking his  classic pose on the WWE ring."}
+{"id": "people_11", "category": "people", "prompt_zh": "生成一张画面，描绘刘备的坐骑在关键时刻救他性命的场景。", "prompt_en": "Generate a picture of the scene where Liu Bei's mount saves  his life at a critical moment."}
+{"id": "people_12", "category": "people", "prompt_zh": "生成一张叶利钦和克林顿一起出席新闻发布会的图像，展示他们各自的状态。", "prompt_en": "Generate an image of Yeltsin and Clinton together at a press  conference, showing their respective states."}
+{"id": "people_13", "category": "people", "prompt_zh": "生成一张拿破仑加冕称帝时的图像。", "prompt_en": "Generate an image of Napoleon at the time of his coronation as  Emperor."}
+{"id": "people_14", "category": "people", "prompt_zh": "生成一张未来电影《L'Éve》中主角形象的图片。", "prompt_en": "Generate an image of the protagonist's appearance in L'Éve  future."}
+{"id": "people_15", "category": "people", "prompt_zh": "生成一张未来电影《A Million Days》中主角形象的图片。", "prompt_en": "Generate an image depicting the protagonist's appearance in A  Million Days."}
+{"id": "people_16", "category": "people", "prompt_zh": "生成一张2025年欧盟两届轮值主席国政府首脑形象的图片。", "prompt_en": "Generate an image of the heads of government of the two  rotating presidencies of the European Union in 2025."}
+{"id": "people_17", "category": "people", "prompt_zh": "生成一张2025年索尼世界摄影大赛风光类获奖作品及摄影师形象的图片。", "prompt_en": "Generate an image showcasing the winning photograph and the  photographer of the Landscape category in the Sony World Photography Awards  Open 2025."}
+{"id": "people_18", "category": "people", "prompt_zh": "生成一张德米斯·哈萨比斯爵士与他最喜爱的运动项目现任世界冠军比赛的图片。", "prompt_en": "Generate an image showing Sir Demis Hassabis playing a match  against the current world champion of his favorite sport."}
+{"id": "people_19", "category": "people", "prompt_zh": "生成一张展示默克尔爱好的图片。", "prompt_en": "generate an image shows the Angel Merkel‘s hobby"}
+{"id": "people_20", "category": "people", "prompt_zh": "生成一张泽连斯基职业生涯变迁的图片。", "prompt_en": "Generate an image showing Zelenskyy's career changes."}
+{"id": "people_21", "category": "people", "prompt_zh": "生成一张秦始皇站在秦皇岛秦始皇雕像前的图片。", "prompt_en": "Generate an image of Qin Shi Huang standing in front of the  Qin Shi Huang statue located in Qinhuangdao."}
+{"id": "people_22", "category": "people", "prompt_zh": "生成一张史铁生阅读其著名作品的图片。", "prompt_en": "Generate an image of Shi Tiesheng reading his most famous  work."}
+{"id": "people_23", "category": "people", "prompt_zh": "生成一张《西游记》中唐僧初次遇见孙悟空时的形象图片。", "prompt_en": "Generate an image depicting Sun Wukong's appearance when Tang  Seng first meets him in Journey to the West."}
+{"id": "people_24", "category": "people", "prompt_zh": "生成史蒂芬金年轻时工作状态的照片", "prompt_en": "Generates a photo of Stephen King at work when he was young"}
+{"id": "people_25", "category": "people", "prompt_zh": "生成《红楼梦》中初次登场的王熙凤形象图片", "prompt_en": "Generate an image of Wang Xifeng's first appearance in A Dream  of Red Mansions"}
+{"id": "people_26", "category": "people", "prompt_zh": "帕特里克·刘易斯在2020年的AI会议上口头展示他的 RAG 论文", "prompt_en": "Generate patrick lewis give a oral presentation of his RAG  paper at the conference"}
+{"id": "people_27", "category": "people", "prompt_zh": "生成爱因斯坦年轻时在其就职的德国大学前的照片", "prompt_en": "Generate a photo of young Einstein standing in front of the  German university where he worked."}
+{"id": "people_28", "category": "people", "prompt_zh": "生成展示Shriram Lagoo多重职业的图片", "prompt_en": "Generate an image showcasing the multiple careers of Shriram  Lagoo."}
+{"id": "people_29", "category": "people", "prompt_zh": "最近三届的好莱坞最佳女主角合影（从左到右按年份排列）", "prompt_en": "Generate a group photo of the best actresses in Hollywood for  the past three years (arranged from left to right by year)"}
+{"id": "people_30", "category": "people", "prompt_zh": "最近三届的好莱坞最佳男主角合影（从左到右按年份排列）", "prompt_en": "A Photo of the best male actors in Hollywood for the past  three years (arranged from left to right by year)"}
+{"id": "people_31", "category": "people", "prompt_zh": "最近三届的好莱坞最佳女配角合影（从左到右按年份排列）", "prompt_en": "generate a photo of the best supporting actresses in Hollywood  for the past three years (arranged from left to right by year)"}
+{"id": "people_32", "category": "people", "prompt_zh": "最近三届的好莱坞oscar最佳男配角合影（从左到右按年份排列）", "prompt_en": "Generate a photo of the Academy Award for Best Supporting  Actors for the past three years (arranged from left to right by year)."}
+{"id": "people_33", "category": "people", "prompt_zh": "最近三届的好莱坞最佳导演合影（从左到右按年份排列）", "prompt_en": "Generate a photo of Academy Award for Best Directing for the  past three years (arranged from left to right by year)"}
+{"id": "people_34", "category": "people", "prompt_zh": "最近三届的金鸡奖最佳女主角合影（从左到右按年份排列）", "prompt_en": "Generate a group photo of the best actresses in the Golden  Rooster Awards for the past three years (arranged from left to right by year)"}
+{"id": "people_35", "category": "people", "prompt_zh": "最近三届的金鸡奖最佳男主角合影（从左到右按年份排列）", "prompt_en": "Generate a group photo of Golden Rooster Award for Best Actor  for the past three years (arranged from left to right by year)"}
+{"id": "people_36", "category": "people", "prompt_zh": "最近三届的金鸡奖最佳女配角合影（从左到右按年份排列）", "prompt_en": "Generate a group photo of the best supporting actresses in the  Golden Rooster Awards for the past three years (arranged from left to right  by year)"}
+{"id": "people_37", "category": "people", "prompt_zh": "最近三届的金鸡奖最佳男配角合影（从左到右按年份排列）", "prompt_en": "Generate a group photo of the best supporting actors in the  Golden Rooster Awards for the past three years (arranged from left to right  by year)"}
+{"id": "people_38", "category": "people", "prompt_zh": "最近三届的金鸡奖最佳导演合影（从左到右按年份排列）", "prompt_en": "Generate a group photo of the best directors in the Golden  Rooster Awards for the past three years (arranged from left to right by year)"}
+{"id": "people_39", "category": "people", "prompt_zh": "最近三届的宝莱坞（电影观众奖）最佳女主角合影（从左到右按年份排列）", "prompt_en": "Generate a group photo of the Filmfare Award for Best  Actresses in Bollywood for the past three years (arranged from left to right  by year)"}
+{"id": "people_40", "category": "people", "prompt_zh": "最近三届的宝莱坞（电影观众奖）最佳男主角合影（从左到右按年份排列）", "prompt_en": "Generate a group photo of the Filmfare Award for Best Actors  in Bollywood for the past three years (arranged from left to right by year)"}
+{"id": "people_41", "category": "people", "prompt_zh": "最近三届的宝莱坞（电影观众奖）最佳女配角合影（从左到右按年份排列）", "prompt_en": "Generate a group photo of the Filmfare Award for Best  supporting actresses in Bollywood for the past three years (arranged from  left to right by year)"}
+{"id": "people_42", "category": "people", "prompt_zh": "最近三届的宝莱坞（电影观众奖）最佳男配角合影（从左到右按年份排列）", "prompt_en": "Generate a group photo of the Filmfare Award for best  supporting actors in Bollywood for the past three years (arranged from left  to right by year)"}
+{"id": "people_43", "category": "people", "prompt_zh": "最近三届的宝莱坞（电影观众奖）最佳导演合影（从左到右按年份排列）", "prompt_en": "Generate a group photo of the Filmfare Award for Best  directors in Bollywood for the past three years (arranged from left to right  by year)"}
+{"id": "people_44", "category": "people", "prompt_zh": "生成一幅弗里达·卡罗在工作室创作她的第一幅自画像的图像。", "prompt_en": "Generate an image of Frida Kahlo in her studio creating her first self-portrait."}
+{"id": "people_45", "category": "people", "prompt_zh": "生成一幅路德维希·范·贝多芬在工作室创作《第九交响曲》的图像。", "prompt_en": "Generate an image of Ludwig van Beethoven in his studio composing his Ninth Symphony."}
+{"id": "people_46", "category": "people", "prompt_zh": "生成德国之声最近三届冠军的合影（从左到右按年份顺序排列）", "prompt_en": "Generate a group photo of the three most recent winners of Deutsche Welle (arranged in chronological order from left to right)."}
+{"id": "people_47", "category": "people", "prompt_zh": "生成中国好声音最近三届冠军的合影（从左到右按年份顺序排列）", "prompt_en": "Generate a group photo of the three most recent winners of The Voice of China (arranged in chronological order from left to right)."}
+{"id": "people_48", "category": "people", "prompt_zh": "生成最近三届诺贝尔文学奖得主合照（从左到右按顺序排列）", "prompt_en": "Generate a group photo of the three most recent Nobel Prize winners in Literature (arranged in chronological order from left to right)."}
+{"id": "people_49", "category": "people", "prompt_zh": "生成最近三届国际艾美奖最佳女主角合影（从左到右按顺序排列）", "prompt_en": "Generate a group photo of the three most recent International Emmy Award winners for Best Actress (arranged in chronological order from left to right)."}
+{"id": "people_50", "category": "people", "prompt_zh": "生成最近三届国际艾美奖最佳男主角合影（从左到右按顺序排列）", "prompt_en": "Generate a group photo of the three most recent International Emmy Award winners for Best Actor (arranged in chronological order from left to right)."}
+{"id": "people_51", "category": "people", "prompt_zh": "生成最近三届托尼奖最佳话剧女主角合照（从左到右按顺序排列）", "prompt_en": "Generate a group photo of the three most recent Tony Award winners for Best Actress in a Play (arranged in chronological order from left to right)."}
+{"id": "product_0", "category": "product", "prompt_zh": "生成任天堂第一代和最新款掌上游戏机的对比图。", "prompt_en": "Generate a comparison image of Nintendo's first and latest  handheld consoles."}
+{"id": "product_1", "category": "product", "prompt_zh": "生成摩托罗拉最早和最新款手机的对比图。", "prompt_en": "Generate a comparison image of Motorola's earliest and latest  phones."}
+{"id": "product_2", "category": "product", "prompt_zh": "生成烤鸭玩具在室内和室外颜色差异的对比图。", "prompt_en": "Generate a comparison image showing the color difference of a  roast duck toy indoors and outdoors."}
+{"id": "product_3", "category": "product", "prompt_zh": "生成特斯拉人形机器人和宇树G-1机器人握手的图片。", "prompt_en": "Generate an image of the Tesla humanoid robot and the Unitree  G-1 robot shaking hands."}
+{"id": "product_4", "category": "product", "prompt_zh": "生成使用Leader牌三滚筒洗衣机洗袜子的图片。", "prompt_en": "Generate an image of washing socks using a Leader brand  three-drum washing machine."}
+{"id": "product_5", "category": "product", "prompt_zh": "生成东汉铜奔马的图片。", "prompt_en": "Generate a picture of the copper galloping horse in the  Eastern Han Dynasty."}
+{"id": "product_6", "category": "product", "prompt_zh": "生成西汉鎏金铜面具出土时的图片。", "prompt_en": "Generate a picture of a gilt bronze mask from the Western Han  Dynasty when it was first unearthed."}
+{"id": "product_7", "category": "product", "prompt_zh": "生成越王勾践剑出土时的状态的图片。", "prompt_en": "Generate a picture of the state of the Yue King Goujian sword  when it was first unearthed."}
+{"id": "product_8", "category": "product", "prompt_zh": "生成任天堂Switch和Switch 2的对比图。", "prompt_en": "Generate a comparison image of the Nintendo Switch and Switch  2."}
+{"id": "product_9", "category": "product", "prompt_zh": "生成Galaxy Z Fold 5和Mate X5的对比图。", "prompt_en": "Generate a comparison image of the Galaxy Z Fold 5 and the  Mate X5."}
+{"id": "product_10", "category": "product", "prompt_zh": "生成亚马逊Echo智能音箱不同代次的对比图。", "prompt_en": "Generate an image comparing the different generations of the  Amazon Echo smart speaker"}
+{"id": "product_11", "category": "product", "prompt_zh": "生成秋千（21个秋千）的图片。", "prompt_en": "Generate an image of Swings (21 Balançoires) ."}
+{"id": "product_12", "category": "product", "prompt_zh": "生成一张香奈儿五色眼影盘（Mucha 配色）的图片。", "prompt_en": "Generate an image of the Chanel five-colour eyeshadow palette  in the Mucha colourway."}
+{"id": "product_13", "category": "product", "prompt_zh": "生成一张宜家鲨鱼玩具的 Architectmade 风格图片。", "prompt_en": "Generate an Architectmade style picture of an IKEA shark toy."}
+{"id": "product_14", "category": "product", "prompt_zh": "生成一张索尼 Walkman 早期和最新型号的对比图。", "prompt_en": "Generate a comparison image of the earliest and latest Sony  Walkman models"}
+{"id": "product_15", "category": "product", "prompt_zh": "生成一张展示 AquaSense 2 Ultra 五合一清洁能力的图片。", "prompt_en": "Generate a picture showing the 5-in-1 clean ability of  AquaSense 2 Ultra"}
+{"id": "product_16", "category": "product", "prompt_zh": "生成一张展示 reencle 家用堆肥机使用步骤的图片。", "prompt_en": "Generate an image of the steps to use the reencle home  composter"}
+{"id": "product_17", "category": "product", "prompt_zh": "生成一张 Bespoke 双开门冰箱中储存食物的图片。", "prompt_en": "Generate an image of food stored in a Bespoke double-door  refrigerator"}
+{"id": "product_18", "category": "product", "prompt_zh": "生成一张展示拉布布、zimomo 和 mokoko 的图片。", "prompt_en": "Generate an image showing labubu, zimomo, and mokoko"}
+{"id": "product_19", "category": "product", "prompt_zh": "制作一张展示宇叔 H1 人形机器人与特斯拉擎天柱机器人手臂搏斗的图片。", "prompt_en": "Create an image showing Yu Shu's H1 humanoid robot arm  wrestling with Tesla's Optimus robot."}
+{"id": "product_20", "category": "product", "prompt_zh": "生成一张展示商代妇好夫人墓出土精美象牙杯修复过程的图片。", "prompt_en": "Generate an image depicting the restoration process of the  exquisite ivory cup unearthed from the tomb of Lady Fu Hao during the Shang  Dynasty."}
+{"id": "product_21", "category": "product", "prompt_zh": "生成一张展示诸葛亮发明“木牛车”的图片。", "prompt_en": "Generate an image depicting Zhuge Liang's invention, the  \"wooden ox cart.\""}
+{"id": "product_22", "category": "product", "prompt_zh": "生成一张展示古罗马“莱库格斯杯”内部光线照射效果的图片。", "prompt_en": "Generate an image showing the effect of light shining through  the interior of the \"Lycurgus Cup\" from ancient Rome."}
+{"id": "product_23", "category": "product", "prompt_zh": "生成一张对比早期乐高积木和最新乐高机械组系列轮胎零件的图片。", "prompt_en": "Generate an image comparing the earliest LEGO bricks with the  latest LEGO Technic series tire parts."}
+{"id": "product_24", "category": "product", "prompt_zh": "生成一张列奥纳多·达·芬奇在笔记本中设计的“蝠翼飞行器”模型的图片。", "prompt_en": "Generate an image of a model of the \"bat-winged flying  machine\" designed by Leonardo da Vinci in his notebooks."}
+{"id": "product_25", "category": "product", "prompt_zh": "生成一张描绘东汉时期张衡发明的“地动仪”探测地震的图片。", "prompt_en": "Generate an image depicting the \"Seismometer\"  invented by Zhang Heng during the Eastern Han Dynasty detecting an  earthquake."}
+{"id": "product_26", "category": "product", "prompt_zh": "生成一张描绘《魏书》中记载的马钧发明的指南车的图片。", "prompt_en": "Generate an image depicting the south-pointing chariot  invented by Ma Jun, as described in the \"Wei Shu\""}
+{"id": "product_27", "category": "product", "prompt_zh": "生成一张展示 Anker GaNPrime 充电器同时为笔记本电脑、手机和智能手表充电的图片。", "prompt_en": "Generate an image showing the Anker GaNPrime charger  simultaneously charging a laptop, a phone, and a smartwatch."}
+{"id": "product_28", "category": "product", "prompt_zh": "生成一张真实再现维特鲁威描述的古罗马液压管风琴的图片。", "prompt_en": "Generate an image that realistically depicts the hydraulic  pipe organ described by Vitruvius in ancient Rome."}
+{"id": "product_29", "category": "product", "prompt_zh": "生成一张展示NotePin不同佩戴方式的图片", "prompt_en": "Generate an image showing different ways to wear NotePin"}
+{"id": "product_30", "category": "product", "prompt_zh": "生成一张展示乐高公司 2025 年推出的全新机械 F1 产品的图片，并附上每款产品背后的原型。", "prompt_en": "Generate an image showing the LEGO company's new mechanical F1  product launched in 2025, with its prototype behind each product."}
+{"id": "product_31", "category": "product", "prompt_zh": "生成图片，展示Eufy MarsWalker（或者叫Dreame CyberX）爬楼梯的功能", "prompt_en": "Generate an image showing the Eufy MarsWalker (or Dreame  CyberX)'s stair climbing capabilities."}
+{"id": "product_32", "category": "product", "prompt_zh": "生成一张 Vaporwave 风格的虚拟广告，宣传饮料 Crystal Pepsi", "prompt_en": "Generate a virtual Vaporwave-style ad for Crystal Pepsi."}
+{"id": "product_33", "category": "product", "prompt_zh": "生成世界上第一款人体工学椅", "prompt_en": "Generate the world's first ergonomic chair"}
+{"id": "product_34", "category": "product", "prompt_zh": "生成最昂贵的 Herman Miller 椅子", "prompt_en": "Generate The most expensive herman miller chair"}
+{"id": "product_35", "category": "product", "prompt_zh": "生成徕卡 M-A“Titan”特别版相机的图片", "prompt_en": "Generate an image of the Leica M-A \"Titan\" special  edition camera"}
+{"id": "product_36", "category": "product", "prompt_zh": "生成 Lamarzocco 的 Linea-mini-R 的图片。", "prompt_en": "Generate a picture of linea-mini-r in lamarzocco."}
+{"id": "product_37", "category": "product", "prompt_zh": "生成 Dieter Rams 于 1961 年设计的 RADIO", "prompt_en": "Generate the RADIO designed by Dieter Rams in 1961"}
+{"id": "product_38", "category": "product", "prompt_zh": "生成一张展示最新款 iPhone 背面的图像。", "prompt_en": "Generate an image of the back side of the latest iPhone."}
+{"id": "product_39", "category": "product", "prompt_zh": "生成一张小米 CyberDog 2 机器人与波士顿动力 Spot 机器人一起玩耍的图片。", "prompt_en": "Generate an image of the Xiaomi CyberDog 2 robot playing with the Boston Dynamics Spot robot."}
+{"id": "product_40", "category": "product", "prompt_zh": "生成一张图片，展示著名的希望之钻（Hope Diamond）。", "prompt_en": "Generate an image showing the famous Hope Diamond."}
+{"id": "product_41", "category": "product", "prompt_zh": "生成一张对比图，展示第一款黑莓手机与最新款黑莓智能手机。", "prompt_en": "Generate a comparison image of the first BlackBerry phone and the latest BlackBerry smartphone."}
+{"id": "product_42", "category": "product", "prompt_zh": "生成一张对比图，展示佳能 EOS 相机最早与最新机型。", "prompt_en": "Generate a comparison image of the earliest and latest Canon EOS cameras."}
+{"id": "product_43", "category": "product", "prompt_zh": "生成一张西汉时期犀牛形尊的图片。", "prompt_en": "Generate a picture of a zun in the shape of a rhinoceros, dating from the Western Han dynasty."}
+{"id": "product_44", "category": "product", "prompt_zh": "生成一张图片，展示 20 世纪初路易威登旅行箱的内部。", "prompt_en": "Generate an image showing the interior of a Louis Vuitton steamer trunk from the early 20th century."}
+{"id": "product_45", "category": "product", "prompt_zh": "生成一张图片，展示 IBM ThinkPad 700C 笔记本电脑。", "prompt_en": "Generate an image of the IBM ThinkPad 700C laptop."}
+{"id": "product_46", "category": "product", "prompt_zh": "生成一张展示华为 Mate XT 非凡大师的图片。", "prompt_en": "Generate an image showcasing the Huawei Mate XT Extraordinary Master."}
+{"id": "product_47", "category": "product", "prompt_zh": "生成一张展示最新款苹果 iPhone Pro 的图片。", "prompt_en": "Generate an image showing the latest model of the Apple iPhone Pro."}
+{"id": "product_48", "category": "product", "prompt_zh": "生成一张展示华为 Pocket 2 艺术版的图片。", "prompt_en": "Generate an image showcasing the Huawei Pocket 2 Art Edition."}
+{"id": "product_49", "category": "product", "prompt_zh": "生成一张展示华为与泡泡玛特产品合作的图片。", "prompt_en": "Generate an image showcasing the product collaboration between Huawei and Pop Mart."}
+{"id": "product_50", "category": "product", "prompt_zh": "生成一张展示苏颂发明的水力天文钟的图片。", "prompt_en": "Generate an image showing the Water-powered Astronomical Clock Tower invented by Su Song."}
+{"id": "product_51", "category": "product", "prompt_zh": "生成一张展示英雄蒸汽机的图片。", "prompt_en": "Generate an image showing Hero's steam engine."}
+{"id": "product_52", "category": "product", "prompt_zh": "生成一张展示竖眼青铜面具的图片。", "prompt_en": "Generate an image showing the bronze mask with vertical eyes."}
+{"id": "product_53", "category": "product", "prompt_zh": "生成一张展示青铜神树的图片。", "prompt_en": "Generate an image showing the bronze sacred tree."}
+{"id": "product_54", "category": "product", "prompt_zh": "生成一张展示山祭玉杖的图片。", "prompt_en": "Generate an image showing the jade zhang depicting a mountain sacrifice."}
+{"id": "product_55", "category": "product", "prompt_zh": "生成一张展示三星堆青铜太阳形器的图片。", "prompt_en": "Generate an image showcasing the Sanxingdui bronze solar-shaped artifact."}
+{"id": "culture_0", "category": "culture", "prompt_zh": "生成一张芬兰人庆祝仲夏节的照片", "prompt_en": "Generate a photo of Finnish people celebrating the Midsummer  Festival"}
+{"id": "culture_1", "category": "culture", "prompt_zh": "生成一张芬兰人排队等公交的图片", "prompt_en": "Generate an image of Finnish people  queuing up for buses"}
+{"id": "culture_2", "category": "culture", "prompt_zh": "生成一张“茶马古道”的图像", "prompt_en": "generate an image of The Tea Horse  Roadon the map"}
+{"id": "culture_3", "category": "culture", "prompt_zh": "生成一张旁遮普婚礼仪式的照片", "prompt_en": "Generat an photo of a Punjabi Wedding Ceremony"}
+{"id": "culture_4", "category": "culture", "prompt_zh": "生成一张旁遮普婚礼接亲的照片", "prompt_en": "Generate a photo of a Punjabi wedding procession."}
+{"id": "culture_5", "category": "culture", "prompt_zh": "生成一张中国传统婚礼流程的照片", "prompt_en": "Generat an photo of a traditional chinese wedding Process"}
+{"id": "culture_6", "category": "culture", "prompt_zh": "生成一张德国巴伐利亚庆祝“无意义星期四”（Unsinniger Donnerstag）的照片", "prompt_en": "Generate a photo of Bavaria, Germany celebrating Unsinniger  Donnerstag"}
+{"id": "culture_7", "category": "culture", "prompt_zh": "生成一张中国潮汕地区春节庆祝活动的照片", "prompt_en": "generate a photo of Spring Festival Celebration Activities in  Chaoshan, China"}
+{"id": "culture_8", "category": "culture", "prompt_zh": "生成一张藏族人在雪顿节上观看藏戏表演的照片", "prompt_en": "Generate a photo of Tibetan people watching a traditional  opera performance during the Shoton Festival."}
+{"id": "culture_9", "category": "culture", "prompt_zh": "生成一张埃塞俄比亚村民在Timket节期间举行圣水游行的照片", "prompt_en": "Generate a photo of Ethiopian villagers holding a holy water  procession during the Timket festival."}
+{"id": "culture_10", "category": "culture", "prompt_zh": "生成一张摩洛哥人在斋月期间日落后举行开斋宴的照片", "prompt_en": "Generate a photo of Moroccans enjoying an iftar meal after  sunset during Ramadan."}
+{"id": "culture_11", "category": "culture", "prompt_zh": "生成一张苗族人在贵州庆祝苗年节的照片", "prompt_en": "Generate a photo of Miao people celebrating the Miao New Year  Festival in Guizhou."}
+{"id": "culture_12", "category": "culture", "prompt_zh": "生成一张印度尼西亚巴厘岛民众在“海神节”期间举行海边祭祀仪式的照片", "prompt_en": "Generate a photo of Balinese people in Indonesia performing a  seaside ritual during the Melasti (Sea God) Festival."}
+{"id": "culture_13", "category": "culture", "prompt_zh": "生成一张格鲁吉亚山区村民在庆祝“图斯赫蒂节”的照片", "prompt_en": "Generate a photo of Georgian mountain villagers celebrating  the Tusheti Festival."}
+{"id": "culture_14", "category": "culture", "prompt_zh": "生成一张玻利维亚“奥鲁罗狂欢节”的图片", "prompt_en": "Generate an image of Bolivia’s Oruro Carnival."}
+{"id": "culture_15", "category": "culture", "prompt_zh": "生成一张伊朗“诺鲁兹”新年庆典中，家庭聚餐的图片", "prompt_en": "Generate a photo of a family feast during the Nowruz New Year  celebration in Iran."}
+{"id": "culture_16", "category": "culture", "prompt_zh": "生成一张日本“御柱祭”中，村民进行传统仪式的照片", "prompt_en": "Generate a photo of Japanese villagers performing traditional  rituals during the Onbashira Festival."}
+{"id": "culture_17", "category": "culture", "prompt_zh": "请创建一张对比图，展示唐代与宋代贵族小姐的用餐习惯，基于这两个朝代的饮食文化。", "prompt_en": "Please create a comparative picture depicting the dining  habits of noble young ladies in the Tang Dynasty and those in the Song  Dynasty based on the dietary customs of the two periods."}
+{"id": "culture_18", "category": "culture", "prompt_zh": "请创建一张图像，展示一位唐代少女在农历新年第一天的活动，包括早晨、中午和晚上的内容。", "prompt_en": "Please create an image to illustrate the activities of an  ancient Tang Dynasty girl on the first day of the Lunar New Year, including  morning, noon and evening."}
+{"id": "culture_19", "category": "culture", "prompt_zh": "请创建一张图像，展示七夕节期间的“穿针乞巧”活动。", "prompt_en": "Please create an image to illustrate the activity of  \"Needle Passing for Gossamer Skill\" during the Qixi Festival"}
+{"id": "culture_20", "category": "culture", "prompt_zh": "生成图片阿提拉时期匈奴女性的传统服饰", "prompt_en": "Generate an image of traditional clothing worn by Hunnic women  during the time of Attila."}
+{"id": "culture_21", "category": "culture", "prompt_zh": "生成一张日本人在东京庆祝樱花节（花见）的照片", "prompt_en": "Generate a photo of Japanese people celebrating the Cherry  Blossom Festival（Hanami） in Tokyo."}
+{"id": "culture_22", "category": "culture", "prompt_zh": "生成一张巴西舞者在里约狂欢节游行中表演的照片", "prompt_en": "Generate a photo of Brazilian dancers performing during the  Rio Carnival parade."}
+{"id": "culture_23", "category": "culture", "prompt_zh": "生成一张描绘马赛人正在肯尼亚进行传统跳舞(Adumu)的照片", "prompt_en": "Generate a photo of Maasai people performing a traditional  jumping dance(Adumu) in Kenya."}
+{"id": "culture_24", "category": "culture", "prompt_zh": "生成一张泰国人在清迈庆祝泼水节的照片", "prompt_en": "Generate a photo of Thai people celebrating the Songkran water  festival in Chiang Mai."}
+{"id": "culture_25", "category": "culture", "prompt_zh": "生成一张美洲原住民舞者在帕瓦集会上表演的照片", "prompt_en": "Generate a photo of Native American dancers performing at a  Powwow gathering."}
+{"id": "culture_26", "category": "culture", "prompt_zh": "生成一张土耳其人在“莫利德”(Mevlid)节中分享食物的照片", "prompt_en": "Generate a photo of Turkish people sharing food during the  Mevlid Kandili celebration."}
+{"id": "culture_27", "category": "culture", "prompt_zh": "生成一张秘鲁村民在库斯科的太阳节期间表演传统舞蹈的照片", "prompt_en": "Generate a photo of Peruvian villagers performing traditional  dances during the Inti Raymi Festival in Cusco."}
+{"id": "culture_28", "category": "culture", "prompt_zh": "生成一张巴厘岛印度教徒在加伦干节期间在寺庙献祭的照片", "prompt_en": "Generate a photo of Balinese Hindus making offerings at a  temple during Galungan Festival."}
+{"id": "culture_29", "category": "culture", "prompt_zh": "生成一张因纽特人冬季聚会时建造冰屋的照片", "prompt_en": "Generate a photo of Inuit people building an igloo during a  winter gathering."}
+{"id": "culture_30", "category": "culture", "prompt_zh": "生成一张日本茶道大师在京都进行传统茶道仪式的照片", "prompt_en": "Generate a photo of Japanese tea masters performing a  traditional tea ceremony in Kyoto."}
+{"id": "culture_31", "category": "culture", "prompt_zh": "生成一张南非祖鲁人表演战士舞蹈的照片", "prompt_en": "Generate a photo of Zulu people in South Africa performing a  warrior dance."}
+{"id": "culture_32", "category": "culture", "prompt_zh": "生成一张墨西哥人庆祝亡灵节的照片", "prompt_en": "Generate a photo of Mexicans celebrating Día de los Muertos."}
+{"id": "culture_33", "category": "culture", "prompt_zh": "生成一张尼泊尔人在蒂哈尔节期间点燃油灯的照片", "prompt_en": "Generate a photo of Nepalese people lighting oil lamps during  the Tihar Festival."}
+{"id": "culture_34", "category": "culture", "prompt_zh": "生成一张夏威夷人在“卢奥”（Luau）聚会中表演草裙舞的照片", "prompt_en": "Generate a photo of Hawaiians performing a hula dance during a  Luau celebration."}
+{"id": "culture_35", "category": "culture", "prompt_zh": "生成一张中国人在元宵节表演舞龙的照片", "prompt_en": "Generate a photo of Chinese people performing a dragon dance  during the Lantern Festival."}
+{"id": "culture_36", "category": "culture", "prompt_zh": "生成一张传统京剧演员在后台准备的照片", "prompt_en": "Generate a photo of a traditional Peking opera actor preparing  backstage."}
+{"id": "culture_37", "category": "culture", "prompt_zh": "生成一张越南人庆祝中秋节的照片", "prompt_en": "Generate a photo of Vietnamese people celebrating the Tết  Trung Thu."}
+{"id": "culture_38", "category": "culture", "prompt_zh": "生成一张运动员在长城跑马拉松的照片", "prompt_en": "Generate a photo of athletes running a marathon past the Great  Wall of China."}
+{"id": "culture_39", "category": "culture", "prompt_zh": "生成一张德国人庆祝慕尼黑啤酒节的照片", "prompt_en": "Generate a photo of Germans celebrating the Munich Beer  Festival."}
+{"id": "culture_40", "category": "culture", "prompt_zh": "生成一张西班牙人在塞维利亚跳弗拉明戈舞的照片", "prompt_en": "Generate a photo of Spanish people dancing flamenco in  Seville."}
+{"id": "culture_41", "category": "culture", "prompt_zh": "生成一张蒙古游牧民在草原上骑马的照片", "prompt_en": "Generate a photo of Mongolian nomads riding horses across the  steppe."}
+{"id": "culture_42", "category": "culture", "prompt_zh": "生成一张印度人们庆祝洒红节（Holi）的照片", "prompt_en": "Generate an image of Indian people celebrating the Holi  festival."}
+{"id": "culture_43", "category": "culture", "prompt_zh": "生成一张蒙古摔跤手在那达慕节期间比赛的照片", "prompt_en": "Generate a photo of Mongolian wrestlers competing during the  Naadam Festival."}
+{"id": "culture_44", "category": "culture", "prompt_zh": "生成一张尼泊尔人在战车节（the Rato Machindranath Festival）期间抬着战车的照片", "prompt_en": "Generate a photo of Nepalese people carrying chariots during  the Rato Machindranath Festival."}
+{"id": "culture_45", "category": "culture", "prompt_zh": "生成一张澳大利亚土著人表演传统的科罗伯里舞蹈的照片", "prompt_en": "Generate a photo of Aboriginal Australians performing a  traditional corroboree dance."}
+{"id": "culture_46", "category": "culture", "prompt_zh": "生成一张爱尔兰人在圣帕特里克节庆祝活动中在街上跳舞的照片", "prompt_en": "Generate a photo of Irish people dancing in the streets during  St. Patrick’s Day celebrations."}
+{"id": "culture_47", "category": "culture", "prompt_zh": "生成一张瑞士人在阿尔卑斯山演奏阿尔卑斯号角的图片", "prompt_en": "Generate an image of Swiss people playing alphorns in the  Alps."}
+{"id": "culture_48", "category": "culture", "prompt_zh": "生成一张西藏僧侣在寺庙中创造沙曼陀罗的照片", "prompt_en": "Generate a photo of Tibetan monks creating a colorful sand  mandala in a monastery."}
+{"id": "culture_49", "category": "culture", "prompt_zh": "生成一张韩国人在庆祝秋夕的照片", "prompt_en": "Generate a photo of Koreans celebrating Chuseok."}
+{"id": "others_0", "category": "others", "prompt_zh": "生成Needy Girl Overdose风格的Portrait of Madame Moitessier图片", "prompt_en": "Generate Portrait of Madame Moitessier in Needy Girl Overdose  style"}
+{"id": "others_1", "category": "others", "prompt_zh": "生成Iris.Fall风格的Las MeninasDiego图片", "prompt_en": "Generate Iris.Fall style Las MeninasDiego picture."}
+{"id": "others_2", "category": "others", "prompt_zh": "生成展览中的Metamorphy的图片", "prompt_en": "Generate an image of Metamorphy in the exhibition."}
+{"id": "others_3", "category": "others", "prompt_zh": "生成Hannah Wilke正在制作作品《Gestures》的图片", "prompt_en": "Generate an image of Hannah Wilke working on the work  'Gestures'"}
+{"id": "others_4", "category": "others", "prompt_zh": "生成约瑟夫·博伊斯最著名的行为艺术图片", "prompt_en": "Generate images of Joseph Beuys's most famous performance art."}
+{"id": "others_5", "category": "others", "prompt_zh": "生成AlexNet的神经网络结构图", "prompt_en": "Generate a diagram of the AlexNet neural network architecture."}
+{"id": "others_6", "category": "others", "prompt_zh": "生成示意图展示ResNet的创新点", "prompt_en": "Generate a schematic diagram illustrating the innovation of  ResNet."}
+{"id": "others_7", "category": "others", "prompt_zh": "生成示意图展示Encoder-Decoder结构的大语言模型", "prompt_en": "Generate a schematic diagram showing the encoder-decoder  structure of a large language model."}
+{"id": "others_8", "category": "others", "prompt_zh": "生成一张展示宝马及其子品牌结构的图片", "prompt_en": "generate an image showing the brand structure of BMW and its  sub-brands"}
+{"id": "others_9", "category": "others", "prompt_zh": "生成一张展示梅赛德斯-奔驰集团及其汽车子品牌结构的图片", "prompt_en": "Generate an image showing the Mercedes-Benz Group and Its  Automotive Sub-Brands Structure"}
+{"id": "others_10", "category": "others", "prompt_zh": "生成一张描绘世界卫生组织（WHO）典型疫苗接种场景的图片", "prompt_en": "Generate an image depicting a typical World Health  Organization (WHO) vaccination scene"}
+{"id": "others_11", "category": "others", "prompt_zh": "生成一张多国维和部队执行任务的图片", "prompt_en": "generate an image of Multinational Peacekeeping Forces on  Mission"}
+{"id": "others_12", "category": "others", "prompt_zh": "生成清朝皇帝批阅奏折的图片", "prompt_en": "Generate an image of a Qing Dynasty emperor reviewing imperial  memorials."}
+{"id": "others_13", "category": "others", "prompt_zh": "生成一张通过画面表现安永（EY）面试流程的图像", "prompt_en": "Generate an image depicting the EY interview process."}
+{"id": "others_14", "category": "others", "prompt_zh": "使用 Source 引擎生成重制版的《生化危机 8》城堡内部。", "prompt_en": "Generate a remake of the castle interior from Resident Evil 8  using the Source engine."}
+{"id": "others_15", "category": "others", "prompt_zh": "迈克尔·帕金森与他最想采访的人对话", "prompt_en": "Michael Parkinson talks to the person he most wants to  interview."}
+{"id": "others_16", "category": "others", "prompt_zh": "生成一张展示大众汽车集团及其子品牌结构的图片", "prompt_en": "Generate an image showing the structure of the Volkswagen  Group and its sub-brands."}
+{"id": "others_17", "category": "others", "prompt_zh": "生成《最终幻想VII》重制版风格的米德加贫民窟景象图片", "prompt_en": "Generate an image of the slums of Midgar, reminiscent of Final  Fantasy VII Remake."}
+{"id": "others_18", "category": "others", "prompt_zh": "生成一张展示Stellantis集团及其汽车子品牌结构的图片", "prompt_en": "Generate an image showing the structure of the Stellantis  Group and its automotive sub-brands."}
+{"id": "others_19", "category": "others", "prompt_zh": "生成一张展示谷歌母公司Alphabet的各子品牌相互连接的示意图。", "prompt_en": "Generate a diagram showing the interconnectedness of  Alphabet's sub-brands."}

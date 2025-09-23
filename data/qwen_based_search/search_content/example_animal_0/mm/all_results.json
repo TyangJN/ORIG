@@ -1,0 +1,352 @@
+{
+  "animal_0": {
+    "session_info": {
+      "session_id": "animal_0",
+      "input_prompt": "Generate a photo of frog lifecircle",
+      "created_at": "2025-09-22T12:14:53.200622",
+      "last_updated": "2025-09-22T12:29:46.001293",
+      "total_rounds": 1,
+      "status": "completed",
+      "completed_at": "2025-09-22T12:33:13.286861"
+    },
+    "rounds": [
+      {
+        "round_id": 1,
+        "round_plan": "<Thought>\nBreak down the prompt into categories:\n\n- Perceptual Features: The stages (egg, tadpole, froglet, adult) involve changes in shape, size, texture (e.g., slimy skin, gills, tail), and color (e.g., dark eggs, translucent tadpoles, green frogs). Posture and position vary across stages (e.g., floating eggs, swimming tadpoles, hopping frogs).\n- Scene & Objects: Four distinct entities (life stages), likely arranged sequentially in a natural aquatic/semi-aquatic environment (pond, water plants, mud, grass). Relationships show progression from egg to adult.\n- Temporal Processes: Metamorphosis—sequential transformation over time: egg → tadpole → froglet → adult frog. Includes physical changes like tail absorption, leg growth, lung development.\n- Stylistic Attributes: \"Photo\" implies realistic, naturalistic style with accurate biological detail; possibly a diagram-like layout or natural scene.\n\nMissing elements needing TEXT retrieval:\n- Specific visual characteristics of each stage (e.g., appearance of frogspawn clusters, developmental features of tadpoles vs. froglets) — needs factual clarification for accuracy.\n- Typical environmental context (e.g., pond vegetation, water depth, lighting conditions) — informs background realism.\n\nMissing elements needing IMAGE retrieval:\n- Visual appearance of frog life cycle stages in sequence — to ensure correct anatomical representation and staging.\n- Realistic natural setting for frog metamorphosis (e.g., pond with frogspawn, tadpoles, froglets) — to guide composition and environmental details.\n\nJustification:\n- TEXT retrieval is used for defining visual traits and environmental context that are not explicitly known but necessary for accurate depiction.\n- IMAGE retrieval is used for direct visual reference of stage appearances and habitat layout to support realistic rendering.\n</Thought>\n\n<Sub-Questions>\n1. What are the key visual characteristics of frogspawn, tadpoles, froglets, and adult frogs during metamorphosis?\n2. What does a natural frog life cycle scene look like in a pond environment?\n3. How is the frog life cycle typically illustrated in scientific diagrams or nature photography?\n</Sub-Questions>\n\n<Search Plan>\n<TextViews>\nText Retrieval: key visual characteristics of frogspawn tadpoles froglets adult frogs\nText Retrieval: typical pond environment for frog metamorphosis\n</TextViews>\n\n<Image Retrievals>\nImage Retrieval: frog life cycle stages in pond\nImage Retrieval: frogspawn tadpole froglet adult frog sequence\n</Image Retrievals>",
+        "round_result": {
+          "txt_results": "Frogspawn appears as clusters of translucent, jelly-like eggs with visible black embryos, floating in shallow, still water among vegetation. Tadpoles are small, streamlined larvae with long tails and gills, initially legless but developing back legs first, then front legs. Froglets have all four legs but retain a shrinking tail, transitioning from aquatic to semi-terrestrial life. Adult frogs are fully formed with powerful hind legs, smooth skin, no tail, and lungs for breathing on land. The scene is set in a natural pond environment with shallow water, aquatic plants, and muddy banks, where frogspawn clumps float near the surface. This habitat supports metamorphosis, especially in temporary or semi-permanent ponds with low predator density. The stages are arranged sequentially, showing progression from egg to adult in a realistic, naturalistic setting.",
+          "img_results": [
+            {
+              "title": "TIME for Kids | A Frog's Life",
+              "img_path": "{your_path_to_project}/data/qwen_based_search/search_content/animal_0/mm/pics/round1_sq0_1.png"
+            },
+            {
+              "title": "Frog Life Cycle. Sequence of Stages of Development of Frog from ...",
+              "img_path": "{your_path_to_project}/data/qwen_based_search/search_content/animal_0/mm/pics/round1_sq1_3.png"
+            }
+          ]
+        },
+        "sub_queries": [
+          {
+            "sub_query_id": "r1_sq0_txt",
+            "query": "key visual characteristics of frogspawn tadpoles froglets adult frogs",
+            "search_type": "text",
+            "search_results": [
+              {
+                "title": "The Frog Life Cycle for Kids",
+                "link": "https://www.natgeokids.com/uk/discover/science/nature/frog-life-cycle/",
+                "snippet": "In the frogspawn, the baby frogs start out as tiny black dots surrounded by a jelly-like substance. Over time, they become comma-shaped, as their tails begin to ...",
+                "position": 1
+              },
+              {
+                "title": "Frog Life Cycle | Teaching Wiki",
+                "link": "https://www.twinkl.com.sg/teaching-wiki/frog-life-cycle",
+                "snippet": "A frog's life cycle has four amazing stages. From a jelly-like egg, onto a wriggly tadpole, then a tiny froglet until finally they become an adult frog.",
+                "position": 2
+              },
+              {
+                "title": "Frog",
+                "link": "https://en.wikipedia.org/wiki/Frog",
+                "snippet": "Adult frogs have a stout body, protruding eyes, anteriorly-attached tongue, limbs folded underneath, and no tail (the \"tail\" of tailed frogs is an extension of ...",
+                "position": 3
+              },
+              {
+                "title": "The Lifecycle of a Frog",
+                "link": "https://www.lrwt.org.uk/blog/lifecycle-frog",
+                "snippet": "The tiny black dots within the frogspawn are the earliest development of a young frog, known as tadpoles. The eggs change to an oval shape as ...",
+                "date": "16 Mar 2022",
+                "position": 4
+              },
+              {
+                "title": "Frog Life Cycle Diagram",
+                "link": "https://www.dictionary.archivists.org/Textbook/22tNz2/305045/frog_life_cycle_diagram.pdf",
+                "snippet": "Features include the egg clusters, tadpoles with tails, development of legs, and the transition to adult frogs with fully developed limbs. How ...",
+                "date": "8 Sept 2025",
+                "position": 5
+              },
+              {
+                "title": "Life Cycle of a Frog: Explained",
+                "link": "https://www.blueplanetaquarium.com/education/life-cycle-of-a-frog-explained/",
+                "snippet": "The frogspawn starts out as tiny black dots in a jelly-like substance. The jelly itself serves many purposes for the eggs. Not only does it keep ...",
+                "date": "14 Jun 2023",
+                "position": 6
+              },
+              {
+                "title": "Tadpole to frog: development stages and metamorphosis - Saga",
+                "link": "https://www.saga.co.uk/magazine/gardens/the-tadpole?srsltid=AfmBOopxe6IwnHqxTsJgL0ubua5URA2GW0Rl6lz72E4o9nKVp_3oTFw7",
+                "snippet": "Froglet, week 14: 12 weeks after hatching the tadpole now looks like a tiny frog with a tadpole's tail. The lungs should have also developed by ...",
+                "date": "3 Jun 2024",
+                "position": 7
+              },
+              {
+                "title": "Frog Life Cycle Diagram",
+                "link": "https://www.dictionary.archivists.org/Fulldisplay/22tNz2/305045/frog_life_cycle_diagram.pdf",
+                "snippet": "Froglet Stage​​ The froglet is a transitional stage between tadpole and adult frog. It resembles a small frog with a tail that is gradually reabsorbed.",
+                "position": 8
+              },
+              {
+                "title": "How to find frogspawn, tadpoles and froglets",
+                "link": "https://www.nhm.ac.uk/discover/frogspawn-tadpoles-and-froglets.html",
+                "snippet": "They change from darker colours to a mottled golden brown as they age. This distinguishes them from the black common toad tadpoles found in similar habitats.",
+                "position": 9
+              },
+              {
+                "title": "Frog Spawn",
+                "link": "https://tadpoles.wp.st-andrews.ac.uk/photographs/frog-spawn-pictures/",
+                "snippet": "Scientists can observe frog spawn during their development to understand more about how tadpole develop in the egg. Take a look at these pictures by Alan ...",
+                "position": 10
+              }
+            ],
+            "selected_webs": [
+              {
+                "url": "https://www.twinkl.com.sg/teaching-wiki/frog-life-cycle",
+                "title": "Frog Life Cycle | Teaching Wiki",
+                "content": "A frog's life cycle has four amazing stages. From a jelly-like egg, onto a wriggly tadpole, then a tiny froglet until finally they become an adult frog."
+              }
+            ],
+            "sub_query_result": "**Key Visual Characteristics of Frogspawn, Tadpoles, Froglets, and Adult Frogs:**\n\n- **Frogspawn**: Clusters of tiny, jelly-like eggs, often round in shape, with visible black dots (developing embryos) inside. They are typically found in shallow, still water among vegetation and appear as translucent or clear masses.\n  \n- **Tadpoles**: Larval stage with long tails used for swimming, gills for breathing underwater, and no legs initially. As they develop, they grow back legs first, then front legs. Their bodies are small and streamlined, and they feed on plant material.\n\n- **Froglets**: Transitional stage between tadpole and adult frog. They have developed all four legs, but their tail is still present and gradually shrinking. They begin to breathe air using lungs and may have a mix of aquatic and terrestrial features.\n\n- **Adult Frogs**: Fully grown frogs with strong, powerful hind legs adapted for jumping and swimming. They have no tail, smooth skin that helps with moisture retention, and lungs for breathing on land. They can live both in water and on land, returning to water for breeding. Adult frogs have large eyes, a wide mouth, and a compact body.\n\nThese stages represent the complete metamorphosis from egg to adult frog, highlighting key physical changes in each phase."
+          },
+          {
+            "sub_query_id": "r1_sq1_txt",
+            "query": "typical pond environment for frog metamorphosis",
+            "search_type": "text",
+            "search_results": [
+              {
+                "title": "The Lifecycle of a Frog",
+                "link": "https://www.lrwt.org.uk/blog/lifecycle-frog",
+                "snippet": "In winter, they hibernate in pond mud or under log piles and in spring, they lay their eggs in big 'rafts' of spawn. The life cycle of a frog ...",
+                "date": "16 Mar 2022",
+                "position": 1
+              },
+              {
+                "title": "Raising Tadpoles in Containers and Ponds",
+                "link": "https://www.frogsafe.org.au/index.php/ponds-tadpoles/raising-tadpoles-in-containers-and-ponds",
+                "snippet": "A rough rule-of-thumb is no more than 2 tadpoles per litre of water - so only collect what you have containers to accommodate.",
+                "position": 2
+              },
+              {
+                "title": "metamorphosis",
+                "link": "https://www.froglife.org/tag/metamorphosis/",
+                "snippet": "This adaptation provides common frog tadpoles with the ability to withstand the cooler pond conditions at high altitude over the winter and therefore lead to ...",
+                "position": 3
+              },
+              {
+                "title": "Effects of tadpole density, predation and pond drying",
+                "link": "https://www.sciencedirect.com/science/article/pii/S1617138104700114",
+                "snippet": "by J Loman · 2002 · Cited by 31 — This study investigates factors of importance for tadpoles survival and metamorph production in the common frog Rana temporaria.",
+                "position": 4
+              },
+              {
+                "title": "Pond drying cues and their effects on growth and ...",
+                "link": "https://orbi.uliege.be/bitstream/2268/210161/1/J_Zoology_2017_Author-version.pdf",
+                "snippet": "by D Székely · 2017 · Cited by 63 — Our results are in accordance with Wilbur & Collins' model (1973) for amphibian metamorphosis, which assumes that tadpoles encountering favourable conditions ...",
+                "position": 5
+              },
+              {
+                "title": "Guide to Frogs and Toads: Spawning Seasons and Care ...",
+                "link": "https://www.aquapond.co.uk/pond-blog/guide-to-frogs-and-toads-when-do-they-spawn",
+                "snippet": "Frogs and toads will be attracted to a pond that mimics their natural environment. A diverse habitat encourages healthy breeding and supports various ...",
+                "position": 6
+              },
+              {
+                "title": "Tadpole to frog: development stages and metamorphosis",
+                "link": "https://www.saga.co.uk/magazine/gardens/the-tadpole?srsltid=AfmBOooAFiazc5reMJ5DJio2gIIXFvDC6etpz8h4Uf0F6qTifDkmCz4s",
+                "snippet": "If you have a wildlife-friendly garden pond, one of the biggest miracles of nature is likely to be happening in it in early spring. The frogs ...",
+                "date": "3 Jun 2024",
+                "position": 7
+              },
+              {
+                "title": "Croaking Science: Overwintering in Frog Tadpoles",
+                "link": "https://www.froglife.org/2018/07/27/croaking-science-overwintering-in-frog-tadpoles/",
+                "snippet": "This adaptation provides common frog tadpoles with the ability to withstand the cooler pond conditions at high altitude over the winter and ...",
+                "date": "27 Jul 2018",
+                "position": 8
+              },
+              {
+                "title": "Localized carry‐over effects of pond drying on survival, growth ...",
+                "link": "https://esajournals.onlinelibrary.wiley.com/doi/10.1002/ecs2.4224",
+                "snippet": "by EH Le Sage · 2022 · Cited by 12 — Northern leopard frogs did not display developmental plasticity in response to reduced water levels and instead experienced decreased survival.",
+                "position": 9
+              },
+              {
+                "title": "What happens to frogs and dragonflies when their pond ...",
+                "link": "https://www.nhm.ac.uk/discover/where-does-wildlife-go-when-a-pond-disappears.html",
+                "snippet": "Frogs and toads need a pond to breed. If a pond dries out or is filled in, these amphibians are at risk if they don't find a new pond.",
+                "position": 10
+              }
+            ],
+            "selected_webs": [
+              {
+                "url": "https://www.sciencedirect.com/science/article/pii/S1617138104700114",
+                "title": "Effects of tadpole density, predation and pond drying",
+                "content": "by J Loman · 2002 · Cited by 31 — This study investigates factors of importance for tadpoles survival and metamorph production in the common frog Rana temporaria."
+              }
+            ],
+            "sub_query_result": "A typical pond environment for frog metamorphosis, particularly for the common frog (*Rana temporaria*), includes:\n\n- **Temporary or semi-permanent ponds**: These are often shallow and may dry out before metamorphosis, but they support high metamorph production when conditions allow. Temporary ponds are especially important despite frequent recruitment failure.\n- **Low predator density**: Predation by fish, newts, sticklebacks, and invertebrates negatively affects tadpole survival and metamorph production. Ponds with fewer predators tend to have higher survival rates.\n- **Variable permanence**: While permanent ponds offer stability, temporary ponds can produce more metamorphs when they do not dry out too early—especially if predation pressure is low.\n- **Natural breeding habitats**: Frogs lay spawn clumps in still or slow-moving water. The number of spawn clumps correlates with future population size, indicating reproductive success.\n- **Aquatic stage dynamics**: Tadpole survival is not strongly limited by density dependence, but it is significantly influenced by predation and pond drying.\n- **Terrestrial habitat importance**: Although aquatic stages are critical, adult survival and terrestrial habitat quality also play key roles in population dynamics.\n\nThese features collectively shape a successful environment for frog metamorphosis, emphasizing the balance between water persistence, predation risk, and reproductive output."
+          },
+          {
+            "sub_query_id": "r1_sq0_img",
+            "query": "frog life cycle stages in pond",
+            "search_type": "image",
+            "search_results": [
+              {
+                "img_id": "r1_sq0_0",
+                "img_url": "https://www.blueplanetaquarium.com/wp-content/uploads/2023/06/frog-life-cycle-BPA-1024x683.png",
+                "img_path": "{your_path_to_project}/data/qwen_based_search/search_content/animal_0/mm/pics/round1_sq0_0.png",
+                "title": "Life Cycle of a Frog: Explained - Blue Planet Aquarium",
+                "imageWidth": 1024,
+                "imageHeight": 683,
+                "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxu-dbVbCGvBXlcwf1pnopmymBjWgdaczlmbHVgsa1EHLB5NI&s",
+                "thumbnailWidth": 275,
+                "thumbnailHeight": 183,
+                "source": "Blue Planet Aquarium",
+                "domain": "www.blueplanetaquarium.com",
+                "link": "https://www.blueplanetaquarium.com/education/life-cycle-of-a-frog-explained/",
+                "googleUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.blueplanetaquarium.com%2Fwp-content%2Fuploads%2F2023%2F06%2Ffrog-life-cycle-BPA-1024x683.png&tbnid=dG3qLOxIX6YsrM&imgrefurl=https%3A%2F%2Fwww.blueplanetaquarium.com%2Feducation%2Flife-cycle-of-a-frog-explained%2F&docid=lTQxohnbWUblCM&w=1024&h=683&ved=0ahUKEwjCn4OywuuPAxUVFlkFHYSWDg0QvFcIAigA"
+              },
+              {
+                "img_id": "r1_sq0_1",
+                "img_url": "https://www.timeforkids.com/wp-content/uploads/2018/03/frog-life-cycle.jpg?w=928",
+                "img_path": "{your_path_to_project}/data/qwen_based_search/search_content/animal_0/mm/pics/round1_sq0_1.png",
+                "title": "TIME for Kids | A Frog's Life",
+                "imageWidth": 928,
+                "imageHeight": 932,
+                "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1OQb-cG2zgzs1fiSG40LgFJBkCrkHuKPChYkv5EsnSU5KShxz&s",
+                "thumbnailWidth": 224,
+                "thumbnailHeight": 225,
+                "source": "TIME for Kids",
+                "domain": "www.timeforkids.com",
+                "link": "https://www.timeforkids.com/k1/life-cycles/",
+                "googleUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.timeforkids.com%2Fwp-content%2Fuploads%2F2018%2F03%2Ffrog-life-cycle.jpg%3Fw%3D928&tbnid=fbK4y7-2F4VsSM&imgrefurl=https%3A%2F%2Fwww.timeforkids.com%2Fk1%2Flife-cycles%2F&docid=ALnXasuUBqob7M&w=928&h=932&ved=0ahUKEwjCn4OywuuPAxUVFlkFHYSWDg0QvFcIAygB"
+              },
+              {
+                "img_id": "r1_sq0_2",
+                "img_url": "https://engnovatewebsitestorage.blob.core.windows.net/ielts-writing-task-1-images/de1f69e1c9a28256",
+                "img_path": "{your_path_to_project}/data/qwen_based_search/search_content/animal_0/mm/pics/round1_sq0_2.png",
+                "title": "The diagram below shows the life cycle of a frog. Summarise the ...",
+                "imageWidth": 512,
+                "imageHeight": 360,
+                "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEXsXMS2X2GhDLEb5IIfmnbtnaaATnoQ6o-uCcJYdIombgfPA&s",
+                "thumbnailWidth": 268,
+                "thumbnailHeight": 188,
+                "source": "Engnovate",
+                "domain": "engnovate.com",
+                "link": "https://engnovate.com/ugc-ielts-writing-task-1-topics/the-diagram-below-shows-the-life-cycle-of-a-frog-65e5387935aed/",
+                "googleUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fengnovatewebsitestorage.blob.core.windows.net%2Fielts-writing-task-1-images%2Fde1f69e1c9a28256&tbnid=1WAbQ7cjtObM5M&imgrefurl=https%3A%2F%2Fengnovate.com%2Fugc-ielts-writing-task-1-topics%2Fthe-diagram-below-shows-the-life-cycle-of-a-frog-65e5387935aed%2F&docid=f1bbbXdpy6wZ_M&w=512&h=360&ved=0ahUKEwjCn4OywuuPAxUVFlkFHYSWDg0QvFcIBCgC"
+              },
+              {
+                "img_id": "r1_sq0_3",
+                "img_url": "https://as1.ftcdn.net/jpg/04/37/58/38/1000_F_437583836_qq0FCrTtRTLkgZAEzJYIF9zWlpgubzaH.jpg",
+                "img_path": "{your_path_to_project}/data/qwen_based_search/search_content/animal_0/mm/pics/round1_sq0_3.png",
+                "title": "Frog life cycle. Sequence of stages of development of frog from ...",
+                "imageWidth": 1000,
+                "imageHeight": 1000,
+                "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQpWPxf12W7kx-kvfGArFYmmd61TuSSEC3PIv-7lZbkZXrayEFl&s",
+                "thumbnailWidth": 225,
+                "thumbnailHeight": 225,
+                "source": "Adobe Stock",
+                "domain": "stock.adobe.com",
+                "link": "https://stock.adobe.com/images/frog-life-cycle-sequence-of-stages-of-development-of-frog-from-egg-to-adult-animal-in-pond-with-titles/437583836",
+                "googleUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fas1.ftcdn.net%2Fjpg%2F04%2F37%2F58%2F38%2F1000_F_437583836_qq0FCrTtRTLkgZAEzJYIF9zWlpgubzaH.jpg&tbnid=Uuz0coxt3Qn2-M&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fimages%2Ffrog-life-cycle-sequence-of-stages-of-development-of-frog-from-egg-to-adult-animal-in-pond-with-titles%2F437583836&docid=bD9RSt8SU1qwPM&w=1000&h=1000&ved=0ahUKEwjCn4OywuuPAxUVFlkFHYSWDg0QvFcIBSgD"
+              }
+            ],
+            "selected_reason": "<reason>\nImage 1 is the most relevant because it features real photographs of each stage of the frog life cycle—egg, tadpole, froglet, and adult frog—set in a naturalistic pond environment with clear visual details that match the description of frogspawn, tadpoles, and metamorphosis. The images are high-quality and informative, showing the progression in a realistic context.\n</reason>\n<image_id>\n1\n</image_id>",
+            "sub_query_result": {
+              "image_id": "r1_sq0_1",
+              "image_path": "{your_path_to_project}/data/qwen_based_search/search_content/animal_0/mm/pics/round1_sq0_1.png"
+            }
+          },
+          {
+            "sub_query_id": "r1_sq1_img",
+            "query": "frogspawn tadpole froglet adult frog sequence",
+            "search_type": "image",
+            "search_results": [
+              {
+                "img_id": "r1_sq1_0",
+                "img_url": "https://www.shutterstock.com/image-vector/frog-life-cycle-sequence-stages-260nw-1925865251.jpg",
+                "img_path": "{your_path_to_project}/data/qwen_based_search/search_content/animal_0/mm/pics/round1_sq1_0.png",
+                "title": "2+ Hundred Lifecycle Frog Royalty-Free Images, Stock Photos ...",
+                "imageWidth": 861,
+                "imageHeight": 280,
+                "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbhlpn9AMMXP5l3cAhgP8m1B6NJ7N2A_jAq8doruIw1ugVqi_g&s",
+                "thumbnailWidth": 394,
+                "thumbnailHeight": 128,
+                "source": "Shutterstock",
+                "domain": "www.shutterstock.com",
+                "link": "https://www.shutterstock.com/search/lifecycle-frog",
+                "googleUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Ffrog-life-cycle-sequence-stages-260nw-1925865251.jpg&tbnid=1D3aDGs34PaE8M&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Flifecycle-frog&docid=d__xIoROGK0bPM&w=861&h=280&ved=0ahUKEwj_5bmpw-uPAxUhmokEHQnwB6sQvFcIAigA"
+              },
+              {
+                "img_id": "r1_sq1_1",
+                "img_url": "https://www.shutterstock.com/image-vector/frog-life-cycle-frogs-eggs-260nw-2511145873.jpg",
+                "img_path": "{your_path_to_project}/data/qwen_based_search/search_content/animal_0/mm/pics/round1_sq1_1.png",
+                "title": "2+ Thousand Life Cycle Frog Royalty-Free Images, Stock Photos ...",
+                "imageWidth": 260,
+                "imageHeight": 280,
+                "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQz3N9aCu8R1ptPcOSCuJQgZFY7c8FgF6bF46vcTCngqneJyFCg&s",
+                "thumbnailWidth": 216,
+                "thumbnailHeight": 233,
+                "source": "Shutterstock",
+                "domain": "www.shutterstock.com",
+                "link": "https://www.shutterstock.com/search/life-cycle-frog",
+                "googleUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.shutterstock.com%2Fimage-vector%2Ffrog-life-cycle-frogs-eggs-260nw-2511145873.jpg&tbnid=i1_3N-KJXJjDeM&imgrefurl=https%3A%2F%2Fwww.shutterstock.com%2Fsearch%2Flife-cycle-frog&docid=HoCJffFDVSMynM&w=260&h=280&ved=0ahUKEwj_5bmpw-uPAxUhmokEHQnwB6sQvFcIAygB"
+              },
+              {
+                "img_id": "r1_sq1_2",
+                "img_url": "https://www.timeforkids.com/wp-content/uploads/2023/07/K1_240202_lifecycle_of_a_frog.jpg",
+                "img_path": "{your_path_to_project}/data/qwen_based_search/search_content/animal_0/mm/pics/round1_sq1_2.png",
+                "title": "TIME for Kids | Lifecycle of a Frog",
+                "imageWidth": 1920,
+                "imageHeight": 1280,
+                "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9uET6t8aFQseOHE_-eowQOiqVYFajNPLdB6bYj74gJi2y9GJ8&s",
+                "thumbnailWidth": 275,
+                "thumbnailHeight": 183,
+                "source": "TIME for Kids",
+                "domain": "www.timeforkids.com",
+                "link": "https://www.timeforkids.com/k1/lifecycle-of-a-frog/",
+                "googleUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.timeforkids.com%2Fwp-content%2Fuploads%2F2023%2F07%2FK1_240202_lifecycle_of_a_frog.jpg&tbnid=agsMChc983CDTM&imgrefurl=https%3A%2F%2Fwww.timeforkids.com%2Fk1%2Flifecycle-of-a-frog%2F&docid=SufU-jJrlFo5LM&w=1920&h=1280&ved=0ahUKEwj_5bmpw-uPAxUhmokEHQnwB6sQvFcIBCgC"
+              },
+              {
+                "img_id": "r1_sq1_3",
+                "img_url": "https://thumbs.dreamstime.com/b/%D0%B4%D0%BB%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B0-209772583.jpg",
+                "img_path": "{your_path_to_project}/data/qwen_based_search/search_content/animal_0/mm/pics/round1_sq1_3.png",
+                "title": "Frog Life Cycle. Sequence of Stages of Development of Frog from ...",
+                "imageWidth": 800,
+                "imageHeight": 811,
+                "thumbnailUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-N0BphEJFjbR4InjQq-O-MGMwmSWpci0xrl8a-_Vtz9XZ308&s",
+                "thumbnailWidth": 223,
+                "thumbnailHeight": 226,
+                "source": "Dreamstime.com",
+                "domain": "www.dreamstime.com",
+                "link": "https://www.dreamstime.com/%D0%B4%D0%BB%D1%8F-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D0%BD%D0%B5%D1%82%D0%B0-image209772583",
+                "googleUrl": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fthumbs.dreamstime.com%2Fb%2F%25D0%25B4%25D0%25BB%25D1%258F-%25D0%25B8%25D0%25BD%25D1%2582%25D0%25B5%25D1%2580%25D0%25BD%25D0%25B5%25D1%2582%25D0%25B0-209772583.jpg&tbnid=pShfENPU-nzSkM&imgrefurl=https%3A%2F%2Fwww.dreamstime.com%2F%25D0%25B4%25D0%25BB%25D1%258F-%25D0%25B8%25D0%25BD%25D1%2582%25D0%25B5%25D1%2580%25D0%25BD%25D0%25B5%25D1%2582%25D0%25B0-image209772583&docid=2Vn5wQlrmcqxOM&w=800&h=811&ved=0ahUKEwj_5bmpw-uPAxUhmokEHQnwB6sQvFcIBSgD"
+              }
+            ],
+            "selected_reason": "<reason>\nImage 3 is the most relevant because it clearly depicts the sequential stages of the frog life cycle—frogspawn, embryo, tadpole, tadpole with legs, froglet with tail, and adult frog—in a linear, easy-to-follow format. The visual clarity and labeling make it ideal for understanding the progression from egg to adult in a naturalistic pond setting.\n</reason>\n\n<image_id>\n3\n</image_id>",
+            "sub_query_result": {
+              "image_id": "r1_sq1_3",
+              "image_path": "{your_path_to_project}/data/qwen_based_search/search_content/animal_0/mm/pics/round1_sq1_3.png"
+            }
+          }
+        ],
+        "round_summary": {
+          "sub_queries_count": 4,
+          "text_searches": 2,
+          "image_searches": 2,
+          "timestamp": "2025-09-22T12:29:46.001182"
+        }
+      }
+    ],
+    "final_result": {
+      "img_title": [
+        "TIME for Kids | A Frog's Life",
+        "Frog Life Cycle. Sequence of Stages of Development of Frog from ..."
+      ],
+      "img_path": [
+        "{your_path_to_project}/data/qwen_based_search/search_content/animal_0/mm/pics/round1_sq0_1.png",
+        "{your_path_to_project}/data/qwen_based_search/search_content/animal_0/mm/pics/round1_sq1_3.png"
+      ],
+      "coarse_filtered_content": "The frog life cycle consists of four stages: egg, tadpole, froglet, and adult frog. Eggs are laid in clusters called frogspawn—translucent, jelly-like masses containing visible black embryos—floating in shallow, still water among aquatic vegetation. Tadpoles hatch with long tails, gills, and no legs; they develop back legs first, then front legs, and gradually absorb their tail as they grow. Froglets have all four legs but retain a shrinking tail, transitioning from aquatic to semi-terrestrial life. Adult frogs are fully formed with strong hind legs, smooth skin, no tail, and lungs for breathing on land. The environment is a natural pond with shallow water, lily pads, submerged plants, muddy banks, and surface vegetation. The stages are arranged sequentially in a circular or linear progression, showing metamorphosis from egg to adult. The visual style should be realistic and photo-like, with accurate anatomical details and natural lighting."
+    }
+  }
+}
