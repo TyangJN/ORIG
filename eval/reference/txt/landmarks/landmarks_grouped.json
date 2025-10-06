@@ -1,0 +1,2632 @@
+{
+  "landmarks_0": {
+    "prompt_en": "Generate a picture of the newly unearthed Terracotta Warriors",
+    "prompt_zh": "生成一张新出土的兵马俑图片",
+    "txt_reference": "Terracotta warriors exhibit an astonishing individuality. \nTerracotta warriors have standing, kneeling, and riding postures.\nTerracotta horses are divided into: chariot horses and cavalry horses.\nThere are many types of terracotta warriors , such as infantry, cavalry and charioteers.\nafter the excavation of the Terracotta Army, the painted surface present on some terracotta figures began to flake and fade.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The Terracotta Horses have different postures, showing amazing individuality.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:The Terracotta Warriors have different postures.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:There are different types of horse figurines",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:Terracotta Warriors have different types of soldiers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:Terracotta warriors and horses show signs of fading after excavation.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False:The terracotta warriors and horses  are colored in <image_0>.",
+        "img_path": "/reference/img/landmarks_0_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_1": {
+    "prompt_en": "Generate an image of Mount Rushmore in the year 1930",
+    "prompt_zh": "生成一张1930年的拉什莫尔山图片",
+    "txt_reference": "In 1930, the figure of Washington was completed.\nThe four presidents carved on Mount Rushmore are Washington, Jefferson, Roosevelt, and Lincoln.\nMount Rushmore is largely composed of granite.\nIn 1930, the statue of Jefferson was not under construction.\nIn 1930, the statue of Roosevelt was not under construction.\nIn 1930, the statue of Lincoln was not under construction.\nIn 1930, Mount Rushmore was still under construction.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The statue of Washington is completed.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False:The picture contains statues of presidents.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:The surface of Mount Rushmore is mainly composed of granite.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:There is no statue of Jefferson on Mount Rushmore.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:There is no statue of Roosevelt on Mount Rushmore.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:There is no statue of Lincoln on Mount Rushmore.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False:Mount Rushmore is under construction.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False:The generated landmark in the image is similar to the one in<image_0>.",
+        "img_path": "/reference/img/landmarks_1_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_10": {
+    "prompt_en": "Generate an image of the Humble Administrator’s Garden  (Zhuozheng Yuan) reimagined in the visual style of The Witness video game",
+    "prompt_zh": "生成一张以游戏《证人》的视觉风格重新构想的拙政园图片",
+    "txt_reference": "The garden contains numerous pavilions and bridges\nThe garden set among a maze of connected pools and islands.\nThere are four particular components: the stone, the plant, the architecture and the water.\nThe game's art style features bright colors and high saturation.\nThe art style was influenced by a simplification approach, eliminating enough details but keeping overall shapes to make objects clearly recognizable.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:There are pavilions in the garden.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:There is a bridge in the garden.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:There is a pond in the garden.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False:There is a small island in the garden.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:There are rocks in the garden.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:There are plants in the garden.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False:There are Chinese-style buildings in the garden.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False:There are rocks in the garden.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False:The picture has bright colors or high saturation.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False:The style of the picture is simple with not many details, retaining only the overall shape.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False:The style of the picture is similar to that of <image_0>.",
+        "img_path": "/reference/img/landmarks_10_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False:The generated Humble Administrator's Garden has similarities with the one in <image_0>.",
+        "img_path": "/reference/img/landmarks_10_1.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_11": {
+    "prompt_en": "Generate a top-down view of Changbai Mountain",
+    "prompt_zh": "生成一张长白山的俯视图",
+    "txt_reference": "At its core, Changbai Mountain is an active stratovolcano, a towering composite cone built from layers of hardened lava, tephra, pumice, and volcanic ash.\nOn top of the main volcanic cone of Changbai Mountain lies the azure Tianchi Lake.\nFlowing from a single gap in the northern rim of the caldera, the waters of Tianchi begin a journey that culminates in one of the mountain's most spectacular sights: the Changbai Waterfall.\nHot springs are scattered all over the slopes of Changbai Mountain.\nRadiating from the central peak, numerous river valleys and gorges carve their way down the mountain, creating intricate patterns on the landscape. \n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:Changbai Mountain is a towering composite cone.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:The azure Tianchi Lake is located in the center of the Changbai Mountain crater.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:The Changbai Waterfall can be seen on the northern slope of Changbai Mountain.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False:Hot springs are scattered all over the slopes of Changbai Mountain.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:Numerous river valleys and canyons radiate outward from the center of the mountain peak.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:The Changbai Mountain landscape in this picture is similar to that in <image_0>.",
+        "img_path": "/reference/img/landmarks_11_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_12": {
+    "prompt_en": "Generate a scenic image of Luo Ji's manor from The Three-Body  Problem.",
+    "prompt_zh": "生成一张《三体》中罗辑庄园的风景图片。",
+    "txt_reference": "The manor is surrounded by precipitous snow-capped mountains, which shine brightly and silvery against the backdrop of a blue sky.\nThere is an extensive lake nearby, and the lake water is deep blue.\nSurrounding the lake are vast stretches of forests and grasslands, forming a landscape of primitive ecology.\nThe manor is equipped with a stable\nThe manor is equipped with a helicopter pad\nThere are boats on the lake.\nThe house design can be of a modern style.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The manor is surrounded by precipitous snow-capped mountains",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:There is an extensive lake nearby.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:The lake water is deep blue.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:There are vast forests surrounding the lake.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:There are vast grasslands surrounding the lake.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:The manor is equipped with a stable",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False:The manor is equipped with a helicopter pad",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False:The manor is equipped with a helicopter pad",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False:The house design can be of a modern style.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False:The generated estate in the image is similar to the one in<image_0>.",
+        "img_path": "/reference/img/landmarks_12_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_13": {
+    "prompt_en": "Generate a picture of the current president of Harvard  University standing in front of Harvard Park.",
+    "prompt_zh": "生成一张哈佛大学现任校长站在哈佛公园前的图片。",
+    "txt_reference": "The center of Harvard Yard features a broad grassy plaza, which is used for graduation ceremonies.\nMuch of the Yard’s look comes from simple red-brick Georgian/Federal dorms such as Hollis Hall (1763), creating long brick façades along tree-lined paths.\nAlan M. Garber wears round, thin-framed glasses.\nAlan M. Garber has short, gray hair and a receding hairline.\nThe current president of Harvard University is Alan M. Garber.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The center of Harvard Yard features a broad lawn.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:There are many red-brick buildings in Harvard Yard.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:The person in the picture wears round, thin-framed glasses.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:The person in the picture has short, gray hair and a receding hairline.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "The buildings at Harvard University in the image have exquisite wall reliefs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: There is a bronze statue of John Harvard in the garden.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The Harvard Park shown in the image lacks a traditional enclosing wall.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False:The person in the picture is similar to the one in <image_0>.",
+        "img_path": "/reference/img/landmarks_13_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False:The generated building in the image is similar to the one in <image_0>.",
+        "img_path": "/reference/img/landmarks_13_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_14": {
+    "prompt_en": "Generate a picture of the current president of Waseda  University standing in front of the statue of Shigenobu Okuma.",
+    "prompt_zh": "生成一张早稻田大学现任校长站在大隈重信雕像前的图片。",
+    "txt_reference": "The statue of Shigenobu Okuma is a full-body bronze statue.\nThe Okuma statue is dressed in an academic robe.\nThe Okuma statue leans on a walking stick.\nThe pedestal (base) is made of cherry blossom granite.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The statue of Shigenobu Okuma is a full-body bronze statue.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:The Okuma statue is dressed in an academic robe.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:The Okuma statue leans on a walking stick.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False:The pedestal (base) is made of cherry blossom granite.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:The statue in the picture is similar to the one in <image_0>.",
+        "img_path": "/reference/img/landmarks_14_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:The principal in the picture is similar to the one in <image_0>.",
+        "img_path": "/reference/img/landmarks_14_1.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_15": {
+    "prompt_en": "Generate an image of the current Vice-Chancellor of the  University of Nottingham standing in front of the Trent Building.",
+    "prompt_zh": "生成一张诺丁汉大学现任校长站在特伦特大楼前的图片。",
+    "txt_reference": "The structure of the Trent Building consists of a recessed central block flanked by wings and topped by a tall clock tower.\nThe facing of the Trent Building is Portland stone (a type of white limestone).\nThe main facade of the Trent Building features a prominent portico.\nThe Trent Building has an overall volume of 2 floors.\nThe top of this building is a clock tower-style clock tower.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The Trent Building in the picture is a building with a symmetrical structure.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:A type of white limestone is used on the building's surface.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:The main facade of the Trent Building features a prominent portico.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:The Trent Building has an overall volume of 2 floors.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:The top of this building is a clock tower-style clock tower.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:The building in the picture is similar to the one in <image_0>.",
+        "img_path": "/reference/img/landmarks_15_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_16": {
+    "prompt_en": "Generate an image of the current president of the University  of Toronto standing in front of Robarts Library.",
+    "prompt_zh": "生成一张多伦多大学现任校长站在罗伯茨图书馆前的图片。",
+    "txt_reference": "The main structure sits on an equilateral triangular footprint and repeats triangular motifs throughout. \n A landmark of Brutalist architecture with an imposing, fortress-like presence long nicknamed “Fort Book.”\nThe openings of the windows are usually very small, like slits, which enhances the sense of isolation and fortress-like atmosphere.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The library in the picture features a repeated triangular structure.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:The library in the picture looks like a fortress.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:The openings of the windows in the library in the picture are relatively small.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:The library in the picture is similar to the one in <image_0>.",
+        "img_path": "/reference/img/landmarks_16_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:The University of Toronto President in the picture is the same person as the one in <image_0>.",
+        "img_path": "/reference/img/landmarks_16_1.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_17": {
+    "prompt_en": "Generate an image of Chaoran Building at night in the art  style of Minecraft.",
+    "prompt_zh": "生成一张超然楼夜景（Minecraft 风格）的图片。",
+    "txt_reference": "Chaoran Tower has a total of 7 floors and a height of approximately 51.7 meters.\nThere are white marble archaistic sculptures on the exposed terrace of Chaoran Tower.\nAfter dusk, the facade of Chaoran Tower is illuminated with a warm golden hue.\nThe art style of Minecraft is minimalist, and the textures of the blocks that make up the buildings are usually rendered in a low-resolution 16x16 pixel format.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The Chaoran Tower generated in the picture has a total of seven floors.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:There are white marble archaistic sculptures on the exposed terrace of Chaoran Tower.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The image shows a cultural event taking place in the plaza in front of the building.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False:Chaoran Tower emits a golden glow at night.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False:The Bagua City in the picture features a pixelated block style.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:Chaoran Tower in the picture is similar to the one in <image_0>.",
+        "img_path": "/reference/img/landmarks_17_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False:The painting style of the picture is consistent with that of <image_0>.",
+        "img_path": "/reference/img/landmarks_17_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_18": {
+    "prompt_en": "Generate a top-down view of the Chengdu Science Fiction Museum",
+    "prompt_zh": "生成一张成都科幻博物馆的俯视图。",
+    "txt_reference": "The Chengdu Science Fiction Museum is situated by Jingrong Lake, \"seemingly floating\" on the water surface.\nThe roof of the Chengdu Science Fiction Museum radiates in a fluid form from a central point, simulating an expanding nebula.\nThe overall outline of the Chengdu Science Fiction Museum is described as an asymmetrical seven-pointed star.\nThe Chengdu Science Fiction Museum features a shimmering metallic exterior.\nThere is a huge skylight in the center of the roof of the Chengdu Science Fiction Museum.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The Chengdu Science Fiction Museum in the picture seems to be floating on the water.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:The Chengdu Science Fiction Museum in the picture is shaped like a fluid nebula.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:The overall outline of the Chengdu Science Fiction Museum in the picture is an asymmetrical seven-pointed star.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:The Chengdu Science Fiction Museum features a shimmering metallic exterior.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:There is a huge skylight in the center of the roof of the Chengdu Science Fiction Museum.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:The Chengdu Science Fiction Museum in the picture is similar to the one in <image_0>.",
+        "img_path": "/reference/img/landmarks_18_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_19": {
+    "prompt_en": "Generate an image showing the appearance of Su Wu Desert  Scenic Area at night.",
+    "prompt_zh": "生成一张苏武沙漠风景区夜景的图片。",
+    "txt_reference": "The overall planning of Su Wu Desert Scenic Area is structured as \"one shining core and six interconnected zones\", including Star-Picking Town, Su Wu Town, Desert Agricultural Demonstration Zone, Desert Sculpture Museum/Park, \"Desert Happy Valley\" and Desertification Control Technology Exhibition Zone.\nAt night, when the lights are on, it feels like being in an interstellar corridor.\nThere are clusters of spherical cabins and double-humped tents in Su Wu Desert Scenic Area.\nThere are many abstract sculptures in the Sculpture Park of Su Wu Desert Scenic Area.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:In the image, the Suwu Desert Scenic Area has a shining core.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:The Suwu Desert Scenic Area is lit up at night, resembling a corridor of the starry river.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False:There are clusters of spherical cabins and double-humped tents in Su Wu Desert Scenic Area.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False:There are some statues in the Suwu Desert Scenic Area shown in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:The Suwu Desert Scenic Area in the picture is similar to <image_0>.",
+        "img_path": "/reference/img/landmarks_19_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_2": {
+    "prompt_en": "Generate an aerial view image of the Forbidden City",
+    "prompt_zh": "生成一张紫禁城的鸟瞰图",
+    "txt_reference": "The Forbidden City is a rectangle, measuring 961 m (3,153 ft) from north to south and 753 m (2,470 ft) from east to west\nalmost all roofs in the Forbidden City bear yellow glazed tiles.\nThe sloping ridges of building roofs are decorated with a line of statuettes led by a man riding a phoenix and followed by an imperial dragon.\nThere are four unique and delicate Jiao Lou (corner towers) overlooking the city inside and outside on the four corners.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The Forbidden City is a rectangle",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:Almost all the roofs in the Forbidden City have yellow glazed tiles.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:There are usually statues of dragons or phoenixes on the slopes of building roofs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False:There are four unique and delicate Jiao Lou (corner towers)",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False：The picture is presented from a top-down view angle like <image_0>.",
+        "img_path": "/reference/img/landmarks_2_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False：The layout of the generated image in the figure is consistent with that in <image_0>.",
+        "img_path": "/reference/img/landmarks_2_1.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_20": {
+    "prompt_en": "Generate an overhead view of Grape Island in China",
+    "prompt_zh": "生成一张中国葡萄岛的俯视图。",
+    "txt_reference": "Grape Island is connected to the mainland via a cross-sea scenic bridge.\nIt often appears in aerial photography as a ring/cluster with a slender \"grape-like\" landform and internal lagoons/piers.\nAs a large-scale yacht berthing base, Grape Island has more than 1,000 yacht berths. A large number of yachts are moored in the harbor, presenting a spectacular landscape.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:Grape Island is connected to the mainland via a cross-sea scenic bridge.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:The Grape Island in the picture can be seen with ring-shaped and grape-like forms.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:Many yachts are moored at Grape Island in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False:Grape Island generated in the picture is similar to <image_0>",
+        "img_path": "/reference/img/landmarks_20_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_21": {
+    "prompt_en": "Generate an image of 'the loneliest library' in the style of  Monument Valley.",
+    "prompt_zh": "生成一张纪念碑谷风格的“最孤独的图书馆”的图片。",
+    "txt_reference": "A solitary, bunker-like concrete volume stands alone on the open beach.\nThe Loneliest Library has two floors and covers an area of approximately 450 square meters.\nThe facade is bare concrete.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The library in the picture is built on the beach.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:The library in the picture has two floors.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:The facade is bare concrete.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:The library in the picture is similar to the one in <image_0>.",
+        "img_path": "/reference/img/landmarks_21_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:The painting style in the picture is consistent with that in <image_0>.",
+        "img_path": "/reference/img/landmarks_21_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_22": {
+    "prompt_en": "Generate an image showing the scenery described in Wang Wei's  Shi Zhi Sai Shang (On a Mission to the Frontier).",
+    "prompt_zh": "生成一张王维《使至塞上》中描写的风景的图片。",
+    "txt_reference": "The scene depicted in this poem shows a carriage heading for the frontier.\nIn the scene, the withered asters swept away by the wind fly beyond the frontier of the Han Dynasty.\nIn the scene, wild geese fly northward into the territory of the Hu people.\nIn the scene, a single wisp of smoke rises straight up in the vast desert.\nIn the scene, the setting sun hangs round over the endless Yellow River.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:There is a carriage in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:There are flying withered asters in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False:There are flying wild geese in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: A pair of well-known couplets once hung on either side of the ornate gateway pavilion.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False:The picture includes a round setting sun .",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:The picture contains an endless river.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False:The scene in this picture is similar to that in <image_0>.",
+        "img_path": "/reference/img/landmarks_22_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: Above the main gate hangs a horizontal plaque with black characters on a white background.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_23": {
+    "prompt_en": "Generate an image of the Whampoa Military Academy's gate in  the artistic style of Monument Valley.",
+    "prompt_zh": "生成一张纪念碑谷风格的黄埔军校校门的图片。",
+    "txt_reference": "There is a six-character plaque on the lintel of the gate of the Whampoa Military Academy, on which is inscribed \"The Military Academy for Army Officers\".\nThe main body of the gate consists of a single arched opening with a triangular pediment.\nSentry posts are installed on both sides of the school gate.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:There is a six-character plaque on the lintel of the gate of the Whampoa Military Academy, on which is inscribed \"The Military Academy for Army Officers\".",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:The main body of the gate consists of a single arched opening with a triangular pediment.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:Sentry posts are installed on both sides of the school gate.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The first line reads: \"升官发财请往他处.\"",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The second line reads: \"贪生怕死勿入斯门.\"",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: Behind the main gate are two rooms that served as guard rooms.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False:The current appearance of the gate of the Whampoa Military Academy as shown in <image_0>",
+        "img_path": "/reference/img/landmarks_23_0.png",
+        "modal": "I",
+        "class_id": 3
+      },
+      "question_10": {
+        "content": "True or False:The painting style in the picture is consistent with that in <image_0>.",
+        "img_path": "/reference/img/landmarks_23_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_24": {
+    "prompt_en": "Generate an image showing the landscape of the conceptual city  \"Diurnal Path Tower\".",
+    "prompt_zh": "生成一张概念城市“日行塔”的景观图片。",
+    "txt_reference": "The Analemma Tower is \"invertedly\" suspended from an asteroid via high-strength cables.\nThe upper part of the Analemma Tower adopts space-based solar panels.\nIts overall shape consists of slender, modular \"sky columns\".\nThe Analemma Tower is suspended in the air without touching the ground.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The Analemma Tower in the figure is suspended from an asteroid.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:The upper part of the Analemma Tower adopts space-based solar panels.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:The shape of the Analemma Tower in the figure is a slender \"celestial pillar\".",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:The Analemma Tower is suspended in the air without touching the ground.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:The Analemma Tower in the figure is similar to the one in <image_0>.",
+        "img_path": "/reference/img/landmarks_24_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_25": {
+    "prompt_en": "Generate an image showing a comparison of the appearance of  Laolongtou in 1930 and 2008.",
+    "prompt_zh": "生成一张对比老龙头在1930年和2008年外观的图片。",
+    "txt_reference": "The unrestored section of the Old Dragon’s Head’s seawall was largely submerged beneath the sea surface, appearing as chaotic, massive reefs, with only a few damaged foundation stones and scattered giant granite blocks visible amid the waves.\nAfter restoration, the Old Dragon’s Head once again features a stone fortress extending toward the sea.\nAfter restoration, the Old Dragon’s Head regained its iconic dragon-drinking silhouette.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The image shows that the unrepaired part of the Old Dragon’s Head extending toward the sea is mostly submerged underwater.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:After restoration, the Old Dragon’s Head once again features a stone fortress extending toward the sea.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False:After restoration, the Old Dragon’s Head regained its iconic dragon-drinking silhouette.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: In 1930, the old faucet Chenghai Building was destroyed by a torch.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: In 1930, only the \"Tiankai Haiyue\" monument survived.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: After the restoration in 2008, Haishicheng, the old faucet, reached 22.4 meters, 8.3 meters wide and 9.2 meters high into the sea.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The stone city that extends into the sea after restoration was constructed by laying multiple layers of stone blocks.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: After restoration, the section extending into the sea protrudes approximately 20–25 meters into the water.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False:The image shows the Old Dragon’s Head in 1930, which is similar to <image_0>.",
+        "img_path": "/reference/img/landmarks_25_0.png",
+        "modal": "I",
+        "class_id": 3
+      },
+      "question_10": {
+        "content": "True or False:The image shows the Old Dragon’s Head in 2008, which is similar to <image_0>.",
+        "img_path": "/reference/img/landmarks_25_1.png",
+        "modal": "I",
+        "class_id": 3
+      }
+    }
+  },
+  "landmarks_26": {
+    "prompt_en": "Generate an image showing a comparison of the appearance of  the Easter Island Moai statues in 1914 and 2019.",
+    "prompt_zh": "生成一张对比复活节岛摩艾石像在1914年和2019年外观的图片。",
+    "txt_reference": "By 1914, all the coastal Moai statues had been toppled.\nIn 1914, many statues appeared only as \"heads\" because they were standing upright but buried at varying depths in the slopes.\nIn 2019, many Moai statues were re-erected on restored ahu platforms.\nIn 2019, most of the restored Moai statues, carved from relatively soft volcanic tuff (with some pukao made of red scoria), displayed distinctive features such as heavy brows, elongated noses, and deep-set eye slits.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:In the image, all coastal Moai statues had been toppled by 1914.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False:In 1914, many statues appeared only as \"heads\" because they were standing upright but buried at varying depths in the slopes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False:In 2019, many Moai statues were re-erected on restored ahu platforms.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False:The statues shown in the image, restored by 2019, mostly exhibit distinctive features such as heavy brows, elongated noses, and deep-set eye slits.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False:The statues from 1914, as shown in Figure 0, are displayed in the <image_0>.",
+        "img_path": "/reference/img/landmarks_26_0.png",
+        "modal": "I",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False:The restored statues in the image from 2019 are similar to those in <image_0>.",
+        "img_path": "/reference/img/landmarks_26_1.png",
+        "modal": "I",
+        "class_id": 3
+      }
+    }
+  },
+  "landmarks_27": {
+    "prompt_en": "Generate an image of the Tower of Immortality in the art style  of Minecraft.",
+    "prompt_zh": "生成一张Minecraft风格的不朽之塔图片。",
+    "txt_reference": "Most Towers of Immortality feature vertical Korean inscriptions in red letters.\nThe inscription on the Tower of Immortality reads: \"위대한 김일성 동지와 김정일 동지는 영원히 우리와 함께 계신다”\nThe monuments are tower- or obelisk-like.\nThe exterior of the base of the Tower of Immortality is carved with a shallow relief of azaleas.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:In the image, all Towers of Immortality feature vertical Korean inscriptions written in red letters.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:The inscription carved on the Tower of Immortality in the image reads: \"위대한 김일성 동지와 김정일 동지는 영원히 우리와 함께 계신다\"",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:In the image, the Tower of Immortality resembles a tower or an obelisk.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:The exterior of the base of the Tower of Immortality is carved with a shallow relief of azaleas.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:The image shows that the Longevity Tower is similar to <image_0>.",
+        "img_path": "/reference/img/landmarks_27_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:The painting style of the picture is consistent with that of<image_0>.",
+        "img_path": "/reference/img/landmarks_27_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_28": {
+    "prompt_en": "Generate an image of the Tower of Immortality in the art style  of Monument Valley.",
+    "prompt_zh": "生成一张纪念碑谷风格的不朽之塔图片。",
+    "txt_reference": "Most Towers of Immortality feature vertical Korean inscriptions in red letters.\nThe inscription on the Tower of Immortality reads: \"위대한 김일성 동지와 김정일 동지는 영원히 우리와 함께 계신다”\nThe monuments are tower- or obelisk-like.\nThe exterior of the base of the Tower of Immortality is carved with a shallow relief of azaleas.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:In the image, all Towers of Immortality feature vertical Korean inscriptions written in red letters.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:The inscription carved on the Tower of Immortality in the image reads: \"위대한 김일성 동지와 김정일 동지는 영원히 우리와 함께 계신다\"",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:In the image, the Tower of Immortality resembles a tower or an obelisk.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:The exterior of the base of the Tower of Immortality is carved with a shallow relief of azaleas.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:The image shows that the Longevity Tower is similar to <image_0>.",
+        "img_path": "/reference/img/landmarks_28_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:The painting style in the picture is consistent with that in <image_0>.",
+        "img_path": "/reference/img/landmarks_28_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_29": {
+    "prompt_en": "In the style of Minecraft, generate an image showing Bag End  of the Hobbit.",
+    "prompt_zh": "生成一张Minecraft风格的霍比特人袋底洞图片。",
+    "txt_reference": "The front door is a perfect circle, painted green.\nIn the exact center of the front door is a shiny yellow brass knob.\nThe surroundings of the doors and windows consist of gardens, lawns, and a river.\nOn either side of the front door are deeply recessed round windows.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The front door is a perfect circle.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:In the picture, the door is painted green.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:In the exact center of the front door is a shiny yellow brass knob.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False:There is a garden around the doors and windows.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:There is lawn around the doors and windows.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:There is a river around the doors and windows.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False:The roof is covered with grass.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False:The room shown in the picture has only one floor.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False:On either side of the front door are deeply recessed round windows.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False:The image generated resembles Bag End, similar to <image_0>.",
+        "img_path": "/reference/img/landmarks_29_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_11": {
+        "content": "True or False:The painting style of the picture is consistent with that of <image_0>.",
+        "img_path": "/reference/img/landmarks_29_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_3": {
+    "prompt_en": "Generate an image of the Colossus of Rhodes in ancient times",
+    "prompt_zh": "生成一张古代罗德岛太阳神巨像的图片",
+    "txt_reference": "The colossus of Rhode Island is a bronze statue of Helius, the sun god.\nAccording to most contemporary descriptions, the Colossus stood approximately 70 cubits, or 33 metres (108 feet) high \nThe head of colossus would have had curly hair\nThe colossus of Rhode stood on a 15-metre-high (49-foot) white marble pedestal near the Rhodes harbour entrance.\nMany later illustrations show the statue with one foot on either side of the harbour mouth with ships passing under it.\nHistorical records show that this colossus wore a sun crown, similar to the crown of the Statue of Liberty in New York.\nHelios standing with one hand shielding his eyes (as if saluting) \n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The colossus of Rhode Island is a bronze statue",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:The colossus of Rhode Island is a statue of Helius, the sun god.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:The head of colossus have curly hair",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:The colossus stands on a white marble pedestal.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:The feet of the colossus stand on the port.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:The colossus wears a crown similar to that of the Statue of Liberty.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False:The colossus is standing with one hand shielding his eyes (as if saluting)",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False:The landmark generated in the figure is similar to the one in <image_0>.",
+        "img_path": "/reference/img/landmarks_3_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_30": {
+    "prompt_en": "Generate a before-and-after comparison image of the Hollywood  Sign.",
+    "prompt_zh": "生成好莱坞标志的改变前后对比图",
+    "txt_reference": "The Hollywood Sign is located on Mount Lee above Beachwood Canyon in the Santa Monica Mountains.\nLeft Side – Before (1923–1949)\nThe sign spelled out the word “HOLLYWOODLAND.”\nThe letters were 50 feet tall and white in color.\nThe sign stretched 450 feet in length.\nIt was erected in 1923 as a temporary advertisement.\nRight Side – After (1949–present)\nIn 1949, the last four letters “LAND” were removed, leaving “HOLLYWOOD.”\nIn 1978, the sign was rebuilt with a steel structure.\nThe new letters are 45 feet tall with concrete footings.\nThe sign remains white and stands as an iconic landmark.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a before-and-after comparison of the Hollywood Sign.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the word “HOLLYWOODLAND.”",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the word “HOLLYWOOD.”",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows large white letters.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the sign in two different forms side by side.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:When first built, the Hollywood Sign was constructed of wood and light bulbs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False:After the modification, the sign was made of metal panels and a steel framework.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: The picture shows the Hollywood Sign resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/landmarks_30_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_31": {
+    "prompt_en": "Generate an image of Mount Fuji in the four seasons, shown in  four panels",
+    "prompt_zh": "用四个模块展示富士山的四季景色图",
+    "txt_reference": "Panel 1 – Spring\nMount Fuji has a snow-capped peak.\nThe lower slopes show fresh green vegetation.\nCherry blossoms bloom in the foreground.\nLake Kawaguchi reflects the mountain and blossoms.\nPanel 2 – Summer\nThe summit is bare dark brown and black volcanic rock with no snow.\nThe lower slopes are lush green forests.\nThe sky is bright and clear.\nClimbers appear on the trails.\nPanel 3 – Autumn\nThe upper part of Mount Fuji shows a light layer of new snow.\nThe lower slopes and foreground are covered in red and orange autumn foliage.\nMaple trees at the Maple Corridor frame the mountain.\nPanel 4 – Winter\nMount Fuji is fully covered in snow from base to summit.\nThe sky is deep blue and clear.\nThe surrounding landscape is snowy.\nSteam rises from hot springs in the foreground.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Mount Fuji in four panels representing different seasons.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows cherry blossoms in front of Mount Fuji.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Mount Fuji without snow on the summit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Mount Fuji with red and orange autumn foliage.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Mount Fuji fully covered in snow.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:In the picture, the cherry blossoms on Mount Fuji in spring are pink and white.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False:In the picture, the spring water reflects the image of Mount Fuji.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False:In the picture, Mount Fuji's slopes and the surrounding forests are covered in dense green during the summer.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False:In the picture, the maple and yellow leaves are particularly noticeable on Mount Fuji in autumn.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_10": {
+        "content": "True or False:In the picture, during winter, the lakes surrounding Mount Fuji are sometimes partially frozen or covered with thin ice and mist, creating a mirror-like reflection.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_11": {
+        "content": "True or False:In the picture, during winter, the trees around Mount Fuji have shed all their leaves, leaving only bare branches or evergreen trees.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_12": {
+        "content": "True or False:In the picture, Mount Fuji has the highest snow line in winter.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_13": {
+        "content": "True or False:In the picture, Mount Fuji has no snow line in summer.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_14": {
+        "content": "True or False: The picture shows the summit of Mount Fuji covered with snow.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_32": {
+    "prompt_en": "Generate an image showing the symbolic building of Brazil in  the early morning.",
+    "prompt_zh": "生成图像展示清晨的巴西象征性建筑。",
+    "txt_reference": "The symbolic building of Brazil is the Christ the Redeemer statue.\nThe Christ the Redeemer statue is located atop Corcovado Mountain in Rio de Janeiro.\nThe statue is an Art Deco figure of Jesus Christ completed in 1931.\nThe statue stands 98 feet tall with outstretched arms spanning 92 feet.\nThe colossal statue shows Jesus with arms open wide in a welcoming pose.\nChrist the Redeemer\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Christ the Redeemer statue with arms outstretched.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:The core structure of the building in the picture is reinforced concrete.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:The facial expression of the statue in the picture is relatively serene and peaceful.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:In the picture, the folds of the robe on the statue of Jesus are clearly visible.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:In the picture, the statue of Jesus stands on the mountaintop.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:The ratio of the statue's height to the pedestal's height is approximately 3:1.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the Christ the Redeemer statue resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/landmarks_32_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_33": {
+    "prompt_en": "Generate an image of the longest bridge in the world.",
+    "prompt_zh": "生成世界上最长的桥的图像。",
+    "txt_reference": "The longest bridge in the world is the Danyang–Kunshan Grand Bridge in China.\nThe bridge is a viaduct with a total length of 164.8 kilometres.\nIt is supported by continuous spans and rows of piers.\nThe bridge crosses over lakes in the Yangtze River Delta.\nA 9-kilometre-long section stretches across the open water of Yangcheng Lake in Suzhou.\nDanyang–Kunshan Grand Bridge\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The bridge is a very long viaduct extending far into the distance.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The bridge crosses over open water areas.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: Part of the bridge is clearly visible stretching across a lake or water surface.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The bridge has tall suspension towers and cables like a suspension bridge.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:In the picture, the world's longest bridge is primarily composed of continuous girders, supporting piers, and the deck.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:From a distance, it appears as an extremely slender line stretching across fields, water surfaces, and urban and rural areas.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False:The bridge traverses a variety of landforms, including rice paddies, wetlands, canals, and lakes in the plains.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False:In the picture, the bridge structure is a hollow box girder.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False:The bridge deck is primarily concrete gray in color.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_34": {
+    "prompt_en": "Generate an image of the tallest tower in the world.",
+    "prompt_zh": "生成世界上最高的塔的图像。",
+    "txt_reference": "The tallest tower in the world is the Burj Khalifa in Dubai, United Arab Emirates.\nThe tower stands 828 meters (2,717 feet) tall.\nIts exterior is clad in reflective glass panels.\nThe tower has a slender, tapering design with setbacks that spiral upward.\nThe spire extends from the top, making the structure appear even taller.\nSurrounding the tower are modern buildings and wide boulevards.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The tower has a very slender, tapering shape that narrows as it rises.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The exterior of the tower is covered with reflective glass panels.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The design of the tower shows multiple setbacks that spiral upward.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: A spire extends from the top of the tower, making it appear even taller.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False (Comparison): The tower is much taller than the surrounding buildings.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the Burj Khalifa resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/landmarks_34_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False:The layout of the generated tower in the figure is a three-leaf shaped plan.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False:In the image, the building features multiple setbacks or stepped reductions as it rises upward.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False:The tower's exterior is primarily clad in a glass curtain wall.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False:The tower's exterior features an aluminum and stainless steel cladding.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False:Under sunlight, the tower's surface displays a gradient of colors.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_35": {
+    "prompt_en": "Generate an image of the second tallest tower in the world.",
+    "prompt_zh": "生成世界上第二高的塔的图像。",
+    "txt_reference": "The second tallest tower in the world is Merdeka 118 in Kuala Lumpur, Malaysia.\nThe tower stands 678.9 meters (2,227 feet) tall.\nIt has 118 storeys with a sharp, angular, and crystalline design.\nThe exterior is clad in glass panels that reflect light.\nA tall spire rises from the top, extending its height.\nThe tower is surrounded by modern urban buildings .\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The tower has a sharp, angular, crystalline design.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The exterior of the tower is covered with glass panels that reflect light.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: A tall spire extends from the top of the tower, making it appear even taller.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The area around the tower is filled with modern urban buildings",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the Merdeka 118 tower resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/landmarks_35_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: In the picture, the appearance of the tower is a white color with a slight blue tint.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: In the picture, the tower appears extremely slender when viewed from a distance.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: In the picture, the upper part of the tower has a viewing deck with large transparent windows.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: In the picture, the middle section of the tower features a steel pipe frame surrounding the core column.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: In the picture, the top of the tower has a slender spire.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_36": {
+    "prompt_en": "Generate an image of the Yellowstone caldera in two panels,  comparing summer and winter.",
+    "prompt_zh": "生成图像展示黄石火山口在两个画面中的对比：夏季与冬季。",
+    "txt_reference": "The summer panel highlights the caldera rim in warm earthy tones of light brown and yellow-gray, surrounded by green meadows and forests.\nColorful wildflowers appear in the grasslands, and the overall scene feels vibrant under bright sunlight.\nGeothermal areas around the caldera add touches of sulfur yellow, milky white, and orange-red deposits.\nThe winter panel shows the caldera rim and surrounding terrain blanketed in snow, shifting the palette to white and pale gray.\nSteam rises from geothermal vents, contrasting against the icy background, with hints of yellow and orange around the hot spring deposits.\nThe atmosphere is serene and quiet, emphasizing the seasonal transformation of the caldera’s colors.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: In the summer panel, the caldera rim appears in warm earthy tones such as light brown and yellow-gray.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The summer panel shows green meadows, forests, and colorful wildflowers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The geothermal areas in the summer panel display sulfur yellow, milky white, and orange-red deposits.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The geothermal areas in the summer panel display sulfur yellow, milky white, and orange-red deposits.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: Steam from geothermal vents is visible in the winter panel, standing out against the icy background.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows a comparison between Yellowstone in summer and Yellowstone in winter.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Yellowstone  resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/landmarks_36_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_37": {
+    "prompt_en": "Generate an image showing the construction process of Big Ben.",
+    "prompt_zh": "生成图像展示大本钟的建造过程。",
+    "txt_reference": "Stage 1 shows the foundation stone being laid in 1843, with workers and scaffolding preparing the stone base of the new clock tower.\nStage 2 shows the rising Gothic Revival tower structure through the 1840s and 1850s, with stone walls, pointed arches, and scaffolding surrounding the half-finished tower.\nStage 3 shows the installation of the clock faces and the hoisting of the Great Bell in 1858, with cranes and workers lifting the enormous bell into the belfry.\nStage 4 shows the completed tower in 1859, with four clock faces, ornate stonework, and the spire finished, symbolizing the Palace of Westminster.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: Stage 1 shows workers laying the foundation stone with scaffolding around the stone base.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows four stages of the construction process.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: Stage 2 shows the Gothic Revival tower rising with pointed arches and scaffolding on a half-finished structure.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: Stage 3 shows the installation of the clock faces and the Great Bell being lifted by cranes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: Stage 4 shows the completed tower with ornate stonework and a spire.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False:In the first phase, the ground surrounding the structure consists of exposed soil and a stone masonry foundation.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False:In the first phase, wooden scaffolding and simple lifting devices surround the low base.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False:In the second phase, the square brick tower shaft begins to rise noticeably, reaching a height of several stories or more.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False:In the second phase, the tower is surrounded by wooden scaffolding and suspended platforms, with a large \"gantry crane\" at the top.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_10": {
+        "content": "True or False:In the third phase, workers operating a chain system can be seen on the gantry crane.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_11": {
+        "content": "True or False:In the third phase, equipment such as long chains, guide wheels, pulleys, and steam winches operate simultaneously.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_12": {
+        "content": "True or False:In the fourth phase, the tall spire at the top of the tower, clad in cast-iron tiles, is fully installed.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_13": {
+        "content": "True or False:In the fourth phase, the tower structure no longer has any temporary supports.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      }
+    }
+  },
+  "landmarks_38": {
+    "prompt_en": "Generate an image showing the function of Tower Bridge.",
+    "prompt_zh": "生成图像展示塔桥的功能",
+    "txt_reference": "The left panel shows Tower Bridge with vehicles driving on the road.\nPedestrians are walking across on the sidewalks.\nThe upper walkways between the towers are visible for tourists.\nThe right panel shows Tower Bridge with its bascules lifted to allow a large ship to pass through.\nAfter the ship passes, the bridge will close and road traffic will resume.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The left panel shows vehicles driving on the bridge.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: Pedestrians are walking across the bridge on the sidewalks.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The upper walkways between the towers are visible.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The right panel shows the bridge bascules lifted to let a ship pass.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows different functions of Tower Bridge.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_39": {
+    "prompt_en": "Generate an image showing the construction process of the  Eiffel Tower.",
+    "prompt_zh": "生成图像展示埃菲尔铁塔的建造过程。",
+    "txt_reference": "Stage 1: There is the planning of a 300-meter lattice iron tower designed by Gustave Eiffel and his engineers, with aesthetic enhancements by architect Stephen Sauvestre.\nStage 2: There are workers digging deep foundations in 1887, with compressed-air caissons for the legs near the Seine River.\nStage 3: There are four massive iron legs being assembled from prefabricated iron sections delivered from Eiffel’s factory.\nStage 4: There are workers using steam-powered cranes and wooden scaffolding to rivet iron beams, completing the first platform.\nStage 5: There is the second platform finished in 1888, with the structure rising higher into the sky.\nStage 6: There is the completed Eiffel Tower in 1889 with its full 300-meter lattice structure and spire.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows six stages of the Eiffel Tower’s construction.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: Stage 3 shows four massive iron legs being assembled.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: Stage 4 shows workers on scaffolding completing the first platform.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: Stage 6 shows the completed Eiffel Tower with its spire.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: In Phase 1, a large rectangular or square foundation pit is visible.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: In Phase 1, steam cranes, pulley systems, simple rail transport carts, and scaffolding are present around the construction site.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: In Phase 2, large iron beams and cast-iron trusses begin to be erected.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: In Phase 2, temporary wooden structures and metal supports are present.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False: In Phase 3, the four massive iron legs are gradually lifted and inclined inward.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_10": {
+        "content": "True or False: In Phase 3, workers stand on suspended platforms or scaffold planks to rivet iron components onto the trusses, with safety ropes used in some areas.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_11": {
+        "content": "True or False: In Phase 4, workers stand on steel platforms to install floor beams, crossbeams, and connectors, with the platform's circular structure clearly visible.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_12": {
+        "content": "True or False: In Phase 4, temporary wooden supports have been partially removed, and the tower legs are now fully self-supporting.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_13": {
+        "content": "True or False: In Phase 5, the tower shaft continues to rise above the platform in a latticed iron framework, with its lines becoming increasingly tapered and slender.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_14": {
+        "content": "True or False: In Phase 5, workers can be seen working at heights of over 100 meters, with narrower scaffold planks.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_15": {
+        "content": "True or False: In Phase 6, an iron spire and flagpole are installed at the very top.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_16": {
+        "content": "True or False: In Phase 6, most of the scaffolding has been removed, revealing the tower's clean, exposed iron framework.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      }
+    }
+  },
+  "landmarks_4": {
+    "prompt_en": "Generate an image of the Lushan Waterfall as depicted in Li  Bai's poetry.",
+    "prompt_zh": "生成一张李白诗歌中描绘的庐山瀑布的图片。",
+    "txt_reference": "The scenes of Lushan Waterfall depicted in Li Bai's poems include that due to the cascading waterfalls and the steaming water, under the sunshine, it seems that there are clouds of purple smoke slowly rising from the incense burner that stands on top of the sky. \nThe scenes of Lushan Waterfall depicted in Li Bai's poems include that the waterfall hangs from the cliff to the river in front like a huge Bailian.\nThe scenes of Lushan Waterfall depicted in Li Bai's poems include that the waterfall shoots out of the sky, gushing and flying down. \nThe scenes of Lushan Waterfall depicted in Li Bai's poems include that the “flying down” waterfall makes people suspect that the Milky Way poured down from the nine heavens.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The image contains a mountain peak that resembles an incense burner.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:The image shows sunlight shining on the Incense Burner Peak.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:The image shows purple smoke lingering around the Incense Burner Peak.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False:The image shows the waterfall hanging in front of the Incense Burner Peak.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:The image depicts a scene of viewing a waterfall from a distance.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:The picture contains the scene of the waterfall plummeting down three thousand feet.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False:The picture contains the scene where one might suspect that the Milky Way is falling from the ninth heaven.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False:The generated image is similar to <image_0>.",
+        "img_path": "/reference/img/landmarks_4_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_40": {
+    "prompt_en": "Generate an image showing Uluru with dramatic light and shadow  effects across its surface in four panels.",
+    "prompt_zh": "生成图像展示乌鲁鲁在一天中表面光影变化的四个画面。",
+    "txt_reference": "The first panel shows Uluru at sunrise glowing with bright orange and golden tones.\nThe second panel shows Uluru in the daytime appearing reddish-brown and stable.\nThe third panel shows Uluru at sunset turning deep red to purplish hues with strong contrasts.\nThe fourth panel shows Uluru in shadow appearing gray, dark red, or ochre with visible grooves and cracks.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows four panels of Uluru at different times of the day.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: In the first panel, Uluru glows with bright orange and golden tones at sunrise.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: In the second panel, Uluru appears reddish-brown during the daytime.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: In the third panel, Uluru turns deep red to purplish hues at sunset.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: In the fourth panel, Uluru appears gray or dark red in shadow with visible grooves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_41": {
+    "prompt_en": "Generate an image showing a comparison of the Golden Gate  Bridge in San Francisco on a clear day and in fog.",
+    "prompt_zh": "生成图像展示旧金山金门大桥在晴天与大雾天气下的对比。",
+    "txt_reference": "On a Clear Day, the bridge appears in bright sunlight with a vibrant International Orange color contrasting sharply against the blue sky and bay waters.\nOn a Clear Day, the tall towers and suspension cables are clearly visible with sharply defined structure.\nIn Fog, the bridge is almost completely hidden in a dense sea of mist, with only the very top of the towers emerging above it.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Golden Gate Bridge in two different weather conditions.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: On a clear day, the bridge looks bright orange.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: In fog, the bridge looks grayish.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: On a clear day, the towers and suspension cables are sharply visible.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: In fog, most of the bridge is hidden, with only the tops of the towers above the mist.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_42": {
+    "prompt_en": "Generate an image showing the construction process of the  Statue of Liberty.",
+    "prompt_zh": "生成图像展示自由女神像的建造过程。",
+    "txt_reference": "Stage 1 shows the early design by Auguste Bartholdi in France, with the statue planned as a robed female figure holding a torch and a tablet.\nStage 2 shows the head and shoulders completed and exhibited in Paris.\nStage 3 shows Gustave Eiffel’s iron framework being built to support the statue’s copper sheets.\nStage 4 shows the statue being disassembled, packed into crates, and shipped across the Atlantic to New York in 1885.\nStage 5 shows workers assembling the statue on the pedestal on Bedloe’s Island surrounded by scaffolding.\nStage 6 shows the completed Statue of Liberty unveiled in 1886 in New York Harbor.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows six stages of the Statue of Liberty’s construction.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: Stage 2 shows only the head and shoulders of the statue.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: Stage 3 shows an iron framework supporting the statue.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: Stage 4 shows the statue packed into wooden crates for shipping.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: Stage 5 shows the statue being assembled on a pedestal with scaffolding.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: Stage 6 shows the completed Statue of Liberty with a torch and tablet.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: In Phase 1, a small-scale model is visible in the studio.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: In Phase 2, the head and shoulders of the Statue of Liberty were completed separately and displayed.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False: In Phase 2, copper sheets can be seen supported on wooden structures or metal frames.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_10": {
+        "content": "True or False: In Phase 3, the internal metal framework structure becomes visible.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_11": {
+        "content": "True or False: In Phase 3, the construction site is filled with scaffolding, and workers are installing copper sheets from various heights.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_12": {
+        "content": "True or False: In Phase 4, the statue temporarily \"disappears,\" leaving only an assembly of parts and wooden crates.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_13": {
+        "content": "True or False: In Phase 5, the statue gradually regains its original appearance, towering above its pedestal.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_14": {
+        "content": "True or False: In Phase 5, construction machinery and scaffolding appear densely on site.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_15": {
+        "content": "True or False: In Phase 6, the Statue of Liberty is officially unveiled as a landmark.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_16": {
+        "content": "True or False: In Phase 6, the patinated copper surface gleams with a bluish-green hue in the sunlight.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      }
+    }
+  },
+  "landmarks_43": {
+    "prompt_en": "Generate an image showing Crown of the Palace.",
+    "prompt_zh": "生成图像展示“宫殿之冠”。",
+    "txt_reference": "Crown of the Palace refers to the Taj Mahal, one of the Seven Wonders of the World.\nThe Taj Mahal has a large white marble dome at its center.\nThe main dome is flanked by four smaller domes.\nFour tall minarets stand at each corner of the platform.\nThe monument features a symmetrical design with precise geometric balance.\nThe exterior walls are decorated with intricate marble inlay and floral motifs.\nCalligraphy in black marble adorns the great arched entrances.\nThe monument sits on a raised square plinth above the Yamuna River.\nReflecting pools in the gardens mirror the image of the Taj Mahal.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The Taj Mahal has a large white marble dome at its center.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The monument is flanked by four tall minarets at the corners.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The design of the Taj Mahal is symmetrical.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the Taj Mahal resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/landmarks_43_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:In the picture, the Taj Mahal's layout features a central domed main structure surrounded by four minarets.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:In the picture, the walls of the Taj Mahal are inlaid with semi-precious stones forming floral, vine, and geometric patterns.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False:In the picture, the main facade of the Taj Mahal features large pointed arches.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False:In the picture, around the main entrance arch of the Taj Mahal, there is inlaid black marble calligraphy.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False:In the picture, the long water channel directly in front of the main entrance reflects the entire view of the Taj Mahal.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_44": {
+    "prompt_en": "Generate an image showing the exterior appearance of the  Louvre Museum in 1981.",
+    "prompt_zh": "生成图像展示1981年的卢浮宫外观",
+    "txt_reference": "There is no glass pyramid in the courtyard.\nThe Louvre Palace displayed monumental Renaissance and Classical architecture with ornate stone facades.\nThe exterior featured symmetrical rows of tall arched windows, pilasters, columns, and sculptural decorations.\nThe Denon, Sully, and Richelieu wings surrounded the spacious Cour Napoléon courtyard.\nThe Cour Napoléon was a simple paved open space with gardens or parking, without the glass pyramid. The facades showed strong horizontal cornices, mansard roofs, pediments, and balustrades.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: In 1981, the Louvre courtyard did not have a glass pyramid.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The exterior facades included arched windows, pilasters, and sculptural decorations.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The Louvre Palace shows Renaissance and Classical architectural styles with ornate stone facades.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_45": {
+    "prompt_en": "Generate an image comparing the exterior appearance of the  Kremlin in the Imperial Period and the Soviet Period.",
+    "prompt_zh": "生成图像对比克里姆林宫在帝国时期和苏联时期的外观。",
+    "txt_reference": "The Imperial Period panel shows the Kremlin walls whitewashed.\nThe Imperial Period panel shows the Grand Kremlin Palace with a yellow and white facade and a green roof.\nThe Imperial Period panel shows the cathedrals with white stone walls and golden onion domes.\nThe Soviet Period panel shows the Kremlin walls repainted red.\nThe Soviet Period panel shows the Kremlin towers topped with red five-pointed stars.\nThe Soviet Period panel shows the palaces with light-colored neoclassical facades in the background.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: In the Imperial Period panel, the Kremlin walls appear whitewashed.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: In the Imperial Period panel, the cathedrals have golden onion domes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: In the Soviet Period panel, the Kremlin walls are painted red.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: In the Soviet Period panel, the Kremlin towers are topped with red stars.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_46": {
+    "prompt_en": "Generate an image showing The New Symbol of Tokyo.",
+    "prompt_zh": "生成图像展示“东京的新象征”。",
+    "txt_reference": "The New Symbol of Tokyo refers to the Tokyo Skytree.\nThe Tokyo Skytree is a slender, tapering broadcasting tower.\nThe tower has a tripod-like base structure that gradually merges into a cylindrical shaft as it rises.\nThe main shaft extends upward into a needle-like spire.\nThe exterior color is a pale bluish-white, officially called Skytree White.\nThe observation decks are circular and located at different heights, forming prominent ring-like structures around the tower.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The Tokyo Skytree is a slender, tapering tower.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The exterior of the Tokyo Skytree is pale bluish-white.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The tower has circular observation decks at different heights.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the Tokyo Skytree resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/landmarks_46_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_47": {
+    "prompt_en": "Generate an image showing The Pregnant Oyster.",
+    "prompt_zh": "生成图像展示地标建筑“怀孕的牡蛎”。",
+    "txt_reference": "The \"Pregnant Oyster\" is a popular nickname for the Haus der Kulturen der Welt (House of World Cultures) in Berlin, Germany.\nThe building has a distinctive curved roof.\nThe roof resembles a shell or an oyster.\nThe structure is broad and sweeping, giving it a monumental appearance.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The building has a large curved roof.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The roof shape resembles an oyster shell.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The structure looks broad and sweeping.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the Pregnant Oyster resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/landmarks_47_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_48": {
+    "prompt_en": "Generate an image showing the sculpture in the Luxembourg  Garden presented to the United Nations in 1988, symbolizing the end of war  and the promotion of peace.",
+    "prompt_zh": "生成图像展示卢森堡在1988年赠予联合国的雕塑，寓意制止战争、倡导和平。",
+    "txt_reference": "Non-Violence, also known as The Knotted Gun, is a bronze sculpture.\nThe artwork depicts an oversized Colt Python .\n357 Magnum revolver.\nThe revolver’s barrel is tied in a knot.\nThe sculpture is installed at the United Nations headquarters in New York City.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The sculpture shows an oversized revolver.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The barrel of the revolver is tied in a knot.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the Non-Violence sculpture resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/landmarks_48_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_49": {
+    "prompt_en": "Generate an image showing the second tallest statue in the  world.",
+    "prompt_zh": "生成图像展示世界上第二高的雕像。",
+    "txt_reference": "The second tallest statue in the world is the Spring Temple Buddha in China.\nThe statue has a standing posture with a serene facial expression, reflecting the solemnity and compassion of traditional Buddhist sculpture.\nThe statue is composed of about 1,100 copper cast pieces, and the exterior shines with a golden-bronze luster.\nOn the chest of the statue, there is a small swastika symbol, the ancient Indian sign of good fortune.\nThe statue stands on a 25-meter-tall lotus-shaped pedestal, which resembles a blooming lotus and symbolizes the purity of Buddhist teachings.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The statue is in a standing posture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The exterior of the statue shines with a golden-bronze color.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The statue stands on a lotus-shaped pedestal.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the Spring Temple Buddha resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/landmarks_49_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_5": {
+    "prompt_en": "Generate an image of the Haiyantang (Hall of National Peace)  in the Old Summer Palace (Yuanmingyuan) before its destruction",
+    "prompt_zh": "生成一张圆明园被毁前的海晏堂图片",
+    "txt_reference": "Haiyantang includes a two-story main building .\nThere is a big fountain in front of Haiyantang.The fountain was known as the \"Water Clock\"\nwith a h-shaped water tower behind it.\nThe center of the fountain was surrounded by twelve bronze waterspouts in the shape of human bodies with animal heads\nTwelve bronze animal heads are the heads of rats, cows, tigers, rabbits, dragons, snakes, horses, sheep, monkeys, chickens, dogs and pigs.\nThe Haiyan Tang is a European architectural style building and garden complex \nThe body of the twelve bronze beasts is made of wood.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The picture includes a two-story main building .",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:There is a big fountain in front of Haiyantang",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:Behind the central fountain of Haiyan Tang, there is an H-shaped water tower.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False:The center of the fountain was surrounded by twelve bronze waterspouts in the shape of human bodies with animal heads",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:The six bronze animal heads on the left are the Rat, Ox, Tiger, Rabbit, Dragon, and Snake.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:The six bronze animal heads on the right are the Horse, Goat, Monkey, Rooster, Dog, and Pig.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False:In the image, there is a large curved stone staircase in front of the main building's entrance.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False:The main building in the image is roofed with peacock green glazed tiles.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False:In the image, the main building has five-colored glazed floral decorations embedded in the wall gaps.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False:The main building in the image has walls that are coated with light pink plaster.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False:The Haiyan Hall adopts a European architectural style.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False:The body of the twelve bronze beasts is made of wood.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_13": {
+        "content": "True or False:The generated depiction of the Haiyan Hall is similar to <image_0>.",
+        "img_path": "/reference/img/landmarks_5_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_14": {
+        "content": "True or False:The twelve animal heads in the Haiyan Hall depicted in the image are similar to those in <image_0>.",
+        "img_path": "/reference/img/landmarks_5_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_6": {
+    "prompt_en": "Generate an image depicting Baotu Spring as described by Lao  She",
+    "prompt_zh": "生成一张老舍笔下的趵突泉图片",
+    "txt_reference": "There are three big springs, located to the west.\nThe spring water is pure, lively and bright.\nThere are also small springs by the pool, like little fish blowing bubbles.\nThere stands a temple to the north of the pool.\nthe three sides to the south, west, and east were filled with tea pavilions for telling stories\nThe spring pool is almost square\nThe prose Appreciation of Baotu Spring written by Lao She was published on August 6, 1932.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:There are three large spring eyes in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:Baotu Spring is pure, lively and bright.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:There are small springs in the pool that look like fish blowing bubbles.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False:A temple stands to the north of the spring pool.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:There are storytelling tea pavilions on the east, west and south sides of the spring pool.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:The spring pool is almost square",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False:The appearance of Baotu Spring in the picture is similar to that in <image_0>.",
+        "img_path": "/reference/img/landmarks_6_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The style reflected in this picture is similar to that of the 1930s shown in <image_0>.",
+        "img_path": "/reference/img/landmarks_6_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_7": {
+    "prompt_en": "Generate an image showing the four seasonal landscapes of  Daming Lake",
+    "prompt_zh": "生成一张大明湖四季景色图片",
+    "txt_reference": "About 800 weeping willows surround the shore of Daming Lake.\nAbout 40 mu (approximately 2.67 hectares) of lotus flowers are planted on the surface of Daming Lake. In summer, the emerald-green leaves and pink blossoms spread all over the water.\nThere are nine small islands in Daming Lake.\nIn spring, the willow trees burst out with yellowish-green buds.\nin summer, the weeping willows are deep green and lush.\nin autumn, they turn tawny yellow and start to shed their leaves.\nin winter, all the leaves fall off completely.\nIn spring, one can see gulls and herons playing in Daming Lake.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:Weeping willows are planted along the banks of Daming Lake.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:In summer, the surface of Daming Lake is covered with blooming lotus flowers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False:There are multiple islands on the surface of Daming Lake in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False:In spring, the willow trees burst out with yellowish-green buds",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False:in summer, the weeping willows are deep green and lush.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False:in autumn, they turn tawny yellow and start to shed their leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False:in winter, all the leaves fall off completely.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False:In the picture, gulls and herons are playing on the surface of Daming Lake in spring.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False：The generated Daming Lake in the picture is similar to the one in <image_0>.",
+        "img_path": "/reference/img/landmarks_7_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "landmarks_8": {
+    "prompt_en": "Generate an image of Karl Marx posing for a commemorative  photo in front of his own statue in his hometown",
+    "prompt_zh": "生成一张卡尔·马克思在故乡马克思雕像前拍摄纪念照的图片",
+    "txt_reference": "The surface is rough and irregular.\nThe statue is 4.4 meters high.\nThe base has five corners.\nThe statue is in a posture of taking a step forward.\nThis is a bronze statue.\nthe statue depicts Marx with a frock .\nthe statue depicts Marx with his signature bushy beard.\nthe forehead is crinkled\nMarx statue is holding a book in his left hand .\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The surface of the statue is rough and irregular.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:The statue is much taller than Marx.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:The base has five corners.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:The statue is in a posture of taking a step forward.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:This is a bronze statue.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:the statue depicts Marx with a frock .",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False:the statue depicts Marx with his signature bushy beard.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False:The statue has a frown on its forehead.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False:The statue of Marx is holding a book in his left hand.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False:The generated statue in the image is similar to the one in<image_0>.",
+        "img_path": "/reference/img/landmarks_8_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "landmarks_9": {
+    "prompt_en": "Generate an image of a world map with a marked location  indicating the site of the highest mountain in the world",
+    "prompt_zh": "生成一张标注了世界最高峰位置的世界地图图片",
+    "txt_reference": "The highest mountain in the world is Mount Qomolangma.\nIts height is 8,849 metres.\nIts coordinates are27°59′17″N 86°55′30″E\nIt is located in the Mahalangur Himal sub-range of the Himalayas in Asia.\nIt lies part of the China–Nepal border at its summit.\nit is known locally as Sagarmatha in Nepal\nit is known as Qomolangma in Tibet\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The picture marks that the altitude of the world's highest peak is 8849 meters.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:The coordinates of the world's highest peak marked in the figure are 27°59′17″N 86°55′30″E.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:The location marked in the picture is roughly on the border between China and Nepal.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False:There is a label of Sagarmatha or Mount Qomolangma in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:The generated map section is similar to the one in <image_0>.",
+        "img_path": "/reference/img/landmarks_9_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  }
+}

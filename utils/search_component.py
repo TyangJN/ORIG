@@ -15,10 +15,10 @@ from serpapi import GoogleSearch
 from gpt_retrieval.call_gpt import *
 
 
-OPENAI_API_KEY = "YOUR_OPENAI_API_KEY"
-SERPER_API_KEY = "YOUR_SERPER_API_KEY"
-# SERPAPI_API_KEY = "YOUR_SERPAPI_API_KEY"
-JINA_API_KEY = "YOUR_JINA_API_KEY"
+OPENAI_API_KEY = ""
+SERPER_API_KEY = ""
+SERPAPI_API_KEY = ""
+JINA_API_KEY = ""
 
 def parse_input(user_input: str) -> tuple:
     """Parse user input to extract text and image paths"""
@@ -178,7 +178,7 @@ def extract_t2t_results(web_ids, webs, input_prompt, query):
     }
 
     successful_fetches = 0
-    target_fetches = len(web_ids)  # target fetches
+    target_fetches = len(web_ids)  # 目标获取数量
 
     tried_ids = set()
     for web_id in web_ids:
@@ -353,7 +353,7 @@ def search_t2i_serpapi(query, retry_attempts=3):
     for i in range(retry_attempts):
         try:
             search = GoogleSearch(params)
-            results = search.get_dict()  # get image search results
+            results = search.get_dict()  # 获取图片搜索结果
             organic_results = results["images_results"]
             print(organic_results[0])
             return organic_results
@@ -361,7 +361,7 @@ def search_t2i_serpapi(query, retry_attempts=3):
         except Exception as e:
             print(f"Attempt {i + 1} failed: {e}")
             if i < retry_attempts - 1:
-                time.sleep(2)  # wait 2 seconds and retry
+                time.sleep(2)  # 等待2秒后重试
             else:
                 print("All retries failed.")
                 return False
@@ -444,6 +444,8 @@ def extract_t2i_results(img_data, input_prompt, query, background_knowledge):
         img_info += f"\n The title for <image_{idx}>: {title}"
         imgs.append(data.get("img_path"))
 
+    
+
     chat_client = MultimodalRetrievalClient(OPENAI_API_KEY, model="gpt-5-mini")
 
     result = chat_client.send_single_message(text=img_info,image_paths=imgs,
@@ -490,6 +492,7 @@ def round_t2i_results(queries, input_prompt, round_id, background_knowledge, sav
 
         img_results.append({
             "title": img_data[selected_idx]["title"],
+            "query": query,
             "img_path": img_data[selected_idx]["img_path"],
         })
 

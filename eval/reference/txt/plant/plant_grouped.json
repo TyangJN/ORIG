@@ -1,0 +1,3023 @@
+{
+  "plant_0": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The lychee is one of the four traditional southern Chinese fruits.\nThe longan is one of the four traditional southern Chinese fruits.\nThe pineapple is one of the four traditional southern Chinese fruits.\nThe banana is one of the four traditional southern Chinese fruits.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows four kinds of fruits.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows lychees.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows longans.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows pineapples.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows bananas.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "plant_1": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Colobanthus quitensis, also known as the Antarctic pearlwort, is one of two native flowering plants found in the Antarctic region.\nColobanthus quitensis has small, bright yellow blossoms.\nColobanthus quitensis is about 5 cm (2 inches) tall, close to the ground.\nColobanthus quitensis forms dense, cushion-like clumps.\n\nColobanthus quitensis has a soft, moss-like appearance.\n\nColobanthus quitensis is a flowering angiosperm with visible blooms.\n\nColobanthus quitensis is a vascular plant with tiny stems and structure.\n\nColobanthus quitensis grows in an Antarctic habitat with rocks, snow, or ice nearby.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a plant that can bloom in Antarctica.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Colobanthus quitensis with small, bright yellow blossoms.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Colobanthus quitensis about 5 cm tall and growing close to the ground.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Colobanthus quitensis forming dense, cushion-like clumps.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Colobanthus quitensis with a soft, moss-like appearance.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Colobanthus quitensis as a flowering angiosperm with visible blooms.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Colobanthus quitensis as a vascular plant with tiny stems and structure.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The Colobanthus quitensis in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_1_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_10": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The bamboo shoot emerges from the soil in spring.\nThe bamboo shoot has a pointed tip and reddish-brown sheath.\nThe bamboo shoot elongates rapidly into a tall straight stalk.\nThe bamboo stalk matures into a strong hollow culm with green segments.\nThe bamboo stalk shows green leaves at the upper nodes.\nThe bamboo leaves are long, narrow, and lanceolate in shape.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the rapid growth of bamboo from a small shoot to a tall stalk.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the bamboo shoot with a pointed tip.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the bamboo shoot with a reddish-brown sheath.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the bamboo shoot elongating into a tall straight stalk.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the bamboo stalk with green segments.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": " True or False: The picture shows bamboo leaves that are long, narrow, and lanceolate in shape.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows a bamboo shoot resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_10_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows bamboo similar to the one in <image_0>.",
+        "img_path": "/reference/img/plant_10_1.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "plant_11": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Hydrangea macrophylla is a deciduous shrub.\nHydrangea macrophylla in acidic soil below pH 5.5 shows blue mophead flowers.\nHydrangea macrophylla in soil between pH 5.5 and 6.0 shows purple mophead flowers.\nHydrangea macrophylla in neutral to alkaline soil above pH 6.0 shows pink mophead flowers.\nHydrangea macrophylla leaves are simple, orbicular to elliptic, and acuminate at the tip.\nHydrangea macrophylla leaves have serrated edges.\nHydrangea macrophylla shrubs have opposite green leaves up to 15 cm long.\nHydrangea macrophylla flowerheads form large round clusters.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Hydrangea macrophylla flowers in blue.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Hydrangea macrophylla flowers in purple.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Hydrangea macrophylla flowers in pink.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Hydrangea macrophylla with blue mophead flowers in acidic soil.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Hydrangea macrophylla with purple mophead flowers in moderately acidic soil.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Hydrangea macrophylla with pink mophead flowers in neutral to alkaline soil.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Hydrangea macrophylla leaves that are simple and orbicular to elliptic.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Hydrangea macrophylla leaves with serrated edges.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Hydrangea macrophylla flowerheads forming large round clusters.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The picture shows a comparison of how different soil pH levels affect the flower color of Hydrangea macrophylla.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "plant_12": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "In the dry state, Selaginella lepidophylla curls inward into a compact dry ball.\nIn the dry state, Selaginella lepidophylla shows leaves that range from dark brown to light brown or reddish brown.\nIn the dry state, Selaginella lepidophylla appears dry and brittle on the ground.\nIn the hydrated state, Selaginella lepidophylla opens outward into a spreading green mat.\nIn the hydrated state, Selaginella lepidophylla shows delicate fern-like stems and leaves.\nIn the hydrated state, Selaginella lepidophylla displays green leafy fronds after rehydration.\nIn the hydrated state, Selaginella lepidophylla shows a low, spreading growth pattern.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Selaginella lepidophylla with dark brown leaves in the dry state.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Selaginella lepidophylla with light brown or reddish brown leaves in the dry state.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Selaginella lepidophylla curled into a dry ball on the ground.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Selaginella lepidophylla in the hydrated state opened outward into a spreading mat.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Selaginella lepidophylla in the hydrated state displaying a green color.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows a comparison of Selaginella lepidophylla in the drought state and in the hydrated state.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Selaginella lepidophylla in the drought state curled into a compact ball, resembling the one shown in <image_0> .",
+        "img_path": "/reference/img/plant_12_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Selaginella lepidophylla in the hydrated state spread outward into a green mat, resembling the one shown in <image_0> .",
+        "img_path": "/reference/img/plant_12_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_13": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The shaded environment shows weak light and dim surroundings.\nIn the shaded environment, the etiolated plant shows long pale stems stretching toward the light.\nIn the shaded environment, the etiolated plant shows small yellowish leaves.\nThe sunny environment shows bright natural light and open space.\nIn the sunny environment, the recovered plant shows thicker stems under sunlight.\nIn the sunny environment, the recovered plant shows green healthy leaves under sunlight.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a comparison of the plant in an etiolated state and in a recovered state.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows an etiolated plant with small yellowish leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows an etiolated plant in a shaded environment.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows a sunny environment with bright natural light and open space.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows a recovered plant with thicker stems under sunlight.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows a recovered plant with green healthy leaves under sunlight.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows a comparison of plant growth in a shaded environment and in a sunny environment.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "plant_14": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "There are six stages in the growth process of the strangler fig: Stage 1 – Seed Dispersal and Germination, Stage 2 – Root Development and Descent, Stage 3 – Envelopment of the Host, Stage 4 – Competition and Canopy Dominance, Stage 5 – The Host’s Demise, and Stage 6 – Final Stage.\nStage 1 – Seed Dispersal and Germination is when birds and flying foxes drop strangler fig seeds onto the high branches of host trees.\nStage 1 – Seed Dispersal and Germination is when strangler fig seeds germinate in the canopy of a host tree.\nStage 1 – Seed Dispersal and Germination is when a young strangler fig seedling grows in a dark and moist branch crevice high above the ground.\nStage 2 – Root Development and Descent is when strangler fig roots and aerial roots grow downward like long, thin threads toward the forest floor.\nStage 2 – Root Development and Descent is when strangler fig roots reach the ground and anchor the plant firmly.\nStage 2 – Root Development and Descent is when strangler fig roots thicken after reaching the ground.\nStage 3 – Envelopment of the Host is when strangler fig roots spread around the trunk of the host tree.\nStage 3 – Envelopment of the Host is when strangler fig roots fuse together to form a lattice-like woody structure.\nStage 3 – Envelopment of the Host is when the lattice of strangler fig roots encages the host tree’s trunk.\nStage 4 – Competition and Canopy Dominance is when the crown of the strangler fig expands above the host tree.\nStage 4 – Competition and Canopy Dominance is when the leaves of the strangler fig shade the host tree’s crown.\nStage 5 – The Host’s Demise is when the tightening roots of the strangler fig constrict the host tree’s trunk.\nStage 5 – The Host’s Demise is when the host tree becomes weakened inside the grip of the strangler fig.\nStage 5 – The Host’s Demise is when the host tree eventually dies while enclosed by the strangler fig.\nStage 6 – Final Stage is when the host tree decomposes inside the strangler fig.\nStage 6 – Final Stage is when the strangler fig is left as a free-standing tree.\nStage 6 – Final Stage is when the trunk of the strangler fig becomes hollow after the host decomposes.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the growth process of the strangler fig through multiple stages.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows strangler fig beginning its growth on the high branches or crevices of a host tree",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows strangler fig aerial roots hanging down like long thin threads from the host tree.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows strangler fig roots reaching the forest floor and anchoring into the ground.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows strangler fig roots spreading and fusing into a lattice-like structure around the trunk of the host tree.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the trunk of the host tree completely encaged by strangler fig roots.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the crown of the strangler fig overtopping and shading the host tree.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows the strangler fig eventually killing its host tree.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False: The picture shows the strangler fig left as a free-standing tree after the host has died.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_10": {
+        "content": "True or False: The picture shows the trunk of the strangler fig becoming hollow after the host decomposes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      }
+    }
+  },
+  "plant_15": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Stage 1: Kalanchoe daigremontiana grows tiny plantlets along the edges of its fleshy green leaves, often purple-tinged on the underside.\nStage 2: Kalanchoe daigremontiana lets the plantlets detach and fall to the ground, where they quickly take root and form new seedlings.\nStage 3: Kalanchoe daigremontiana develops a tall central stalk with opposite fleshy leaves—green on top and blotched purple underneath.\nStage 4a: Kalanchoe daigremontiana grows large upper leaves that make the stalk bend downward under their weight.\nStage 4b: Kalanchoe daigremontiana produces lateral roots from the bent stalk into the soil for stability and nourishment.\nStage 5: Kalanchoe daigremontiana sends up new vertical shoots from the bent stalk, forming a cluster of plants.\nStage 6: Kalanchoe daigremontiana occasionally blooms with an umbrella-like terminal inflorescence, bearing small grayish-pink, bell-shaped flowers.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the growth process of Kalanchoe daigremontiana (Mother of Thousands).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows multiple stages of growth from plantlets to flowering.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Kalanchoe daigremontiana with tiny plantlets growing along the edges of its leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the leaves with green upper surfaces and purple-tinged undersides.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows plantlets detaching from the leaves and falling to the ground.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the detached plantlets taking root and forming new seedlings.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows a tall central stalk with opposite fleshy leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows leaves that are green on top and blotched purple underneath.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows large upper leaves making the stalk bend downward.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The picture shows lateral roots growing from the bent stalk into the soil.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_11": {
+        "content": "True or False: The picture shows new vertical shoots growing upward from the bent stalk.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_12": {
+        "content": "True or False: The picture shows small grayish-pink, bell-shaped flowers at the top of the stalk.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "plant_2": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Skeleton Flower grows up to 0.4 m (1.3 ft) tall.\nSkeleton Flower has white flowers, pedicellate, with six obovate petals.\nSkeleton Flower has terete stems, 30–60 cm (12–24 in) long.\nSkeleton Flower has stout, knotty rhizomes.\nSkeleton Flower has petals that become transparent when in contact with water.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a comparison of the skeleton flower before and after rain.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the skeleton flower with six petals on each flower.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the petals of the skeleton flower becoming transparent when in contact with water.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the petals of the skeleton flower remaining opaque when not in contact with water.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the skeleton flower resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_2_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_3": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The provincial flower of Jilin is Clivia miniata.\nClivia miniata has long, arching, strap-like leaves about 45 cm, arranged in two rows.\n\nClivia miniata produces an umbel of funnel-shaped flowers.\n\nClivia miniata has flowers in red, orange, or yellow.\n\nClivia miniata produces bright-red round berries up to 5 cm.\n\nClivia miniata has fruits with one to a few seeds.\n\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Clivia miniata as the provincial flower of Jilin.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Clivia miniata with long, arching, strap-like leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Clivia miniata producing an umbel of funnel-shaped flowers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Clivia miniata with flowers in red, orange, or yellow.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Clivia miniata resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_3_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_4": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The provincial flower of  Hebei is Philadelphus pekinensis.\nPhiladelphus pekinensis is a compact, multi-stemmed shrub, about 4–6 feet tall and wide.\nPhiladelphus pekinensis has creamy white, disc-shaped flowers with a pale yellow tint.\n\nPhiladelphus pekinensis has flowers about 1 inch wide, growing in clusters of 3–9.\nPhiladelphus pekinensis has flowers resembling orange blossoms.\n\nPhiladelphus pekinensis has green, ovate to lance-shaped leaves, 2–4 inches long, with serrated edges and smooth undersides.\n\nPhiladelphus pekinensis has dark brown bark that peels with age.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Philadelphus pekinensis as a compact, multi-stemmed shrub.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Philadelphus pekinensis with creamy white, disc-shaped flowers that have a pale yellow tint.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Philadelphus pekinensis with flowers growing in clusters of 3–9.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Philadelphus pekinensis with ovate to lance-shaped leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Philadelphus pekinensis with serrated edges on its leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Philadelphus pekinensis with smooth undersides on its leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Philadelphus pekinensis resembling the plant shown in <image_0>.",
+        "img_path": "/reference/img/plant_4_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_5": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The provincial flower of  Yunnan is Camellia japonica.\nCamellia japonica has branches that are purplish brown.\nCamellia japonica has dark green leaf tops and paler undersides.\nCamellia japonica has leaves with finely toothed margins and pointed tips.\nCamellia japonica has wild flowers with six or seven rose or white petals.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Camellia japonica with branches that are purplish brown.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Camellia japonica with dark green leaf tops.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Camellia japonica with paler leaf undersides.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Camellia japonica with leaves that have finely toothed margins and pointed tips.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Camellia japonica with wild flowers that have six or seven petals.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Camellia japonica with flowers in rose or white colors.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Camellia japonica resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_5_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_6": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The proverb “南橘北枳” means that the same orange tree planted in the South bears sweet oranges, but when planted in the North produces bitter trifoliate oranges, showing how environment changes the outcome.\nThe orange trees in the South grow beside green hills.\nThe orange trees in the South grow in fertile soil.\nThe orange trees in the South bear round golden fruits.\nThe orange trees in the South have lush green leaves.\nThe orange trees in the North grow in hard soil.\nThe orange trees in the North appear stunted and thorny.\nThe orange trees in the North bear small bitter fruits.\nThe orange trees in the North have sparse leaves.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture illustrates the proverb \"南橘北枳\".",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows a comparison between orange trees grown in the South and in the North.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the orange of the South.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the orange of the North.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows orange trees in the South bearing round golden fruits.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows orange trees in the South with lush green leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows orange trees in the North bearing small fruits.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows orange trees in the North with sparse leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "plant_7": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The evolution of corn has four key stages: 1.teosinte, 2. early domesticated maize, 3.developing maize, 4.modern maize.\nTeosinte is a tall grass with many side branches.\nTeosinte ears are very small with only a few spikelets.\nTeosinte kernels are tiny and enclosed in hard fruitcases.\nTeosinte kernels fall apart from the ear when mature.\nEarly maize has fewer branches with a thicker main stalk.\nEarly maize ears are larger than teosinte ears.\nEarly maize kernels are more numerous.\nEarly maize kernels are slightly larger than teosinte kernels.\nEarly maize kernels have thinner coverings than teosinte kernels.\nDeveloping maize has a single strong stalk with minimal branching.\nDeveloping maize ears are long with many kernels arranged in rows.\nDeveloping maize kernels remain attached to the cob.\nModern maize has a tall single stalk.\nModern maize ears are large with hundreds of kernels in neat rows.\nModern maize kernels are big and naked without coverings.\nModern maize kernels are tightly attached to the cob.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the evolutionary process of corn.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the four stages of corn evolution without missing stages.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows early domesticated maize with fewer branches.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows early domesticated maize with ears larger than those of teosinte.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows modern maize with kernels tightly attached to the cob.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the evolutionary stages of corn in the correct order.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows maize  kernels resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_7_1.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "plant_8": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Crotalaria cunninghamii is a perennial shrub that grows 1–3 m tall.\nCrotalaria cunninghamii has hairy or woolly branches.\nCrotalaria cunninghamii has dull green foliage.\nCrotalaria cunninghamii has oval leaves about 30 mm long.\nCrotalaria cunninghamii has large yellowish-green pea-like flowers streaked with dark purple to black lines.\nCrotalaria cunninghamii has flowers growing on long spikes at the ends of branches.\nCrotalaria cunninghamii has flowers that resemble a bird attached by its beak to the stalk.\nCrotalaria cunninghamii has club-shaped green pods covered with soft velvety hairs.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Crotalaria cunninghamii with pods covered in a soft green hairy shell.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Crotalaria cunninghamii with hairy or woolly branches.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Crotalaria cunninghamii with dull green foliage.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Crotalaria cunninghamii with oval leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Crotalaria cunninghamii with large yellowish-green pea-like flowers streaked with dark purple to black lines.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Crotalaria cunninghamii with flowers streaked with fine black lines.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Crotalaria cunninghamii resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_8_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_9": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Mentzelia involucrata grows in rocky or sandy open places with shrubs.\nMentzelia involucrata has basal rosette leaves.\nMentzelia involucrata has toothed leaves 2–18 cm long.\nMentzelia involucrata has sessile lanceolate to elliptic leaves.\nMentzelia involucrata has five sepals 7–23 mm long.\nMentzelia involucrata has five cream-yellow petals 13–62 mm long.\nMentzelia involucrata has white bracts with green borders.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Mentzelia involucrata growing in rocky or sandy open places.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Mentzelia involucrata with toothed leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Mentzelia involucrata with sessile lanceolate to elliptic leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Mentzelia involucrata with five cream-yellow petals.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Mentzelia involucrata with white bracts that have green borders.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Mentzelia involucrata resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_9_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_16": {
+    "prompt_en": "Generate an image  showing all  varieties of aloe vera that have medicinal value and are edible. ",
+    "prompt_zh": "生成一张展示具有医疗价并且可以食用的所有芦荟品种的图片",
+    "txt_reference": "There are three kinds of aloe that are both edible and medicinal, namely Aloe barbadensis (Aloe vera), Aloe ferox, and Aloe arborescens.\nAloe vera is a stemless or very short-stemmed plant.\nAloe vera grows 60–100 centimetres (24–39 inches) tall.\nAloe vera leaves are thick and fleshy.\nAloe vera leaves are green to grey-green in color.\nAloe vera leaves have serrated margins with small white teeth.\nAloe vera flowers are yellow.\nAloe vera flowers are pendulous.\nAloe vera flowers are tubular and 2–3 cm long.\nAloe ferox is a tall, single-stemmed aloe.\nAloe ferox grows up to 3 metres (10 feet) in height.\nAloe ferox leaves are thick and fleshy.\nAloe ferox leaves are arranged in rosettes.\nAloe ferox leaves have reddish-brown spines on the margins.\nAloe ferox flowers are bright orange or red.\nAloe ferox flowers stand 2–4 feet above the leaves.\nAloe ferox inflorescences are erect and multi-branched.\nAloe ferox inflorescences are candelabra-like.\nAloe ferox racemes are dense, cylindrical, and symmetrical.\nAloe ferox flowers are tubular and un-curved.\nAloe ferox flowers have brown tips on the inner segments.\nAloe arborescens is a large, multi-headed succulent.\nAloe arborescens is sprawling in growth habit.\nAloe arborescens typically grows 2–3 metres (6.6–9.8 ft) high.\nAloe arborescens leaves are succulent.\nAloe arborescens leaves are green with a slight blue tint.\nAloe arborescens leaves have small spikes along the edges.\nAloe arborescens leaves are arranged in rosettes at the ends of branches.\nAloe arborescens racemes are unbranched.\nAloe arborescens racemes can sprout two to several from each rosette.\nAloe arborescens flowers are cylindrical.\nAloe arborescens flowers are vibrant red-orange.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows all three varieties of aloe that are both edible and medicinal.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Aloe vera with yellow pendulous tubular flowers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Aloe ferox as a tall aloe with a single stem and rosettes of thick fleshy leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Aloe ferox leaves with reddish-brown spines on the margins.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Aloe ferox with bright orange or red erect multi-branched inflorescences.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Aloe arborescens as a large, multi-headed succulent with a sprawling growth habit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Aloe arborescens leaves with small spikes along the edges and arranged in rosettes at the ends of branches.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Aloe arborescens with vibrant red-orange cylindrical flowers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Aloe ferox taller than Aloe arborescens.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The picture shows Aloe ferox taller than Aloe vera.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_11": {
+        "content": "True or False: The picture shows Aloe vera as the shortest among the three aloe varieties.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_12": {
+        "content": "True or False: The picture shows Aloe vera (Aloe barbadensis) resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_16_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_13": {
+        "content": "True or False: The picture shows Aloe arborescens resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_16_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_14": {
+        "content": "True or False: The picture shows Aloe ferox resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_16_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_17": {
+    "prompt_en": "Generate an image of the largest cactus farm Cactus Thiemann  in Africa",
+    "prompt_zh": "生成一张北非最大的仙人掌农场的图片",
+    "txt_reference": "Cactus Thiemann is one of North Africa’s largest cactus farms.\nCactus Thiemann has over 150 varieties of cacti.\nCactus Thiemann has wide fields of prickly pear.\nCactus Thiemann has the largest cactus that is 8 meters high.\nCactus Thiemann has the largest cactus that is 80 years old.\nCactus Thiemann has Neocardenasia herzogiana as a tall multi-branched columnar cactus.\nCactus Thiemann has Trichocereus pasacana as a massive columnar cactus with dense spines.\nCactus Thiemann has Opuntia pilifera with pads covered in white hair-like spines.\nCactus Thiemann has Opuntia quimilo as a giant prickly pear with thick pads.\nCactus Thiemann mainly features vast fields dominated by giant columnar cacti towering across the landscape\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows wide fields of prickly pear.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows vast fields dominated by giant columnar cacti towering across the landscape.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows more than one type of cactus variety in the farm.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Neocardenasia herzogiana as a tall multi-branched columnar cactus.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Trichocereus pasacana as a massive columnar cactus with dense spines.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Opuntia quimilo as a giant prickly pear with thick pads.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Neocardenasia herzogiana resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_17_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Trichocereus pasacana resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_17_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Opuntia pilifera resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_17_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_18": {
+    "prompt_en": "Generate an image showing Diplylleia grayi before and after  getting wet",
+    "prompt_zh": "生成一张玻璃花遇水前和遇水后的图片",
+    "txt_reference": "Diphylleia grayi is a species of perennial plant in the family Berberidaceae.\nDiphylleia grayi grows up to 0.4 m (1.3 ft) tall.\nDiphylleia grayi has white flowers, pedicellate, with six obovate petals.\nDiphylleia grayi has terete stems, 30–60 cm (12–24 in) long.\nDiphylleia grayi has stout, knotty rhizomes.\nDiphylleia grayi has petals that become transparent when in contact with water.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Diphylleia grayi before and after getting wet.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Diphylleia grayi with white flowers before getting wet.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Diphylleia grayi flowers with six obovate petals.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Diphylleia grayi petals becoming transparent when wet.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Diphylleia grayi resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_18_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_19": {
+    "prompt_en": "Generate an image  of a  tree that secretes dark red resin after being wounded.",
+    "prompt_zh": "生成一张受伤后树干流出红色液体的树",
+    "txt_reference": "Dracaena cinnabari, the Socotra dragon tree or dragon blood tree,  is named after the blood-like color of the red sap that the trees produce.\nThe dragon blood tree has a dense umbrella-shaped crown.\nIts long stiff green leaves grow in rosettes at the tips of branches.\nThe trunk is thick and stout with rough surface.\nThe branches divide repeatedly into two through dichotomous branching.\nRed resin known as dragon’s blood flows from wounds on the trunk and branches.\nDracaena cinnabari\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a tree that produces dark red resin when wounded.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the dragon blood tree with a dense umbrella-shaped crown.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows long stiff green leaves in rosettes at the tips of branches.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the dragon blood tree with a thick stout trunk and rough surface.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows branches that divide repeatedly into two through dichotomous branching.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows red resin flowing from wounds on the trunk.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the Socotra dragon tree (Dracaena cinnabari) resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_19_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_20": {
+    "prompt_en": "Generate an image of Cipocereus bradei.",
+    "prompt_zh": "生成一张Cipocereus bradei的图片",
+    "txt_reference": "Cipocereus bradei grows with branched shoots that reach up to 3.5 meters in height and 8 to 9 centimeters in diameter.\nCipocereus bradei shoots are initially blue and later turn greyish blue.\nCipocereus bradei has 8 to 9 slightly arched ribs that are about 1 centimeter high and up to 2.5 centimeters wide.\nCipocereus bradei ribs are sharply furrowed between oval, almost bald areoles.\nCipocereus bradei thorns are variable and often completely absent on older shoots.\nCipocereus bradei central spines number 1 to 2, are black, point upwards or downwards, and reach up to 3.5 centimeters in length.\nCipocereus bradei radial spines number 4 to 5, are brownish, and reach up to 1.5 centimeters in length.\nCipocereus bradei has tubular flowers up to 7.5 cm long.\nCipocereus bradei pericarp and flower tube are frosted blue.\nCipocereus bradei flowers have outer narrow petals and inner petals that spread into a star shape.\nCipocereus bradei flowers grow on the upper stems near the ribs.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Cipocereus bradei with tall, branched columnar shoots.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Cipocereus bradei shoots that are greyish blue with age.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Cipocereus bradei with ribs that are slightly arched.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Cipocereus bradei with oval areoles that are almost bald.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Cipocereus bradei with 4–5 brownish radial spines.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Cipocereus bradei with tubular flowers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Cipocereus bradei with ribs that are sharply furrowed.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Cipocereus bradei flowers with outer narrow petals and inner petals spreading into a star shape.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Cipocereus bradei flowers growing on the upper stems near the ribs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The picture shows the cactus Cipocereus bradei resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_20_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_21": {
+    "prompt_en": "Generate an image depicting a grand nocturnal blooming scene  of the titan arum (Amorphophallus titanum).",
+    "prompt_zh": "描绘巨魔芋 (Amorphophallus titanum) 在夜间开花时的宏大场景。",
+    "txt_reference": "The titan arum has a gigantic inflorescence when blooming.\nThe inflorescence of the titan arum consists of a tall central spadix surrounded by a large spathe.\nThe spathe of the titan arum is deep green with cream-colored specks on the outside.\nThe spathe of the titan arum is dark burgundy red with ribbed, frilled edges on the inside.\nThe spadix of the titan arum bears a ring of small cream-colored male flowers near its base.\nThe spadix of the titan arum bears a lower ring of pink female flowers beneath the male flowers.\nThe flower of the titan arum lasts only 24 to 36 hours.\nThe titan arum emits a powerful scent of rotting flesh during bloom.\nThe spadix of the titan arum heats up to human body temperature during bloom.\nThe odor of the titan arum is visualized as visible waves in the air.\nThe female flowers of the titan arum open first, and the male flowers open about a day later, preventing self-pollination.\nCarrion beetles gather around the titan arum bloom.\nFlesh flies hover near the titan arum spathe.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the nocturnal blooming of the titan arum",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the titan arum with a gigantic inflorescence.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the inflorescence consisting of a tall central spadix surrounded by a large spathe.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the outer surface of the titan arum spathe as deep green with cream-colored specks.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the inner surface of the titan arum spathe as dark burgundy red with ribbed, frilled edges.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the titan arum spadix bearing a ring of small cream-colored male flowers near its base.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the titan arum spadix bearing a lower ring of pink female flowers beneath the male flowers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows the odor of the titan arum visualized as visible waves in the air.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture shows carrion beetles gathering around the titan arum bloom.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The picture shows flesh flies hovering near the titan arum spathe.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_11": {
+        "content": "True or False: The picture shows the titan arum resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_21_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_22": {
+    "prompt_en": "Generate an image illustrating the pathological features of a  citrus tree infected with a novel virus, based on the latest plant pathology  research.",
+    "prompt_zh": "请根据最新的植物病理学研究，描绘柑橘树感染一种新型病毒后的病理特征。",
+    "txt_reference": "The citrus tree is infected by Candidatus Liberibacter causing citrus greening disease (huanglongbing).\nThe citrus leaf shows irregular blotchy mottle with yellow and green patches.\nThe infected citrus branch appears yellow when viewed from a distance.\nThe citrus twig shows dieback with dried and withered tips.\nThe citrus fruits are uneven in size, with many small fruits on the diseased tree.\nThe citrus fruit shows aborted seeds inside.\nThe vascular bundles in the fruit albedo are brown and discolored.\nThe citrus fruit shows color inversion with the stylar end remaining green.\nThe citrus fruit rind develops a grayish-white color when pressed.\nThe citrus fruit appears bitter and salty in flavor.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows citrus leaves with blotchy mottle patterns of yellow and green patches.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows citrus branches that appear yellow when viewed from a distance.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows citrus twigs with dieback and withered tips.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows citrus fruits that are small and lopsided.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows citrus fruits with aborted seeds inside.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows citrus fruits with color inversion, where the stylar end remains green.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows citrus fruits with a rind that becomes grayish-white when pressed.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows citrus fruit resembling the one shown in <image_0>",
+        "img_path": "/reference/img/plant_22_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "plant_23": {
+    "prompt_en": "Generate an image showing the adaptive morphology of  Dendrosenecio kilimanjari at 4,500 meters elevation, at the mature but  non-flowering stage, with both daytime and nighttime states.",
+    "prompt_zh": "Dendrosenecio kilimanjari在海拔4500米的适应性形态（日夜状态）",
+    "txt_reference": "In the daytime, Dendrosenecio kilimanjari has a stout upright woody stem with persistent leaf bases. In the daytime, Dendrosenecio kilimanjari has multiple branches.\nIn the daytime, each branch of Dendrosenecio kilimanjari ends with a giant terminal leaf rosette.\nIn the daytime, the overall appearance of Dendrosenecio kilimanjari, with its woody stem and crown of rosettes, makes the plant look like a giant pineapple.\nIn the daytime, the leaf rosettes of Dendrosenecio kilimanjari are fully open to capture sunlight.\nIn the daytime, the open rosettes of Dendrosenecio kilimanjari look like large green crowns at the tips of the branches.\nAt night, the woody stem and branches of Dendrosenecio kilimanjari remain visible in the dark.\nAt night, the terminal leaf rosettes of Dendrosenecio kilimanjari fold their long leaves inward and close tightly to conserve heat.\nAt night, the closed leaf rosettes of Dendrosenecio kilimanjari look like tight round heads at the stem and branch tips.\nAt night, the contrast between the dark closed rosettes and the open daytime rosettes shows the plant’s adaptation to freezing temperatures.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows both daytime and nighttime states of Dendrosenecio kilimanjari.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Dendrosenecio kilimanjari with a stout upright woody stem.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Dendrosenecio kilimanjari with multiple branches.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows each branch of Dendrosenecio kilimanjari ending with a giant terminal leaf rosette.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the overall appearance of Dendrosenecio kilimanjari looking like a giant pineapple.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the leaf rosettes of Dendrosenecio kilimanjari fully open during the daytime.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the open leaf rosettes of Dendrosenecio kilimanjari looking like large green crowns at the tips of the branches.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows the woody stem and branches of Dendrosenecio kilimanjari still visible at night.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture shows the terminal leaf rosettes of Dendrosenecio kilimanjari closed at night.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_10": {
+        "content": "True or False: The picture shows closed leaf rosettes of Dendrosenecio kilimanjari forming tight round heads at the tips of stems and branches during the night.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_11": {
+        "content": "True or False: The picture shows a contrast between open daytime rosettes and closed nighttime rosettes of Dendrosenecio kilimanjari.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_12": {
+        "content": "True or False: The picture shows Dendrosenecio kilimanjari resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_23_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_24": {
+    "prompt_en": "Generate an image illustrating the special mechanism of Mimosa  pudica.",
+    "prompt_zh": "生成一张图来解释 Mimosa pudica（含羞草）的特殊机制。",
+    "txt_reference": "The special mechanism of Mimosa pudica is that its leaves fold together when touched to protect themselves.\nThe compound leaves of Mimosa pudica are fully open and feathery.\nThe leaflets of Mimosa pudica fold inward after being touched.\nThe leaflets of Mimosa pudica are tightly closed together after folding.\nThe leaflets of Mimosa pudica reopen and spread outward again a few minutes later.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the compound leaves of Mimosa pudica fully open and feathery.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the leaflets of Mimosa pudica folding inward after being touched.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the leaflets of Mimosa pudica tightly closed together.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the leaflets of Mimosa pudica reopening and spreading outward again.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the different leaf states of Mimosa pudica across several steps.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Mimosa pudica resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_24_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_25": {
+    "prompt_en": "Generate an image illustrating the hunting process of Dionaea  muscipula.",
+    "prompt_zh": "生成一张图片说明 Dionaea muscipula（捕蝇草）的捕猎过程。",
+    "txt_reference": "Stage 1: The Venus flytrap has a flat, heart-shaped green petiole.\nStage 1: The Venus flytrap has a pair of green lobes connected by a central midrib.\nStage 1: The inner surface of the lobes is red.\nStage 1: The edges of the lobes are fringed with stiff hair-like cilia.\nStage 1: The inner surface of each lobe has three thin trigger hairs.\nStage 1: The lobes of the trap are fully open in the resting state.\nStage 2: An insect lands on the open trap and touches one of the trigger hairs on the inner surface of the lobes.\nStage 2: The insect repeatedly touches the trigger hairs.\nStage 3: The lobes of the trap snap shut in 0.1 second after the trigger hairs are touched.\nStage 3: The meshed cilia interlock when the lobes close, preventing the insect from escaping.\nStage 4: The lobes of the trap tighten further within 12 hours.\nStage 4: Secretory glands on the lobes release digestive fluids onto the prey.\nStage 5: The prey gradually breaks down over a period of 12 hours to 5 days.\nStage 5: Nutrients from the digested prey remain visible inside the lobes.\nStage 6: The lobes of the trap reopen about one week later, after digestion is complete or if the prey has escaped.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Venus flytrap with a flat, heart-shaped green petiole.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the Venus flytrap with two green lobes connected by a central midrib.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the inner surface of the lobes in red.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the edges of the lobes fringed with hair-like cilia.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows three thin trigger hairs on the inner surface of each lobe.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the trap lobes fully open.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows an insect landing on the open trap.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: The picture shows the trap lobes closing around an insect.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False: The picture shows the cilia interlocking at the edges of the closed lobes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The picture shows prey visible inside the closed trap.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_11": {
+        "content": "True or False: The picture shows the trap lobes reopening after being closed.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_12": {
+        "content": "True or False: The picture shows multiple stages of the Venus flytrap hunting process.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      }
+    }
+  },
+  "plant_26": {
+    "prompt_en": "Generate an image illustrating the hunting process of  Nepenthes.",
+    "prompt_zh": "生成一张图片说明猪笼草（Nepenthes）的捕猎过程。",
+    "txt_reference": "Stage 1 – Open trap\nNepenthes has a green climbing stem with sword-shaped leaves.\nEach leaf extends into a tendril that ends in a globe- or tube-shaped pitcher.\nThe pitcher has a colourful slippery rim called the peristome.\nA lid is located above the pitcher opening.\nStage 2 – Prey attraction\nAn insect is attracted to the colourful peristome.\nThe insect crawls on the slippery rim near the opening.\nThe insect loses its footing and falls into the pitcher fluid.\nStage 3 – Prey retention\nThe smooth waxy inner wall of the pitcher prevents the insect from climbing out.\nThe fluid inside the pitcher drowns the insect.\nStage 4 – Digestion and absorption\nDigestive enzymes in the fluid break down the insect gradually.\nGlands on the inner surface of the pitcher absorb nutrients from the digested insect.\nStage 5 – Trap variation\nNepenthes produces large lower pitchers on the ground and smaller upper pitchers hanging from climbing stems.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Nepenthes with a green climbing stem.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Nepenthes leaves shaped like swords.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a tendril extending from the leaf and ending in a pitcher.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows a globe- or tube-shaped pitcher.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows a colourful rim around the pitcher opening.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows a lid located above the pitcher opening.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows an insect near the rim of the pitcher.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows an insect falling into the pitcher fluid.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False: The picture shows the inner wall of the pitcher smooth.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The picture shows an insect inside the pitcher fluid.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_11": {
+        "content": "True or False: The picture shows large pitchers on the ground.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_12": {
+        "content": "True or False: The picture shows smaller pitchers hanging from climbing stems.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_13": {
+        "content": "True or False: The picture shows multiple stages of the Nepenthes hunting process.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_14": {
+        "content": "True or False: The picture shows Nepenthes resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_26_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_27": {
+    "prompt_en": "Generate an image illustrating the growth cycle of Coprinus  comatus.",
+    "prompt_zh": "生成一张展示毛头鬼伞生长周期的图片。",
+    "txt_reference": "Stage 1: Coprinus comatus appears as a small white egg-shaped body emerging from the soil.\nStage 2: The mushroom develops into a cylindrical young cap covered with shaggy white scales.\nStage 3: The cap expands into a bell shape while the shaggy scales remain visible.\nStage 4: The edge of the cap begins to turn black and dissolve into an inky liquid.\nStage 5: The cap gradually autodigests from the edge upward, dripping black liquid.\nStage 6: The cap completely dissolves, leaving only the stem standing.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: In Stage 1, the picture shows Coprinus comatus as a small white egg-shaped body on the soil surface.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: In Stage 2, the picture shows Coprinus comatus with a cylindrical young cap covered with shaggy white scales.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: In Stage 3, the picture shows Coprinus comatus with a bell-shaped cap and visible shaggy white scales.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: In Stage 4, the picture shows Coprinus comatus with the edge of the cap turned black.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: In Stage 5, the picture shows Coprinus comatus with the cap partly dissolved and black in color.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: In Stage 6, the picture shows Coprinus comatus with only the stem remaining after the cap disappears.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows multiple stages of the growth cycle of Coprinus comatus.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: The picture shows young Coprinus comatus resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_27_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Coprinus comatus in its inky phase resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_27_1.png",
+        "modal": "I",
+        "class_id": 3
+      },
+      "question_10": {
+        "content": "True or False: The picture shows Coprinus comatus in late stage deliquescence resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_27_2.png",
+        "modal": "I",
+        "class_id": 3
+      }
+    }
+  },
+  "plant_28": {
+    "prompt_en": "Generate an image illustrating the external growth stages of  Cordyceps sinensis from infected insect to mature fruiting body.",
+    "prompt_zh": "生成一张图片说明冬虫夏草（Cordyceps sinensis）从被寄生昆虫到成熟子座的外部生长阶段",
+    "txt_reference": "Stage 1: A caterpillar lies partially buried in the soil, intact in appearance and without external stroma.\nStage 2: A single dark brown or yellowish stroma emerges from the caterpillar’s head.\nStage 3: The stroma elongates to several centimeters with a slender longitudinally ridged stipe and a distinct clavate or fusiform head.\nStage 4: The mature fruiting body stands fully developed above the soil while the mummified caterpillar remains below.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: In Stage 1, the picture shows a caterpillar partially buried in the soil, intact in appearance and without external stroma.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: In Stage 2, the picture shows a single dark brown or yellowish stroma emerging from the caterpillar’s head.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: In Stage 3, the picture shows the stroma elongated to several centimeters with a slender ridged stalk.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: In Stage 3, the picture shows the stroma with a distinct clavate or fusiform head.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: In Stage 4, the picture shows the mature fruiting body standing above the soil.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: In Stage 4, the picture shows the mummified caterpillar remaining below the fruiting body.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows multiple external growth stages of Cordyceps sinensis.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Cordyceps sinensis resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_28_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_29": {
+    "prompt_en": "Generate an image comparing Cuscuta chinensis with a host and  without a host.",
+    "prompt_zh": "生成一张菟丝子（Cuscuta chinensis）在有宿主和无宿主时的对比图片。",
+    "txt_reference": "Without a host: Cuscuta chinensis germinates from seed as a thin yellow vine lacking leaves and roots.\nWithout a host: The seedling has only a few days of food reserves and then dies.\nWith a host: Cuscuta chinensis coils around the stems of a nearby plant and attaches using haustoria.\nWith a host: The vine twines extensively around the host, often enveloping it completely.\nWith a host: Dense clusters of small white to cream flowers appear on the parasitic stems.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a comparison of Cuscuta chinensis with a host and without a host.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Cuscuta chinensis without a host as a thin yellow vine.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Cuscuta chinensis without a host lacking leaves and roots.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Cuscuta chinensis twining around the stems of a host plant.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Cuscuta chinensis attaching to the host plant.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Cuscuta chinensis extensively enveloping a host plant.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows clusters of small white to cream flowers on the parasitic stems of Cuscuta chinensis.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Cuscuta chinensis resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_29_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_30": {
+    "prompt_en": "Generate an image illustrating the growth cycle of Cuscuta  chinensis.",
+    "prompt_zh": "生成一张图片说明菟丝子（Cuscuta chinensis）的生长周期。",
+    "txt_reference": "Stage 1: Cuscuta chinensis germinates from seed as a thin yellow seedling lacking leaves and roots.\nStage 2: The seedling survives only a few days on its own food reserves before needing a host.\nStage 3: The seedling finds a host plant and attaches using haustoria at the point of contact.\nStage 4: The stem below the first point of attachment dies, and the plant no longer connects to the soil.\nStage 5: The vine twines around the host stems, often enveloping them completely.\nStage 6: Dense clusters of small white to cream flowers appear on the parasitic stems. \nStage 7: The plant withers and dies after producing seeds, leaving the seeds to continue the next cycle.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows multiple stages of the growth cycle of Cuscuta chinensis.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: In Stage 1, the picture shows Cuscuta chinensis as a thin yellow seedling without leaves and roots.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: In Stage 3, the picture shows Cuscuta chinensis attaching to a host plant.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: In Stage 5, the picture shows Cuscuta chinensis twining around the stems of a host plant.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: In Stage 5, the picture shows Cuscuta chinensis enveloping the host plant stems.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: In Stage 6, the picture shows clusters of small white to cream flowers on the parasitic stems of Cuscuta chinensis.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: In Stage 7, the picture shows withered Cuscuta chinensis stems.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Cuscuta chinensis resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_30_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_31": {
+    "prompt_en": "Generate an image comparing the floating leaves and submerged  leaves of Trapa natans.",
+    "prompt_zh": "生成一张图片对比菱角（Trapa natans）的水上叶和水下叶。",
+    "txt_reference": "Floating leaves: Trapa natans has undivided floating leaves arranged in a rosette at the water’s surface.\nFloating leaves: The floating leaves are ovoid or triangular in shape with saw-tooth edges.\nFloating leaves: The floating leaves are 2–3 cm long and borne on inflated petioles 5–9 cm long, which provide buoyancy.\nSubmerged leaves: Trapa natans has finely divided, feather-like submerged leaves borne along the length of the stem.\nSubmerged leaves: The submerged stem can reach several metres in length and is anchored in the mud by very fine roots.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a comparison of floating leaves and submerged leaves of Trapa natans.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows floating leaves of Trapa natans arranged in a rosette at the water’s surface.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows floating leaves of Trapa natans that are ovoid or triangular in shape.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows floating leaves of Trapa natans with saw-tooth edges.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows floating leaves of Trapa natans borne on inflated petioles.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows submerged leaves of Trapa natans that are finely divided and feather-like.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows submerged leaves of Trapa natans borne along the length of the stem.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows a submerged stem of Trapa natans anchored in the mud by very fine roots.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Trapa natans with both floating leaves and submerged leaves for comparison.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The picture shows the leaves of Trapa natans resembling the ones shown in <image_0>.",
+        "img_path": "/reference/img/plant_31_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_32": {
+    "prompt_en": "Generate an image illustrating the morphological transition of  Platycerium wallichii from shield fronds to antler-shaped fronds.",
+    "prompt_zh": "生成一张图片说明鹿角蕨（Platycerium wallichii）从盾片到鹿角状叶的形态变化。",
+    "txt_reference": "Generate a four-panel image illustrating the morphological transition of Platycerium wallichii from shield fronds to antler-shaped fronds.\nStage 1 – Shield fronds\nThe basal fronds of Platycerium wallichii are sterile, rounded or kidney-shaped.\nThe basal fronds are laminate against the tree surface and protect the roots from damage and desiccation.\nStage 2 – Crown formation\nThe top margin of the basal fronds grows upward into an open crown of lobes.\nThe crown of basal fronds catches rainwater, forest litter, and animal droppings.\nStage 3 – Developing fertile fronds\nThe fertile fronds emerge from the rhizome and branch dichotomously.\nThe fertile fronds begin to extend outward or hang pendulously from the rhizome.\nStage 4 – Mature antler fronds with spores\nThe fertile fronds are fully antler-shaped with long lobes.\nThe undersides of fertile fronds bear clusters of spores.\nThe spores are arranged in large sori positioned at the tips of lobes, on stalked lobes, or at the sinus between frond lobes.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: In Stage 1, the picture shows basal fronds of Platycerium wallichii that are rounded or kidney-shaped.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: In Stage 1, the picture shows basal fronds laminate against the tree surface.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: In Stage 2, the picture shows the basal fronds forming an open crown of lobes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: In Stage 2, the picture shows the crown of basal fronds collecting rainwater and forest litter.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: In Stage 3, the picture shows fertile fronds branching dichotomously.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: In Stage 3, the picture shows fertile fronds extending outward or hanging pendulously.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: In Stage 4, the picture shows mature antler-shaped fertile fronds with long lobes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: In Stage 4, the picture shows spores arranged in sori at the tips or between the lobes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture shows four panels illustrating the morphological transition of Platycerium wallichii.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      }
+    }
+  },
+  "plant_33": {
+    "prompt_en": "Generate an image illustrating the growth cycle of Lithops  pseudotruncatella.",
+    "prompt_zh": "生成一张图片说明生石花（Lithops pseudotruncatella）的生长周期。",
+    "txt_reference": "Stage 1 – Initial plant body\nLithops appears as a small stone-like succulent with two thick leaves fused together.\nThe leaves of Lithops are partially buried in the soil and flush with the ground surface.\nThe upper surface of the leaves shows stone-like colors and patterns.\nStage 2 – Fissure opening\nThe central fissure between the two leaves gradually widens. A small flower bud begins to emerge from the fissure.\nStage 3 – Flowering\nA daisy-like flower with many narrow petals opens from the fissure.\nThe flower is yellow, pale orange, or white in color. \nThe flower opens in the afternoon and closes again in late afternoon.\nStage 4 – Fruiting\nAfter the flower fades, a round fruit capsule remains in the fissure. The fruit capsule opens when wet and closes again when dry.\nStage 5 – New leaf growth\nA new pair of leaves develops inside the fissure of the old leaves.\nThe new leaf pair pushes upward between the old leaves.\nStage 6 – Renewal and division\nThe old leaves shrivel and wither into a dry papery sheath beside the new body.\nThe plant may divide to produce two or more pairs of leaves, forming a small cluster.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows multiple stages of the growth cycle of Lithops pseudotruncatella.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: In Stage 1, the picture shows Lithops as a small stone-like succulent with two thick leaves fused together.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: In Stage 1, the picture shows the upper surface of the leaves with stone-like colors and patterns.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: In Stage 2, the picture shows a visible central fissure between the two leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: In Stage 2, the picture shows a small flower bud inside the fissure.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: In Stage 3, the picture shows a daisy-like flower with many narrow petals in the fissure.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: In Stage 3, the picture shows the flower in yellow, pale orange, or white.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: In Stage 4, the picture shows a round fruit capsule inside the fissure.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False: In Stage 5, the picture shows a new pair of leaves inside the fissure of the old leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_10": {
+        "content": "True or False: In Stage 5, the picture shows the new leaves located between the old leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_11": {
+        "content": "True or False: In Stage 6, the picture shows the plant with two or more pairs of leaves forming a small cluster.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: The picture shows Lithops pseudotruncatella resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_33_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_34": {
+    "prompt_en": "Generate an image comparing the leaves of Monstera deliciosa  in low light and strong light.",
+    "prompt_zh": "生成一张图片对比龟背竹（Monstera deliciosa）在弱光和强光下的叶片。",
+    "txt_reference": "Low light:\nThe leaves of Monstera deliciosa are larger and broader in low light.\nThe leaves of Monstera deliciosa are light green in low light.\nThe leaves of Monstera deliciosa have fewer fenestrations in low light.\nThe leaves of Monstera deliciosa appear more complete and heart-shaped or oval in low light.\nStrong light:\nThe leaves of Monstera deliciosa are thicker and more rigid in strong light.\nThe leaves of Monstera deliciosa are dark green and glossy in strong light.\nThe leaves of Monstera deliciosa have more fenestrations in strong light.\nThe leaves of Monstera deliciosa show the typical split and perforated Monstera form in strong light.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a comparison of Monstera deliciosa leaves in low light and strong light as <image_0>.",
+        "img_path": "/reference/img/plant_34_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: In low light, the picture shows Monstera deliciosa leaves light green.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: In low light, the picture shows Monstera deliciosa leaves with fewer fenestrations.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: In low light, the picture shows Monstera deliciosa leaves more complete and heart-shaped or oval.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: In strong light, the picture shows Monstera deliciosa leaves dark green and glossy",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: In strong light, the picture shows Monstera deliciosa leaves with more fenestrations.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Monstera deliciosa resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_34_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_35": {
+    "prompt_en": "Generate an image comparing the leaves of Taxodium distichum  in four seasons.",
+    "prompt_zh": "生成一张图片对比落羽杉（Taxodium distichum）四个季节的叶子。",
+    "txt_reference": "Spring: The needle-like linear leaves are alternate, with entire margins, and appear light green.\nSummer: The needle-like leaves are abundant, alternate, and deep green in color.\nAutumn: The leaves turn bright yellow or copper red before falling.\nWinter: The tree has bare branches with no leaves.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a comparison of Taxodium distichum leaves in four seasons.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: In spring, the picture shows Taxodium distichum leaves in light green color.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: In summer, the picture shows Taxodium distichum leaves in deep green color.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: In autumn, the picture shows Taxodium distichum leaves turning copper red.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: In winter, the picture shows Taxodium distichum with bare branches and no leaves",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: In autumn, the picture shows Taxodium distichum leaves turning bright yellow.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Taxodium distichum with alternate, needle-like linear leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Taxodium distichum resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_35_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_36": {
+    "prompt_en": "Generate an image comparing corn (Zea mays) with sufficient  nitrogen and with low nitrogen.",
+    "prompt_zh": "生成一张比较玉米（Zea mays）在氮素充足和氮素缺乏情况下外观差异的图像。",
+    "txt_reference": "Sufficient nitrogen:\nThe corn plants are tall with a height of 2–3 meters.\nThe stems of the corn plants are thick and sturdy.\nThe leaves of the corn plants are dark green and broad.\nThe ears of the corn plants are full and well-developed with dense kernels.\nLow nitrogen:\nThe corn plants are short with a height of less than 1 meter.\nThe stems of the corn plants are thin and weak.\nThe leaves of the corn plants are yellow, starting from the lower leaves.\nThe ears of the corn plants are small and short.\nThe kernels on the corn ears are sparse and irregular.\nMany gaps are visible on the cob where kernels are missing.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a comparison of corn (Zea mays) with sufficient nitrogen and with low nitrogen.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: In sufficient nitrogen, the picture shows tall corn plants.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: In sufficient nitrogen, the picture shows corn stems thick and sturdy.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: In sufficient nitrogen, the picture shows dark green and broad corn leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: In sufficient nitrogen, the picture shows full and well-developed corn ears with dense kernels.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: In low nitrogen, the picture shows short corn plants.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: In low nitrogen, the picture shows thin and weak corn stems.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: In low nitrogen, the picture shows yellow corn leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: In low nitrogen, the picture shows small and short corn ears.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: In low nitrogen, the picture shows sparse and irregular kernels on the corn ears.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_37": {
+    "prompt_en": "Generate an image illustrating the growth process of  strawberry.",
+    "prompt_zh": "生成一张图片说明草莓的生长过程。",
+    "txt_reference": "Stage 1 – Seedling\nA young strawberry seedling has thin stems with clusters of three serrated green leaflets.\nStage 2 – Root establishment\nA strawberry plant grows low to the ground with dense clusters of bright green serrated leaves.\nEarly flowers are visible between the leaves.\nStage 3 – Vegetative growth\nA strawberry plant has a wide low form with lush green trifoliate leaves.\nLong slender runners extend along the ground with small plantlets at their tips.\nStage 4 – Flowering\nWhite strawberry flowers with five petals and yellow centers stand above the foliage.\nNumerous blossoms are visible on the plant.\nStage 5 – Fruiting\nSmall green strawberries are visible at the centers of the flowers.\nPartially ripe strawberries are pink in color.\nRipe strawberries are red, heart-shaped, glossy, and covered in tiny surface seeds.\nStage 6 – Dormancy\nA strawberry plant has bare crowns at the soil surface.\nThe plant has no green leaves above the ground.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows multiple stages of the growth process of strawberry.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: In Stage 1, the picture shows a young strawberry seedling.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: In Stage 1, the picture shows serrated green leaflets in clusters.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: In Stage 2, the picture shows a strawberry plant growing low to the ground.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: In Stage 3, the picture shows small plantlets forming at the tips of the runners.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: In Stage 4, the picture shows white strawberry flowers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: In Stage 4, the picture shows strawberry flowers with five petals.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: In Stage 5, the picture shows small green strawberries.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False: In Stage 5, the picture shows ripe strawberries.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_10": {
+        "content": "True or False: In Stage 5, the picture shows strawberries that are red.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: In Stage 5, the picture shows strawberries covered in tiny surface seeds.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_12": {
+        "content": "True or False: In Stage 5, the picture shows strawberries that are heart-shaped.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_13": {
+        "content": "True or False: In Stage 6, the picture shows no green leaves above the ground.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_14": {
+        "content": "True or False: The picture shows strawberry plants resembling the ones shown in <image_0>.",
+        "img_path": "/reference/img/plant_37_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "plant_38": {
+    "prompt_en": "Generate an image showing the plant called the Queen of Tea  Flowers.",
+    "prompt_zh": "生成一张图片展示被称为“茶族皇后”的植物。",
+    "txt_reference": "The Queen of Tea Flowers refers to Camellia petelotii.\nCamellia petelotii is a shrub.\nCamellia petelotii grows 6 to 10 feet tall.\nThe leaves of Camellia petelotii are evergreen.\nThe leaves of Camellia petelotii are elliptic-oblong.\nThe leaves of Camellia petelotii are glossy.\nThe young leaves of Camellia petelotii are purple.\nThe mature leaves of Camellia petelotii are dark green.\nThe flowers of Camellia petelotii are solitary.\nA shrub of Camellia petelotii bears multiple solitary flowers scattered on different branches.\nThe flowers of Camellia petelotii are golden yellow.\nThe flowers of Camellia petelotii are about 2 inches across.\nThe flowers of Camellia petelotii have 8 to 12 petals.\nThe stamens of Camellia petelotii are yellow and bushy.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a plant with green leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows a plant with elliptic-oblong leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a plant with glossy leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows a plant with young purple leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows flowers that are solitary.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows flowers that are golden yellow.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows flowers with multiple petals.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows flowers with yellow bushy stamens.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Camellia petelotii resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_38_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_39": {
+    "prompt_en": "Generate an image comparing Cereus forbesii during the day and  at night during their flowering period.",
+    "prompt_zh": "生成一张图片对比仙人柱属植物 Cereus forbesii 在白天和夜间开花时期的状态。",
+    "txt_reference": "During the flowering period, Cereus forbesii has tall, columnar green stems with spines along the ribs.\nLarge funnel-shaped flowers appear singly on the stems.\nAt night:\nThe flowers of Cereus forbesii are fully open.\nThe flowers are large.\nThe flowers are funnel-shaped.\nThe flowers are white to reddish.\nThe outer petals have pink backs.\nThe flower centers are bright yellow.\nDuring the day:\nThe flowers of Cereus forbesii are closed.\nThe closed flowers are folded.\nThe flowers remain attached to the columnar stems.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a comparison of Cereus forbesii during the day and at night.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: At night, the picture shows Cereus forbesii flowers fully open.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: At night, the picture shows flowers with outer petals that have pink backs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: At night, the picture shows flower centers that are bright yellow.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: During the day, the picture shows Cereus forbesii flowers closed.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: During the day, the picture shows closed flowers folded.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Cereus forbesii with columnar stems.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Cereus forbesii flowers resembling the ones shown in <image_0>.",
+        "img_path": "/reference/img/plant_39_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_40": {
+    "prompt_en": "Generate an image comparing two cultivars of Fuchsia hybrida:  ‘Blaze’ and ‘Comet’.",
+    "prompt_zh": "生成 Fuchsia hybrida ‘Blaze’ 和 ‘Comet’ 两个品种的对比图。",
+    "txt_reference": "The sepals of ‘Blaze’ are bright red.\nThe petals of ‘Blaze’ are vibrant pink.\nThe sepals of ‘Comet’ are white.\nThe petals of ‘Comet’ are tender pink.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a comparison of two cultivars of Fuchsia hybrida.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the sepals of ‘Blaze’ in bright red",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the petals of ‘Blaze’ in vibrant pink.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the sepals of ‘Comet’ in white.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the petals of ‘Comet’ in tender pink.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_41": {
+    "prompt_en": "Generate an image illustrating the key growth stages of  watermelons (Citrullus lanatus).",
+    "prompt_zh": "生成一张图片展示西瓜的关键生长阶段。",
+    "txt_reference": "Stage 1 – Seedling:\nA small seedling emerges from the soil with two cotyledons.\nTiny green true leaves begin to develop.\nStage 2 – Vine growth:\nLong sprawling green vines extend across the ground.\nThe lobed true leaves spread widely along the vines.\nStage 3 – Flowering and pollination:\nYellow male and female flowers bloom along the vines.\nMale flowers are more numerous, while female flowers have a small ovary beneath the petals.\nInsects pollinate the flowers.\nStage 4 – Fruit initiation:\nSmall round green fruits appear behind the female flowers.\nThe young fruits are smooth and dark green.\nStage 5 – Fruit enlargement:\nThe fruits grow larger, round to oblong in shape.\nThe rind develops dark green stripes on a lighter green background.\nStage 6 – Maturity and harvest:\nThe watermelon reaches full size, large and heavy.\nThe rind has distinct striping, and the inside is red with black seeds (shown in a cross-section).\nAt this stage, the fruit is harvested.\nStage 7 – Post-harvest drying:\nThe vine dries out after fruit harvest.\nNew seeds from the ripe watermelon can be replanted to restart the cycle.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows multiple stages of watermelon growth in sequence.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows a small seedling with two cotyledons.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows tiny green true leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows long sprawling green vines across the ground.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows lobed true leaves on the vines.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows yellow flowers on the vines.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows small round green fruits behind the flowers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows smooth dark green young fruits.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows large fruits that are round to oblong in shape.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The picture shows fruit rinds with dark green stripes on a lighter green background.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The picture shows a large watermelon with distinct striping.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: The picture shows a watermelon cross-section with red flesh and black seeds.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_13": {
+        "content": "True or False: The picture shows dried vines after harvest.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_14": {
+        "content": "True or False: The picture shows a watermelon resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_41_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_15": {
+        "content": "True or False: The picture shows watermelon flowers resembling the ones shown in <image_0>.",
+        "img_path": "/reference/img/plant_41_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_42": {
+    "prompt_en": "Generate an image showing a tree trunk secreting white latex  after being wounded.",
+    "prompt_zh": "生成一张受伤后树干流出白色乳胶的树",
+    "txt_reference": "Hevea brasiliensis (rubber tree) secretes white latex when wounded.\nThe tree can grow up to 43 meters tall in the wild.\nThe trunk is cylindrical.\nThe trunk may have a swollen, bottle-shaped base.\nThe bark is brown.\nThe leaves have three leaflets.\nThe leaves are spirally arranged.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a tree trunk secreting white latex.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows a cylindrical trunk.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows brown bark.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows leaves with three leaflets.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Hevea brasiliensis resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_42_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_43": {
+    "prompt_en": "Generate an image illustrating the pollination mechanism of a  bat-pollinated flower.",
+    "prompt_zh": "生成一张图片展示一种依靠蝙蝠传粉的花的授粉机制。",
+    "txt_reference": "Panel 1 – Nocturnal flowering\nThe bat-pollinated flower opens at night.\nThe flower is large, pale-colored, and tubular or bell-shaped.\nThe background is a dark night sky.\nPanel 2 – Bat approaches\nA bat flies toward the flower guided by scent and echolocation.\nThe flower emits visible odor lines to indicate fragrance.\nThe flower is positioned away from foliage for easy access.\nPanel 3 – Feeding and pollen attachment\nThe bat hovers in front of the flower and inserts its head inside.\nThe bat’s fur and face contact the anthers.\nYellow pollen grains attach to the bat’s head and snout.\nPanel 4 – Cross-pollination\nThe bat visits another flower on a nearby branch.\nThe pollen on its face touches the stigma of the new flower.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a flower opening at night.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows a dark night sky in the background.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a bat flying toward the flower.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows visible odor lines coming from the flower.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the bat’s fur and face touching the anthers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows yellow pollen grains on the bat’s head and snout.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the pollination process of a bat-pollinated flower.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      }
+    }
+  },
+  "plant_44": {
+    "prompt_en": "Generate an image depicting the succession of plant  communities on volcanic soil.",
+    "prompt_zh": "生成一张图片描绘火山土壤上的植物群落演替",
+    "txt_reference": "Panel 1 – Early stage (Primary succession)\nThe ground is barren volcanic lava or ash with no soil.\nPioneer mosses, lichens, and hardy grasses colonize the rocky surface.\nThe soil layer is extremely thin and nutrient-poor.\nPanel 2 – Intermediate stage\nThe soil becomes thicker and more fertile.\nHerbaceous plants and small shrubs establish.\nNitrogen-fixing plants appear and enrich the soil.\nRoots stabilize the soil and create improved microenvironments.\nPanel 3 – Late stage (Climax community)\nWoody plants and trees gradually dominate.\nDense layers of shrubs, trees, and understory plants form.\nPlant diversity and biomass increase significantly, developing into a forest community.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows three panels comparing the early, intermediate, and late stages of plant succession on volcanic soil.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows barren volcanic lava or ash with no soil.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows hardy grasses on the rocky ground.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows pioneer mosses growing on the rocky surface.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows pioneer lichens growing on the rocky surface.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows herbaceous plants.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows small shrubs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows visible plant roots in the soil.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture shows woody plants.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The picture shows trees.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "plant_45": {
+    "prompt_en": "Generate an image depicting the vertical stratification of  vegetation in a tropical rainforest.",
+    "prompt_zh": "生成一张图片描绘热带雨林植被的垂直分层。",
+    "txt_reference": "Emergent layer\nThe tallest trees rise above the canopy.\nCrowns are umbrella-shaped and widely spaced.\nCanopy layer\nA dense, continuous green roof of interlocking crowns.\nEpiphytes and lianas are abundant on branches and trunks.\nThe canopy is sunlit and wind-exposed.\nUnderstory layer\nSmaller shade-tolerant trees form a lower, broken ceiling.\nLeaves are broad and thin to capture limited light.\nThe understory is dim and humid.\nShrub / sapling layer\nShrubs and young trees occupy the space near the ground.\nStems are slender with sparse, shade-adapted foliage.\nForest floor\nThe ground is dark with scattered shade plants.\nTree trunks, fallen leaves, and decomposing litter are prominent.\nFungi and decomposers spread across damp soil.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the vertical stratification of vegetation in a tropical rainforest.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the tallest trees rising above the canopy.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows umbrella-shaped crowns.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows a green canopy.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows epiphytes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows lianas.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows small trees.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows broad thin leaves in the understory.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture shows shrubs near the ground.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The picture shows young trees near the ground.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_11": {
+        "content": "True or False: The picture shows slender stems.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: The picture shows sparse foliage.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_13": {
+        "content": "True or False: The picture shows tree trunks on the forest floor.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "plant_46": {
+    "prompt_en": "Generate an image illustrating the growth process of wild  Lingzhi mushroom as a four-panel diagram.",
+    "prompt_zh": "生成一张展示野生灵芝生长过程的四格示意图。",
+    "txt_reference": "Panel 1 – Mycelium colonization\nWhite mycelium spreads as fine, cotton-like threads inside and across the surface of the decaying hardwood.\nThe wood surface looks moist and partially decomposed.\nMoss grows around the log.\nFallen leaves lie scattered on the damp soil.\nA faint mist lingers near the ground.\nPanel 2 – Primordia formation\nSmall pinhead-sized bumps appear on the moist wood surface.\nThe primordia are tiny and round in shape.\nThe primordia are light brown in color.\nThe primordia have a moist and slightly translucent texture.\nSeveral primordia are at different sizes, showing uneven development.\nPanel 3 – Fruiting body development\nThe primordia expand into kidney-shaped or fan-shaped caps with side-attached stems.\nThe caps are reddish-brown in color.\nThe cap surfaces are shiny with a varnished appearance.\nThe cap edges are slightly curved, showing they are still growing.\nPanel 4 – Maturation\nThe cap is fully expanded into a broad fan-like form.\nThe cap is deep reddish-brown in color.\nThe cap surface shows clear concentric bands.\nThe underside has fine yellowish pores.\nYellow spores are released as a light powdery cloud.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the growth process of wild Lingzhi mushroom.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows a four-panel diagram.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows small bumps on the wood surface.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows primordia that are round in shape.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows caps that are kidney-shaped or fan-shaped.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows stems attached from the side of the caps.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows reddish-brown caps.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows concentric bands on the cap surface.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_47": {
+    "prompt_en": "Generate an image of the county flower of Cumberland in  England.",
+    "prompt_zh": "生成一张英格兰 Cumberland 郡花的图片。",
+    "txt_reference": "The Grass-of-Parnassus was the county flower of Cumberland in England.\nThe plant grows as a clump with a basal rosette of leaves.\nThe basal leaves are heart-shaped and lie close to the ground.\nThe basal leaves are smooth and medium green.\nFlowering stems rise independently from the base and are leafless.\nEach flowering stem bears a solitary white flower at the top.\nThe flowers have five white petals with translucent green veins.\nThe flower center has five stamens with yellow anthers.\nSmall nectar scales are present around the stamens.\nThe flower diameter is similar to or slightly smaller than the width of one leaf.\nThe stems are slender, upright, and green.\nThe background shows moist grassland with moss patches.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the plant Grass-of-Parnassus.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the plant growing as a clump with a basal rosette of leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows heart-shaped basal leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows smooth green leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows leafless flowering stems.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows slender green stems.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows flowers with five white petals.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows flower petals with green veins.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Parnassia palustris resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_47_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_48": {
+    "prompt_en": "Generate an image of the county flower of Bedfordshire in  England.",
+    "prompt_zh": "生成一张英格兰贝德福德郡郡花的图片。",
+    "txt_reference": "The Bee Orchid, Ophrys apifera, was the county flower of Bedfordshire in England.\nThe plant grows to a height of 15–50 cm.\nIt develops a small basal rosette of ovate or oblong-lanceolate leaves.\nThe basal leaves are green with parallel venation.\nThe upper leaves and bracts are ovate-lanceolate and sheathing.\nA flower spike bears one to twelve flowers.\nEach flower has three large purple sepals that look like petals.\nAbove the sepals are two short, pubescent green true petals.\nThe central column is a fused structure of stamens and pistil.\nThe anther cap is visible at the top of the column.\nTwo pollinia hang from the column over the labellum.\nThe labellum is a modified petal at the bottom of the column.\nThe labellum is trilobed with hairy lateral lobes forming two humps.\nThe median lobe of the labellum is hairy and patterned to mimic a bee’s abdomen.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Bee Orchid (Ophrys apifera).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows a small basal rosette of leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows green leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows a flower spike with multiple flowers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows three large purple sepals.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows two short green petals above the sepals.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the median lobe of the labellum patterned like a bee’s abdomen.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows the Bee Orchid resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_48_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_49": {
+    "prompt_en": "Generate an image of the county flower of Berkshire in  England.",
+    "prompt_zh": "生成一张英格兰伯克希尔郡郡花的图片。",
+    "txt_reference": "The Loddon Lily, Leucojum aestivum, was the county flower of Berkshire in England.\nThe plant is a perennial bulbous species, 35–60 cm tall, sometimes reaching 90 cm.\nThe leaves are strap-shaped, 5–20 mm wide, and grow to the same height as the flowers.\nThe leaves are green, smooth, and narrow.\nThe flowering stem is hollow with translucent winged margins.\nEach stem bears an umbel of three to five pendant flowers, sometimes up to seven.\nThe flower stalks are slender and of unequal length.\nEach flower is bell-shaped and about 3–4 cm in diameter.\nThe flowers have six white tepals of equal length.\nEach tepal has a green mark just below its tip.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Loddon Lily (Leucojum aestivum).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows green narrow strap-shaped leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a hollow flowering stem.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows pendant flowers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows slender flower stalks of unequal length.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows bell-shaped white flowers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows green marks near the tips of the tepals.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows the Loddon Lily resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_49_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "plant_50": {
+    "prompt_en": "Generate an image of the county flower of Buckinghamshire in  England.",
+    "prompt_zh": "生成一张英格兰白金汉郡郡花的图片。",
+    "txt_reference": "The German gentian, Gentianella germanica, was the county flower of Buckinghamshire in England.\nThe plant is an annual or biennial species, 5 to 40 cm tall.\nThe stems are mostly unbranched or with very few branches.\nWhen biennial, the first year produces a basal rosette of leaves, which wither before flowering.\nThe stem leaves are opposite, deep green, and taper to a sharp point.\nThe leaf shape varies from ovate to ovate-lanceolate or ovate-triangular.\nThe flowers grow singly from the axils of the leaves.\nThe flowers are funnel-shaped and usually reddish-violet, though occasionally white.\nEach flower is about 3.5 cm long.\nThe sepals are partly fused at the base, dividing into five pointed lobes.\nThe corolla tube divides into five pointed petal lobes, sometimes only four.\nThe petal lobes are up to 15 mm long with slightly rough edges.\nInside the floral tube, a ring of long hairs is visible.\nEach flower has five stamens and two stigmas in the throat.\nA single plant can produce from 4 to over 40 flowers during the season.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the German gentian (Gentianella germanica).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows opposite deep green leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows leaves tapering to a sharp point.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows funnel-shaped flowers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows reddish-violet flowers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows flowers with five pointed sepals.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the German gentian resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/plant_50_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  }
+}

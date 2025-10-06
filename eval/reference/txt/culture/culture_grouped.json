@@ -1,0 +1,3076 @@
+{
+  "culture_0": {
+    "prompt_en": "Generate a photo of Finnish people celebrating the Midsummer Festival",
+    "prompt_zh": "生成一张芬兰人庆祝仲夏节的照片",
+    "txt_reference": "Finns usually celebrate Midsummer in vacation cottages away from the city.\nLighting bonfires is an important custom of the Midsummer Festival.\nMidsummer in Finland is the longest day of the year, which means the sun hardly sets.\nOn this day, it is common to grill sausages, roast meat, and drink freely.\nThe Midsummer pole is one of Finland's Midsummer night traditions.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows finns usually celebrate Midsummer in vacation cottages away from the city.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Lighting bonfires is an important custom of the Midsummer Festival.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Midsummer in Finland is the longest day of the year",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows it is common to grill sausages, roast meat, and drink freely on this day",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the Midsummer pole is one of Finland's Midsummer night traditions.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: grilled sausages and alcoholic beverages in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_0_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: Midnight Sun in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_0_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False:The midsummer pole in the picture resembles the one shown in\n<image_0>.\n",
+        "img_path": "/reference/img/culture_0_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_1": {
+    "prompt_en": "Generate an image of Finnish people queuing up for buses",
+    "prompt_zh": "生成一张芬兰人排队等公交的图片",
+    "txt_reference": "Finns pay attention to personal space, and there should be a distance of 1.5-2 meters between people when queuing.\nMost bus stops have glass windbreak shelters.\nThe common weather in Finland is winter.\nPeople often wear long down jackets and other warm clothing.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows there should be a distance of 1.5-2 meters between people when queuing.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Most bus stops have glass windbreak shelters.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows The common weather in Finland is winter.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows People often wear long down jackets and other warm clothing.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: Design of the glass windproof booth in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_1_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: buses in Finland in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_1_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The interval between people's queues in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_1_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "culture_10": {
+    "prompt_en": "Generate a photo of Moroccans enjoying an iftar meal after sunset during Ramadan.",
+    "prompt_zh": "生成一张摩洛哥人在斋月期间日落后举行开斋宴的照片",
+    "txt_reference": "The iftar banquet is usually held indoors.\nThe dining table is covered with a brightly colored traditional Moroccan carpet or tablecloth.\nThere may be lanterns or candles in the room, suggesting that it is after sunset.\nPeople usually sit around on the carpet or chairs.\nThe man is wearing a traditional djellaba (Moroccan robe) and a fez hat.\nThe woman is wearing a headscarf.\nThere are foods such as jujubes, harira soup, and Sellou on the dining table.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows The iftar banquet is usually held indoors.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows The dining table is covered with a brightly colored traditional Moroccan carpet or tablecloth.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows There be lanterns or candles in the room",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows People usually sit around on the carpet or chairs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows The man is wearing a traditional djellaba (Moroccan robe) and a fez hat.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows The woman is wearing a headscarf.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows There are foods such as jujubes, harira soup, and Sellou on the dining table.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: Moroccan style tablecloth in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_10_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The dining situation in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_10_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: Sellou in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_10_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_11": {
+    "prompt_en": "Generate a photo of Miao people celebrating the Miao New Year Festival in Guizhou.",
+    "prompt_zh": "生成一张苗族人在贵州庆祝苗年节的照片",
+    "txt_reference": "A common way to celebrate is by dancing the lusheng.\nPeople are dancing the lusheng dance around the lusheng pillars.\nThe lusheng dance is composed of a circle of males inside and a circle of females outside.\nIn the distance, there are stilted buildings characteristic of Guizhou.\nWomen often wear a lot of silver jewelry.\nPeople's clothing is mainly in bright colors such as bright red, bright blue, and emerald green.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows A common way to celebrate is by dancing the lusheng.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows People are dancing the lusheng dance around the lusheng pillars.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows The lusheng dance is composed of a circle of males inside and a circle of females outside.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows there are stilted buildings characteristic of Guizhou in the distance",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Women often wear a lot of silver jewelry.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows People's clothing is mainly in bright colors such as bright red, bright blue, and emerald green.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The scene of people dancing with the lusheng in the picture resembles the one shown in\n<image_0>.\n",
+        "img_path": "/reference/img/culture_11_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: Miao women's silver jewelry in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_11_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: Miao men's clothing in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_11_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: stilt houses in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_11_3.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_12": {
+    "prompt_en": "Generate a photo of Balinese people in Indonesia performing a seaside ritual during the Melasti (Sea God) Festival.",
+    "prompt_zh": "生成一张印度尼西亚巴厘岛民众在“海神节”期间举行海边祭祀仪式的照片",
+    "txt_reference": "The Melasti ceremony is always held on the beach.\nPeople wear traditional Balinese clothing predominantly in white.\nHindus bring sacred objects from the temple, such as sacred statues.\nIn addition, they also bring offerings consisting of fruits, flowers, rice, and other symbolic paraphernalia.\nPeople are also holding colorful umbrellas and flags.\nPeople will offer sacred prayers by the seaside.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows The Melasti ceremony is always held on the beach.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows People wear traditional Balinese clothing predominantly in white.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Hindus bring sacred objects from the temple, such as sacred statues.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows they also bring offerings consisting of fruits, flowers, rice, and other symbolic paraphernalia.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows People are also holding colorful umbrellas and flags.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows People will offer sacred prayers by the seaside.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: Colorful umbrellas and flags in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_12_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The prayer pose in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_12_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The parade in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_12_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "culture_13": {
+    "prompt_en": "Generate a photo of Georgian mountain villagers celebrating the Tusheti Festival.",
+    "prompt_zh": "生成一张格鲁吉亚山区村民在庆祝“图斯赫蒂节”的照片",
+    "txt_reference": "The celebration includes a traditional horse race called 'doghi'.\nThe background is the magnificent scenery of the mountains.\nThe background features rolling mountains, blue sky, and white clouds.\nMen sit at the table together separately from women.\nThe host is toasting to everyone.\nThe toast-giver must stand while drinking to show respect.\nThere will be beer, wine, and more on the dining table.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the celebration includes a traditional horse race called 'doghi'.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows The background is the magnificent scenery of the mountains.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows The background features rolling mountains, blue sky, and white clouds.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Men sit at the table together separately from women.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows The host is toasting to everyone.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows The toast-giver must stand while drinking to show respect.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows There be beer, wine, and more on the dining table.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The scene of the festival celebration in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_13_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The scene of toasting in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_13_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The situation of the horse race in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_13_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "culture_14": {
+    "prompt_en": "Generate an image of Bolivia’s Oruro Carnival.",
+    "prompt_zh": "生成一张玻利维亚“奥鲁罗狂欢节”的图片",
+    "txt_reference": "The main event of the carnival is the 'Entrata' parade.\nThe dancers are dressed in elaborate and heavy costumes.\nWearing the famous masks from the carnival.\nThe well-known dance in the parade, Diablada, features a team of demons led by the devil.\nThey are wearing horned masks and clothing primarily in red and black.\nNext are the dancers dressed in blue costumes.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows The main event of the carnival is the 'Entrata' parade.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows The dancers are dressed in elaborate and heavy costumes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows they are wearing the famous masks from the carnival.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows The team performing is the devil team at the beginning.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows They are wearing horned masks and clothing primarily in red and black.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows there are the dancers dressed in blue costumes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The blue clothing in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_14_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The team of devils in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_14_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The parade scene in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_14_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "culture_15": {
+    "prompt_en": "Generate a photo of a family feast during the Nowruz New Year celebration in Iran.",
+    "prompt_zh": "生成一张伊朗“诺鲁兹”新年庆典中，家庭聚餐的图片",
+    "txt_reference": "There should be two tables in the picture, one is a dining table for gathering, and the other is a Haft-Seen table.\nOne of the most important traditions of Nowruz is setting up the Haft-Seen table with seven items starting with the Persian letter 'S'.\nIncluding wheat sprouts or bean sprouts, apples, vinegar, garlic, gold or silver coins, spices, and maltose.\nThe Haft-Seen table will also display the Quran and an image of Ali, the founder of Shia Islam.\nThere will also be mirrors, candles, colored eggs, and goldfish placed on the Haft-Seen table.\nPeople eat a flaky pastry dessert called ‘Baklava’ filled with nuts and honey，which is usually placed in a prominent position.\nThe dining table is filled with delicacies.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows There be two tables, one is a dining table for gathering, and the other is a Haft-Seen table.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows There is a distinctive Haft-Seen table",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture showswheat sprouts or bean sprouts, apples, vinegar, garlic, gold or silver coins, spices, and maltose.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows The Haft-Seen table displays the Quran and an image of Ali, the founder of Shia Islam.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows There has mirrors, candles, colored eggs, and goldfish placed on the Haft-Seen table.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows People eat a flaky pastry dessert called ‘Baklava’ filled with nuts and honey",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Baklava is usually placed in a prominent position.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows The dining table is filled with delicacies.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: A portrait of Ali in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_15_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: Baklava in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_15_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The Haft-Seen table in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_15_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "culture_16": {
+    "prompt_en": "Generate a photo of Japanese villagers performing traditional rituals during the Onbashira Festival.",
+    "prompt_zh": "生成一张日本“御柱祭”中，村民进行传统仪式的照片",
+    "txt_reference": "The Japanese cut down giant cedar trees weighing over 10 tons to use as pillars.\nThe surface of the sacred pillar is often bound with red and white ribbons.\nPeople will use thick ropes to bind the sacred pillars and transport these massive logs down the mountain.\nYoung people ride on the 'pillar' sliding down the steep slope.\nThe participants are mostly dressed in vibrant colors such as yellow.\nThe priests are desperately pulling the rope tightly.\nThe background features the mountains and waters of the Suwa region.\nThere are many Japanese people watching the ceremony around.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows The Japanese cut down giant cedar trees weighing over 10 tons to use as pillars.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows The surface of the sacred pillar is often bound with red and white ribbons.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows People use thick ropes to bind the sacred pillars and transport these massive logs down the mountain.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Young people ride on the 'pillar' sliding down the steep slope.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows The participants are mostly dressed in vibrant colors such as yellow.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows The priests are desperately pulling the rope tightly.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows The background features the mountains and waters of the Suwa region.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows There are many Japanese people watching the ceremony around.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The sacred pillars of Suwa Taisha in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_16_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_17": {
+    "prompt_en": "Please create a comparative picture depicting the dining habits of noble young ladies in the Tang Dynasty and those in the Song Dynasty based on the dietary customs of the two periods.",
+    "prompt_zh": "请创建一张对比图，展示唐代与宋代贵族小姐的用餐习惯，基于这两个朝代的饮食文化。",
+    "txt_reference": "The staple food in the Tang Dynasty was primarily wheat-based foods.\nDuring the Tang Dynasty, dairy products and wine were quite common.\nThe most common noodles eaten by young ladies in the Tang Dynasty were steamed buns, soup pancakes, and flatbreads.\nPeople in the Tang Dynasty were not particular about the details during meals.\nDuring the Song Dynasty, tea became increasingly popular.\nDuring the Song Dynasty, lamb and seafood were foods favored by the nobility.\nThe food in the Song Dynasty was more exquisite and innovative.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows The staple food in the Tang Dynasty was primarily wheat-based foods.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows dairy products and wine were quite common during the Tang Dynasty",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows steamed buns, soup pancakes, and flatbreads.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows tea became increasingly popular during the Song Dynasty",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows lamb and seafood were foods favored by the nobility during the Song Dynasty",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture showsThe food in the Song Dynasty was more exquisite and innovative.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The overall style on the left side of the image in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_17_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The overall style on the right side of the image in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_17_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_18": {
+    "prompt_en": "Please create an image to illustrate the activities of an ancient Tang Dynasty girl on the first day of the Lunar New Year, including morning, noon and evening.",
+    "prompt_zh": "请创建一张图像，展示一位唐代少女在农历新年第一天的活动，包括早晨、中午和晚上的内容。",
+    "txt_reference": "The girl is wearing a bright red or green dress.\nIn the morning, the girl prepares to change the door peach wood amulets.\nAt noon, the young girl is sitting around the table with her family for a meal.\nOn the dining table, there are various New Year festive foods such as dumplings, spring rolls, and Tusu wine.\nThere are exquisite window decorations pasted on the window.\nIn the evening, people will light a bonfire in the courtyard, known as 'Tingliao'.\nThe young girl watches from the side, holding a lantern in her hand.\nThere are fireworks in the background sky.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows The girl is wearing a bright red or green dress.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the girl prepares to change the door peach wood amulets in the morning",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the young girl is sitting around the table with her family for a meal at noon",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows there are various New Year festive foods such as dumplings, spring rolls, and Tusu wine.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows there are exquisite window decorations pasted on the window.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows people light a bonfire in the courtyard, known as 'Tingliao' In the evening",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows The young girl watches from the side, holding a lantern in her hand.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows There are fireworks in the background sky.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The scene of people hanging peach wood amulets in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_18_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: Tusu wine in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_18_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The scene of 'Tingliao in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_18_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "culture_19": {
+    "prompt_en": "Please create an image to illustrate the activity of \"Needle Passing for Gossamer Skill\" during the Qixi Festival",
+    "prompt_zh": "请创建一张图像，展示七夕节期间的“穿针乞巧”活动。",
+    "txt_reference": "Threading skills were the most popular custom for women to show during the evening of the Qixi Festival.\nThreading the needle is often done in the courtyard on the night of the Qixi Festival, under the corridors of the pavilions.\nA bright round moon hangs in the sky.\nIn the evening young women sat around the table, displaying their needlework.\nThe girls usually wear clothes with narrow sleeves, making it easier to sew.\nThere are also ‘Qiaoguo’ and fruits placed on the table.\nThere is a small bamboo basket on the ground or on the mat, containing a small amount of silk thread.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Threading skills were the most popular custom for women to show during the evening of the Qixi Festival.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Threading the needle is often done in the courtyard on the night of the Qixi Festival, under the corridors of the pavilions.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows A bright round moon hangs in the sky.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows young women sat around the table, displaying their needlework in the evening",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows The girls usually wear clothes with narrow sleeves, making it easier to sew.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows There are also ‘Qiaoguo’ and fruits placed on the table.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows There is a small bamboo basket on the ground or on the mat, containing a small amount of silk thread.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The scene of threading the needle in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_19_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The Qiaoguo in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_19_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_2": {
+    "prompt_en": "generate an image of The Tea Horse Road on the map",
+    "prompt_zh": "生成一张“茶马古道”的图像",
+    "txt_reference": "The transportation of goods relies on horses.\nThe environment along the way is harsh, with winding mountains.\nHorses carry goods such as tea bricks and salt packed in raw cowhide.\nThere are orderly and grouped horses and people.\nThese characters mainly include Tibetan men dressed in Tibetan robes.\nThere are also Han men wearing coarse cloth garments and straw sandals.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows The transportation of goods relies on horses.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows The environment along the way is harsh, with winding mountains.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Horses carry goods such as tea bricks and salt packed in raw cowhide.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows There are orderly and grouped horses and people.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows These characters mainly include Tibetan men dressed in Tibetan robes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows There are also Han men wearing coarse cloth garments and straw sandals.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: Dress of the Tibetan people in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_2_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: Dress of the Han people in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_2_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: Tea Horse Road in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_2_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "culture_20": {
+    "prompt_en": "Generate an image of traditional clothing worn by Hunnic women during the time of Attila.",
+    "prompt_zh": "生成图片阿提拉时期匈奴女性的传统服饰",
+    "txt_reference": "The clothing of the Huns is mainly made from leather, fur, and other materials.\nHunnic women often wore long robes and embroidered long robes.\nThe robe is sometimes adorned with metal decorations.\nThey wore jewelry made of gold, copper, and bones, symbolizing status.\nThe colors of the clothing are mainly in natural tones, mostly in dark shades such as brown, black, and gray, coordinated with the prairie environment.\nThe cuffs of the clothing may be relatively narrow.\nHunnic women wore elaborately decorated golden or gold-plated crowns.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows The clothing of the Huns is mainly made from leather, fur, and other materials.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Hunnic women often wore long robes and embroidered long robes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows The robe is sometimes adorned with metal decorations.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows They wore jewelry made of gold, copper, and bones, symbolizing status.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows The colors of the clothing are mainly in natural tones, mostly in dark shades such as brown, black, and gray, coordinated with the prairie environment.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows The cuffs of the clothing may be relatively narrow.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Hunnic women wore elaborately decorated golden or gold-plated crowns.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: Huns in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_20_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The headdress in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_20_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_21": {
+    "prompt_en": "Generate a photo of Japanese people celebrating the Cherry Blossom Festival（Hanami） in Tokyo.",
+    "prompt_zh": "生成一张日本人在东京庆祝樱花节（花见）的照片",
+    "txt_reference": "In modern Japan, Hanami mainly involves holding outdoor parties under the cherry blossoms during the day.\nUnder the sakura trees, people had lunch and drank sake in cheerful feasts.\nThere are several famous cherry blossom viewing spots in Tokyo, mainly including Ueno Park and others.\nSmall Japanese road signs may appear in the distance (such as 'Ueno Park Hanami Area').\nThe crowd is sitting around on blue or white plastic picnic mats.\nThere are open lunch boxes, beverage bottles, and snack bags placed on the placemat.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Hanami mainly involves holding outdoor parties under the cherry blossoms during the day in Japan",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows people had lunch and drank sake in cheerful feasts under the sakura trees.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Ueno Park",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Small Japanese road signs may appear in the distance (such as 'Ueno Park Hanami Area').",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows The crowd is sitting around on blue or white plastic picnic mats.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows There are open lunch boxes, beverage bottles, and snack bags placed on the placemat.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The Ueno Park in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_21_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The cherry blossoms in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_21_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_22": {
+    "prompt_en": "Generate a photo of Brazilian dancers performing during the Rio Carnival parade.",
+    "prompt_zh": "生成一张巴西舞者在里约狂欢节游行中表演的照片",
+    "txt_reference": "Dancers are usually dressed in extremely gorgeous costumes.\nThe clothing makes extensive use of sequins, beads, feathers, and other decorations.\nThe Sambadrome Marquês de Sapucaí is a purpose-built parade area built for the Rio Carnival in Rio de Janeiro, Brazil. \nOn both sides of the competition venue are the stands, and in the middle is the passage for the samba dance team to march through.\nThere will be various uniquely shaped and beautifully decorated floats in the parade.\nThe performers are dancing the passionate samba.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Dancers are usually dressed in extremely gorgeous costumes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows The clothing makes extensive use of sequins, beads, feathers, and other decorations.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the background is the Sambadrome Marquês de Sapucaí",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows On both sides of the competition venue are the stands",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows in the middle is the passage for the samba dance team to march through.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows There are various uniquely shaped and beautifully decorated floats in the parade.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows The performers are dancing the passionate samba.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: The samba dance in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_22_0.png",
+        "modal": "I",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False: The float in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_22_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The Sambadrome Marquês de Sapucaí in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_22_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "culture_23": {
+    "prompt_en": "Generate a photo of Maasai people performing a traditional jumping dance(Adumu) in Kenya.",
+    "prompt_zh": "生成一张描绘马赛人正在肯尼亚进行传统跳舞(Adumu)的照片",
+    "txt_reference": "The Adumu dance is characterized by a sequence of jumps performed by the dancers.\nPeople stand in a circle and alternately jump in the air while keeping their bodies as straight and upright as possible.\nA group of tall, lean warriors, wrapped in vibrant red Shukas\nMen usually wear a garment called Shukas, which is made of two pieces of fabric.\nThe background is in the open area of the village.\nThe Maasai people may use ochre, a red earth pigment, to paint patterns on their faces.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows The Adumu dance is characterized by a sequence of jumps performed by the dancers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows People stand in a circle and alternately jump in the air while keeping their bodies as straight and upright as possible.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows A group of tall, lean warriors, wrapped in vibrant red Shukas",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Men usually wear a garment called Shukas, which is made of two pieces of fabric.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows The background is in the open area of the village.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows The Maasai people may use ochre, a red earth pigment, to paint patterns on their faces.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The Shukas in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_23_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: Maasai men performing traditional jumping dance in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_23_1.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "culture_24": {
+    "prompt_en": "Generate a photo of Thai people celebrating the Songkran water festival in Chiang Mai.",
+    "prompt_zh": "生成一张泰国人在清迈庆祝泼水节的照片",
+    "txt_reference": "Major streets are closed to traffic, and are used as arenas for water fights.\nCelebrants, young and old, participate in this tradition by splashing water on each other. \nTha Phae Gate is the most popular place in Chiang Mai for Songkran’s celebration.\nIn the background, ancient walls and a moat can be seen.\nPeople are having a water fight during the Songkran with water guns or buckets.\nEveryone is wearing colorful T-shirts.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Major streets are closed to traffic, and are used as arenas for water fights.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Celebrants, young and old, participate in this tradition by splashing water on each other.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the activity is hold in Tha Phae Gate",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows ancient walls and a moat can be seen.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows People are having a water fight during the Songkran with water guns or buckets.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Everyone is wearing colorful T-shirts.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The situation of the Songkran Festival in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_24_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: Tha Phae Gate in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_24_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_25": {
+    "prompt_en": "Generate a photo of Native American dancers performing at a Powwow gathering.",
+    "prompt_zh": "生成一张美洲原住民舞者在帕瓦集会上表演的照片",
+    "txt_reference": "The male dancers wear feather bustles, headdresses, bells, beads and paint.\nThe male dancers may carry shields, spears, fans, and other items.\nThe female dancers wear long dresses of buckskin or cloth.\nThe clothes are decorated with beadwork and shells, and Moccasins, leggings, shawls and jewelry. \nPow wow is usually held in large plazas.\nOn one side of the square, equipment such as drums, music, and sound systems are stored.\nThe audience gathered around to watch the performance.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows The male dancers wear feather bustles, headdresses, bells, beads and paint.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows The male dancers may carry shields, spears, fans, and other items.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows The female dancers wear long dresses of buckskin or cloth.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows The clothes are decorated with beadwork and shells, and Moccasins, leggings, shawls and jewelry.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Pow wow is usually held in large plazas.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows equipment such as drums, music, and sound systems are stored On one side of the square",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows The audience gathered around to watch the performance.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: the scene of pow wow in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_25_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: Men's dance clothing in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_25_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": " True or False: Women's dance clothing in the picture resembles the one shown in\n<image_0>.\n",
+        "img_path": "/reference/img/culture_25_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_26": {
+    "prompt_en": "Generate a photo of Turkish people sharing food during the Mevlid Kandili celebration.",
+    "prompt_zh": "生成一张土耳其人在“莫利德”(Mevlid)节中分享食物的照片",
+    "txt_reference": "People usually sit together with their families to celebrate.\nOn this day, people will light oil lamps in their homes.\nDesserts like Baklava and candies hold an important position during the Molid festival.\nThere are also many rich meat dishes on the dining table, such as roasted lamb.\nThe family members are sharing food.\nThe woman is wearing a long skirt with exquisite embroidery.\nMen wear long robes or shirts with ethnic characteristics.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows people usually sitting together with their families to celebrate.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows people lighting oil lamps in their homes.\n",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows desserts like Baklava and candies during the Molid festival.\n",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows rich meat dishes such as roasted lamb on the dining table.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows family members sharing food.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows a woman wearing a long skirt with exquisite embroidery.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows men wearing long robes or shirts with ethnic characteristics.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The scene of festive Turkish cuisine in the picture resembles Mevlubi as shown in <image_0>.",
+        "img_path": "/reference/img/culture_26_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The Baklava in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_26_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The men’s traditional clothing in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_26_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The women’s traditional clothing in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_26_3.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_27": {
+    "prompt_en": "Generate a photo of Peruvian villagers performing traditional dances during the Inti Raymi Festival in Cusco.",
+    "prompt_zh": "生成一张秘鲁村民在库斯科的太阳节期间表演传统舞蹈的照片",
+    "txt_reference": "The celebration event starts at Qorikancha, its ancient stone walls and architectural structure have strong Inca characteristics.\nMen are usually clad in brightly colored traditional costumes.\nMen are also wearing feathered crowns or hats decorated with feathers.\nWomen’s clothing is colorful, with wide skirts that are convenient for spinning.\nWomen may twirl their skirts, possibly holding flowers or ears of wheat.\nMen may wave small flags, beat drums, and perform other actions.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the celebration event starting at Qorikancha, with its ancient stone walls and Inca-style architecture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows men clad in brightly colored traditional costumes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows men wearing feathered crowns or hats decorated with feathers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows women in colorful clothing with wide skirts suitable for spinning.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows women twirling their skirts, possibly holding flowers or ears of wheat.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows men waving small flags, beating drums, and performing other actions.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The scene of Qorikancha in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_27_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The men’s traditional clothing in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_27_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The women’s traditional clothing in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_27_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_28": {
+    "prompt_en": "Generate a photo of Balinese Hindus making offerings at a temple during Galungan Festival.",
+    "prompt_zh": "生成一张巴厘岛印度教徒在加伦干节期间在寺庙献祭的照片",
+    "txt_reference": "The main offering is 'canang sari', which is a small basket woven from palm leaves.\nCanang sari' is filled with fresh flowers, rice, and other offerings.\nThere will be tall bamboo poles called 'penjor' around the temple and along the sides of the road.\nThe end of the bamboo pole is filled with harvested rice, fruits, coconut fruits, and coconut leaves.\nDuring sacrifices, women usually balance the offerings steadily on their heads.\nPura Besakih is the main site for ceremonies.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the main offering, canang sari, which is a small basket woven from palm leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows canang sari filled with fresh flowers, rice, and other offerings.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows tall bamboo poles called penjor around the temple and along the sides of the road.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the end of a bamboo pole filled with harvested rice, fruits, coconuts, and coconut leaves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows women balancing offerings steadily on their heads during sacrifices.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Pura Besakih as the main site for ceremonies.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The scene of Pura Besakih in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_28_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The canang sari in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_28_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The penjor decorations in the picture resemble those shown in <image_0>.",
+        "img_path": "/reference/img/culture_28_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_29": {
+    "prompt_en": "Generate a photo of Inuit people building an igloo during a winter gathering.",
+    "prompt_zh": "生成一张因纽特人冬季聚会时建造冰屋的照片",
+    "txt_reference": "Some people hold snow knives.\nThe knives are made of whale bones or reindeer antlers.\nBuild a short tunnel at the igloo's entrance and use it as a gate.\nA few people are building a medium-sized igloo that can accommodate one or two families.\nThe background has several similar igloos, forming an Inuit village.\nInuit people usually wear thick clothing made from animal hides, and they have hoods.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows some people holding snow knives.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows knives made of whale bones or reindeer antlers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a short tunnel built at the igloo’s entrance and used as a gate.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows a few people building a medium-sized igloo that can accommodate one or two families.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows several similar igloos in the background, forming an Inuit village.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Inuit people wearing thick clothing made from animal hides with hoods.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The medium-sized igloo in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_29_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The Inuit clothing in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_29_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_3": {
+    "prompt_en": "Generat an photo of a Punjabi Wedding Ceremony",
+    "prompt_zh": "生成一张旁遮普婚礼仪式的照片",
+    "txt_reference": "Traditionally, the bride wears a set of white and deep red bangles made of ivory, known as 'Chooda'.\nKaliras(a hanging umbrella-shaped decoration with small ornaments and bells) are worn on the wrists of brides-to-be after the chooda ceremony.\nThe groom usually wears a headscarf.\nThe bride and groom put flower garlands around each other's necks,this ceremony is called Jaimala.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the bride wears a set of white and deep red bangles made of ivory, known as 'Chooda'.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Kaliras(a hanging umbrella-shaped decoration with small ornaments and bells) are worn on the wrists of brides-to-be after the chooda ceremony.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows The groom usually wears a headscarf.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows The bride and groom put flower garlands around each other's necks,this ceremony is called Jaimala.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: Jaimala in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_3_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: the groom and bride's attire in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_3_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: Kalira in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_3_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: Chooda in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_3_3.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_30": {
+    "prompt_en": "Generate a photo of Japanese tea masters performing a traditional tea ceremony in Kyoto.",
+    "prompt_zh": "生成一张日本茶道大师在京都进行传统茶道仪式的照片",
+    "txt_reference": "People usually wear kimonos during tea ceremonies to show formality.\nThe kimono worn is usually plain or unadorned.\nExcept for those with short hair, tea ceremony participants are expected to tie their hair up in a bun.\nBoth men and women wear white toe socks.\nThe background is set in MAIKOYA,a popular tea ceremony experience spot in Kyoto.\nThe tea set is neatly arranged on the tatami mat.\nThe host of the tea room is serving tea to the guests.\nThe guest should receive the tea with both hands.\nThe scenery outside the tea room is visible.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows people wearing kimonos during the tea ceremony to show formality.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the kimono worn being plain or unadorned.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows tea ceremony participants with their hair tied up in a bun, except for those with short hair.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows both men and women wearing white toe socks.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the background set in MAIKOYA, a popular tea ceremony experience spot in Kyoto.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the tea set neatly arranged on the tatami mat.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the host of the tea room serving tea to the guests.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: The picture shows the guest receiving the tea with both hands.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture shows the scenery outside the tea room being visible.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The tea utensils in the picture resemble the set shown in <image_0>.",
+        "img_path": "/reference/img/culture_30_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The background setting in the picture resembles MAIKOYA as shown in <image_0>.\n",
+        "img_path": "/reference/img/culture_30_1.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "culture_31": {
+    "prompt_en": "Generate a photo of Zulu people in South Africa performing a warrior dance.",
+    "prompt_zh": "生成一张南非祖鲁人表演战士舞蹈的照片",
+    "txt_reference": "A traditional South African village scene with thatched huts and a cattle kraal in the background.\nA group of dancers, both men and women, perform an energetic warrior dance. \nThe men wear animal-skin attire, head-rings, and arm and ankle bands, holding small shields. \nThe women wear colorful beadwork vests, skirts, and leg coverings. \nAll the dancers are lifting their legs high and stomping the ground in unison. \nVillagers gather around, watching and cheering with excitement.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The picture shows a scene of a traditional village in South Africa, with thatched huts and cattle pens in the background.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:The picture shows that both men and women are dancing.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False:The picture shows the dancing men wearing clothing made from animal skins, adorned with a headband, wristbands, and ankle bands, holding a shield in his hand.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False:The picture shows dancing women wearing colorful beaded vests, skirts, and leg decorations.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False:The picture shows all the dancers raising their feet high.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:The picture shows villagers watching and cheering from the side.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False:The clothing of the male in the picture matches the reference <image_0>.",
+        "img_path": "/reference/img/culture_31_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False:The clothing of the female in the picture matches the reference <image_0>.",
+        "img_path": "/reference/img/culture_31_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False:The dance moves in the picture correspond to the reference <image_0>.",
+        "img_path": "/reference/img/culture_31_2.png",
+        "modal": "I",
+        "class_id": 3
+      }
+    }
+  },
+  "culture_32": {
+    "prompt_en": "Generate a photo of Mexicans celebrating Día de los Muertos.",
+    "prompt_zh": "生成一张墨西哥人庆祝亡灵节的照片",
+    "txt_reference": "During Día de Muertos, the tradition is to build private altars\nThe altar contains photos and memorabilia of the departed.\nThe altar will also be filled with candles, food, and wine.\nPeople decorate the graves of their deceased loved ones with orange Mexican marigolds and altars.\nOn this day, people will put on a skull makeup called \"Calaca\" on their faces.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a private altar built during Día de Muertos.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the altar containing photos and memorabilia of the departed.\n",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the altar filled with candles, food, and wine.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows people decorating graves with orange Mexican marigolds and altars.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows people wearing skull makeup called “Calaca” on their faces.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The altar in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_32_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The Calaca face paint in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_32_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The orange Mexican marigolds in the picture resemble the ones shown in <image_0>.\n",
+        "img_path": "/reference/img/culture_32_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_33": {
+    "prompt_en": "Generate a photo of Nepalese people lighting oil lamps during the Tihar Festival.",
+    "prompt_zh": "生成一张尼泊尔人在蒂哈尔节期间点燃油灯的照片",
+    "txt_reference": "The background is a traditional residential house in Nepal.\nThere may be vibrant decorative patterns on the walls of the house.\nPatterns known as rangoli are drawn on the ground at the entrance or in the courtyard using colored rice, dry flour, and other materials.\nPeople light oil lamps (diyo) or candles when night falls.\nThere can also be electric lights on the background wall.\nFamily members are together, holding oil lamps, and are placing them by the doors and windows or in the rooms.\nThere is a dog wearing a flower crown at the door because people worship dogs during the Tihar festival.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the background as a traditional residential house in Nepal.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows vibrant decorative patterns on the walls of the house.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows rangoli patterns on the ground at the entrance or courtyard, made with colored rice, dry flour, or other materials.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows people lighting oil lamps (diyo) or candles as night falls.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows electric lights on the background wall.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows family members holding oil lamps and placing them by doors, windows, or inside rooms.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows a dog wearing a flower crown at the door, worshiped during the Tihar festival.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The dog with a flower crown in the picture resembles the one shown in <image_0>.\n",
+        "img_path": "/reference/img/culture_33_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The rangoli made with flowers in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_33_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The woman lighting a diyo while surrounded by electric lights in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_33_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_34": {
+    "prompt_en": "Generate a photo of Hawaiians performing a hula dance during a Luau celebration.",
+    "prompt_zh": "生成一张夏威夷人在“卢奥”（Luau）聚会中表演草裙舞的照片",
+    "txt_reference": "Lūʻau celebrations are mostly held in open venues, often choosing locations by the sea.\nThere will be tall palm trees around the venue.\nThere are tables and chairs set up under the trees for guests to sit.\nThe guests are enjoying traditional Luau cuisine like roast pig(Kālua Pig).\nIn the center of the venue is a performance stage, which is decorated with leaves and flowers of tropical plants.\nDancers typically wear grass skirts.\nBoth male and female dancers will wear flower crowns (Lei).\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows that Lūʻau celebrations are mostly held in open venues, often by the sea.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows tall palm trees around the venue.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows tables and chairs set up under the trees for guests to sit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows guests enjoying traditional Lūʻau cuisine such as roast pig (Kālua Pig).\n",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows a performance stage in the center of the venue decorated with leaves and tropical flowers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows dancers wearing grass skirts.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows both male and female dancers wearing flower crowns (Lei).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The party food like Kālua Pig in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_34_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The people’s grass skirt outfit in the picture resembles the one shown in <image_0>.\n",
+        "img_path": "/reference/img/culture_34_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_35": {
+    "prompt_en": "Generate a photo of Chinese people performing a dragon dance during the Lantern Festival.",
+    "prompt_zh": "生成一张中国人在元宵节表演舞龙的照片",
+    "txt_reference": "Dragon dancers generally wear traditional Han-style clothing.\nThe clothes are in festive colors such as red and yellow.\nThe clothing may have traditional patterns such as dragon motifs and cloud patterns.\nThe background can be traditional Chinese streets.\nOn both sides of the street, there are ancient and quaint buildings.\nThe streets are beautifully decorated with lights.\nThere are spectators around, and someone in the crowd is taking photos with a mobile phone.\nThere will be a drum team at the site, and they will be playing the gongs and drums on the side.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows dragon dancers wearing traditional Han-style clothing.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the clothing in festive colors such as red and yellow.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows clothing decorated with traditional patterns such as dragon motifs and cloud patterns.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the background as traditional Chinese streets.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows ancient and quaint buildings on both sides of the street.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the streets beautifully decorated with lights.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows spectators around, with someone in the crowd taking photos using a mobile phone.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows a drum team at the site, playing gongs and drums on the side.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False: The traditional front-opening clothing in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_35_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The dragon dance in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_35_1.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "culture_36": {
+    "prompt_en": "Generate a photo of a traditional Peking opera actor preparing backstage.",
+    "prompt_zh": "生成一张传统京剧演员在后台准备的照片",
+    "txt_reference": "There will be a poster of the day's performance schedule in the background.\nIn the makeup room, the actress is busy sitting in front of the makeup mirror.\nThere may be boxes of costumes stacked in the back.\nThe Jing is painting designs on the face.\nHis face is painted black, and there is a white crescent on his forehead.\nHe is wearing a python robe.\nIn the background, there are other actors auditioning for costumes.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a poster of the day's performance schedule in the background.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows an actress sitting in front of the makeup mirror in the makeup room.\n",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows boxes of costumes stacked in the back.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows a Jing actor painting designs on his face.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows his face painted black, with a white crescent on his forehead.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows him wearing a python robe.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows other actors auditioning for costumes in the background.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The python robe in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_36_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The notice posted in the background of the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_36_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The Jing’s makeup in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_36_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_37": {
+    "prompt_en": "Generate a photo of Vietnamese people celebrating the Tết Trung Thu.",
+    "prompt_zh": "生成一张越南人庆祝中秋节的照片",
+    "txt_reference": "The most prominent way to celebrate on this day is to play with lanterns.\nThe background is a traditional Vietnamese courtyard with lanterns hanging.\nThere is a bright full moon in the background.\nIn the middle is a dining table, on which there are mooncakes, fruits, and other food items.\nThe family members are gathered together chatting and enjoying the moon.\nThe children are playing with lanterns such as five-star lanterns, and other colorful lanterns nearby.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows people celebrating the festival by playing with lanterns.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows a traditional Vietnamese courtyard with lanterns hanging in the background.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a bright full moon in the background.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows a dining table in the middle with mooncakes, fruits, and other food items on it.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows family members gathered together chatting and enjoying the moon.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows children playing with lanterns such as five-star lanterns and other colorful lanterns nearby.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The Vietnamese traditional courtyard in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_37_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The star lantern during Tết Trung Thu in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_37_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The mooncakes in the picture resemble those shown in <image_0>.",
+        "img_path": "/reference/img/culture_37_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_38": {
+    "prompt_en": "Generate a photo of athletes running a marathon past the Great Wall of China.",
+    "prompt_zh": "生成一张运动员在长城跑马拉松的照片",
+    "txt_reference": "The marathon course on the Great Wall often has steep slopes and many steps.\nAthletes will wear number bibs, which have clear numerical identifiers.\nThe bib number is usually located on the chest and the back.\nThere are simple supply stations and volunteers distributing supplies to the athletes.\nSome athletes are replenishing energy at the aid station, while others are running and drinking from their cups.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the marathon course on the Great Wall with steep slopes and many steps.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows athletes wearing number bibs with clear numerical identifiers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the bib numbers located on both the chest and the back of the athletes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows simple supply stations with volunteers distributing supplies to athletes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows some athletes replenishing energy at the aid station while others are running and drinking from their cups.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The Great Wall Marathon in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_38_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The supply station in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_38_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The Great Wall in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_38_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_39": {
+    "prompt_en": "Generate a photo of Germans celebrating the Munich Beer Festival.",
+    "prompt_zh": "生成一张德国人庆祝慕尼黑啤酒节的照片",
+    "txt_reference": "The core scene of the beer festival is various uniquely styled beer tents such as Hacker Festzelt.\nThere is a beer festival sign at the entrance of the tent.\nPeople are raising their glasses of beer to celebrate the holiday.\nWomen mostly wear sleeveless tight bodice wide skirts (Dirndl).\nMen usually wear checkered shirts paired with leather shorts (Lederhosen).\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the core scene of the beer festival with various uniquely styled beer tents such as Hacker Festzelt.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows a beer festival sign at the entrance of the tent.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows people raising their glasses of beer to celebrate the holiday.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows women mostly wearing sleeveless tight bodice wide skirts (Dirndl).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows men usually wearing checkered shirts paired with leather shorts (Lederhosen).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The beer festival logo in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_39_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The Hacker Festzelt in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_39_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The men's Lederhosen in the picture resemble those shown in <image_0>.",
+        "img_path": "/reference/img/culture_39_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The women's Dirndl dress in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_39_3.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_4": {
+    "prompt_en": "Generate a photo of a Punjabi wedding procession.",
+    "prompt_zh": "生成一张旁遮普婚礼接亲的照片",
+    "txt_reference": "The Baraat is the groom’s procession during an Indian or Pakistani wedding that takes place prior to the marriage ceremony.\nThe Baraat often occurs in roads and driveways leading up to wedding venues.\nThe groom rides on a decorated horse or car.\nThere are a large number of relatives and friends around the groom.\nThe procession is accompanied by music and dancing, creating a lively scene.\nMen may wear robes and headscarves.\nWomen wear sarees and so on.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Baraat is the groom’s procession during an Indian or Pakistani wedding that takes place prior to the marriage ceremony.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the Baraat often occurs in roads and driveways leading up to wedding venues.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the groom rides on a decorated horse or car.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows there are a large number of relatives and friends around the groom.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the procession is accompanied by music and dancing, creating a lively scene.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Men may wear robes and headscarves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Women wear sarees and so on.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The horse that the groom is riding in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_4_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The parade in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_4_1.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "culture_40": {
+    "prompt_en": "Generate a photo of Spanish people dancing flamenco in Seville.",
+    "prompt_zh": "生成一张西班牙人在塞维利亚跳弗拉明戈舞的照片",
+    "txt_reference": "Female dancers usually wear a 'Traje de flamenca', which is a stunning and fitted gown.\nThe features of this dress are the fitted bodice, the flowing long skirt with frills, and the wide sleeves.\nThe dancer will wear a large shawl 'mantón de Manila'.\nMale dancers generally wear tight black pants and long sleeve shirts.\nFlamenco performances in Seville are usually held in small taverns or theaters.\nThe indoor background features a wooden stage, surrounded by an audience.\nThere is a guitarist accompanying on the side, as well as backing vocalists, who usually sit on one side of the stage.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a female dancer wearing a Traje de flamenca, which is a stunning and fitted gown.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the features of the dress, including a fitted bodice, a flowing long skirt with frills, and wide sleeves.\n",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the dancer wearing a large shawl called mantón de Manila.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows a male dancer wearing tight black pants and a long sleeve shirt",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows a flamenco performance in Seville held in a small tavern or theater.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows an indoor background featuring a wooden stage surrounded by an audience.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows a guitarist and backing vocalists sitting on one side of the stage.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The flamenco dancer in the picture wearing a traje de flamenca holding a Manila shawl resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_40_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The flamenco performance in the picture resembles the one shown in <image_0>",
+        "img_path": "/reference/img/culture_40_1.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "culture_41": {
+    "prompt_en": "Generate a photo of Mongolian nomads riding horses across the steppe.",
+    "prompt_zh": "生成一张蒙古游牧民在草原上骑马的照片",
+    "txt_reference": "Both men and women usually wear long, loose-fitting Mongolian robes with long sleeves.\nBoth Mongolian men and women wear high, flat-brimmed hats.\nThe background is a vast plain, with rolling mountains in the distance.\nThere should also be round white or light-colored yurts on the grassland.\nThere are also some livestock around, such as flocks of sheep and herds of horses.\nThe Mongolian saddle has exquisite carvings on it.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows both men and women wearing long, loose-fitting Mongolian robes with long sleeves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows both Mongolian men and women wearing high, flat-brimmed hats.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a vast plain with rolling mountains in the distance.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows round white or light-colored yurts on the grassland.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows livestock around, such as flocks of sheep and herds of horses.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows a Mongolian saddle with exquisite carvings on it.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The Mongolian saddle in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_41_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The Mongolian traditional clothing in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_41_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The yurt on the grassland in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_41_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_42": {
+    "prompt_en": "Generate an image of Indian people celebrating the Holi festival.",
+    "prompt_zh": "生成一张印度人们庆祝洒红节（Holi）的照片",
+    "txt_reference": "People usually wear light and bright clothing, and some choose white garments.\nPeople's faces and bodies will be smeared with various colored powders.\nThe background can be vibrant streets, parks, or other public places.\nPeople will throw colored powder at each other and spray each other with colored liquid.\nIn addition, there may be elephant parade performances during the Holi Festival.\nThe elephants will also be painted with colorful pigments.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows people wearing light and bright clothing, and some are in white garments.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows people’s faces and bodies smeared with various colored powders.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a vibrant background such as streets, parks, or other public places.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows people throwing colored powder and spraying each other with colored liquid.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows an elephant parade performance during the Holi Festival.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The elephants in the picture are painted with colorful pigments.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The elephant parade in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_42_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The people’s faces covered in colors in the picture resemble those shown in <image_0>.",
+        "img_path": "/reference/img/culture_42_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_43": {
+    "prompt_en": "Generate a photo of Mongolian wrestlers competing during the Naadam Festival.",
+    "prompt_zh": "生成一张蒙古摔跤手在那达慕节期间比赛的照片",
+    "txt_reference": "Wrestlers will wear unique wrestling outfits('Zhao De ge') made from animal skins.\nThe vest has fitted short sleeves, with the edges inlaid with copper or silver studs.\nThe background is usually a vast grassland with rolling mountains and blue skies with white clouds in the distance.\nThere are yurts scattered around the venue, and colorful flags are also inserted nearby.\nEvery wrestler has a so-called 'encourager' called zasuul watching from the side.\nThe competition venue is usually a flat grass field, surrounded by spectators.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows wrestlers wearing unique “Zhao De ge” outfits made from animal skins.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the wrestlers' vests with fitted short sleeves and edges inlaid with copper or silver studs.\n",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a vast grassland with rolling mountains, blue sky, and white clouds in the distance.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows yurts scattered around the wrestling venue and colorful flags inserted nearby.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows each wrestler accompanied by a zasuul (encourager) watching from the side.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows a flat grass field surrounded by spectators as the competition venue.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The competition venue and the situation of the \"zasuul\" in the picture resembles the wrestling suits shown in <image_0>.",
+        "img_path": "/reference/img/culture_43_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False:The wrestlers’ clothing in the picture resembles the wrestling suits shown in <image_0>.",
+        "img_path": "/reference/img/culture_43_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_44": {
+    "prompt_en": "Generate a photo of Nepalese people carrying chariots during the Rato Machindranath Festival.",
+    "prompt_zh": "生成一张尼泊尔人在战车节（the Rato Machindranath Festival）期间抬着战车的照片",
+    "txt_reference": "War chariots are usually made of bamboo and wood, and they are quite tall.\nThe body of the war chariot will be gilded and painted, adorned with various garlands and other decorations.\nThere will also be a small circular bamboo tray on top of the war chariot, similar to a type of Mexican hat called 'bamo'.\nThe war chariot is often filled with people.\nThe chariot is adorned with the statue of the rain god Rato Machindranath.\nThe armored vehicle parade will take place on the narrow streets of Patan.\nOfficials will show the public a gem black vest with a mythological background.(Bhoto Jatra)\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a war chariot made of bamboo and wood, which is quite tall.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the body of the war chariot gilded and painted, adorned with garlands and other decorations.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a small circular bamboo tray on top of the war chariot, similar to a Mexican ‘bamo’ hat.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the war chariot filled with people.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the chariot adorned with the statue of the rain god Rato Machhindranath.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the parade taking place on the narrow streets of Patan.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows officials presenting a gem-studded black vest with a mythological background to the public (Bhoto Jatra).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The chariots in the picture resemble the ones shown in <image_0>.",
+        "img_path": "/reference/img/culture_44_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The scene of officials showing the vest in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_44_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: Patan Durbar Square in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_44_2.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_11": {
+        "content": "True or False: The statue of Rato Machhindranath in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_44_3.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_45": {
+    "prompt_en": "Generate a photo of Aboriginal Australians performing a traditional corroboree dance.",
+    "prompt_zh": "生成一张澳大利亚土著人表演传统的科罗伯里舞蹈的照片",
+    "txt_reference": "Dancers are usually young men.\nPerformers often decorate their bodies with painted markings.\nMen usually paint their faces with white powder and outline their eyes with circles.\nThey also have long stripes painted on their body and limbs.\nIndigenous dances often imitate animals or birds.\nThe dance area is generally a cleared patch of land among the bushes, with a large fire next to it.\nDance is usually accompanied by music, and the elderly will play the didgeridoo.\nFor safety reasons, the image can be displayed in an animated style.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows young men performing the dance.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows performers with painted markings on their bodies.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows men with faces painted with white powder and eyes outlined in circles.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows performers with long stripes painted on their bodies and limbs.\n",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows dancers imitating animals or birds.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the dance taking place on a cleared patch of land among bushes, with a large fire nearby.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the dance accompanied by music, with elders playing the didgeridoo.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: The picture shows The generated image is in an animated style.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The elders playing the didgeridoo in the picture resemble those shown in <image_0>.",
+        "img_path": "/reference/img/culture_45_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The overall corroboree dance scene in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_45_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_11": {
+        "content": "True or False: The patterns painted on the men's faces in the picture resemble those shown in <image_0>.",
+        "img_path": "/reference/img/culture_45_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_46": {
+    "prompt_en": "Generate a photo of Irish people dancing in the streets during St. Patrick’s Day celebrations.",
+    "prompt_zh": "生成一张爱尔兰人在圣帕特里克节庆祝活动中在街上跳舞的照片",
+    "txt_reference": "On Saint Patrick's Day, it is customary to wear shamrocks, green clothing or green accessories.\nThe woman may be wearing a hat or headdress decorated with green clover patterns on top.\nSt. Patrick's Day celebrations are usually held on the streets of Dublin.\nThere may be festive decorations in the background such as green balloons, ribbons, and shamrock posters.\nA common dance during the festival is Irish tap dance.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows people wearing shamrocks, green clothing, or green accessories.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows a woman wearing a hat or headdress decorated with green clover patterns on top.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows St. Patrick’s Day celebrations taking place on the streets of Dublin.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows festive decorations in the background, such as green balloons, ribbons, and shamrock posters.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows people performing Irish tap dance.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The shamrock decorations in the picture resemble the ones shown in <image_0>.",
+        "img_path": "/reference/img/culture_46_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The tap dancers in the picture resemble those shown in <image_0>.",
+        "img_path": "/reference/img/culture_46_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The streets of Dublin in the picture resemble those shown in <image_0>.",
+        "img_path": "/reference/img/culture_46_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "culture_47": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "A Swiss man in leather Lederhosen, burgundy vest and black felt hat plays the Alphorn.\nHe leans forward, hands on the horn.\nThe 3.5m spruce Alphorn has brass clasps and a leather strap with bells.\nForeground: light green meadow with flowers, gray rocks and a leather backpack.\nMidground: dark green forests, a gravel path and 3 Swiss chalets.\nBackground: Matterhorn with glaciers, gradient blue sky and white clouds.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The picture shows this Swiss man playing the Alpine horn, dressed in leather shorts, a deep red vest, and a black felt hat.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False:The picture shows the man leaning forward, with his hand on the horn.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:The picture shows this 3.5-meter long Alps horn equipped with brass fittings and a leather strap with a bell.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:The picture shows a foreground with light green grass, flowers, gray rocks, and a leather backpack.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:The picture shows a mid-range view of a dark green forest, a gravel path, and three Swiss chalets.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:The picture shows the Matterhorn and glaciers in the background, with a gradient blue sky and white clouds.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False:The Alpine horn in the picture matches the reference <image_0>.",
+        "img_path": "/reference/img/Culture_47_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False:The Matterhorn in the background of the picture match the reference <image_0>.",
+        "img_path": "/reference/img/Culture_47_1.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "culture_48": {
+    "prompt_en": "Generate a photo of Tibetan monks creating a colorful sand mandala in a monastery.",
+    "prompt_zh": "生成一张西藏僧侣在寺庙中创造沙曼陀罗的照片",
+    "txt_reference": "Tibetan Buddhist monks usually wear red robes.\nThe tool they are holding is called 'chak-pur' in Tibetan, which is a long, funnel-shaped metal container.\nMonks wear masks or cover their mouth and nose with cloth while making it.\nThere are also various colors of sand arranged beside it.\nThe sand mandala is generally circular.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Tibetan Buddhist monks wearing red robes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows monks holding a chak-pur, a long funnel-shaped metal container.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows monks wearing masks or covering their mouth and nose with cloth while making the mandala.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows various colors of sand arranged beside the mandala.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows a circular sand mandala.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The chak-pur in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_48_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The red monk robe in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_48_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The sand mandala in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_48_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_49": {
+    "prompt_en": "Generate a photo of Koreans celebrating Chuseok.",
+    "prompt_zh": "生成一张韩国人在庆祝秋夕的照片",
+    "txt_reference": "People usually wear traditional Hanbok.\nMen's Hanbok is generally a loose-fitting robe.\nWomen’s hanbok is brightly colored, with a short top and loose long skirt.\nSongpyeon are the most representative food of the Korean Chuseok, and they are a type of rice cake.\nOn the morning of the Autumn Evening, family members pay respects to their ancestors.\nThe sacrificial table will be set with food such as rice, rice wine, Songpyeon, red dates, and fresh fruits.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows people wearing traditional Hanbok.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows men wearing loose-fitting Hanbok robes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows women wearing brightly colored Hanbok with a short top and loose long skirt.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Songpyeon, a type of rice cake, which is the most representative food of Chuseok.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows family members paying respects to their ancestors on the morning of the Autumn Evening.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows a sacrificial table set with food such as rice, rice wine, Songpyeon, red dates, and fresh fruits.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The Hanbok in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_49_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The Songpyeon in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/culture_49_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The scene of a family paying respects to their ancestors in the picture resembles the one shown in <image_0>.\n",
+        "img_path": "/reference/img/culture_49_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "culture_5": {
+    "prompt_en": "Generat an photo of a traditional chinese wedding Process",
+    "prompt_zh": "生成一张中国传统婚礼流程的照片",
+    "txt_reference": "The bride usually wears a phoenix crown.\nThe bride wears a red dress.\nThe bride will hold a round fan.\nThe groom wears a bachelor's gown modified from a nine-grade magenta official robe.\nThe groom wears a black silk hat adorned with court flowers.\nAn important ritual in the wedding is the couple bowing to each other.\nIn the hall posted with the character '囍', the couple pays their respects.\nBoth sets of parents are sitting in front of the newlyweds.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the bride usually wears a phoenix crown.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the bride wears a red dress.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the bride will hold a round fan.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the groom wears a bachelor's gown modified from a nine-grade magenta official robe.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the groom wears a black silk hat adorned with court flowers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows an important ritual in the wedding is the couple bowing to each other.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the couple pays their respects in the hall posted with the character '囍'.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: The picture shows both sets of parents are sitting in front of the newlyweds.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The environment of the wedding ceremony in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_5_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: the groom and bride's attire in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_5_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The scene of the couple bowing in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_5_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "culture_6": {
+    "prompt_en": "Generate a photo of Bavaria, Germany celebrating Unsinniger Donnerstag",
+    "prompt_zh": "生成一张德国巴伐利亚庆祝“无意义星期四”（Unsinniger Donnerstag）的照片",
+    "txt_reference": "People will wear clothing that has distinctive characteristics of ancient Chinese culture.\nOn streets and alleys, and red lanterns and flags with dragon patterns are hung up.\nParades are important activities.\nAnd there will be dragon and lion dance teams in the procession.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows People wear clothing that has distinctive characteristics of ancient Chinese culture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows red lanterns and flags with dragon patterns are hung up On streets and alleys",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Parades are important activities.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows there are dragon and lion dance teams in the procession.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The scene of the dragon dance in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_6_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The clothing of the people in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_6_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: More diverse types of clothing in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_6_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "culture_7": {
+    "prompt_en": "generate a photo of Spring Festival Celebration Activities in Chaoshan, China",
+    "prompt_zh": "生成一张中国潮汕地区春节庆祝活动的照片",
+    "txt_reference": "A significant cultural and entertainment activity during the Chaozhou-Shantou Spring Festival is the Yingge dance.\nThe dancers are dressed in colorful outfits.\nThe dancers have exaggerated face paint on their faces.\nThey hold wooden sticks or serpent-shaped props.\nThe unique architecture of Chaozhou-Shantou is characterized by blue tiles and white walls.\nSome buildings have red lanterns hanging in front.\nOn the market or street, there are some stalls selling New Year's goods.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Yingge dance is a significant cultural and entertainment activity during the Chaozhou-Shantou Spring Festival",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the dancers are dressed in colorful outfits.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the dancers have exaggerated face paint on their faces.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows they hold wooden sticks or serpent-shaped props.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the unique architecture of Chaozhou-Shantou is characterized by blue tiles and white walls.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Some buildings have red lanterns hanging in front.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows there are some stalls selling New Year's goods on the market or street",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: Yingge dance in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_7_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: Characteristic architecture of Chaozhou-Shantou in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_7_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_8": {
+    "prompt_en": "Generate a photo of Tibetan people watching a traditional opera performance during the Shoton Festival.",
+    "prompt_zh": "生成一张藏族人在雪顿节上观看藏戏表演的照片",
+    "txt_reference": "The Shoton Festival usually takes place in August, when the weather in Tibet is relatively clear and the sky is deep blue.\nThe Tibetan opera troupe performs in the park across from the Potala Palace.\nThe costumes of Tibetan opera performers have a unique style, usually featuring blue masks and white masks.\nDuring the performance, there may also be accompaniment from instruments such as drums and cymbals.\nMale audience members often wear Tibetan robes.\nFemale audience members often wear gorgeous Tibetan-style long skirts.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Shoton Festival usually takes place in August, when the weather in Tibet is relatively clear and the sky is deep blue.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the Tibetan opera troupe performs in the park across from the Potala Palace.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the costumes of Tibetan opera performers usually featuring blue masks and white masks.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows there may also be accompaniment from instruments such as drums and cymbals.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows male audience members often wear Tibetan robes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows female audience members often wear gorgeous Tibetan-style long skirts.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The Potala Palace in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_8_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The white mask in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_8_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The blue mask in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_8_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "culture_9": {
+    "prompt_en": "Generate a photo of Ethiopian villagers holding a holy water procession during the Timket festival.",
+    "prompt_zh": "生成一张埃塞俄比亚村民在Timket节期间举行圣水游行的照片",
+    "txt_reference": "The priests wear brightly colored and elaborately decorated robes.\nThe long robe may have exquisite embroidery and religious patterns.\nThey will wear specific religious headgear.\nThe priests will also hold religious objects such as crosses.\nThe priest will carry an umbrella decorated with luxurious sequins and embroidery.\nThe priest wears a replica of the Ark on his head, called 'tabot'.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the priests wear brightly colored and elaborately decorated robes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the long robe has exquisite embroidery and religious patterns",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows they will wear specific religious headgear.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the priests hold religious objects such as crosses.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the priests carry an umbrella decorated with luxurious sequins and embroidery.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the priest wears a replica of the Ark on his head, called 'tabot'.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The attire of the priests in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_9_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The 'tabot' in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_9_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The parade in the picture resembles the one shown in\n<image_0>.",
+        "img_path": "/reference/img/culture_9_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  }
+}

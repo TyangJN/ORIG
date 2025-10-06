@@ -1,0 +1,2938 @@
+{
+  "product_0": {
+    "prompt_en": "Generate a comparison image of Nintendo's first and latest  handheld consoles.",
+    "prompt_zh": "生成任天堂第一代和最新款掌上游戏机的对比图。",
+    "txt_reference": "In 1989, Nintendo released the Game Boy, which became the first handheld console to sell in large numbers.\nThe original Nintendo Game Boy measures approximately 148 mm (5.8 inches) in height, 90 mm (3.5 inches) in width, and 32 mm (1.3 inches) in depth\nIn 2025, Nintendo has revealed the Nintendo Switch 2\nSwitch 2 measures 272 mm (10.71 in) in width, 116 mm (4.57 in) in height, and 13.9 mm (0.55 in) in depth\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The handheld console in the picture has a rectangular body with a taller vertical design.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The console in the picture appears wider and thinner than the original Game Boy.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The console in the picture has a compact body that looks smaller in width compared to the Switch 2.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: Nintendo Switch 2 in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_0_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: Game Boy in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_0_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_1": {
+    "prompt_en": "Generate a comparison image of Motorola's earliest and latest  phones.",
+    "prompt_zh": "生成摩托罗拉最早和最新款手机的对比图。",
+    "txt_reference": "Motorola's earliest phones is the DynaTAC 8000X telephone \nMotorola's latest phones is the new razr devices\nThe Motorola DynaTAC 8000X was approximately 10 inches (25 cm) long\nThe Motorola Razr Ultra (2025) measures approximately 6.75 inches tall by 2.91 inches wide by 0.29 inches thick when open and 3.47 inches tall by 2.91 inches wide by 0.62 inches thick when closed.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Motorola DynaTAC 8000X, one of Motorola’s earliest phones.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the Motorola Razr Ultra (2025), one of Motorola’s latest phones.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The DynaTAC 8000X in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_1_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The Razr Ultra 2025 in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_1_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_10": {
+    "prompt_en": "Generate an image comparing the different generations of the  Amazon Echo smart speaker",
+    "prompt_zh": "生成亚马逊Echo智能音箱不同代次的对比图。",
+    "txt_reference": "Generation 1 was a tall, 9.25-inch cylinder that was 3.3 inches in diameter\nGeneration 1 was made by plastic\nGeneration 2 was 5.9 inches tall by 3.4 inches in diameter\nGeneration 3 was height 5.8 inches,wider with a 3.9-inch diameter\nGeneration 4 was a 5.7-inch diameter sphere that stood 5.2 inches tall\nGeneration 2,3 and 4 were made by Fabric\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Generation 1 was a tall, 9.25-inch cylinder that was 3.3 inches in diameter",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Generation 1 was made by plastic",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Generation 2 was 5.9 inches tall by 3.4 inches in diameter",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Generation 3 was height 5.8 inches,wider with a 3.9-inch diameter",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Generation 4 was a 5.7-inch diameter sphere that stood 5.2 inches tall",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Generation 2,3 and 4 were made by Fabric",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: Generation 1 in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_10_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: Generation 2 in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_10_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: Generation 3 in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_10_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: Generation 4 in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_10_3.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_11": {
+    "prompt_en": "Generate an image of Swings (21 Balançoires) .",
+    "prompt_zh": "生成秋千（21个秋千）的图片。",
+    "txt_reference": "21 Balançoires is a interactive piece made of 21 swings\nThey're divided into 7 groups, 3 swings in each group\nThey're equipped with illuminated light panels on the lower surface of the swing\nThese swings has 4 colors on the upper surface\nThe yellow swings is harps\nThe green swings is pianos\nThe purple swings is guitars\nThe blue swings is vibraphones\nThere are two colors swings in each group at least\nThe color of each swing seat is a key detail, as it corresponds to a specific instrument\nThe structure has specified overall dimensions of 70 feet (21 m) in length, 35 feet (10.5 m) in width, and 12 feet (3.5 m) in height\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows 21 swings as part of an interactive installation.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The swings in the picture are divided into 7 groups, with 3 swings in each group.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The swings in the picture are equipped with illuminated light panels on the lower surface.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The swings in the picture have 4 colors on the upper surface.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The yellow swings in the picture represent harps.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The green swings in the picture represent pianos.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The purple swings in the picture represent guitars.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The blue swings in the picture represent vibraphones.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: Each group of swings in the picture contains at least two different colors.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The color of each swing seat in the picture corresponds to a specific instrument.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_11": {
+        "content": "True or False: The picture showsThe structure has specified overall dimensions of 70 feet (21 m) in length, 35 feet (10.5 m) in width, and 12 feet (3.5 m) in height",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: 21 swings in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_11_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_13": {
+        "content": "True or False: The color distribution of the swings in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_11_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_12": {
+    "prompt_en": "Generate an image of the Chanel five-colour eyeshadow palette  in the Mucha colourway.",
+    "prompt_zh": "生成一张香奈儿五色眼影盘（Mucha 配色）的图片。",
+    "txt_reference": "The Chanel five-colour eyeshadow palette in the Mucha colourway isTrait de Caractère Eyeshadow Palette\nThe color at top left is \"metallic ivory\" or \"beige champagne shimmer\"\nThe color at top right is \"rosy nude\"\nThe color at center is malachite green\nThe color at bottom left is brown-grey\nThe color at bottom right is matte rich brown\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Chanel five-colour eyeshadow palette in the Mucha colourway, named Trait de Caractère.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: In the picture, the top-left color of the palette is metallic ivory or beige champagne shimmer.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: In the picture, the top-right color of the palette is rosy nude.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: In the picture, the center color of the palette is malachite green.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: In the picture, the bottom-left color of the palette is brown-grey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: In the picture, the bottom-right color of the palette is matte rich brown.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The Chanel five-colour eyeshadow palette in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_12_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_13": {
+    "prompt_en": "Generate an Architectmade style picture of an IKEA shark toy.",
+    "prompt_zh": "生成一张宜家鲨鱼玩具的 Architectmade 风格图片。",
+    "txt_reference": "The IKEA shark toy is Blåhaj\nThe shark toy has blue body\nThe shark toy has pink mouth\nThe shark toy has white belly\nThe material of Architectmade style is polyester and wood\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows The IKEA shark toy is Blåhaj",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows The shark toy has blue body",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows The shark toy has pink mouth",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows The shark toy has white belly",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows The material of Architectmade style is polyester and wood",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The shark toy in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_13_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_14": {
+    "prompt_en": "Generate a comparison image of the earliest and latest Sony  Walkman models",
+    "prompt_zh": "生成一张索尼 Walkman 早期和最新型号的对比图。",
+    "txt_reference": "The earliest Sony Walkman model is TPS-L2\nThe latest Sony Walkman model is NW-A306\nTPS-L2's dimensions is approximately 88 mm x 133.5 mm x 29 mm\nNW-A306's dimensions is approximately 56.6 mm x 98.6 mm x 11.9 mm\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the earliest Sony Walkman model, TPS-L2.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the latest Sony Walkman model, NW-A306.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a Walkman with dimensions of approximately 88 mm x 133.5 mm x 29 mm.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows a Walkman with dimensions of approximately 56.6 mm x 98.6 mm x 11.9 mm.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The TPS-L2 Walkman in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_14_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The NW-A306 Walkman in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_14_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_15": {
+    "prompt_en": "Generate a picture showing the 5-in-1 clean ability of  AquaSense 2 Ultra",
+    "prompt_zh": "生成一张展示 AquaSense 2 Ultra 五合一清洁能力的图片。",
+    "txt_reference": "The AquaSense® 2 Ultra offers 5-in-1 cleaning by scrubbing the pool floor\nThe AquaSense® 2 Ultra offers 5-in-1 cleaning by scrubbing the pool walls\nThe AquaSense® 2 Ultra offers 5-in-1 cleaning by cleaning the waterline\nThe AquaSense® 2 Ultra offers 5-in-1 cleaning by skimming the water surface for floating debris\nThe AquaSense® 2 Ultra offers 5-in-1 cleaning by performing water clarification by automatically dispensing a natural clarifier to bind fine particles\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows The AquaSense® 2 Ultra offers 5-in-1 cleaning by scrubbing the pool floor",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows The AquaSense® 2 Ultra offers 5-in-1 cleaning by scrubbing the pool walls",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows The AquaSense® 2 Ultra offers 5-in-1 cleaning by cleaning the waterline",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows The AquaSense® 2 Ultra offers 5-in-1 cleaning by skimming the water surface for floating debris",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows The AquaSense® 2 Ultra offers 5-in-1 cleaning by performing water clarification by automatically dispensing a natural clarifier to bind fine particles",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False:The AquaSense® 2 Ultra in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_15_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_16": {
+    "prompt_en": "Generate an image of the steps to use the reencle home  composter",
+    "prompt_zh": "生成一张展示 reencle 家用堆肥机使用步骤的图片。",
+    "txt_reference": "The first step is add your food waste:Place your food scraps and leftovers directly into Reencle.\nThe second step is touch the button:Microorganisms naturally break down food waste, reducing odors and pests.\nThe third step is reduce,reuse,regrow:The decomposed waste is nutrient-rich compost for your plants, or you can easily discard it.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the first step: adding food waste by placing your food scraps and leftovers directly into Reencle.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the second step: touching the button to let microorganisms naturally break down food waste, reducing odors and pests.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the third step: reducing, reusing, and regrowing, where the decomposed waste becomes nutrient-rich compost for plants or can be discarded.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The Reencle home composter in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_16_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_17": {
+    "prompt_en": "Generate an image of food stored in a Bespoke double-door  refrigerator",
+    "prompt_zh": "生成一张 Bespoke 双开门冰箱中储存食物的图片。",
+    "txt_reference": "Store items that don't spoil easily in the door bins\nKeep things cool on the upper shelves,it's a good place to keep items that need to be cool but not overly cold\nPlace dairy and meat on the lower shelves\nCrisper drawers help produce last longer\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows items stored in the door bins that don't spoil easily.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows items kept on the upper shelves, which are good for items that need to be cool but not overly cold.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows dairy and meat placed on the lower shelves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the crisper drawers helping produce last longer.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The bespoke double-door refrigerator in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_17_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_18": {
+    "prompt_en": "Generate an image showing labubu, zimomo, and mokoko",
+    "prompt_zh": "生成一张展示拉布布、zimomo 和 mokoko 的图片。",
+    "txt_reference": "zimomo is brown\nmokoko is pink\nZimomo is also twice the size of Labubu \nLabubu had a squarish face while Zimomo’s is rounder \nMokoko is characterised by her pastel pink fur and white belly\nThey are often produced as a plush toy with a vinyl face\nTheir signal grin:a wide, mischievous smile that prominently displays a full set of nine sharp, serrated teeth\nmokoko has a heart-shaped nose\nZimomo has a tail which labubu and mokoko don't have\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Zimomo as brown.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Mokoko as pink.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Zimomo being twice the size of Labubu.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Labubu with a squarish face while Zimomo’s face is rounder.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Mokoko characterized by her pastel pink fur and white belly.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the toys produced as plush with a vinyl face.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows their signature grin: a wide, mischievous smile with nine sharp, serrated teeth.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Mokoko with a heart-shaped nose.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Zimomo with a tail, which Labubu and Mokoko do not have.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: Labubu in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_18_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: Zimomo in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_18_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: Mokoko in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_18_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_19": {
+    "prompt_en": "Create an image showing Yu Shu's H1 humanoid robot arm  wrestling with Tesla's Optimus robot.",
+    "prompt_zh": "制作一张展示宇叔 H1 人形机器人与特斯拉擎天柱机器人手臂搏斗的图片。",
+    "txt_reference": "The Unitree H1 humanoid robot features an all-black mechanical design and full-size bipedal legs.\nThe Unitree H1 humanoid robot has a lightweight and compact body, equipped with high-torque actuators.\nThe Unitree H1 humanoid robot has blue LED indicator lights on its head and torso, and its \"eye\" area features a recessed, hollowed-out design.\nThe Tesla Optimus humanoid robot has two robotic hands, each with 11 degrees of freedom for precise manipulation.\nThe Tesla Optimus humanoid robot has a black and white design, with a blue laser-like color around its head.\nThe Tesla Optimus humanoid robot has a flexible neck and a streamlined, rounded overall design.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Unitree H1 humanoid robot with an all-black mechanical design and full-size bipedal legs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the Unitree H1 humanoid robot with a lightweight and compact body, equipped with high-torque actuators.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the Unitree H1 humanoid robot with blue LED indicator lights on its head and torso, and a recessed, hollowed-out \"eye\" area.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the Tesla Optimus humanoid robot with two robotic hands, each having 11 degrees of freedom for precise manipulation.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the Tesla Optimus humanoid robot with a black and white design, and a blue laser-like color around its head.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the Tesla Optimus humanoid robot with a flexible neck and a streamlined, rounded overall design.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: Yu Shu's H1 humanoid robot in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_19_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: Tesla's Optimus robot in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_19_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_2": {
+    "prompt_en": "Generate a comparison image showing the color difference of a  roast duck toy indoors and outdoors.",
+    "prompt_zh": "生成烤鸭玩具在室内和室外颜色差异的对比图。",
+    "txt_reference": "the roast duck toy are typically made from resin, plaster, plastic, or other synthetic materials.\nThe color is white indoors\nThe color is brown-reddish outdoors\nThe roast ducks use UV-sensitive dyes or temperature-sensitive plastics to change color when exposed to sunlight, UV light, or temperature variations, acting as a fun indicator. \n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a roast duck toy.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the roast duck toy appearing white indoors.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the roast duck toy appearing brown-reddish outdoors.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the roast duck toy changing color under sunlight, UV light, or temperature variations.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The roast duck toy in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_2_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_20": {
+    "prompt_en": "Generate an image depicting the restoration process of the  exquisite ivory cup unearthed from the tomb of Lady Fu Hao during the Shang  Dynasty.",
+    "prompt_zh": "生成一张展示商代妇好夫人墓出土精美象牙杯修复过程的图片。",
+    "txt_reference": "This cream-colored earthenware cup has a rounded rim, thin walls, and a slightly tapering body.\nThe rim, neck, body, and base are all decorated with a taotie motif.\nThe eyes, eyebrows, nose, and tail of the taotie motif are inlaid with turquoise.\nThe background of the cup features a geometric spiral pattern.\nThe taotie face is clearly delineated, with a triangular motif below its mouth.\nSymmetrically placed on either side are stylized dragon motifs, with their heads facing downwards and their tails upwards.\nThe ivory handle is carved with a dragon motif and decorated with a mythical bird, also inlaid with abundant turquoise.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a cream-colored earthenware cup with a rounded rim, thin walls, and a slightly tapering body.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the rim, neck, body, and base decorated with a taotie motif.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the eyes, eyebrows, nose, and tail of the taotie motif inlaid with turquoise.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows a geometric spiral pattern in the background of the cup.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the taotie face clearly delineated, with a triangular motif below its mouth.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows symmetrically placed stylized dragon motifs on either side, with heads facing downwards and tails upwards.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The ivory handle is carved with a dragon motif and decorated with a mythical bird, also inlaid with abundant turquoise.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The ivory cup in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_20_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_21": {
+    "prompt_en": "Generate an image depicting Zhuge Liang's invention, the  \"wooden ox cart.\"",
+    "prompt_zh": "生成一张展示诸葛亮发明“木牛车”的图片。",
+    "txt_reference": "Wooden ox as a single-wheeled cart with two handles\nSquare belly and bent head structure\nOne wheel represented as “one foot”\nFour supporting legs extending from the body\nHead positioned in the collar of the structure\nTongue-like element placed in the abdomen\nOverall design resembling an ox in form but functioning as a cart\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a wooden ox designed as a single-wheeled cart with two handles.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the wooden ox with a square belly and bent head structure.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the wooden ox with one wheel represented as “one foot.”",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows four supporting legs extending from the body.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the head positioned in the collar of the structure.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows a tongue-like element placed in the abdomen.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows an overall design resembling an ox in form but functioning as a cart.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The wooden ox in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_21_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_22": {
+    "prompt_en": "Generate an image showing the effect of light shining through  the interior of the \"Lycurgus Cup\" from ancient Rome.",
+    "prompt_zh": "生成一张展示古罗马“莱库格斯杯”内部光线照射效果的图片。",
+    "txt_reference": "Lycurgus Cup made of rare dichroic glass\nCup covered with scenes of King Lycurgus’s death\nMythical depiction of King Lycurgus entwined in grapevines\nRim mounted with silver-gilt band decorated with leaf ornament\nSilver-gilt foot with open-work vine leaf patterns\nGlass color changes from opaque green to glowing translucent red when lit\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Lycurgus Cup made of rare dichroic glass.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the cup covered with scenes of King Lycurgus’s death.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a mythical depiction of King Lycurgus entwined in grapevines.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the rim mounted with a silver-gilt band decorated with leaf ornament.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows a silver-gilt foot with open-work vine leaf patterns.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the glass color changing from opaque green to glowing translucent red when lit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The Lycurgus Cup in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_22_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_23": {
+    "prompt_en": "Generate an image comparing the earliest LEGO bricks with the  latest LEGO Technic series tire parts.",
+    "prompt_zh": "生成一张对比早期乐高积木和最新乐高机械组系列轮胎零件的图片。",
+    "txt_reference": "The LEGO Group originated from a small woodworking workshop in Denmark in 1932.\nThe carpenter Ole Kirk Christiansen began producing wooden toys such as cars, trucks, piggy banks, magic rings, and pull-along toys.\nAccording to the official LEGO website, the earliest LEGO toy was a spinning top from the 1930s.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows that The LEGO Group originated from a small woodworking workshop in Denmark in 1932.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the carpenter Ole Kirk Christiansen producing wooden toys such as cars, trucks, piggy banks, magic rings, and pull-along toys.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows that according to the official LEGO website, the earliest LEGO toy was a spinning top from the 1930s.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The Yo-Yo in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_23_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_24": {
+    "prompt_en": "Generate an image of a model of the \"bat-winged flying  machine\" designed by Leonardo da Vinci in his notebooks.",
+    "prompt_zh": "生成一张列奥纳多·达·芬奇在笔记本中设计的“蝠翼飞行器”模型的图片。",
+    "txt_reference": "The wingspan in the original design sketch exceeded 33 feet, with pointed wingtips, inspired by the shape of a bat's wings.\nThe frame was made of pine wood, covered with a thin layer of raw silk.\nThe structure of the two large wings was based on the anatomical design of birds and bats.\nThe pilot lay prone within the wooden frame.\nThe pilot controlled flight using a system of cranks, levers, and pulleys operated by hand and foot.\nThe design was inspired by Leonardo da Vinci's studies of bird, kite, and bat flight.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows that the wingspan in the original design sketch exceeded 33 feet, with pointed wingtips inspired by the shape of a bat's wings.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the frame made of pine wood, covered with a thin layer of raw silk.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows that the structure of the two large wings was based on the anatomical design of birds and bats.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the pilot lying prone within the wooden frame.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the pilot controlling flight using a system of cranks, levers, and pulleys operated by hand and foot.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows that the design was inspired by Leonardo da Vinci's studies of bird, kite, and bat flight.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The Flying Machine in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_24_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The Flying Machine in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_24_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_25": {
+    "prompt_en": "Generate an image depicting the \"Seismometer\"  invented by Zhang Heng during the Eastern Han Dynasty detecting an  earthquake.",
+    "prompt_zh": "生成一张描绘东汉时期张衡发明的“地动仪”探测地震的图片。",
+    "txt_reference": "Large bronze urn-shaped seismometer about six feet in diameter\nEight intricately designed dragon heads arranged symmetrically around the urn\nEach dragon facing a different cardinal direction: N, NE, E, SE, S, SW, W, NW\nBeneath each dragon head is a toad with its mouth open, facing inwards.\nCentral pendulum or weighted metal ball mechanism inside the urn\nWhen triggered, a dragon releases a metal ball into the mouth of a toad\nBall-dropping action indicating the direction of an earthquake’s origin\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a large bronze urn-shaped seismometer about six feet in diameter.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows eight intricately designed dragon heads arranged symmetrically around the urn.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows each dragon facing a different cardinal direction: N, NE, E, SE, S, SW, W, NW.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows a toad beneath each dragon head, with its mouth open and facing inwards.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows a central pendulum or weighted metal ball mechanism inside the urn.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows that when triggered, a dragon releases a metal ball into the mouth of a toad.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the ball-dropping action indicating the direction of an earthquake’s origin.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: The Han Dynasty Seismograph in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_25_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_26": {
+    "prompt_en": "Generate an image depicting the south-pointing chariot  invented by Ma Jun, as described in the \"Wei Shu\"",
+    "prompt_zh": "生成一张描绘《魏书》中记载的马钧发明的指南车的图片。",
+    "txt_reference": "The ancient southern-pointing chariot was a two-wheeled carriage, pulled by two horses attached to a single pole.\nThe carriage itself was enclosed, with a two-tiered roof.\nA wooden statue of a mythical figure, with outstretched arms pointing south, was mounted on the roof.\nInside the carriage was a complex system of gears and wheels.\nTwo large wheels supported the carriage on either side.\nThere were also several smaller vertical and horizontal gears (9 wheels in total, 120 teeth).\nA larger horizontal gear (48 teeth) was located in the center, connected to a vertical shaft.\nThis vertical shaft, about the height of a person, supported the statue on the roof.\nThis ingenious mechanical device ensured that the statue always pointed south, regardless of the chariot's movement.\nThe horses were harnessed to the front of the chariot to pull it forward.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the ancient southern-pointing chariot as a two-wheeled carriage pulled by two horses attached to a single pole.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the carriage enclosed, with a two-tiered roof.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a wooden statue of a mythical figure with outstretched arms pointing south mounted on the roof.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows a complex system of gears and wheels inside the carriage.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows two large wheels supporting the carriage on either side.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows several smaller vertical and horizontal gears (9 wheels in total, 120 teeth).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows a larger horizontal gear (48 teeth) located in the center, connected to a vertical shaft.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows a vertical shaft, about the height of a person, supporting the statue on the roof.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture shows the mechanical device ensuring that the statue always points south, regardless of the chariot's movement.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The picture shows horses harnessed to the front of the chariot to pull it forward.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_11": {
+        "content": "True or False: The south-pointing chariot in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_26_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_27": {
+    "prompt_en": "Generate an image showing the Anker GaNPrime charger  simultaneously charging a laptop, a phone, and a smartwatch.",
+    "prompt_zh": "生成一张展示 Anker GaNPrime 充电器同时为笔记本电脑、手机和智能手表充电的图片。",
+    "txt_reference": "The Anker GaNPrime power bank combines a 65W power adapter and a 10000mAh power bank in one device.\nIt features two USB-C ports and one USB-A port.\nThe design is all-black with a gray panel in the center, featuring the Anker logo.\nThe power plug is located on the side, allowing it to be plugged into a wall outlet or a charging dock.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Anker GaNPrime power bank combining a 65W power adapter and a 10000mAh power bank in one device.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the Anker GaNPrime featuring two USB-C ports and one USB-A port.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the Anker GaNPrime in an all-black design with a gray panel in the center, featuring the Anker logo.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the power plug located on the side, allowing it to be plugged into a wall outlet or a charging dock.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The Anker GaNPrime in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_27_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_28": {
+    "prompt_en": "Generate an image that realistically depicts the hydraulic  pipe organ described by Vitruvius in ancient Rome.",
+    "prompt_zh": "生成一张真实再现维特鲁威描述的古罗马液压管风琴的图片。",
+    "txt_reference": "Ancient Ktesibios organ (hydraulis) with large set of pipes on top of a case\nAir pumped through valves by side levers manually operated\nWater tank inside with cylindrical body and inverted cone-shaped funnel\nBronze dolphin valves preventing air from flowing back\nExcess air escaping through a small opening at the bottom of the funnel\nKeyboard with 19–24 keys controlling sliders and valves\nAir released through pipes when keys are pressed, producing tones\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the ancient Ktesibios organ (hydraulis) with a large set of pipes on top of a case.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows air being pumped through valves by side levers manually operated.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a water tank inside with a cylindrical body and inverted cone-shaped funnel.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows bronze dolphin valves preventing air from flowing back.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows excess air escaping through a small opening at the bottom of the funnel.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows a keyboard with 19–24 keys controlling sliders and valves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows air released through pipes when keys are pressed, producing tones.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: The hydraulic pipe organ in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_28_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_29": {
+    "prompt_en": "Generate an image showing different ways to wear NotePin",
+    "prompt_zh": "生成一张展示NotePin不同佩戴方式的图片",
+    "txt_reference": "notepin can be worn as a necklace\nnotepin can be worn as a wristband,\nnotepin can be worn as a clip,.\nnotepin can be worn as a pin.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Notepin being worn as a necklace.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The Notepin in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_29_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the Notepin being worn as a wristband.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the Notepin being worn as a clip.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the Notepin being worn as a pin.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "product_3": {
+    "prompt_en": "Generate an image of the Tesla humanoid robot and the Unitree  G-1 robot shaking hands.",
+    "prompt_zh": "生成特斯拉人形机器人和宇树G-1机器人握手的图片。",
+    "txt_reference": "Tesla humanoid robot (Optimus) is about 173 cm tall and weighs 73 kg\nUnitree G1 robot is approximately 127 cm tall and weighs around 35 kg\nTesla robot is constructed using metal and plastic materials\nUnitree G1 is made from aluminum alloy and high-strength engineering plastic\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Tesla humanoid robot (Optimus).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the Unitree G1 robot.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Tesla robot is constructed using metal and plastic materials",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Unitree G1 is made from aluminum alloy and high-strength engineering plastic",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The Tesla robot in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_3_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The Unitree G1 robot in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_3_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_30": {
+    "prompt_en": "Generate an image showing the LEGO company's new mechanical F1  product launched in 2025, with its prototype behind each product.",
+    "prompt_zh": "生成一张展示乐高公司 2025 年推出的全新机械 F1 产品的图片，并附上每款产品背后的原型。",
+    "txt_reference": "new mechanical F1 product includes LEGO Technic Ferrari SF-24 F1 Car (42207)\nRed Bull RB20 F1 Car (42206) has 24-inch length\nnew mechanical F1 product includes LEGO Technic Red Bull RB20 F1 Car (42206)\nTechnic Ferrari SF-24 F1 Car (42207) has 24-inch length\nTechnic Ferrari SF-24 F1 Car (42207) has Scuderia Ferrari livery\nRed Bull RB20 F1 Car (42206) includes Oracle branding.\nthe prototype ofLEGO Technic Red Bull RB20 F1 Car (42206) is the Oracle Red Bull Racing RB20, the F1 car used by the Red Bull Racing team in the 2024 season\nthe prototype of Ferrari SF-24 F1 Car is The Ferrari SF-24, the real Formula 1 car used by Scuderia Ferrari in the 2024 season.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the new mechanical F1 product including the LEGO Technic Ferrari SF-24 F1 Car (42207).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the Red Bull RB20 F1 Car (42206) with a 24-inch length.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the new mechanical F1 product including the LEGO Technic Red Bull RB20 F1 Car (42206).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the Technic Ferrari SF-24 F1 Car (42207) with a 24-inch length",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the Technic Ferrari SF-24 F1 Car (42207) with Scuderia Ferrari livery.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the Red Bull RB20 F1 Car (42206) including Oracle branding.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The LEGO Technic Ferrari SF-24 F1 Car (42207) in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_30_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The LEGO Technic Red Bull RB20 F1 Car (42206) in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_30_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows that the prototype of the LEGO Technic Red Bull RB20 F1 Car (42206) is the Oracle Red Bull Racing RB20, the F1 car used by the Red Bull Racing team in the 2024 season.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The picture shows that the prototype of the Ferrari SF-24 F1 Car is the Ferrari SF-24, the real Formula 1 car used by Scuderia Ferrari in the 2024 season.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "product_31": {
+    "prompt_en": "Generate an image showing the Eufy MarsWalker (or Dreame  CyberX)'s stair climbing capabilities.",
+    "prompt_zh": "生成图片，展示Eufy MarsWalker（或者叫Dreame CyberX）爬楼梯的功能",
+    "txt_reference": "Eufy’s MarsWalker acts like a stairlift for robot vacuums.\nit has a gap in the middle of its central frame big enough for a vacuum to tuck in,\nThe Marswalker opens its fold-out front doors, allowing the S2 robot to drive into the central compartment.\nMarsWalker uses a drive-track system to panning on stairs of different sizes\nDuring the climb, it extends antenna-like bracers from its four corners and supported on stairs.\nThe Marswalker then opens its doors to release the S2 robot.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Eufy’s MarsWalker acting like a stairlift for robot vacuums.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows a gap in the middle of MarsWalker’s central frame big enough for a vacuum to tuck in.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the MarsWalker opening its fold-out front doors, allowing the S2 robot to drive into the central compartment.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows MarsWalker using a drive-track system to move on stairs of different sizes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows MarsWalker extending antenna-like bracers from its four corners to support itself on stairs during the climb.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows MarsWalker opening its doors to release the S2 robot.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: Eufy MarsWalker (or Dreame CyberX) in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_31_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: Eufy’s MarsWalker in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_31_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_32": {
+    "prompt_en": "Generate a virtual Vaporwave-style ad for Crystal Pepsi.",
+    "prompt_zh": "生成一张 Vaporwave 风格的虚拟广告，宣传饮料 Crystal Pepsi",
+    "txt_reference": "the cola was transparent, crystal-clear\nit use completely transparent plastic bottles for beverages\nvaporwave combines elements like anime, classical Greco-Roman statues, and early 3D-rendered objects\nvaporwave usually have the visual distortion and quality loss characteristic of VHS tapes.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the cola as transparent and crystal-clear.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows completely transparent plastic bottles for beverages.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The Crystal Pepsi in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_32_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows vaporwave combining elements like anime, classical Greco-Roman statues, and early 3D-rendered objects.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows vaporwave with visual distortion and quality loss characteristic of VHS tapes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The vaporwave scene in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_32_1.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "product_33": {
+    "prompt_en": "Generate the world's first ergonomic chair",
+    "prompt_zh": "生成世界上第一款人体工学椅",
+    "txt_reference": "the first ergonomic chair is Ergon Chair\nit has innovative gas-cylinder post mount\nIt had a foam-filled back and seat,\nit has gas-lift levers\nti has five-star legs with easy-glide castors. \n\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the first ergonomic chair, the Ergon Chair.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the chair with an innovative gas-cylinder post mount.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the chair with a foam-filled back and seat.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the chair with gas-lift levers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the chair with five-star legs and easy-glide castors.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The chair in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_33_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_34": {
+    "prompt_en": "Generate The most expensive herman miller chair",
+    "prompt_zh": "生成最昂贵的 Herman Miller 椅子",
+    "txt_reference": "The most expensive herman miller chair now is Eames Lounge Chair and Ottoman\nit was made of Molded seven-layer plywood shell\nWalnut, oak, or ebony-stained ash wood veneer\nThe lounge chair has overall dimensions of 31.5 inches in height,\nit is composed by lounge chair and a ottoman\nThe accompanying ottoman stands 17 inches tall,\nthe chair has 33.5 inches in width\nthe chair has 35 inches in depth.\nthe ottoman has a width of 20.75 inches and\nthe ottoman has a depth of 21.5 inches.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the most expensive Herman Miller chair, the Eames Lounge Chair and Ottoman.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the chair made of molded seven-layer plywood shell with walnut, oak, or ebony-stained ash wood veneer.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the lounge chair with an overall height of 31.5 inches.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the lounge chair accompanied by an ottoman.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the accompanying ottoman standing 17 inches tall.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The chair in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_34_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the chair with a width of 33.5 inches.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows the chair with a depth of 35 inches.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows the ottoman with a width of 20.75 inches.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The picture shows the ottoman with a depth of 21.5 inches.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "product_35": {
+    "prompt_en": "Generate an image of the Leica M-A \"Titan\" special  edition camera",
+    "prompt_zh": "生成徕卡 M-A“Titan”特别版相机的图片",
+    "txt_reference": "The camera body, lens, and lens hood are all crafted from solid titanium\nThe camera is enhanced by the classic ‘Ernst Leitz Wetzlar’ script on the top plate.\nlens styling is modeled after the first Summicron-M 50 mm from 1956,\nit has traditional manual dials\nit has no LCD screen,\nthe camera is fully mechanical\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a camera body, lens, and lens hood all crafted from solid titanium.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the camera enhanced by the classic ‘Ernst Leitz Wetzlar’ script on the top plate.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a lens styled after the first Summicron-M 50 mm from 1956.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The camera in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_35_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The lens in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_35_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the camera with traditional manual dials.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the camera without an LCD screen.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows a fully mechanical camera.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "product_36": {
+    "prompt_en": "Generate a picture of linea-mini-r in lamarzocco.",
+    "prompt_zh": "生成 Lamarzocco 的 Linea-mini-R 的图片。",
+    "txt_reference": "The machine features updated aesthetics with a modern and refined look.\nThe interface includes a built-in timer\nit highs 38,0cm.\nit has dedicated barista lights.\nit has 54,00cm in depth.\nit has 35,75cm in width.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a machine with updated aesthetics and a modern, refined look.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows a machine that includes a built-in timer on the interface.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The machine in the picture has a height of 38.0 cm.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The machine in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_36_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows a machine with dedicated barista lights.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The machine in the picture has a depth of 54.0 cm.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The machine in the picture has a width of 35.75 cm.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "product_37": {
+    "prompt_en": "Generate the RADIO designed by Dieter Rams in 1961",
+    "prompt_zh": "生成 Dieter Rams 于 1961 年设计的 RADIO",
+    "txt_reference": "The radio features a minimalist, modern design \n\n\nit has serene cream and laurel green colors\nThe front panel has a honey-toned wooden frame\nThe body is rectangular with clean, straight lines.\nIt combines plastic and wood\nthe Tischsuper RT 20 Radio is designed by Dieter Rams in 1961, \nit has loping buttons and knobs \n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a radio with a minimalist, modern design.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The radio in the picture features serene cream and laurel green colors.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a radio with a honey-toned wooden frame on the front panel.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The radio body in the picture is rectangular with clean, straight lines.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The radio in the picture combines both plastic and wood materials.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The Tischsuper RT 20 Radio shown in the picture was designed by Dieter Rams in 1961.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The radio in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_37_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows a radio with looping buttons and knobs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "product_38": {
+    "prompt_en": "Generate an image of the back side of the latest iPhone.",
+    "prompt_zh": "生成一张展示最新款 iPhone 背面的图像。",
+    "txt_reference": "The latest iPhone is the iPhone 17.\nThe back of the iPhone 17 has a matte frosted glass finish.\nTwo rear camera lenses are vertically aligned in the top-left corner.\nThe two lenses are surrounded by a black oval-shaped decorative frame.\nA small circular LED flash is positioned to the right side of the lenses, outside the oval frame.\nThe Apple logo is centered on the back surface.\nThe aluminum frame has a flat edge design.\nThe side shows elongated volume buttons aligned vertically.\nThe camera module slightly protrudes from the back surface.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the latest iPhone, the iPhone 17.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The back of the iPhone 17 has a matte frosted glass finish.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows two rear camera lenses vertically aligned in the top-left corner.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The two lenses are surrounded by a black oval-shaped decorative frame.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: A small circular LED flash is positioned to the right of the lenses, outside the oval frame.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The Apple logo is centered on the back surface of the phone.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The iPhone 17 has a flat edge aluminum frame.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The side view of the iPhone 17 shows elongated volume buttons aligned vertically.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The camera module of the iPhone 17 slightly protrudes from the back surface.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: iPhone 17 in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_38_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_39": {
+    "prompt_en": "Generate an image of the Xiaomi CyberDog 2 robot playing with the Boston Dynamics Spot robot.",
+    "prompt_zh": "生成一张小米 CyberDog 2 机器人与波士顿动力 Spot 机器人一起玩耍的图片。",
+    "txt_reference": "The Xiaomi CyberDog 2 has a bio-inspired quadruped design.\nThe Xiaomi CyberDog 2 is 56 cm in length.\nThe Xiaomi CyberDog 2 is 34 cm in width.\nThe Xiaomi CyberDog 2 is 48 cm in height.\nThe Xiaomi CyberDog 2 weighs 8.9 kg.\nThe Boston Dynamics Spot has a compact quadruped design with a rectangular body.\nThe Boston Dynamics Spot has four articulated legs.\nThe Boston Dynamics Spot is 1100 mm in length.\nThe Boston Dynamics Spot is 500 mm in width.\nThe Boston Dynamics Spot is 191 mm in height.\nThe Boston Dynamics Spot has a default walking height of 610 mm.\nThe Boston Dynamics Spot weighs 32.7 kg.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Xiaomi CyberDog 2 with a bio-inspired quadruped design.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The Xiaomi CyberDog 2 in the picture is 56 cm in length.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The Xiaomi CyberDog 2 in the picture is 34 cm in width.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The Xiaomi CyberDog 2 in the picture is 48 cm in height.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The Xiaomi CyberDog 2 in the picture weighs 8.9 kg.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the Boston Dynamics Spot with a compact quadruped design and a rectangular body.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The Boston Dynamics Spot in the picture has four articulated legs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The Boston Dynamics Spot in the picture is 1100 mm in length.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The Boston Dynamics Spot in the picture is 500 mm in width.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The Boston Dynamics Spot in the picture is 191 mm in height.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The Boston Dynamics Spot in the picture has a default walking height of 610 mm.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: The Boston Dynamics Spot in the picture weighs 32.7 kg.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_13": {
+        "content": "True or False: The robot in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_39_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_14": {
+        "content": "True or False: The robot in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_39_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_15": {
+        "content": "True or False: The robot in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_39_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_16": {
+        "content": "True or False: The robot in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_39_3.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_4": {
+    "prompt_en": "Generate an image of washing socks using a Leader brand  three-drum washing machine.",
+    "prompt_zh": "生成使用Leader牌三滚筒洗衣机洗袜子的图片。",
+    "txt_reference": "It has a large 10.5kg capacity drum at the bottom\nIt has two smaller 1kg drums positioned side-by-side on top\nThe large drum is for bulky items\nThe two smaller drums is for small items of clothing\nIt has three loading doors which are typically finished with dark-tinted glass and framed by subtle chrome or glossy black highlights, creating a bold contrast with the main white body\nThe machine measures 60cm in length, 57cm in width and 107cm in height\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a washing machine with a large drum at the bottom.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows two smaller drums positioned side-by-side on top of the machine.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The large drum in the picture is used for bulky items.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The two smaller drums in the picture are used for small items of clothing.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows three loading doors with dark-tinted glass framed by chrome or glossy black highlights, contrasting with the main white body.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The washing machine in the picture resembles a Leader brand three-drum washing machine shown in <image_0>.",
+        "img_path": "/reference/img/product_4_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_40": {
+    "prompt_en": "Generate an image showing the famous Hope Diamond.",
+    "prompt_zh": "生成一张图片，展示著名的希望之钻（Hope Diamond）。",
+    "txt_reference": "The Hope Diamond is a large deep-blue antique cushion-cut gemstone.\nThe Hope Diamond has a Fancy Dark Greyish Blue color.\nThe Hope Diamond is surrounded by exactly 16 transparent white diamonds forming a halo.\nThe Hope Diamond is set in a platinum necklace with smaller diamonds on the chain.\nThe Hope Diamond is displayed on a dark blue velvet stand.\nThe Hope Diamond is exhibited at the National Museum of Natural History in Washington, D.C.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Hope Diamond as a large deep-blue antique cushion-cut gemstone.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The Hope Diamond in the picture has a Fancy Dark Greyish Blue color.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The Hope Diamond in the picture is surrounded by exactly 16 transparent white diamonds forming a halo.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The Hope Diamond in the picture is set in a platinum necklace with smaller diamonds on the chain.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The Hope Diamond in the picture is displayed on a dark blue velvet stand.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The Hope Diamond in the picture is exhibited at the National Museum of Natural History in Washington, D.C.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The gemstone in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_40_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_41": {
+    "prompt_en": "Generate a comparison image of the first BlackBerry phone and the latest BlackBerry smartphone.",
+    "prompt_zh": "生成一张对比图，展示第一款黑莓手机与最新款黑莓智能手机。",
+    "txt_reference": "The first BlackBerry phone is the BlackBerry 850.\nThe BlackBerry 850 has a small monochrome display.\nThe BlackBerry 850 has a physical QWERTY keyboard with rounded buttons that resemble blackberry drupelets.\nThe BlackBerry 850 has a scroll wheel mounted on the right side for navigation.\nThe BlackBerry 850 has a compact pager-like body shape.\nThe latest BlackBerry smartphone is the BlackBerry KEY2.\nThe BlackBerry KEY2 has a rectangular slim body.\nThe BlackBerry KEY2 has a 4.5-inch multi-touch color touchscreen with a 3:2 aspect ratio.\nThe BlackBerry KEY2 has a 35-key backlit physical keyboard below the screen.\nThe BlackBerry KEY2 has a fingerprint scanner integrated into the space bar.\nThe BlackBerry KEY2 has dual rear cameras with an LED flash.\nThe BlackBerry KEY2 has a front-facing camera above the screen.\nThe BlackBerry KEY2 has a USB-C port and mono speaker at the bottom.\nThe BlackBerry KEY2 has a headphone jack on the top.\nThe BlackBerry KEY2 has volume keys, a power button, and a convenience key on the right side.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the first BlackBerry phone, the BlackBerry 850.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The BlackBerry 850 in the picture has a small monochrome display.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The BlackBerry 850 in the picture has a physical QWERTY keyboard with rounded buttons that resemble blackberry drupelets.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The BlackBerry 850 in the picture has a scroll wheel mounted on the right side for navigation.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The BlackBerry 850 in the picture has a compact pager-like body shape.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the latest BlackBerry smartphone, the BlackBerry KEY2.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The BlackBerry KEY2 in the picture has a rectangular slim body.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The BlackBerry KEY2 in the picture has a 4.5-inch multi-touch color touchscreen with a 3:2 aspect ratio.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The BlackBerry KEY2 in the picture has a 35-key backlit physical keyboard below the screen.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The BlackBerry KEY2 in the picture has a fingerprint scanner integrated into the space bar.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The BlackBerry KEY2 in the picture has dual rear cameras with an LED flash.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: The BlackBerry KEY2 in the picture has a front-facing camera above the screen.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_13": {
+        "content": "True or False: The BlackBerry KEY2 in the picture has a USB-C port and mono speaker at the bottom.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_14": {
+        "content": "True or False: The BlackBerry KEY2 in the picture has a headphone jack on the top.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_15": {
+        "content": "True or False: The BlackBerry KEY2 in the picture has volume keys, a power button, and a convenience key on the right side.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_16": {
+        "content": "True or False: The BlackBerry 850 in the picture resembles the BlackBerry 850 shown in <image_0>.",
+        "img_path": "/reference/img/product_41_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_17": {
+        "content": "True or False: The BlackBerry KEY2 in the picture resembles the BlackBerry KEY2 shown in <image_0>.",
+        "img_path": "/reference/img/product_41_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_42": {
+    "prompt_en": "Generate a comparison image of the earliest and latest Canon EOS cameras.",
+    "prompt_zh": "生成一张对比图，展示佳能 EOS 相机最早与最新机型。",
+    "txt_reference": "The earliest Canon EOS camera is the Canon EOS 650.\nThe Canon EOS 650 has a black plastic body with a boxy shape.\nThe Canon EOS 650 has the “Canon” logo in white on the pentaprism.\nThe Canon EOS 650 has the model name “EOS 650” printed in white on the right front side.\nThe Canon EOS 650 has a Canon EF 35–70mm zoom lens attached.\nThe Canon EOS 650 has a textured handgrip on the left side.\nThe Canon EOS 650 has a built-in hot shoe on top of the prism.\nThe Canon EOS 650 has a small LCD screen on the top left of the body.\nThe latest Canon EOS camera is the Canon EOS R1.\nThe Canon EOS R1 has a large, rounded black body with an integrated vertical grip.\nThe Canon EOS R1 has the “Canon” logo in white above the lens mount.\nThe Canon EOS R1 has the model name “EOS R1” printed in white on the right front side.\nThe Canon EOS R1 has no lens attached, showing the large full-frame sensor inside.\nThe Canon EOS R1 has multiple control buttons around the handgrip.\nThe Canon EOS R1 has a textured grip covering most of the front surface.\nThe Canon EOS R1 has a more modern, curved design compared to the EOS 650.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the earliest Canon EOS camera, the Canon EOS 650.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The Canon EOS 650 in the picture has a black plastic body with a boxy shape.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The Canon EOS 650 in the picture has the “Canon” logo in white on the pentaprism.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The Canon EOS 650 in the picture has the model name “EOS 650” printed in white on the right front side.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The Canon EOS 650 in the picture has a Canon EF 35–70mm zoom lens attached.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The Canon EOS 650 in the picture has a textured handgrip on the left side.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The Canon EOS 650 in the picture has a built-in hot shoe on top of the prism.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The Canon EOS 650 in the picture has a small LCD screen on the top left of the body.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows the latest Canon EOS camera, the Canon EOS R1.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The Canon EOS R1 in the picture has a large, rounded black body with an integrated vertical grip.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The Canon EOS R1 in the picture has the “Canon” logo in white above the lens mount.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_12": {
+        "content": "True or False: The Canon EOS R1 in the picture has the model name “EOS R1” printed in white on the right front side.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_13": {
+        "content": "True or False: The Canon EOS R1 in the picture has no lens attached, showing the large full-frame sensor inside.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_14": {
+        "content": "True or False: The Canon EOS R1 in the picture has multiple control buttons around the handgrip.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_15": {
+        "content": "True or False: The Canon EOS R1 in the picture has a textured grip covering most of the front surface.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_16": {
+        "content": "True or False: The Canon EOS R1 in the picture has a more modern, curved design compared to the EOS 650.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_17": {
+        "content": "True or False: The Canon EOS 650 in the picture resembles the Canon EOS 650 shown in <image_0>.",
+        "img_path": "/reference/img/product_42_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_18": {
+        "content": "True or False: The Canon EOS R1 in the picture resembles the Canon EOS R1 shown in <image_0>.",
+        "img_path": "/reference/img/product_42_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_43": {
+    "prompt_en": "Generate a picture of a zun in the shape of a rhinoceros, dating from the Western Han dynasty.",
+    "prompt_zh": "生成一张西汉时期犀牛形尊的图片。",
+    "txt_reference": "The zun is in the shape of a rhinoceros, dating from the Western Han dynasty.\nThe rhinoceros is shown as a powerful standing figure with a raised head.\nThe rhinoceros has pricked ears.\nThe rhinoceros has sharp tusks.\nThe eyes of the rhinoceros are made of bright black glass beads.\nThe back of the rhinoceros has a lid, hinged at the front.\nThe body of the rhinoceros is decorated with cloud motifs.\nThe cloud motifs are interspersed with spiral patterns.\nThe cloud and spiral patterns are inlaid with gold and silver.\nThe inlaid decoration suggests the fine hairs of the rhinoceros.\nThe bronze surface shows a mottled green patina, with turquoise and dark green tones, reflecting age and burial.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The zun in the picture is in the shape of a rhinoceros, dating from the Western Han dynasty.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The rhinoceros in the picture is shown as a powerful standing figure with a raised head.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The rhinoceros in the picture has pricked ears.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The rhinoceros in the picture has sharp tusks.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The eyes of the rhinoceros in the picture are made of bright black glass beads.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The back of the rhinoceros in the picture has a lid, hinged at the front.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The body of the rhinoceros in the picture is decorated with cloud motifs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The cloud motifs on the rhinoceros in the picture are interspersed with spiral patterns.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The cloud and spiral patterns in the picture are inlaid with gold and silver.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The inlaid decoration on the rhinoceros in the picture suggests the fine hairs of the animal.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The bronze surface of the rhinoceros in the picture shows a mottled green patina with turquoise and dark green tones, reflecting age and burial.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: The zun in the picture resembles the rhinoceros-shaped zun shown in <image_0>.",
+        "img_path": "/reference/img/product_43_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_44": {
+    "prompt_en": "Generate an image showing the interior of a Louis Vuitton steamer trunk from the early 20th century.",
+    "prompt_zh": "生成一张图片，展示 20 世纪初路易威登旅行箱的内部。",
+    "txt_reference": "The trunk has a vertical opening design.\nThe exterior is dark brown with the Louis Vuitton monogram pattern.\nThe corners are reinforced with brass fittings.\nThe left side interior is lined with mustard yellow fabric.\nThe left side has a horizontal metal bar with multiple wooden hangers.\nThe left side includes curved wooden hangers for coats or trousers.\nThe left side has leather straps for securing clothing.\nThe right side interior contains six drawers stacked vertically.\nThe drawers are covered in mustard yellow canvas.\nEach drawer has a leather pull tab handle in the center.\nThe bottom drawer is noticeably larger than the other drawers.\nAll drawers are closed and aligned neatly.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The trunk in the picture has a vertical opening design.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The exterior of the trunk in the picture is dark brown with the Louis Vuitton monogram pattern.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The corners of the trunk in the picture are reinforced with brass fittings.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The left side interior of the trunk in the picture is lined with mustard yellow fabric.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The left side of the trunk in the picture has a horizontal metal bar with multiple wooden hangers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The left side of the trunk in the picture includes curved wooden hangers for coats or trousers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The left side of the trunk in the picture has leather straps for securing clothing.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The right side interior of the trunk in the picture contains six drawers stacked vertically.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The drawers in the trunk in the picture are covered in mustard yellow canvas.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: Each drawer in the trunk in the picture has a leather pull tab handle in the center.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The bottom drawer in the trunk in the picture is noticeably larger than the other drawers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: All drawers in the trunk in the picture are closed and aligned neatly.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_13": {
+        "content": "True or False: The trunk in the picture resembles the Early 20th Century Louis Vuitton trunk shown in <image_0>.",
+        "img_path": "/reference/img/product_44_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_45": {
+    "prompt_en": "Generate an image of the IBM ThinkPad 700C laptop.",
+    "prompt_zh": "生成一张图片，展示 IBM ThinkPad 700C 笔记本电脑。",
+    "txt_reference": "The laptop has a black rectangular body with a thick frame around the screen.\nThe screen is a 10.4-inch colour LCD display supporting 256 colours.\nThe screen shows a Windows interface with the Solitaire game.\nThe right top corner of the screen bezel has the colourful IBM ThinkPad logo.\nBelow the screen, there is a row of indicator lights.\nThe keyboard is black with traditional keys.\nThe keyboard includes a red TrackPoint button located between the G and H keys.\nThe laptop has no touchpad.\nThe palm rest area is narrow and flat.\nThe front side includes a floppy disk drive slot.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The laptop in the picture has a black rectangular body with a thick frame around the screen.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The screen in the picture is a 10.4-inch colour LCD display supporting 256 colours.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The screen in the picture shows a Windows interface with the Solitaire game.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The right top corner of the screen bezel in the picture has the colourful IBM ThinkPad logo.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: Below the screen in the picture, there is a row of indicator lights.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The keyboard in the picture is black with traditional keys.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The keyboard in the picture includes a red TrackPoint button located between the G and H keys.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The laptop in the picture has no touchpad.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The palm rest area of the laptop in the picture is narrow and flat.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The front side of the laptop in the picture includes a floppy disk drive slot.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_11": {
+        "content": "True or False: The laptop in the picture resembles the IBM ThinkPad 700C shown in <image_0>.",
+        "img_path": "/reference/img/product_45_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_46": {
+    "prompt_en": "Generate an image showcasing the Huawei Mate XT Extraordinary Master.",
+    "prompt_zh": "生成一张展示华为 Mate XT 非凡大师的图片。",
+    "txt_reference": "The Huawei Mate XT Extraordinary Master adopts a tri-fold design with dual hinges.\nThe back design of the Huawei Mate XT Extraordinary Master references an iconic star diamond pattern, created through sine-cutting techniques to produce sharp lines that generate a sparkling light effect.\nThe Huawei Mate XT Extraordinary Master is available in red and black color options.\nThe Huawei Mate XT Extraordinary Master features vegan leather on its back.\nThe Huawei Mate XT Extraordinary Master has a screen aspect ratio of 16:9.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The Huawei Mate XT Extraordinary Master in the picture adopts a tri-fold design with dual hinges.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The back design of the Huawei Mate XT Extraordinary Master in the picture references an iconic star diamond pattern with sharp lines that generate a sparkling light effect.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The Huawei Mate XT Extraordinary Master in the picture is shown in red or black color.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The Huawei Mate XT Extraordinary Master in the picture features vegan leather on its back.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The screen of the Huawei Mate XT Extraordinary Master in the picture has a 16:9 aspect ratio.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The Huawei Mate XT Extraordinary Master in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_46_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_47": {
+    "prompt_en": "Generate an image showing the latest model of the Apple iPhone Pro.",
+    "prompt_zh": "生成一张展示最新款苹果 iPhone Pro 的图片。",
+    "txt_reference": "The Apple 17 Pro is available in three colors: orange, deep blue, and silver.\nThe rear camera design features a new full-width \"camera platform\" that spans the top of the back, instead of corner protrusions.\nOn the left side of the iPhone 17 Pro: one multifunctional combined button; on the right side: power button and camera control button.\nThe iPhone 17 Pro has an aspect ratio of approximately 19.5:9.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The Apple iPhone 17 Pro in the picture is shown in one of its available colors: orange, deep blue, or silver.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The rear camera of the iPhone 17 Pro in the picture features a full-width \"camera platform\" that spans the top of the back.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The left side of the iPhone 17 Pro in the picture has a multifunctional combined button, and the right side has a power button and camera control button.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The screen of the iPhone 17 Pro in the picture has an aspect ratio of approximately 19.5:9.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The iPhone 17 Pro in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_47_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "product_48": {
+    "prompt_en": "Generate an image showcasing the Huawei Pocket 2 Art Edition.",
+    "prompt_zh": "生成一张展示华为 Pocket 2 艺术版的图片。",
+    "txt_reference": "The HUAWEI Pocket 2 Art Edition is a flip-style (vertical) foldable smartphone.\nThe main color of the HUAWEI Pocket 2 Art Edition is a dreamy blue.\nThe HUAWEI Pocket 2 Art Edition features a three-dimensional \"butterfly wing\" texture achieved through 3D dynamic spatial craftsmanship.\nThe HUAWEI Pocket 2 Art Edition integrates an XMAGE quad-camera system within the upper circular module.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The HUAWEI Pocket 2 Art Edition in the picture is a flip-style (vertical) foldable smartphone.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The HUAWEI Pocket 2 Art Edition in the picture is shown in its main dreamy blue color.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The back of the HUAWEI Pocket 2 Art Edition in the picture features a three-dimensional \"butterfly wing\" texture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The HUAWEI Pocket 2 Art Edition in the picture integrates an XMAGE quad-camera system within the upper circular module.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The HUAWEI Pocket 2 Art Edition in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_48_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "product_49": {
+    "prompt_en": "Generate an image showcasing the product collaboration between Huawei and Pop Mart.",
+    "prompt_zh": "生成一张展示华为与泡泡玛特产品合作的图片。",
+    "txt_reference": "The Huawei FreeBuds 6i Pop Mart collaboration edition, named \"Gleaming Glow,\" features a \"Gleaming Purple\" color.\nThe Huawei and Pop Mart collaboration product includes a SKULLPANDA figurine and a pair of Huawei FreeBuds 6i earphones.\nThe SKULLPANDA figurine co-branded with Huawei features spherical, crystal-like ear spheres (headphone-inspired elements) on both sides of its head, reinforcing the audio theme.\nThe SKULLPANDA co-branded with Huawei adopts a soft lavender–violet–silver color scheme.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The Huawei FreeBuds 6i Pop Mart collaboration edition in the picture is shown in the \"Gleaming Purple\" color.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The collaboration product in the picture includes both a SKULLPANDA figurine and a pair of Huawei FreeBuds 6i earphones.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The SKULLPANDA figurine co-branded with Huawei in the picture features spherical, crystal-like ear spheres on both sides of its head.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The SKULLPANDA figurine co-branded with Huawei in the picture adopts a soft lavender–violet–silver color scheme.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The Huawei x Pop Mart co-branded product in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_49_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_5": {
+    "prompt_en": "Generate a picture of the copper galloping horse in the  Eastern Han Dynasty.",
+    "prompt_zh": "生成东汉铜奔马的图片。",
+    "txt_reference": "The copper galloping horse in the Eatern Han Dynasty is the bronze sculpture known as the Galloping Horse Treading on a Flying Swallow\nIts dimensions is height: 34.5cm; length: 45cm (some sources state 41cm); width: 13.1cm\nIts running posture is that the front and back legs of one side jump in the air at the same time\nits head raised and tilted, flared nostrils and wide, bulging eyes\nThe bird is a base,its head turned back,looking up at the horse in \"amazement\"\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the copper galloping horse from the Eastern Han Dynasty, known as the Galloping Horse Treading on a Flying Swallow.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the running posture of the horse with the front and back legs on one side jumping in the air at the same time.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the horse with its head raised and tilted, flared nostrils, and wide, bulging eyes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows a bird as the base, with its head turned back, looking up at the horse in amazement.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The sculpture in the picture resembles the Galloping Horse Treading on a Flying Swallow shown in <image_0>.",
+        "img_path": "/reference/img/product_5_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_50": {
+    "prompt_en": "Generate an image showing the Water-powered Astronomical Clock Tower invented by Su Song.",
+    "prompt_zh": "生成一张展示苏颂发明的水力天文钟的图片。",
+    "txt_reference": "The Water-powered Astronomical Clock Tower invented by Su Song is a tall, pagoda-like multi-story wooden tower.\nThe Water-powered Astronomical Clock Tower invented by Su Song contains mechanical devices inside.\nAn armillary sphere sat on the open top platform (roof level) and was rotated by the tower’s mechanism. \nThe upper structure had railings around the top platform beneath the roof canopy sheltering the armillary sphere (seen on reconstructions/models).\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The Water-powered Astronomical Clock Tower in the picture is shown as a tall, pagoda-like multi-story wooden tower.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The tower in the picture contains mechanical devices inside.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: An armillary sphere is placed on the open top platform of the tower and is rotated by its mechanism.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The upper structure of the tower in the picture has railings around the top platform beneath the roof canopy.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The reconstruction diagram of the Water-powered Astronomical Clock Tower in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_50_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "product_51": {
+    "prompt_en": "Generate an image showing Hero's steam engine.",
+    "prompt_zh": "生成一张展示英雄蒸汽机的图片。",
+    "txt_reference": "Hero's steam engine has an overall shape of a hollow sphere that rotates when steam is supplied.\nThe sphere of Hero's steam engine is typically fitted with oppositely bent tubes; the steam escaping from these tubes generates reactive torque, causing the sphere to rotate.\nThe classic material for the sphere of Hero's steam engine is brass.\nHero's steam engine employs a boiler and stand arrangement: a fire is lit beneath the water vessel, which is covered with a lid, generating steam that flows into the sphere.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: Hero's steam engine in the picture has an overall shape of a hollow sphere that rotates when steam is supplied.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The sphere of Hero's steam engine is fitted with oppositely bent tubes that generate torque, causing it to rotate.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The sphere of Hero's steam engine is made of brass.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: Hero's steam engine employs a boiler and stand arrangement, with a fire lit beneath the water vessel to generate steam.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The steam engine in the picture resembles Hero's steam engine shown in <image_0>.",
+        "img_path": "/reference/img/product_51_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_52": {
+    "prompt_en": "Generate an image showing the bronze mask with vertical eyes.",
+    "prompt_zh": "生成一张展示竖眼青铜面具的图片。",
+    "txt_reference": "The eyes of the bronze mask with protruding pupils extend outward in the form of tubular \"pupils.\"\nThe mask displays broad, outstretched ears.\nThe bronze mask with protruding eyes features square perforations on the forehead and at the sides/temples (in some examples, extending along the ear panels).\nThe bronze mask with protruding eyes has a narrow mouth, slightly upturned at the corners, revealing a subtle \"smile.\"\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The bronze mask in the picture has eyes with protruding tubular pupils.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The bronze mask in the picture displays broad, outstretched ears.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The bronze mask in the picture features square perforations on the forehead and sides/temples.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The bronze mask in the picture has a narrow mouth, slightly upturned at the corners, revealing a subtle smile.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The mask in the picture resembles the bronze mask with protruding eyes shown in <image_0>.",
+        "img_path": "/reference/img/product_52_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_53": {
+    "prompt_en": "Generate an image showing the bronze sacred tree.",
+    "prompt_zh": "生成一张展示青铜神树的图片。",
+    "txt_reference": "The bronze sacred tree consists of three parts: the base, the tree, and a dragon beside the trunk.\nThe bronze sacred tree features a domed base with three arched, triangular openwork panels, forming the imagery of “three sacred mountains.”\nThe trunk rises in three tiers, three branches per tier (nine branches in total).\nThe dragon on the bronze sacred tree descends along one side of the trunk.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The bronze sacred tree in the picture consists of three parts: the base, the tree, and a dragon beside the trunk.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The bronze sacred tree in the picture features a domed base with three arched, triangular openwork panels representing “three sacred mountains.”",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The trunk of the bronze sacred tree in the picture rises in three tiers, with three branches per tier (nine branches in total).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The bronze sacred tree in the picture has a dragon descending along one side of the trunk.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The object in the picture resembles the bronze sacred tree shown in <image_0>.",
+        "img_path": "/reference/img/product_53_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_54": {
+    "prompt_en": "Generate an image showing the jade zhang depicting a mountain sacrifice.",
+    "prompt_zh": "生成一张展示山祭玉杖的图片。",
+    "txt_reference": "The overall shape of the Jade Zhang featuring a mountain worship scene is that of a knife-shaped jade artifact.\nThe Jade Zhang featuring a mountain worship scene has figures carved on it.\nThe Jade Zhang featuring a mountain worship scene has mountains carved on it.\nThe Jade Zhang featuring a mountain worship scene has cloud patterns carved between the figures and the mountains.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The overall shape of the Jade Zhang in the picture is that of a knife-shaped jade artifact.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The Jade Zhang in the picture has figures carved on it.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The Jade Zhang in the picture has mountains carved on it.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The Jade Zhang in the picture has cloud patterns carved between the figures and the mountains.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The object in the picture resembles the Jade Zhang with mountain worship scene shown in <image_0>.",
+        "img_path": "/reference/img/product_54_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_55": {
+    "prompt_en": "Generate an image showcasing the Sanxingdui bronze solar-shaped artifact.",
+    "prompt_zh": "生成一张展示三星堆青铜太阳形器的图片。",
+    "txt_reference": "The overall design of the Sanxingdui bronze solar-shaped artifact features five radiating \"spokes\" connecting the center to the rim.\nThe Sanxingdui bronze solar-shaped artifact has a centrally protruding circular hub.\nThe Sanxingdui bronze solar-shaped artifact features a central circular hole and five evenly distributed small round holes along its outer rim.\nThe Sanxingdui bronze solar-shaped artifact has a diameter of approximately 85 centimeters.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The Sanxingdui bronze solar-shaped artifact in the picture features five radiating \"spokes\" connecting the center to the rim.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The Sanxingdui bronze solar-shaped artifact in the picture has a centrally protruding circular hub.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The Sanxingdui bronze solar-shaped artifact in the picture has a central circular hole and five evenly distributed small round holes along its outer rim.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The Sanxingdui bronze solar-shaped artifact in the picture has a diameter of approximately 85 centimeters.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The object in the picture resembles the Sanxingdui bronze solar-shaped artifact shown in <image_0>.",
+        "img_path": "/reference/img/product_55_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_6": {
+    "prompt_en": "Please generate a realistic restoration of the water wheel in \"The Exploitation of the Works of Nature\".",
+    "prompt_zh": "请生成《天工开物》中水车的逼真复原图",
+    "txt_reference": "It consists primarily of wooden chains, water, and scrapers. \nThe wooden chains resemble keels. \nWhen lifting water, they are typically placed near the riverbank, with the water trough and scrapers extending underwater.\nUsing a sprocket drive principle, powered by human (or animal) power, the wooden chains rotate repeatedly. \nThe scrapers attached to the chains then lift the river water to the shore for irrigation.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The water wheel in the picture resembles the one shown in <image_0>",
+        "img_path": "/reference/img/product_6_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows a trough:a rectangular, sloping, enclosed wooden channel",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a wooden chain:the core of the waterwheel",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows scrapers:square wooden boards fixed to the wooden chain at equal intervals",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows upper and lower sprockets:a pair of gears or sprockets located at each end of the trough",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows power input device:the key difference between different waterwheels",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows pedals",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "product_7": {
+    "prompt_en": "Generate a picture of the state of the Yue King Goujian sword  when it was first unearthed.",
+    "prompt_zh": "生成越王勾践剑出土时的状态的图片。",
+    "txt_reference": "The Sword of Goujian is a bronze sword renowned for its unusual sharpness, intricate design of black rhombuc etchings\nThe sword of Goujian is 55.6 centimetres (21.9 in) in length, including an 8.4 centimetres (3.3 in) hilt; the blade is 4.6 centimetres (1.8 in) wide at its base\nThe sword has a black hilt\nIn addition to the repeating dark rhombus pattern on both sides of the blade, there are decorations of blue crystals and turquoise\nThe grip of the sword is bound by silk\nThe Sword of Goujian was unearthed in a lacquered wooden scabbard\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Sword of Goujian, a bronze sword with intricate black rhombus etchings.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the sword with a black hilt.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows decorations on the blade, including blue crystals and turquoise, in addition to the repeating dark rhombus pattern.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the grip of the sword bound by silk.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the Sword of Goujian in a lacquered wooden scabbard.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: the scripts on the Sword of Goujian resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_7_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The Sword of Goujian in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_7_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "product_8": {
+    "prompt_en": "Generate a comparison image of the Nintendo Switch and Switch  2.",
+    "prompt_zh": "生成任天堂Switch和Switch 2的对比图。",
+    "txt_reference": "switch size is 9.4 x 4 x 0.55 inches\nswitch 2 size is approximately 10.7 inches in width, 4.5 inches in height, and 0.55 inches in thickness\nswitch 2 should be black\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows switch size is 9.4 x 4 x 0.55 inches",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture showss witch 2 size is approximately 10.7 inches in width, 4.5 inches in height, and 0.55 inches in thickness",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows switch 2 should be black",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The Nintendo Switch 2 in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_8_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The original Nintendo Switch in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_8_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: comparison between the Nintendo Switch and Switch 2 in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_8_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "product_9": {
+    "prompt_en": "Generate a comparison image of the Galaxy Z Fold 5 and the  Mate X5.",
+    "prompt_zh": "生成Galaxy Z Fold 5和Mate X5的对比图。",
+    "txt_reference": "Galaxy Z Fold 5 unfolded dimensions is 154.9 x 129.9 x 6.1 mm\nMate X5 unfolded dimensions is 156.9 x 141.5 x 5.3 mm\nGalaxy Z Fold 5 folded dimensions is 154.9 x 67.1 x 13.4 mm\nMate X5 folded dimensions is 156.9 x 72.4 x 11.1 mm\nThe Z Fold 5 features a vertically-aligned, pill-shaped housing for its three lenses\nMate X5's camera module is a large, bold, and perfectly symmetrical circular module that dominates the upper portion of the device's rear\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Galaxy Z Fold 5 unfolded dimensions is 154.9 x 129.9 x 6.1 mm",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Mate X5 unfolded dimensions is 156.9 x 141.5 x 5.3 mm",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The Galaxy Z Fold 5 in the picture features a vertically-aligned, pill-shaped housing for its three lenses.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The Mate X5 in the picture has a large, bold, and perfectly symmetrical circular camera module dominating the upper portion of the device’s rear.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The Galaxy Z Fold 5 in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_9_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The Mate X5 in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/product_9_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  }
+}

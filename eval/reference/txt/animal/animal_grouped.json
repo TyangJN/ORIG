@@ -1,0 +1,3009 @@
+{
+  "animal_0": {
+    "prompt_en": "generate a photo of frog lifecircle",
+    "prompt_zh": "生成青蛙生命周期的照片",
+    "txt_reference": "Four stage: 1.Egg stage, 2.Tadpole Stage, 3.Metamorphosis, 4.Adult Frog Stage\nEgg stage: Frogs lay their eggs in water. The eggs are usually laid in clusters or masses.\nEgg stage: The outer layer of the eggs is a jelly-like substance, with a black interior, providing protection.\nTadpole stage: Tadpoles are aquatic animals with gills for breathing underwater and tails for swimming; they feed on algae.\nMetamorphosis: As tadpoles grow, they first develop hind legs, then forelegs.\nMetamorphosis: They develop lungs for breathing air and legs for moving on land, while their tails gradually disappear.\nAdult frog stage: Adult frogs are usually terrestrial or semi-aquatic.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows four stages of frog’s lifecircle",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the eggs are laid in clusters or masses.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows that the outer layer of the egg is a jelly-like substance with a black interior.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows gills and tails at the tadpole stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows frog first develops hind legs, then front legs at the metamorphosis stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows tail gradually disappears at the metamorphosis stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows shows that tadpoles are aquatic.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows shows Frogs are amphibians.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_1": {
+    "prompt_en": "Generate photos of the process of the Turritopsis dohrnii from injury to recovery",
+    "prompt_zh": "生成灯塔水母从受伤到恢复过程的照片",
+    "txt_reference": "Five stages: 1.Medusa degeneration, 2.Cyst formation, 3.Stolonal growth, 4.Polyp budding, 5.Revert to the medusa stage\nMedusa degeneration：The medusa contracts, tentacles are reabsorbed, and it settles on a surface.\nCyst formation：It collapses into a cyst, attaching to the surface and forming a protective coat.\nStolonal growth：Root-like stolons spread out, laying the foundation for new polyps.\nPolyp budding：New polyps bud from stolons, growing tentacles and mouths to form colonies.\nTransform from a polyp into a jellyfish.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the four stages of a jellyfish's recovery from injury.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows that during the degeneration stage of the jellyfish, its tentacles are reabsorbed and on the surface.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the formation of jellyfish cysts, which attach to the surface and form a protective layer.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows that during the stolonal growth of the jellyfish,the expansion of root-like creeping stems.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows that during the polyp budding of the jellyfish, a new hydra budding from the creeping stem, growing its tentacles and mouth.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the transform from a polyp into a jellyfish.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      }
+    }
+  },
+  "animal_10": {
+    "prompt_en": "Generate an image showing the complete metamorphic development process of Common mormon",
+    "prompt_zh": "生成玉带凤蝶的变态发育过程的图片",
+    "txt_reference": "Four stages:1.Egg Stage, 2.Larval Stage, 3.Pupal Stage, 4.Adult Stage\nEgg Stage: Eggs are spherical, yellow, about 1.2 mm in diameter.\nEgg Stage: Color changes from yellow-green → creamy yellow with black spots\nEgg Stage: creamy yellow with black spots → dark brown\nLarval Stage: Mimic bird droppings to confuse predators.\nLarval Stage: Body turns green, blending perfectly with leaves for camouflage.\nLarval Stage: false eye spots on thorax, and the osmeterium (a forked gland) that emits a foul odor when threatened.\nPupal Stage: The mature larva stops feeding and attaches itself with a silk girdle to form a girdled pupa\nAdult Stage: Wingspan is about 70–90 mm; males have a distinct white band on the hindwings.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the four stages of metamorphic development process of Common mormon",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Eggs are spherical, yellow",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Color changes from yellow-green to creamy yellow with black spots in the egg stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows color changes from creamy yellow with black spots to dark brown in the egg stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the larval stage, where the larva mimics bird droppings to confuse predators.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows body turns green, blending perfectly with leaves for camouflage in the Larval Stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows false eye spots  in the Larval Stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows the mature larva secures itself with a silk girdle to form a girdled pupa",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False: Larval Stage in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/animal_10_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: Pupal Stage in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/animal_10_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: Adult Stage in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/animal_10_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_11": {
+    "prompt_en": "Generate images showing the different sleeping positions of sperm whales and humpback whales",
+    "prompt_zh": "生成图片，展示抹香鲸与座头鲸不同的睡觉姿势",
+    "txt_reference": "Sperm Whale：Floating vertically 10–20 meters below the water's surface\nSperm Whale：Head usually facing upward.\nHumpback Whale：The body floats horizontally at or just near the water’s surface\nHumpback Whale usually remain near the surface, with their blowholes exposed to the air for breathing.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the sperm whale is floating vertically 10–20 meters below the water's surface",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the sperm whale ' head is facing upward",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the humpback whale 's body floats horizontally near the water’s surface",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the humpback whale 's blowholes exposed to the air for breathing.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The sperm whale in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_11_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The humpback whale in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_11_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_12": {
+    "prompt_en": "Generate an image showing the red panda's attack posture",
+    "prompt_zh": "生成图片，展示小熊猫的攻击姿态",
+    "txt_reference": "Threat Display (Standing)：Standing on hind legs with arms raised to exaggerate body size and intimidate enemies\nWall-Supported Display：When unable to escape in a confined space, it stands against a wall and raises its forepaws.\nDirect Attack：Using claws to scratch and teeth to bite, causing actual injury\nVocal Threat：Emitting screams or high-pitched calls as an acoustic threat\nChemical Signal：Releasing gland secretions or urine marking to reinforce defense\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Red panda stand on hind legs with arms raised",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the Red panda stands against a wall and raises its forepaws.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the Red panda uses claws to scratch and teeth to bite",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the red panda emits screams or high-pitched calls as an acoustic threat.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The Red panda in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_12_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_13": {
+    "prompt_en": "Generate a group photo of elephants and other species that are most closely related to them (with the highest genetic similarity)",
+    "prompt_zh": "生成大象和大象血缘最近（基因相似度最高）的其他物种的合照",
+    "txt_reference": "Elephants (Proboscidea) are most closely related to Sirenia and hyraxes (Hyracoidea).\nHyrax: Small body (25–50 cm, 4–5 kg), looks like a rabbit or guinea pig.\nHyrax Teeth: Continuously growing upper incisors, molars resemble elephants’.\nHyrax Feet: Hoof-like toenails, similar to elephants’ toes.\nSirenia: Fully aquatic, with paddle-like forelimbs and a fluked tail.\nSirenia Skeleton: Heavy ribs, functionally similar to elephants’ robust bones.\nSirenia: Whale-like appearance is convergent evolution, but genetically they are closer to elephants.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Hyrax is a relative of elephants",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Sirenia is a relative of elephants",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the Hyrax is small in size",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the Hyrax looks like rabbits or guinea pigs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the Hyrax has hoof-like toenails, similar to the toes of elephants.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the forelimbs of Sirenia are paddle-shaped.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the tail of Sirenia is fluked, like that of a whale.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Sirenia have a whale-like appearance.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: Hyrax in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_13_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: Sirenia in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_13_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_14": {
+    "prompt_en": "Generate a photo of a hippopotamus and other species that are closest to it (have the highest genetic similarity)",
+    "prompt_zh": "生成河马和河马血缘最近（基因相似度最高）的其他物种的合照",
+    "txt_reference": "Cetacea and anthracotheres are close relatives of the hippopotamus.\nCetacea：Including whales, dolphins, and porpoises.\nAnthracotheres：Extinct semi-aquatic, pig-like mammals.\nAnthracotheres are considered the sister group of modern hippos.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows whales are close relatives of the hippopotamus.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows anthracotheres are close relatives of the hippopotamus.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Cetaceans, including whales, dolphins, and porpoises.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Anthracotheres were mammals that looked similar to pigs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: Anthracotheres in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_14_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: Hippopotamus in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_14_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_15": {
+    "prompt_en": "Please generate an image showing the ninth son of the Chinese dragon and his parents",
+    "prompt_zh": "请生成图片，展示中国龙第九个儿子和它的父母",
+    "txt_reference": "The ninth son of the dragon is Chiwe\nChiwe Appearance: Dragon head with fish body, wide mouth, loud voice\nChiwen often appears on the ridges of palaces and is believed to swallow evil and ward off fire.\nFather(dragon)  Appearance: “Nine Resemblances” (antlers, rabbit eyes, fish scales, snake body, etc.)\nChiwe's mother is a fish\nMother Biological trait: Aquatic creature\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the ninth son of the dragon is chiwen",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows chiwen has a dragon’s head",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows chiwen has a a fish’s body, and a wide mouth.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows chiwen's father is Chinese Dragon",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows chiwen's mother is a fish",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows chiwen's mother  is an aquatic creature.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: chiwen in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_15_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows chiwen's father is Chinese Dragon",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture shows three different creatures",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "animal_16": {
+    "prompt_en": "Please generate an image showing the first son of the Chinese dragon and his parents",
+    "prompt_zh": "请生成图片，展示中国龙第一个儿子和它的父母",
+    "txt_reference": "The first son of the dragon is Qiuniao\nQiuniao：Dragon head, often with a serpent-like body\nQiuniao：Small, sometimes described as a “yellow little dragon”\nFather(dragon) ：Composite of nine animals: deer antlers, camel head, demon eyes, cow ears, snake neck, crocodile belly, fish scales, eagle claws, tiger paws\nQiuniao's mother is an ox\nMother:Strong, sturdy body\nMother:Curved horns on the head\nMother:Usually brown or black in color\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the first son of the dragon is Qiuniao",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Qiuniao has dragon head",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Qiuniao has a serpent-like body",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Qiuniao is small",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Qiuniao 's body is yellow",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Qiuniao 's mother is an ox",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Qiuniao 's mother is very strong",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Qiuniao 's mother has Curved horns on the head.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Qiuniao 's mother is brown in color.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The picture shows Qiuniao 's father is Chinese Dragon",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_11": {
+        "content": "True or False: Qiuniao in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_16_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: The picture shows three different creatures",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "animal_17": {
+    "prompt_en": "Generate an image showing the symbiotic relationship between tits and woodpeckers",
+    "prompt_zh": "生成图片，体现山雀与啄木鸟的共生关系",
+    "txt_reference": "They have a mutually beneficial relationship\nTits Follow woodpeckers and feed on leftover insects.\nWoodpeckers provide nesting sites for tits.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows tits and woodpeckers have a mutually beneficial relationship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows woodpeckers help tits find food.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Woodpeckers provide nesting sites for tits.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: Blue Tits and woodpeckers in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/animal_17_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_18": {
+    "prompt_en": "Generate an image showing an owl in a defensive position while sleeping",
+    "prompt_zh": "生成图片，展示猫头鹰睡觉时的防御姿势",
+    "txt_reference": "During sleep, owls combine physiological defense (unihemispheric slow-wave sleep), morphological defense (camouflage posture), and behavioral defense (alertness readiness).\nOwls choose to perch in trees, especially on high branches with a wide view.\nphysiological defense：Owls often sleep with one eye open,allowing one brain hemisphere to rest while the other stays alert, monitoring the environment for predators or prey.\nmorphological defense：By elongating the body and tightening feathers, owls appear thin and branch-like\nbehavioral defense：While resting, owls may keep their head slightly raised and feathers compact\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows three Defensive Strategies of Owls,including Physiological Defense,Morphological Defense and Behavioral Defense",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Owls  perch on tree branches with a wide view.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Owls often sleep with one eye open",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows owls elongates the body and tightens its feathers, making it look like a thin branch.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows owls may keep their head slightly raised and feathers compact",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The Owl in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_18_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_19": {
+    "prompt_en": "Generate an image showing the location of the shrimp heart",
+    "prompt_zh": "生成图片，展示出虾心脏的位置",
+    "txt_reference": "The shrimp’s heart is actually located within the thorax, just behind the head.\nThe shrimp’s heart is located on the dorsal side\nThe shrimp’s heart is located behind the stomach\nThe shrimp’s heart is located above the digestive gland.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the shrimp’s heart is located within the thorax, just behind the head.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the shrimp’s heart is located on the dorsal side",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the shrimp’s heart is located behind the stomach",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the shrimp’s heart is located above the digestive gland.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The heart’s location is clearly shown in the picture by arrows or annotations.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The location of the shrimp’s heart in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/animal_19_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "animal_2": {
+    "prompt_en": "Generate an image of a horned lizard repelling a predator.",
+    "prompt_zh": "生成角蜥喷血吓跑捕食者的图片",
+    "txt_reference": "The lizard restricts blood return from the head, rapidly increasing pressure in the eye vessels.\nSmall vessels near the eye rupture, ejecting blood in a jet that can reach 1.5–2 meters.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a horned lizard being threatened by a bigger animal.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the scene of small blood vessels near the eyes of the horned lizard rupturing and spraying blood.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a horned lizard raising its head and positioning the horns on its head either straight up or backwards.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows that the enemy fears the smell of blood.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:horned lizard in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/animal_2_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_20": {
+    "prompt_en": "Generate an image showing the location of octopus' hearts",
+    "prompt_zh": "生成图片，展示章鱼心脏的位置",
+    "txt_reference": "An octopus has three hearts, all located within the mantle.\nThe three hearts consist of one systemic heart and two branchial hearts\nThe mantle is a muscular cavity located just behind the head\nSystemic Heart positioned in the center, it pumps blood to the rest of the body.\nThe two branchial hearts are located on either side of the systemic heart\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows an octopus has three hearts",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows one systemic heart and two branchial hearts",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows three hearts all located within the mantle.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Systemic Heart positioned in the center",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows two branchial hearts are located on either side of the systemic heart",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The heart’s location is clearly shown in the picture by arrows or annotations.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The location of the octopus' hearts in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_20_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "animal_21": {
+    "prompt_en": "Generate an image showing the location of spiders' heart",
+    "prompt_zh": "生成图片，展示蜘蛛心脏的位置 ",
+    "txt_reference": "The spider’s heart is located in the abdomen.\nThe spider’s heart lies along the dorsal midline of the abdomen.\nThe heart is suspended within a body cavity called the pericardial sinus.\nThe heart is a tubular, valved, open structure.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the spider’s heart is located in the abdomen.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the spider’s heart lies along the dorsal midline of the abdomen.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the heart is suspended within a body cavity",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the heart is a tubular, valved, open structure.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The heart’s location is clearly shown in the picture by arrows or annotations.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The location of the spider’s heart in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_21_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "animal_22": {
+    "prompt_en": "Generate a image of the giant panda together with the species that is most closely related to it (with the highest genetic similarity).   ",
+    "prompt_zh": "生成大熊猫和大熊猫血缘最近（基因相似度最高）的其他物种的合照",
+    "txt_reference": "The species most closely related to the giant panda (with the highest genetic similarity) is the spectacled bear.\nspectacled bear：Its fur is mainly black, but may range from jet black to dark brown or even reddish.\nspectacled bear：The face and upper chest usually have distinctive beige or ginger-colored markings.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows spectacled bear is close relatives of the giant panda",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows spectacled bear's fur is mainly black",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows spectacled bear's face and upper chest usually have distinctive beige or ginger-colored markings.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: spectacled bear in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_22_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_23": {
+    "prompt_en": "Generate a group image of a pigeon and the other species most closely related to it (with the highest genetic similarity)",
+    "prompt_zh": "生成鸽子和鸽子血缘最近（基因相似度最高）的其他物种的合照",
+    "txt_reference": "Pigeons are most closely related to sandgrouse and mesites.\nsandgrouse: Small head and neck, similar to pigeons; compact and sturdy body\nsandgrouse: Plumage blends with desert habitat, sandy-brown, gray, pale yellow with mottled patterns\nsandgrouse: 11 strong primaries, long pointed wings, enabling fast and direct flight\nsandgrouse: Short legs; Syrrhaptes with feathered legs and toes, no hind toe; Pterocles with front leg feathering, bare toes, hind toe raised\nmesites：Small bird, about 30 cm long; slender body, small head, broad tail\nmesites：Short rounded wings, weak flight; mostly ground-dwelling with strong legs\nmesites：Stout down-curved bill, adapted for foraging in leaf litter or digging in sand\nmesites：Plumage reddish-brown or chestnut with paler underparts; good camouflage, species show different color patterns\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows sandgrouse and mesites are close relatives of the Pigeons",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows sandgrouse has Small head and neck, similar to pigeons; compact and sturdy body",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows sandgrouse's Plumage blends with desert habitat, sandy-brown, gray, pale yellow with mottled patterns",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows sandgrouse has 11 strong primaries, long pointed wings, enabling fast and direct flight",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows sandgrouse has Short legs",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows mesites are small about 30 cm long",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows mesites have a slender body, small head, broad tail",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows mesites have Short rounded wings, weak flight",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows mesites have strong legs",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The picture shows mesites have Stout down-curved bill",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The picture shows the underparts of the mesite are paler.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: sandgrouse in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_23_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_13": {
+        "content": "True or False: mesites in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_23_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_24": {
+    "prompt_en": "Please generate an image showing the sixth son of the Chinese dragon and his parents.",
+    "prompt_zh": "请生成图片，展示中国龙第六个儿子和它的父母",
+    "txt_reference": "The sixth son of the Chinese dragon is Bixi.\nBixi：Turtle body with dragon head, heavy shell, with teeth\nBixi：Often serves as the base of steles, symbolizing endurance, stability, longevity, and immortal merit\nBixi' mother is a Turtle\nBixi' mother:Heavy shell, long life\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the sixth son of the Chinese dragon is Bixi.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Bixi has Turtle body with dragon head",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Bixi has heavy shell, with teeth",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Bixi Often serves as the base of steles",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Bixi' mother is a Turtle",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Bixi' mother has Heavy shell, long life",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: Bixi in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_24_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_25": {
+    "prompt_en": "Generate a historical scene showing the first time a peacock was presented to the Persian imperial court in ancient India",
+    "prompt_zh": "生成一个历史场景，展示孔雀首次被呈献给古印度波斯皇室",
+    "txt_reference": "During the New Year festival at Persepolis’ Apadana Palace, delegations from across the empire presented their tributes in turn.\nThe Indian delegation, barefoot and dressed in waistcloths, brought gold dust, teakwood, and a donkey as tribute.\nAt the end of the procession, several envoys carried a peacock placed in a golden cage.\nThe peacock spread its tail, shimmering in green, blue, and golden hues, and let out a clear cry.\nIts call echoed among the towering columns, drawing astonishment and admiration from ministers and envoys.\nThe Persian king, seated on his throne, gazed intently at the peacock as the scene reached its climax.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the event took place at the Apadana Palace in Persepolis.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the Indian delegation was barefoot and dressed in waistcloths",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the Indian delegation brought gold dust, teakwood, and a donkey as tribute",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Several envoys carried a peacock placed in a golden cage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the peacock spread its tail, shimmering in green, blue, and golden hues",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the astonished expressions of the ministers and envoys.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the Persian king, seated on his throne, gazed intently at the peacock",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The peacock in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_25_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: Persepolis’ Apadana Palace in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_25_1.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "animal_26": {
+    "prompt_en": "Generate an image showing the growth stages of a Golden Snub-nosed Monkey",
+    "prompt_zh": "生成一张展示金丝猴生长阶段的图像",
+    "txt_reference": "Infant Stage (0–1 year)：Very small body, fur is grayish-white or creamy, no guard hair or crown hair,\nJuvenile Stage (1–4 years)：Body grows but still smaller than adult females\nJuvenile Stage (1–4 years)：fur changes from grayish-white to reddish-golden but not bright\nSubadult Stage (4–7 years)：Body size close to adult females; short sparse golden guard hair on back and shoulders\nSubadult Stage (4–7 years)：crown hair brown with streak patterns; secondary sexual traits begin to appear.\nAdult Stage (7+ years)：Very large body (around 19.8kg)\nAdult Stage (7+ years)：luxurious golden guard hair up to 55cm on back and shoulders forming a “cape”\nAdult Stage (7+ years)：upright brown crown hair; bluish face with possible warty growths at mouth corners.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows that the golden snub-nosed monkey in its infant stage has a very small body, with fur that is grayish-white or creamy",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows that the golden snub-nosed monkey in its infant stage has no guard hair or crown hair.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows that in the juvenile stage, the body grows but is still smaller than that of adult females.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows that in the juvenile stage, the fur of the golden snub-nosed monkey changes from grayish-white to reddish-golden, but not bright",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows that in the subadult stage, the body size of the golden snub-nosed monkey is close to that of adult females",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows that in the subadult stage, the golden guard hair on the back and shoulders of the golden snub-nosed monkey is short and sparse",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows that in the subadult stage, the crown hair of the golden snub-nosed monkey is brown with streak patterns",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows that in the adult stage, the golden snub-nosed monkey has a very large body (about 19.8 kg).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows that in the adult stage, the golden snub-nosed monkey has luxurious golden guard hair up to 55 cm long on the back and shoulders, forming a 'cape'.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The picture shows that in the adult stage, the golden snub-nosed monkey has upright brown crown hair.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The picture shows that in the adult stage, the face of the golden snub-nosed monkey is bluish, with possible warty growths at the corners of the mouth",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: Golden Snub-nosed Monkey in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_26_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_27": {
+    "prompt_en": "Generate an image showing the first display of an ostrich in the Sultan’s garden of the Ottoman Empire",
+    "prompt_zh": "生成一张图片，展示奥斯曼帝国苏丹花园中鸵鸟的首次展示",
+    "txt_reference": "Location：The Sultan’s garden\nMain Figure：The Sultan sits on a viewing pavilion or garden throne, dressed in luxurious robes and a white or red turban.\nThe Grand Vizier, court officials, and attendants stand nearby, showing expressions of astonishment and admiration.\nA tall African ostrich (about 2.5 meters), with a long slender neck and powerful legs, displayed or led at the center of the garden.\nThe ostrich’s neck is adorned with ribbons or ornaments\nThe ostrich is adorned with metallic bells and chains that jingle crisply as it moves.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the event took place at the Sultan’s garden",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the Sultan sits on a viewing pavilion or garden throne",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the Sultan dressed in luxurious robes and a white or red turban.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the Grand Vizier, court officials, and attendants stand nearby",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the ministers showed astonished expressions",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows a tall African ostrich (about 2.5 meters), with a long slender neck and powerful legs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the ostrich being led at the center of the garden",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows the ostrich’s neck is adorned with ribbons or ornaments",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture shows The ostrich is adorned with metallic bells and chains that jingle crisply as it moves.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The ostrich in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_27_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_28": {
+    "prompt_en": "Generate an image showing the position of the Nautilus heart",
+    "prompt_zh": "生成显示 海螺（Nautilus）心脏位置的图像",
+    "txt_reference": "Nautilus Heart is located within the mantle cavity, not in a separate thoracic cavity\nNautilus Heart is positioned at the posterior part of the visceral mass\nNautilus Heart is Closely connected with the two pairs of gills, receiving oxygenated blood from them\nNautilus Heart is Surrounded by the pericardial cavity, which also serves excretory and auxiliary pumping functions\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Nautilus Heart is located within the mantle cavity",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Nautilus Heart is positioned at the posterior part of the visceral mass",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows is Closely connected with the two pairs of gills, receiving oxygenated blood from them",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Nautilus Heart is Surrounded by the pericardial cavity",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The location of Nautilus Heart in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_28_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "animal_29": {
+    "prompt_en": "Generate an image showing the symbiotic relationship between hornbills and other species",
+    "prompt_zh": "生成一张展示犀鸟与其他物种共生关系的图像",
+    "txt_reference": "In the African savanna, yellow-billed hornbills and dwarf mongooses form a stable cooperative relationship.\nMongooses: Flip over stones and dig in the soil, flushing out insects that hornbills seize as food.\nHornbills: Monitor from elevated perches; when spotting raptors or ground predators, they give alarm calls to warn mongooses.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows yellow-billed hornbills and dwarf mongooses form a stable cooperative relationship.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the mongooses flipping over stones and digging in the soil",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the mongooses flushing out insects that the hornbills seize as food",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the hornbills monitoring from elevated perches",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the hornbills gave alarm calls to warn the mongooses when they spotted raptors or ground predators",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: Mongooses in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_29_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: Hornbills in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_29_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_3": {
+    "prompt_en": "Generate an image of the scene when giraffes were first introduced to China.",
+    "prompt_zh": "生成长颈鹿第一次被引入中国的场景图",
+    "txt_reference": "First Giraffe (1414)：Brought from the Bengal kingdom to Nanjing.\nPresented as a “qilin,” causing huge public excitement (“ten thousand people filling the alleys”).\nReceived personally by Emperor Yongle at the Fengtian Gate in a grand ceremony.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the architectural features of the Ming dynasty palaces in Nanjing",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows  the magnificent scene of ten thousand people lining the streets.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Emperor Yongle participated in this event.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows this celebration was held at the Fengtian Gate.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows foreigner bring the giraffe to china",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the first arrival of the giraffe in China.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      }
+    }
+  },
+  "animal_30": {
+    "prompt_en": "Generate an image showing the combat postures of kangaroos.",
+    "prompt_zh": "生成一张展示袋鼠战斗姿势的图像。",
+    "txt_reference": "Stand upright on tiptoes, stretch the body tall to appear larger (\"high-stand posture\").\nArch the back and perform \"pentapedal walking\" (using tail and forelimbs for slow support).\nUse forelimbs to scratch, shove, or \"box,\" targeting the opponent’s head and shoulders.\nLean backward, supported by the tail, forming a \"tail + two legs\" three-point stance.\nKick out with both legs simultaneously, aiming at the opponent’s abdomen.\nTilt the head back to avoid strikes, using thickened abdominal skin to withstand kicks.\nMaintain an upright or backward-leaning posture during combat to reduce head injury.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the Kangaroos Stand upright on tiptoes, stretch the body tall to appear larger (\"high-stand posture\").",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the Kangaroos Arch the back and perform \"pentapedal walking\" (using tail and forelimbs for slow support).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the Kangaroos Use forelimbs to scratch, shove, or \"box,\" targeting the opponent’s head and shoulders.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the Kangaroos Lean backward, supported by the tail, forming a \"tail + two legs\" three-point stance.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the Kangaroos Kick out with both legs simultaneously, aiming at the opponent’s abdomen.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the Kangaroos Tilt the head back to avoid strikes, using thickened abdominal skin to withstand kicks.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the Kangaroos Maintain an upright or backward-leaning posture during combat to reduce head injury.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: Kangaroo combat in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_30_0.png",
+        "modal": "I",
+        "class_id": 3
+      }
+    }
+  },
+  "animal_31": {
+    "prompt_en": "Generate an image of the sea star (starfish) life cycle .",
+    "prompt_zh": "生成海星（海星）生命周期的图像。",
+    "txt_reference": "Five steps: 1.Embryo, 2.Bipinnaria Larva, 3.Brachiolaria Larva, 4.Juvenile Sea Star, 5.Adult Sea Star\nEmbryo: A tiny transparent sphere, gradually forming internal folds.\nBipinnaria Larva: Elongated and bilaterally symmetrical, with leaf-like or arm-like lobes on both sides.\nBipinnaria Larva: Covered with ciliary bands, resembling a transparent little creature flapping “wings.”\nBrachiolaria Larva: Three distinct short arms and a central sucker appear at the front.\nJuvenile Sea Star: Body completely reorganized into a tiny five-pointed star.\nJuvenile Sea Star: Less than 1 mm in diameter, semi-transparent or whitish, begins crawling with tube feet.\nAdult Sea Star: Typical star-shaped body with pentaradial symmetry, increasing in size.\nAdult Sea Star: Surface covered with spines or bumps, colors vary (orange, purple, red, brown, etc.), fully developed predatory ability.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows four stages of starfish's life cycle .",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows a tiny transparent sphere, gradually forming internal folds at the Embryo stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows it is elongated and bilaterally symmetrical, with leaf-like or arm-like lobes on both sides at the Bipinnaria Larva stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows it is Covered with ciliary bands, resembling a transparent little creature flapping wings at the Bipinnaria Larva stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows it has three distinct short arms and a central sucker appear at the front at the Brachiolaria Larva stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows it's Body completely reorganized into a tiny five-pointed star at the Juvenile Sea Star stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows it is less than 1 mm in diameter, semi-transparent or whitish, begins crawling with tube feet at the Juvenile Sea Star stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows it has typical star-shaped body with pentaradial symmetry, increasing in size at the Adult Sea Star stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False: The picture shows it's surface covered with spines or bumps, colors vary (orange, purple, red, brown, etc.) at the Adult Sea Star stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: starfish life cycle in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_31_0.png",
+        "modal": "I",
+        "class_id": 3
+      }
+    }
+  },
+  "animal_32": {
+    "prompt_en": "Generate an image showing the relationship between crested guineafowl and monkeys.",
+    "prompt_zh": "生成一张显示凤头珍珠鸡和猴子之间关系的图像。",
+    "txt_reference": " Monkeys generate “resource and information spillovers” from above, and guineafowl efficiently use them below; the relationship is mainly commensal–mutualistic\nWhile monkeys feed, they drop fruits and disturb insects; crested guineafowl forage on the fallen fruits and exposed invertebrates, gaining extra energy and protein.\nCrested guineafowl eavesdrop on monkeys’ contact or alarm calls to reduce predation risk, while monkeys may also benefit from the guineafowl’s ground-level vigilance.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows crested guineafowl and monkeys have a mutually beneficial relationship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Monkeys drop fruits and flush insects; guineafowl feed on them.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Guineafowl use monkeys’ calls for safety, while monkeys gain ground-level vigilance.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: Crested guineafowl in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_32_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_33": {
+    "prompt_en": "Generate a image of a pigeon together with the species most  closely related to pigeons (with the highest genetic similarity)",
+    "prompt_zh": "生成一张鸽子及其亲缘关系最密切（基因相似度最高）的物种合影。",
+    "txt_reference": "Pigeons are most closely related to sandgrouse and mesites.\nsandgrouse: Small head and neck, similar to pigeons; compact and sturdy body\nsandgrouse: Plumage blends with desert habitat, sandy-brown, gray, pale yellow with mottled patterns\nsandgrouse: 11 strong primaries, long pointed wings, enabling fast and direct flight\nsandgrouse: Short legs; Syrrhaptes with feathered legs and toes, no hind toe; Pterocles with front leg feathering, bare toes, hind toe raised\nmesites：Small bird, about 30 cm long; slender body, small head, broad tail\nmesites：Short rounded wings, weak flight; mostly ground-dwelling with strong legs\nmesites：Stout down-curved bill, adapted for foraging in leaf litter or digging in sand\nmesites：Plumage reddish-brown or chestnut with paler underparts; good camouflage, species show different color patterns\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows sandgrouse and mesites are close relatives of the Pigeons",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows sandgrouse has Small head and neck, similar to pigeons; compact and sturdy body",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows sandgrouse's Plumage blends with desert habitat, sandy-brown, gray, pale yellow with mottled patterns",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows sandgrouse has 11 strong primaries, long pointed wings, enabling fast and direct flight",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows sandgrouse has Short legs",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows mesites are small about 30 cm long",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows mesites have a slender body, small head, broad tail",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows mesites have Short rounded wings, weak flight",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows mesites have strong legs",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The picture shows mesites have Stout down-curved bill",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The picture shows the underparts of the mesite are paler.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: sandgrouse in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_33_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_13": {
+        "content": "True or False: mesites in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_33_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_34": {
+    "prompt_en": "Generate an image showing the fourth son of the Chinese dragon  and his parents",
+    "prompt_zh": "生成一张中国龙的第四个儿子及其父母合影。",
+    "txt_reference": "The fourth son of the Chinese dragon is Pú Láo\nPú Láo: Resembles a coiled small dragon, smaller in size than a true dragon.\nPú Láo: Coiled in form, suitable for being cast on great bells.\nPú Láo's mother is a toad\nPú Láo's mother：Amphibian form, clumsy appearance\nPú Láo's mother：rough skin covered with warts.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the fourth son of the Chinese dragon is Pú Láo",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Pú Láo resembles a coiled small dragon, smaller in size than a true dragon.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Pú Láo is Coiled in form, suitable for being cast on great bells.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Pú Láo's mother is a toad",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Pulao’s mother has an amphibian form with a clumsy appearance",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Pulao’s mother has rough skin covered with warts.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: Pú Láo in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_34_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_35": {
+    "prompt_en": "Generate an image showing the fifth son of the Chinese dragon  and his parents",
+    "prompt_zh": "生成一张中国龙的第五个儿子及其父母合影。",
+    "txt_reference": "The fifth son of the Chinese dragon is Suān Ní\nSuān Ní: Resembles a lion, endowed with the divinity of dragons.\nSuān Ní's mother is a lion\nSuān Ní's mother: Large and powerful body\nSuān Ní's mother: majestic and fierce, with a dense mane.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the fifth son of the Chinese dragon is Suān Ní",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Suān Ní resembles a lion, endowed with the divinity of dragons.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Suān Ní's mother is a lion",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Suān Ní's mother has large and powerful body",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Suān Ní's is majestic and fierce, with a dense mane.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: Suān Ní in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_35_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_36": {
+    "prompt_en": "Generate an image showing the seventh son of the Chinese  dragon and his parents.",
+    "prompt_zh": "生成一张中国龙的第七个儿子及其父母合影。",
+    "txt_reference": "The seventh son of the Chinese dragon is Bì’àn\nBì’àn: Resembles a fierce tiger, powerful and imposing, with strong deterrent presence.\nBì’àn's mother is a tiger\nBì’àn's mother: Majestic and powerful form, agile body\nBì’àn's mother: short bristly mane, embodying the strength and dominance of the king of beasts.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the seventh son of the Chinese dragon is Bì’àn",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Bì’àn resembles a fierce tiger",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Bì’àn is powerful and imposing, with strong deterrent presence.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Bì’àn's mother is a tiger",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Bì’àn's mother has majestic and powerful form, agile body",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Bì’àn's mother has short bristly mane",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: Bì’àn in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_36_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_37": {
+    "prompt_en": "Generate a group image of a tree shrew and the species most  closely related to the tree shrew (with the highest genetic similarity).",
+    "prompt_zh": "生成一张树鼩及其亲缘关系最密切（基因相似度最高）的物种合影。",
+    "txt_reference": "Tree shrews are most closely related to Primates and Colugos\nTree shrews: Small body, 10–20 cm in length, looks like a mix of squirrel and shrew\nTree shrews: Long snout, forward-facing eyes, some stereoscopic vision\nTree shrews: Separated thumb, clawed fingertips instead of nails\nTree shrews: Brownish or grayish coat, good camouflage in forests\nPrimates: Forward-facing eyes, stereoscopic vision; well-developed facial muscles, rich expressions\nPrimates: Opposable thumbs, flat nails at fingertips\nPrimates: Body covered with hair, more bare areas on face\nColugos: Well-developed patagium stretching between limbs, tail, and neck, like a cape\nColugos: Medium size, body length about 30–40 cm\nColugos: Large eyes adapted for nocturnal life; short snout\nColugos: Clawed fingertips, good at climbing\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Primates and Colugos are close relatives of Tree shrews",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Tree shrews have small body, looks like a mix of squirrel and shrew",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Tree shrews have Long snout, forward-facing eyes",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Tree shrews have Separated thumb, clawed fingertips",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Tree shrews have Brownish or grayish coat",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Primates have Forward-facing eyes, well-developed facial muscles",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Primates have Opposable thumbs, flat nails at fingertips",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Primates' body covered with hair, more bare areas on face",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Colugos have a well-developed patagium stretching between the limbs, tail, and neck, resembling a cape.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The picture shows Colugos have a Medium size, body length about 30–40 cm",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The picture shows Colugos have large eyes adapted for nocturnal life and short snout",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: The picture shows Colugos have Clawed fingertips, good at climbing",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_13": {
+        "content": "True or False: Tree shrew in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_37_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_14": {
+        "content": "True or False: Primate in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_37_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_15": {
+        "content": "True or False: Colugo in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_37_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "animal_38": {
+    "prompt_en": "Generate a group photo of a sea turtle and the species most  closely related to the sea turtle (with the highest genetic similarity)",
+    "prompt_zh": "生成一张海龟及其亲缘关系最密切（基因相似度最高）的物种合影。",
+    "txt_reference": "Sea turtles are most closely related to Crocodylia and Aves\nCrocodylia: Large reptiles, body length up to several meters, elongated cylindrical shape\nCrocodylia: Covered with tough scales and osteoderms, rough texture\nCrocodylia: Short but powerful limbs with claws; hind limbs partially webbed, suitable for amphibious lifestyle\nCrocodylia: The tail is long and powerful, laterally flattened, and used for swimming propulsion\nCrocodylia: Mostly gray-brown or dark green, providing camouflage\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Crocodylia and Aves are close relatives of Sea turtles",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Crocodylia are large reptiles, body length up to several meters, elongated cylindrical shape",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Crocodylia are Covered with tough scales and osteoderms, rough texture",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Crocodylia have Short but powerful limbs with claws",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Crocodylia have hind limbs partially webbed, suitable for amphibious lifestyle",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Crocodylia's tail is long and powerful, laterally flattened",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Crocodylia is mostly gray-brown or dark green",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: Crocodylia in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_38_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: Sea turtle in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_38_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_39": {
+    "prompt_en": "Generate a group photo of a hummingbird and the species most  closely related to the hummingbird (with the highest genetic similarity)",
+    "prompt_zh": "生成一张蜂鸟及其亲缘关系最密切（基因相似度最高）的物种合影。",
+    "txt_reference": "Hummingbirds are most closely related to Apodidae and Hemiprocnidae\nHummingbirds: Very small, about 2–20 cm; among the smallest birds in the world\nHummingbirds: Brilliant plumage with metallic sheen (green, blue, red, etc.)\nHummingbirds Bill: Slender, straight or curved; adapted to feeding from flowers\nHummingbirds Wings: Short and narrow; rapid wingbeats allow hovering and backward flight\nHummingbirds Tail：Often elongated or with ornamental feathers\nApodidae：Small to medium size, about 9–25 cm, slender body\nApodidae：Generally dull, dark brown or black plumage\nApodidae Bill：Short and wide, broad at base; adapted for catching insects in flight\nApodidae Wings：Scythe-shaped, very long and narrow; suited for high-speed, long-distance flight\nApodidae Tail：Often short and forked, sometimes deeply forked\nHemiprocnidae：Small to medium size, about 15–25 cm\nHemiprocnidae：Brighter plumage than swifts, often with bluish-green or gray-white sheen\nHemiprocnidae Bill：Short and broad, similar to swifts\nHemiprocnidae Wings：Long and narrow, adapted for agile flight\nHemiprocnidae Tail：Forked or elongated tail, sometimes with ornamental feathers\nHemiprocnidae Crest：Distinctive crest on the head, a key feature distinguishing them from swifts\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Apodidae and Hemiprocnidae are close relatives of Hummingbirds",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Hummingbirds are very small.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Hummingbirds have Brilliant plumage with metallic sheen (green, blue, red, etc.)",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Hummingbirds' bill is Slender, straight or curved",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Hummingbirds' wings are Short and narrow",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Hummingbirds' tail is Often elongated or with ornamental feathers",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Apodidae is small to medium size, about 9–25 cm, slender body",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Apodidae is generally dull, dark brown or black plumage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Apodidae's bill is Short and wide, broad at base",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The picture shows Apodidae's wings are Scythe-shaped, very long and narrow",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The picture shows Apodidae's tail is often short and forked, sometimes deeply forked",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: The picture shows Hemiprocnidae is Small to medium size, about 15–25 cm",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_13": {
+        "content": "True or False: The picture shows Hemiprocnidae has brighter plumage than swifts, often with bluish-green or gray-white sheen",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_14": {
+        "content": "True or False: The picture shows Hemiprocnidae' bill is Short and broad, similar to swifts",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_15": {
+        "content": "True or False: The picture shows Hemiprocnidae' wings are long and narrow",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_16": {
+        "content": "True or False: The picture shows Hemiprocnidae has forked or elongated tail, sometimes with ornamental feathers",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_17": {
+        "content": "True or False: The picture shows Hemiprocnidae has distinctive crest on the head",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_18": {
+        "content": "True or False: Hummingbird in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_39_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_19": {
+        "content": "True or False: Apodidae in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_39_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_20": {
+        "content": "True or False: Hemiprocnidae in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_39_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_4": {
+    "prompt_en": "Generate an image showing the growth stages of a white-headed langur.",
+    "prompt_zh": "生成白头叶猴的成长变化图",
+    "txt_reference": "Four stages:1.Infant Stage (Birth to ~3 months),2.Juvenile Stage (~3 months to 1.5 years),3.Adult Stage (After ~1.5 years),4.Male Dispersal Stage (~4 years)\nInfant Stage:Fur is bright golden or orange.\nJuvenile Stage:Face and ears darken.\nJuvenile Stage:fur changes from golden to gray-yellow, eventually becoming black.\nAdult Stage :Distinct black-and-white coat pattern .\nAdult Stage:head, shoulders, and back half of the tail turn white, while the rest of the body remains black.\nMale Dispersal Stage :(no major changes noted).\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the four growth stages of the white-headed langur",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the infant stage, with fur that is bright golden or orange",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the juvenile stage, where the face and ears begin to darken.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the juvenile stage, where the fur gradually changes from golden to gray-yellow, and eventually turns black",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the adult stage, where a distinct black-and-white coat pattern appears.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the adult stage, where the head, shoulders, and the back half of the tail turn white, while the rest of the body remains black.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: white-headed langur in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/animal_4_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_40": {
+    "prompt_en": "Generate a photo of the jellyfish life cycle.",
+    "prompt_zh": "生成一张水母生命周期的照片。",
+    "txt_reference": "seven stages: 1. Fertilized Egg, 2.Planula Larva, 3.Polyp, 4.Strobila, 5.Ephyra, 6.Juvenile Medusa, 7.Adult Medusa\nFertilized Egg: Spherical, microscopic, floating in water\nPlanula Larva: Cigar-shaped, ciliated surface, free-swimming\nPolyp: Sessile, anemone-like with tentacles, reproduces by budding/cloning or forms podocysts for dormancy\nStrobila: Elongated polyp with transverse segmentation\nEphyra: Disc-shaped larva with radiating lobes, capable of pulsating swimming\nJuvenile Medusa: Small medusa form, gradually enlarges, bell and tentacles develop\nAdult Medusa: Bell or umbrella-shaped, with tentacles, capable of sexual reproduction\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows seven stages of jellyfish life cycle",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Fertilized Egg is Spherical, microscopic",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Planula Larva is Cigar-shaped, ciliated surface",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Polyp is anemone-like with tentacles, reproduces by budding/cloning or forms podocysts for dormancy",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Strobila is an elongated polyp with transverse segmentation.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Ephyra has Disc-shaped larva with radiating lobes",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Juvenile Medusa has Small medusa form, gradually enlarges, bell and tentacles develop",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Adult Medusa is bell or umbrella-shaped, with tentacles",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: jellyfish life cycle in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_40_0.png",
+        "modal": "I",
+        "class_id": 3
+      }
+    }
+  },
+  "animal_41": {
+    "prompt_en": "Generate an image showing the first introduction of hornbills  into the Persian Empire",
+    "prompt_zh": "生成一幅图像，展示犀鸟首次引入波斯帝国",
+    "txt_reference": "A lofty domed hall with rows of stone columns, wall reliefs, colorful tapestries and carpets, burning fire basins\nThe king seated on the throne, wearing a crown and a royal robe\nNobles, scholars, and attendants standing around, with expressions of astonishment and curiosity\nGuards lined up holding long spears\nMerchants presenting a giant hornbill\nThe hornbill’s casque and beak glowing under the torchlight, black-and-white feathers, wings flapping and calling\nAn attendant holding a golden cage, preparing to place the hornbill inside\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a lofty domed hall with rows of stone columns, wall reliefs",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows colorful tapestries and carpets, burning fire basins",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the king seated on the throne, wearing a crown and a royal robe",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Nobles, scholars, and attendants standing around, with expressions of astonishment and curiosity",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Guards lined up holding long spears",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Merchants presenting a giant hornbill",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the hornbill’s casque and beak glowing under the torchlight, black-and-white feathers",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows an attendant holding a golden cage, preparing to place the hornbill inside",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False: hornbill in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_41_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_42": {
+    "prompt_en": "Generate an image showing the first introduction of parrots  into the Ming dynasty imperial palace",
+    "prompt_zh": "生成一幅图像，展示鹦鹉首次引入明朝皇宫",
+    "txt_reference": "In front of the Fengtian Hall of the Forbidden City, golden splendor with red walls and yellow tiles\nOn the vast square, ceremonial guards and officials lined up in neat formation.\nForeign envoys in exotic attire carry or lead cages containing parrots, slowly entering the hall’s forecourt.\nThe emperor sits solemnly on the throne, wearing a bright yellow dragon robe, watching the tribute being presented.\nCivil and military officials stand on both sides, their gaze fixed on the parrots, with expressions of astonishment and curiosity\nThe parrots, with dazzling plumage, call out from their cages, becoming the center of attention.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows golden splendor with red walls and yellow tiles in front of the Fengtian Hall of the Forbidden City",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows ceremonial guards and officials lined up in neat formation on the vast square",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Foreign envoys in exotic attire carry",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Foreign envoys lead cages containing parrots",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the emperor sits solemnly on the throne, wearing a bright yellow dragon robe",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Civil and military officials stand on both sides, their gaze fixed on the parrots",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the parrots, with dazzling plumage, call out from their cages,",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: parrot in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_42_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_43": {
+    "prompt_en": "Generate an image showing the second son of the Chinese dragon  and his parents",
+    "prompt_zh": "生成一幅图像，展示中国龙的次子及其父母",
+    "txt_reference": "The second son of the Chinese dragon is Yá Zì\nYá Zì: Body of a jackal, head of a dragon\nYá Zì:  fierce glaring eyes.\nYá Zì' mother is a Jackal\nYá Zì' mother: Wild and keen, with the body shape of a jackal and the ferocity of a wolf.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the second son of the Chinese dragon is Yá Zì",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Yá Zì has the body of a jackal and the head of a dragon.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Yá Zì has fierce glaring eyes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Yá Zì' mother is a Jackal",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Yá Zì' mother has the body shape of a jackal and the ferocity of a wolf.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: Yá Zì in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_43_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: Yá Zì' mother in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_43_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_44": {
+    "prompt_en": "Generate an image showing the third son of the Chinese dragon  and his parents",
+    "prompt_zh": "生成一幅图像，展示中国龙的三子及其父母",
+    "txt_reference": "The third son of the Chinese dragon is Cháo Fēng\nCháo Fēng: Beast-like appearance, dragon body combined with bird wings\nCháo Fēng: Robust body covered with scales\nCháo Fēng: Wings spread wide, feathers mixed with scales\nCháo Fēng: Beak-like mouth or sharp teeth\nCháo Fēng' mother is a bird\nCháo Fēng' mother: Body covered with feathers, brilliant colors\nCháo Fēng' mother: Broad wings, graceful flight\nCháo Fēng' mother: Sharp beak, agile head\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the third son of the Chinese dragon is Cháo Fēng",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Cháo Fēng has the Beast-like appearance, dragon body combined with bird wings",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Cháo Fēng has the Robust body covered with scales",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Cháo Fēng has Wings spread wide, feathers mixed with scales",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Cháo Fēng has Beak-like mouth or sharp teeth",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Cháo Fēng' mother is a bird",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Cháo Fēng' mother has the body covered with feathers, brilliant colors",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Cháo Fēng' mother has broad wings",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Cháo Fēng' mother has Sharp beak, agile head",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: Cháo Fēng in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_44_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_45": {
+    "prompt_en": "Generate an image showing the symbiotic relationship between  egrets and crocodiles.",
+    "prompt_zh": "生成一幅图像，展示白鹭和鳄鱼的共生关系",
+    "txt_reference": "Egrets and Crocodiles have a mutually beneficial relationship\nBenefit for Egrets: Nesting near crocodiles provides protection for eggs and chicks, as crocodiles deter terrestrial nest predators.\nBenefit for Crocodiles: Abandoned or fallen chicks from the birds serve as a steady food source,improving crocodile health and reproductive success.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Egrets and Crocodiles have a mutually beneficial relationship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Egrets nest near crocodiles to protect their eggs and chicks from predators.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Crocodiles benefit from fallen chicks as a steady food source that boosts their health and reproduction.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: Egret in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_45_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_46": {
+    "prompt_en": "Generate an image showing the symbiotic relationship between  beavers and ducks.",
+    "prompt_zh": "生成一幅图像，展示海狸和鸭子的共生关系",
+    "txt_reference": "Beavers and Ducks have a mutually beneficial relationship\nBeavers build dams that form ponds and wetlands, providing ducks with safe places for resting, breeding, and feeding.\nBeaver dams trap nutrients, boosting aquatic plants and invertebrates that serve as abundant food for ducks.\nDucks eat aquatic plants and spread seeds through droppings, helping wetland vegetation regrow, which benefits beavers with more food and building materials.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Beavers and Ducks have a mutually beneficial relationship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Beavers build dams that form ponds and wetlands",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Beavers provide ducks with safe places for resting, breeding, and feeding.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Beaver dams trap nutrients, boosting aquatic plants and invertebrates",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Ducks eat aquatic plants and spread seeds through droppings, helping wetland vegetation regrow",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: Beaver in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_46_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_47": {
+    "prompt_en": "Generate an image showing the symbiotic relationship between  humpback whales and seabirds",
+    "prompt_zh": "生成一幅图像，展示座头鲸和海鸟的共生关系",
+    "txt_reference": "Humpback Whales and Seabirds have a mutually beneficial relationship\nWhales concentrate prey during feeding, providing seabirds with easy access to food.\nSeabirds circle and dive above fish schools, driving them into tighter clusters and indirectly improving whale feeding efficiency.\nThe gathering and calls of seabirds may act as signals, helping whales locate prey.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Humpback Whales and Seabirds have a mutually beneficial relationship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Whales concentrate prey during feeding, providing seabirds with easy access to food.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Seabirds circle and dive above fish schools, driving them into tighter clusters",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the gathering and calls of seabirds may act as signals, helping whales locate prey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: Seabirds in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_47_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: Humpback Whale in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_47_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_48": {
+    "prompt_en": "Generate an image showing the first time an elephant was  introduced to the Ming court.",
+    "prompt_zh": "生成一幅图像，展示大象首次引入明朝宫廷",
+    "txt_reference": "Towering Palace Gate: The vermilion Meridian Gate with golden roof tiles stands tall, solemn under the morning sunlight.\nA gray-brown elephant walks with heavy steps, trunk slightly raised\nThe elephant's body draped with ropes and cloth, appearing both wild and tamed.\nDark-skinned envoys in exotic robes hold the elephant’s reins, their demeanor respectful and submissive.\nCourt officials in ceremonial robes stand solemnly in neat rows on both sides, their expressions a mixture of awe and amazement.\nOn the high throne, Zhu Yuanzhang in dark imperial robes sits with a stern face, gazing down over the entire scene.\nDrums and bells resound together, while the imperial guards and ceremonial troops stand in orderly ranks with halberds\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the vermilion Meridian Gate with golden roof tiles stands tall",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows a gray-brown elephant walks with heavy steps, trunk slightly raised",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the elephant's body draped with ropes and cloth",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Dark-skinned envoys in exotic robes hold the elephant’s reins",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Court officials in ceremonial robes stand solemnly in neat rows on both sides",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Zhu Yuanzhang in dark imperial robes sits on the high throne",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the imperial guards and ceremonial troops stand in orderly ranks with halberds",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: elephant in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_48_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_49": {
+    "prompt_en": "Generate an image showing the first time a flamingo was  introduced to the royal gardens of the Palace of Versailles in France",
+    "prompt_zh": "生成一幅图像，展示火烈鸟首次引入法国凡尔赛宫的皇家花园",
+    "txt_reference": "Pink Feathers: Flocks of flamingos display brilliant plumage, glowing softly under the sunlight.\nGraceful Figures: Their slender necks and tall legs, with some standing on one leg, create elegant and distinctive postures.\nPond and Courtyard: They gather by the pond in the Pelican Court of the royal menagerie, their pink reflections shimmering on the water.\nCollective Scene: Groups of flamingos stand together, stroll, or dip their heads to feed, resembling a flowing pink painting.\nGuests and Setting: Nobles and visitors pause to admire them, framed by Versailles’ refined architecture and orderly garden layout.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows flocks of flamingos display brilliant plumage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows their slender necks and tall legs, with some standing on one leg",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows they gather by the pond in the Pelican Court of the royal menagerie",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows their pink reflections shimmering on the water.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows groups of flamingos stand together, stroll, or dip their heads to feed",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows nobles and visitors pause to admire them",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the refined architecture of the Palace of Versailles and the orderly layout of its gardens in the background",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: flamingos in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_49_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: royal garden in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_49_1.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "animal_5": {
+    "prompt_en": "Generate an image showing the relationship between ants and aphids.",
+    "prompt_zh": "生成图片展示蚂蚁和蚜虫之间的关系",
+    "txt_reference": "Ants and aphids have a mutualistic relationship.\nAphids secrete honeydew as food for ants.\nAnts protect aphids from predators and sometimes move them to places with abundant food.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows ants and aphids have a mutualistic relationshipa",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows a scene of aphids secreting honeydew as food for ants.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows ants protect aphids from predators.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "animal_50": {
+    "prompt_en": "Generate an image showing the first time a lion was introduced  to the Abbasid court in Baghdad.",
+    "prompt_zh": "生成一幅图像，展示狮子首次引入巴格达阿巴斯王朝宫廷",
+    "txt_reference": "At the outskirts of Baghdad, guards, cavalry, and musicians in splendid attire line up, drums and trumpets sounding\nA majestic lion is placed at the center of the procession, led by handlers,\nThe lion parades with the delegation through the streets of Baghdad, tens of thousands of citizens crowding to watch in awe\nUpon entering the city, the lion is brought to the central hall of the Caliph’s palace in the Round City\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows guards, cavalry, and musicians in splendid attire line up, drums and trumpets sounding",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows a majestic lion is placed at the center of the procession, led by handlers,",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows tens of thousands of citizens crowding to watch in awe",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows  the lion is brought to the central hall of the Caliph’s palace in the Round City",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: the Caliph’s palace in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_50_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:  lion in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_50_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_51": {
+    "prompt_en": "Generate an image showing the complete metamorphic development  process of a chameleon",
+    "prompt_zh": "生成一张展示变色龙完整变态发育过程的图像。",
+    "txt_reference": "five stages:1.Egg stage, 2.Hatchling, 3.Juvenile, 4.Subadult, 5.Adult\nEgg stage: White or pale beige oval eggs\nHatchling：Very small, like a miniature adult, with a relatively large head\nHatchling：Pale green or brown, plain\nJuvenile： Body elongates, skin texture starts to show\nJuvenile：Mainly light green or brown, with light spots or thin stripes\nSubadult：Close to adult, casque and dorsal ridge become more defined\nSubadult：Green, yellow, and light brown appear alternately, brighter\nAdult：Fully developed, robust body\nAdult：Richest coloration, can display bright green, yellow, orange, red, etc.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows five stages ofthe complete metamorphic development process of a chameleon",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows White or pale beige oval eggs",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows it is very small, like a miniature adult, with a relatively large head at the Hatchling stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows it is Pale green or brown, plain at the Hatchling stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows its body elongates, skin texture starts to show at the Juvenile stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows it is mainly light green or brown, with light spots or thin stripes at the Juvenile stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows it is close to adult, casque and dorsal ridge become more defined at the Subadult stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows it is Green, yellow, and light brown appear alternately, brighter at the Subadult stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows it is fully developed, robust body at the Adult stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_10": {
+        "content": "True or False: The picture shows it can display bright green, yellow, orange, red, etc. at the Adult stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_11": {
+        "content": "True or False: chameleon in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_51_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_52": {
+    "prompt_en": "Generate an image showing the metamorphic development process  of an echidna.",
+    "prompt_zh": "生成一张展示针鼹变态发育过程的图像。",
+    "txt_reference": "five stages: 1.Egg stage, 2.Hatchling , 3.Pouch young, 4.Nestling, 5.Weaning & Independence\nEgg stage: Round or oval, leathery texture, white or pale yellow, about 1.5 cm\nHatchling: Very small (jellybean-sized), pink, hairless, eyes closed, forelimbs well-developed\nPouch young: Body enlarges, tiny soft spines appear\nPouch young: skin bare, color changes from pinkish-white to light gray\nNestling: Spines become hard and visible, body proportions closer to adult\nNestling: sparse hair growth, darker skin\nWeaning & Independence: Nearly adult-like appearance, body covered with hard spines and coarse hair\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows five stages of the metamorphic development process of an echidna.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows it is Round or oval, leathery texture white or pale yellow at the Egg stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows it is Very small (jellybean-sized), pink, hairless at the Hatchling stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows its eyes closed, forelimbs well-developed at the Hatchling stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows its Body enlarges, tiny soft spines appear at the Pouch young stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows its skin bare, color changes from pinkish-white to light gray at the Pouch young stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows its Spines become hard and visible, body proportions closer to adult at the Nestling stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: The picture shows sparse hair growth, darker skin at the Nestling stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows it is Nearly adult-like appearance, body covered with hard spines and coarse hair at the Weaning & Independence stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False:  echidna in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_52_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_53": {
+    "prompt_en": "Generate an image showing the metamorphic development process  of a koala.",
+    "prompt_zh": "生成一张展示考拉变态发育过程的图像。",
+    "txt_reference": "five stages: 1.Newborn Joey, 2.Pouch Stage, 3.Pouch-exploring / Pap Stage, 4.Back-riding Stage, 5.Independent Stage\nNewborn Joey: Pink, hairless,Tiny (about 2 cm), jellybean-like\nNewborn Joey: Eyes closed, ears not developed\nPouch Stage: Sparse fur begins to grow, fur color turns grayish-white\nPouch Stage: Eyes open, ears visible\nPouch-exploring / Pap Stage : Head peeks out of pouch,body still small and juvenile\nPouch-exploring / Pap Stage : Thicker fur, distinct face (black nose, round ears)\nBack-riding Stage: Stable fur (gray body, white chest) ,looks like a miniature adult\nIndependent Stage: Thick, dense fur, body size close to adult\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows five stages of the metamorphic development process of a koala.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows it is Pink, hairless,Tiny (about 2 cm), jellybean-like at the Newborn Joey stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows its Eyes closed, ears not developed at the Newborn Joey stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Sparse fur begins to grow, fur color turns grayish-white at the Pouch Stage stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows its Eyes open, ears visible at the Pouch Stage stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows its Head peeks out of pouch,body still small and juvenile at the Pouch-exploring stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows it has Thicker fur, distinct face (black nose, round ears) at the Pouch-exploring stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: The picture shows it has Stable fur (gray body, white chest) ,looks like a miniature adult at the Back-riding Stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows it has Thick, dense fur, body size close to adult at the Independent Stage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: koala in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_53_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_54": {
+    "prompt_en": "Generate a scene of a wolverine’s first entry into the  Scandinavian royal palace.",
+    "prompt_zh": "生成一只狼獾首次进入斯堪的纳维亚皇宫的场景。",
+    "txt_reference": "A towering wooden hall, beams and pillars carved with Norse mythological motifs\nlit by candles and torches, with the throne elevated above all.\nA wolverine inside a rough wooden cage, with dark thick fur, growling or staring alertly\nThe king sits sternly on the high throne\nnobles in ornate robes stand on both sides, gazing at the wolverine with expressions mixing pride and caution.\nPalace hounds grow restless on the carpets, barking or retreating, ears pinned back and tails lowered\nSome courtiers stare in astonishment, others whisper; a few guards clutch spears or axes tightly, standing watchfully near the cage.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a towering wooden hall, beams and pillars carved with Norse mythological motifs",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows lit by candles and torches, with the throne elevated above all.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a wolverine inside a rough wooden cage, with dark thick fur, growling or staring alertly",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the king sits sternly on the high throne",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows nobles in ornate robes stand on both sides",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Palace hounds grow restless on the carpets, barking or retreating",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows a few guards clutch spears or axes tightly, standing watchfully near the cage.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: wolverine in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_54_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_6": {
+    "prompt_en": "Generate an image showing the symbiotic relationship between warthogs and other animals",
+    "prompt_zh": "展示疣猪和其他动物的共生关系",
+    "txt_reference": "Mongoose and warthog have a mutualistic relationship.\nMongoose helps warthogs by removing lice and ticks，providing cleaning services\nLice and ticks serve as a food source for the mongoose.\nOxpecker and Warthog have a mutualistic relationship.\nOxpeckers remove parasites from warthogs\nBirds feed on parasites and gain nutrition.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Mongoose and warthog have a mutualistic relationship.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Mongoose helps warthogs by removing lice and ticks",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the warthog provides a food source for mongooses through its parasites",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Oxpecker and Warthog have a mutualistic relationship.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Oxpeckers remove parasites from warthogs",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the warthog provides a food source for Oxpecker through its parasites",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: Mongoose and warthog in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_6_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: Oxpecker in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_6_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_7": {
+    "prompt_en": "Generate an image comparing a mule born from a male donkey and a female horse with a hinny born from a male horse and a female donkey.",
+    "prompt_zh": "生成图片，对比公驴和母马生出的骡子还有公马和母驴生出的骡子",
+    "txt_reference": "A mule is the offspring of a male donkey and a female horse.\nA hinny is the offspring of a male horse and a female donkey.\nMule：Usually larger\nMule：Head and ears resemble donkey\nMule：tail resembles horse\nHinny：Usually smaller\nHinny：Head and ears resemble horse\nHinny：tail resembles donkey\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a mule is the offspring of a male donkey and a female horse.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows a hinny is the offspring of a male horse and a female donkey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a mule is larger",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows a mule' head and ears resemble donkey",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows a mule' tail resembles horse",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows a hinny is smaller",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows a hinny ' head and ears resemble  horse",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows a hinny ' tail resembles donkey",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The mule in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_7_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The hinny in the picture resembles the one shown in <image_0>. ",
+        "img_path": "/reference/img/animal_7_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_8": {
+    "prompt_en": "Generate an Image of a Hungry Flamingo",
+    "prompt_zh": "生成饥饿的火烈鸟的图片",
+    "txt_reference": "Feather color fades from pink/red to pale or gray due to lack of carotenoids in the diet.\nWeight loss: The body becomes thinner due to insufficient food.\nLethargy: Moves slowly and shows lack of energy.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The picture shows Flamingo'feather color is pale or gray",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Flamingo' body becomes thinner",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the flamingo lacks of energy.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "animal_9": {
+    "prompt_en": "Generate an image showing the complete metamorphic development process of Tithorea tarricina",
+    "prompt_zh": "生成塔晓绡蝶的变态发育的过程",
+    "txt_reference": "Four stages:1.Egg Stage, 2.Larval Stage, 3.Pupal Stage, 4.Adult Stage\nEgg Stage: The female butterfly lays eggs on a host plant, and a hard eggshell protects the developing embryo\nLarval Stage:Continuous feeding and growth, with chewing mouthparts.\nLarval Stage:It increases in size through several molts, and the period between molts is called an instar.\nPupal Stage:Larval tissues are broken down and rebuilt into adult organs by imaginal discs.\nThe pupa of the Tithorea tarricina glistens with a golden shine, appearing as if it has been coated in a layer of gold.\nAdult Stage:Emerges with wings and a proboscis. \n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the four stages of metamorphosis of Tithorea tarricina",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows female butterfly lays eggs on a host plant",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the pupa of the Tithorea tarricina glistens with a golden shine,",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the adult stage, where it emerges with wings",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: Larval Stage in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/animal_9_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: Tithorea tarricina in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/animal_9_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  }
+}

@@ -1,0 +1,2703 @@
+{
+  "food_0": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Cocoa powder is one of the key ingredients of Black Forest cake.\nCherries is one of the key ingredients of Black Forest cake.\nKirsch is one of the key ingredients of Black Forest cake.\nWhipped cream is one of the key ingredients of Black Forest cake.\nDark chocolate is one of the key ingredients of Black Forest cake.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Cocoa powder.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Cherries",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Kirsch.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Whipped cream.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Dark chocolate.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: Kirsch Liqueur in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_0_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_1": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Sticky rice is one of the key ingredients of Lüdagun.\nRed bean paste is one of the key ingredients of Lüdagun.\nSoybean flour is one of the key ingredients of Lüdagun.\nBrown sugar syrup is one of the key ingredients of Lüdagun.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Sticky rice",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Red bean paste",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Soybean flour",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Brown sugar syrup",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: Lüdagun in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_1_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_10": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "McDonald’s fries are thin and slender\nMcDonald’s fries are golden in color with a crispy exterior\nBurger King fries are thick-cut, wider and chunkier\nBurger King fries have a light coating on the surface, making them look fuller\nBurger King fries have a slightly deeper golden color\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows McDonald’s fries are thin and slender",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows McDonald’s fries are golden in color with a crispy exterior",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows  Burger King fries are thick-cut, wider and chunkier",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Burger King fries have a light coating on the surface, making them look fuller",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Burger King fries have a slightly deeper golden color",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: McDonald’s fries  in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_10_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: Burger King fries in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_10_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_11": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Five steps: 1.Ingredients Preparation,2. Kneading & Cold Fermentation, 3.Shaping, 4.Boiling (Key Step), 5.Baking\nIngredients Preparation:high-gluten flour (about 14% protein) ,salt, eggs and oil.\nKneading & Cold Fermentation: Knead for 8–10 minutes until smooth and elastic; refrigerate shaped dough overnight to enhance flavor and texture.\nShaping: Ball-and-poke method (small hole, fuller shape) or rope method (large hole, rustic look).\nBoiling (Key Step): Boil each side for 30–90 seconds; creates a chewy crust, locks in moisture, and gives shine.\nBaking & Topping: Bake quickly at high heat (220–245℃ / 425–475℉); sprinkle sesame, poppy seeds, or “Everything” topping while surface is wet; cool on a rack to release steam and stabilize structure.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows five steps to make bagel.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the related ingredients, such as eggs, oil, salt and flour",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the kneading action and cold fermentation of the dough.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the process of stretching the dough into a ring.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows put the dough into boiling water to cook before baking",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the dough has been baked.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows sesame seeds and poppy seeds were sprinkled on the dough.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "food_12": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Damien Hirst Sculptures:Large white ceiling sculptures of flying horses and winged figures, floating dramatically above the restaurant interior.\nGary Myatt Murals:Classical murals on the walls, showing mythological and historical figures.\nSICIS Mosaic Flooring：Handcrafted multicolored marble mosaics, displaying geometric and floral patterns\nGJL Ceiling Decorations：Decorative plaster moldings, floral garlands, rose motifs, and arched carvings\nSnake Hair Design: The most iconic feature, often created with chocolate, fondant, or fruits (such as strawberries).\nBright green leaves and herbs suggest freshness.\nGolden-yellow sauce evokes mythical nobility.\nAnd dark brown crunchy pieces hint at intensity and depth.\nAbstract Representation: Not a direct imitation, but symbolized through shapes or colors, such as chili peppers or red mead.\nCustom Curtain System：Brass columns with flame-shaped finials, integrated with LED light strips\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Damien Hirst Sculptures",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Gary Myatt Murals",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows geometric floral patterns on the floor.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows carved patterns on the ceiling as decoration",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows that the Medusa dessert features a snake-hair design.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows that green is the main color of the Medusa dessert.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows that the Medusa dessert is decorated with golden accents.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows that the Medusa dessert contains black and brown chocolate.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows that the Medusa dessert contains chili peppers or red mead.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The picture shows that the custom curtains at Bacchanalia restaurant in London feature brass columns with flame-shaped finials, integrated with LED light strips.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: Bacchanalia restaurant  in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_12_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_12": {
+        "content": "True or False: Medusa dessert in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_12_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_13": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "A magnificent glass dome, letting in natural light during the day.\nFurniture and drapery are made of deep velvet (red/green) with golden trims.\nThe background architecture is the Hôtel Salomon de Rothschild.\nArched windows reflect the neoclassical style.\nThe walls are decorated with reliefs, with lines that are ornate yet not overly intricate.\nAn elongated space, emphasizing symmetrical layout.\nThe main dining hall ceiling features intricate linear carvings and crystal chandeliers.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Baronne restaurant has a magnificent glass dome",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Furniture and drapery are made of deep velvet (red/green) with golden trims",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the background architecture is the Hôtel Salomon de Rothschild.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Baronne restaurant has arched windows, reflecting the neoclassical style.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the walls are decorated with reliefs, with lines that are ornate yet not overly intricate.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Baronne restaurant has an elongated space, emphasizing symmetrical layout.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows crystal chandeliers on the ceiling.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: Baronne restaurant in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_13_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False:The Hôtel Salomon de Rothschild in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_13_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_14": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Harry Potter likes seven kinds of food\nTreacle Tart is Harry Potter's Favorite Food\nHagrid’s Chocolate Birthday Cake is Harry Potter's Favorite Food\nChocolate Frogs is Harry Potter's Favorite Food\nPumpkin Pasties is Harry Potter's Favorite Food\nBertie Bott’s Every Flavour Beans is Harry Potter's Favorite Food\nApple Pie is Harry Potter's Favorite Food\nChocolate Éclairs is Harry Potter's Favorite Food\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows seven kinds of food",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Treacle Tart",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Hagrid’s Chocolate Birthday Cake",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Chocolate Frogs",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Pumpkin Pasties",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Bertie Bott’s Every Flavour Beans",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Apple Pie",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Chocolate Éclairs",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: Treacle Tart in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_14_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False:Harry Potter in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_14_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: Apple Pie in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_14_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: Chocolate Éclairs in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_14_3.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_15": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Ron Weasley likes nine kinds of food.\nBacon Sandwich is Ron Weasley's Favorite Food\nChocolate Frogs are Ron Weasley's Favorite Food\nPumpkin Pasties are Ron Weasley's Favorite Food\nBertie Bott’s Every Flavour Beans are Ron Weasley's Favorite Food\nRoasts are Ron Weasley's Favorite Food\nDesserts are Ron Weasley's Favorite Food\nsausages are Ron Weasley's Favorite Food\nfried eggs are Ron Weasley's Favorite Food\nlamb meatballs are Ron Weasley's Favorite Food\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows nine kinds of food.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Bacon Sandwich",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Chocolate Frogs",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Pumpkin Pasties",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Bertie Bott’s Every Flavour Beans",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Roasts",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Desserts",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows sausages",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture shows fried eggs",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The picture shows lamb meatballs",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_11": {
+        "content": "True or False: Chocolate Frogs in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_15_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: Bertie Bott’s Every Flavour Beans in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_15_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_13": {
+        "content": "True or False: Ron Weasley in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_15_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_16": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Napoleon likes five kinds of food\nHot soup is Napoleon's Favorite Food\nBoiled beef is Napoleon's Favorite Food\nRoasted lamb is Napoleon's Favorite Food\nPuff pastry with cream is Napoleon's Favorite Food\nFresh almonds are Napoleon's Favorite Food\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows five kinds of food",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Hot soup.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Boiled beefis.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Roasted lamb.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Puff pastry with cream.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Fresh almonds.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: Puff pastry with cream in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_16_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: Napoleon in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_16_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_17": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Tyrion Lannister likes four kinds of food\nCharred Bacon is Tyrion Lannister's Favorite Food\nRoasted Leg of Lamb is Tyrion Lannister's Favorite Food\nBread is Tyrion Lannister's Favorite Food\nCheese is Tyrion Lannister's Favorite Food\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows four kinds of food",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Charred Bacon.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Roasted Leg of Lamb.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Bread.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Cheese.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: Charred Bacon in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_17_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: Tyrion Lannister in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_17_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_18": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Franklin D. Roosevelt likes four kinds of food\nGrilled Cheese Sandwich is Franklin D. Roosevelt's  Favorite Food\nHot Dogs are Franklin D. Roosevelt's  Favorite Food\nScrambled Eggs are Franklin D. Roosevelt's  Favorite Food\nFish Chowder / Kedgeree  is Franklin D. Roosevelt's  Favorite Food\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows four kinds of food",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Grilled Cheese Sandwich.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Hot Dogs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Scrambled Eggs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Fish Chowder / Kedgeree.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: Fish Chowder / Kedgeree  in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_18_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_19": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Five steps: 1.Salt the cabbage, 2.Prepare the seasoning paste,3. Mix thoroughly, 4.Pack and seal,5.Ferment and store\nSalt the cabbage:sprinkle or soak in brine to draw out excess water, then drain\nPrepare the seasoning paste: mix chili flakes, garlic, ginger, scallions, fish sauce/soy sauce, sugar, etc.\nMix thoroughly:rub the paste evenly between the cabbage leaves\nPack and seal:press cabbage tightly into a container, ensuring it is covered by its juices\nFerment and store:ferment briefly at room temperature, then refrigerate for longer fermentation and flavor preservation\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows five steps to make kimchi.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows sprinkling salt on the cabbage",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows various seasonings，such as chili flakes, garlic, ginger, scallions",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows mixing these seasonings together to form a spicy paste",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows rubbing the paste evenly between the cabbage leaves",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows packing the cabbage tightly and sealing it in a container",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows fermenting the cabbage briefly at room temperature",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: kimch in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_19_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_2": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Five stages: 1.Origin, 2.Cultural Elevation, 3.Popularity in the United States, 4.Chain Expansion, 5.Localization\nOrigin: its origin in Naples as a street food for the poor laid the foundation for its adaptability.\nCultural Elevation: the branding narrative of the \"Margherita\" pizza elevated its cultural status.\nPopularity in the United States: brought to the United States by Italian immigrants and popularized by returning WWII soldiers, pizza became mainstream through technological and economic advancements.\nChain Expansion:the rise of chains like Pizza Hut and Domino's transformed pizza into an efficient, scalable delivery food, driving its global expansion.\nLocalization: through a \"glocalization\" strategy, pizza was adapted with local flavors and cultural contexts worldwide, cementing its status as a global culinary icon.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the process of pizza spread from Naples to the rest of the world",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows pizza began as street food in Naples",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Italian immigrants facilitated the spread of pizza to the United States.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows pizza as a scalable, efficient delivery food, driving global expansion",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows pizza was adapted with local flavors and cultures",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Pizza spread to the whole world.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: Margherita pizza in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_2_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_20": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Abraham Lincoln likes five kinds of food\nApples are Abraham Lincoln's  Favorite Food\nCorn Cakes are Abraham Lincoln's  Favorite Food\nChicken Fricassee is Abraham Lincoln's  Favorite Food\nOyster Stew is Abraham Lincoln's  Favorite Food\nAlmond Cake is Abraham Lincoln's  Favorite Food\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows five kinds of food",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Apples.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Corn Cakes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Chicken Fricassee.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Oyster Stew.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Almond Cake.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: Abraham Lincoln in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_20_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: Chicken Fricassee in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_20_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_21": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "six steps:1.Make Dough, 2. Add Butter, 3.Fold and Chill, 4.Cut and Shape, 5.Final Proofing, 6.Bake\nMake Dough: Mix flour, yeast, sugar, salt, and water to form dough.\nAdd Butter：Enclose cold, pliable butter inside the dough.\nFold and Chill：Roll out and fold 2–3 times, chilling between folds.\nCut and Shape: Roll the dough into a thin sheet.\nCut and Shape: Cut the rolled sheet into triangles，roll into crescents.\nFinal Proofing: Let rise in a warm, humid environment until puffy.\nBake: Start at high heat for oven spring, then lower heat until golden and crisp.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows six steps of of making French croissants.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows mixing flour, water and so on to form dough.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows enclosing cold, pliable butter inside the dough.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows folding the dough and chilling it.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows rolling the dough into a thin sheet.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows cutting the rolled sheet into triangles",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the cut pastry sheets being rolled into a crescent shape",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: The picture shows the French croissants proofing before baking.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False: The picture shows the French croissants baked to a golden brown",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: French croissans in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_21_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_22": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "six steps:1.Mix the dry ingredients, 2.Whip and fold egg whites,3.Pipe and dry the batter, 4.Bake, 5.Prepare the filling, 6.Assemble and mature\nMix the dry ingredients: Grind powdered sugar and almond flour in a food processor until fine, then sift for later use.\nWhip and fold egg whites: Mix part of the egg whites with the dry mixture into a paste, then fold in the remaining egg whites gradually until the batter is glossy and flows slowly.\nPipe and dry the batter: Transfer batter into a piping bag, pipe circles onto parchment or silicone mat.\nBake: Put the squeezed batter into the oven to bake.\nPrepare the filling: melt chocolate and cream over a water bath, then chill until set.\nAssemble and mature: Sandwich cooled macaron shells with filling, refrigerate for 24 hours for best flavor and texture.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows six steps of making macarons.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows grinding powdered sugar and almond flour in a food processor until finely ground.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows whipping and folding egg whites.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows transferring batter into a piping bag",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows baking the piped batter on a tray.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows preparing the filling in a saucepan.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows assembling the macarons and letting them mature.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: The picture shows sandwiching cooled macaron shells with filling",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False: macaron in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_22_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_23": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Lu Xun likes four kinds of food\nMerough Pork with Preserved Mustard Greens is Lu Xun's  Favorite Food\nThree-flavor Iron-pot Baked Egg is Lu Xun's  Favorite Food\nSweets (Ice Cream, Daoxiangcun Pastries, Sachima, etc.) are Lu Xun's  Favorite Food\nStarfruit is Lu Xun's  Favorite Food\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows four kinds of food",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Merough Pork with Preserved Mustard Greens.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Three-flavor Iron-pot Baked Egg.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Sweets (Ice Cream, Daoxiangcun Pastries, Sachima, etc.).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Starfruit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: Lu Xun in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_23_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: Merough Pork with Preserved Mustard Greens in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_23_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_24": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Tapioca starch is one of the key ingredients of Thai coconut sago dessert\nCoconut is one of the key ingredients of Thai coconut sago dessert\nPalm sugar is one of the key ingredients of Thai coconut sago dessert\nPandan leaves are one of the key ingredients of Thai coconut sago dessert\nTropical fruits (e.g., mango, longan) are one of the key ingredients of Thai coconut sago dessert\nNuts are one of the key ingredients of Thai coconut sago dessert\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Tapioca starch",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Coconut",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Palm sugar",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Pandan leaves",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Tropical fruits (e.g., mango, longan)",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Nuts",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: Thai coconut sago dessert in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_24_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: Pandan leaves in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_24_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_25": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Strong flour / Bread flour is one of the key ingredients of Panettone\nYeast (high-sugar tolerant dry yeast or natural starter) is one of the key ingredients of Panettone\nFermented butter (unsalted butter) is one of the key ingredients of Panettone\nOrange liqueur is one of the key ingredients of Panettone\nRaisins (often soaked in liquor) is one of the key ingredients of Panettone\nCandied fruit (orange peel cubes, cranberries, etc.) is one of the key ingredients of Panettone\nVanilla extract is one of the key ingredients of Panettone\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Strong flour / Bread flour",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Yeast (high-sugar tolerant dry yeast or natural starter)",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Fermented butter (unsalted butter)",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Orange liqueur",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Raisins (often soaked in liquor)",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Candied fruit (orange peel cubes, cranberries, etc.)",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Vanilla extract",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: Orange liqueur in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_25_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: Panettone in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_25_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_26": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Maruko likes two kinds of food.\nPudding is Maruko's  Favorite Food\nHamburg Steak is Maruko's  Favorite Food\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows  two kinds of food.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Pudding is Maruko's  Favorite Food",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Hamburg Steak is Maruko's  Favorite Food",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: Hamburg Steak  in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_26_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: Maruko in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_26_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_27": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Milk Preparation: Use whole pasteurized milk from the DOP region.\nInoculation: Add lactic acid bacteria, yeast, and Penicillium roqueforti.\nCoagulation & Cutting: Add rennet, form curd, cut into cubes, and drain whey.\nMolding: Place curd into molds without pressing, keeping open spaces inside.\nSalting: Apply dry salt on the surface to aid whey removal and rind formation.\nPiercing: Puncture with needles to introduce oxygen, activating mold and creating blue veins.\nAging: Mature in low-temperature, high-humidity conditions for months, developing flavor and texture.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows using whole pasteurized milk.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows adding lactic acid bacteria, yeast, and Penicillium roqueforti.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows adding rennet, form curd, cut into cubes, and drain whey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows placing curd into molds without pressing, keeping open spaces inside.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows applying dry salt on the surface to aid whey removal and rind formation.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows piercing with needles to introduce oxygen, activate the mold, and create blue veins.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: Gorgonzola in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_27_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_28": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Empress Wu Zetian likes five kinds of food.\nLamb dishes are Empress Wu Zetian's  Favorite Food\nLuoyang river fish (Luoyang carp, Yi River bream) is Empress Wu Zetian's  Favorite Food\nLuoyang Yan Cai (Peony Yan Cai, shredded radish soup) is Empress Wu Zetian's  Favorite Food\nFloral pastries (Hundred-Year Cake, Pine Pollen Cake) are Empress Wu Zetian's  Favorite Food\nHu-style foods and dairy (Hu Bing flatbread, cheese, Silver Cake) are Empress Wu Zetian's  Favorite Food\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows five kinds of food.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows lamb dishes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Luoyang river fish.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows shredded radish soup.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows floral pastries (Hundred-Year Cake, Pine Pollen Cake).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Hu-style foods and dairy (Hu Bing flatbread, cheese, Silver Cake).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: Empress Wu Zetian in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_28_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_29": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Pikachu likes five kinds of food.\nKetchup is Pikachu's  Favorite Food\nApples are Pikachu's  Favorite Food\nBerries are Pikachu's  Favorite Food\nPoké Puffs are Pikachu's  Favorite Food\nPoffins are Pikachu's  Favorite Food\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows five kinds of food.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Ketchup.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Apples.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Berries.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Poké Puffs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Poffins.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: Berries in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_29_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: Poké Puffs in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_29_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: Poffins in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_29_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: Pikachu in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_29_3.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_3": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "winter melon is one of the key ingredients of wife pie\nalmond paste is one of the key ingredients of wife pie\nsesame is one of the key ingredients of wife pie\nfive spice power is one of the key ingredients of wife pie\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows winter melon",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows almond paste",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows sesame",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows five spice power",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: wife pie in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_3_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "food_30": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Purple Corn is one of the key ingredients of Peruvian purple corn drink\nPineapple is one of the key ingredients of Peruvian purple corn drink\nManzana / Apple, usually green apple is one of the key ingredients of Peruvian purple corn drink\nCinnamon Stick is one of the key ingredients of Peruvian purple corn drink\nClavos de olor is one of the key ingredients of Peruvian purple corn drink\nLime Juice is one of the key ingredients of Peruvian purple corn drink\nUnrefined Cane Sugar is one of the key ingredients of Peruvian purple corn drink\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Purple Corn",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Pineapple",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows green apple",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Cinnamon Stick",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Clavos de olor",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Lime Juice",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows  Unrefined Cane Sugar",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: Peruvian purple corn drink in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_30_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_31": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Emperor Kangxi likes five kinds of food.\nRoasted Deer Liver is Emperor Kangxi's  Favorite Food\nBoiled Pork is Emperor Kangxi's  Favorite Food\nMilk Tea is Emperor Kangxi's  Favorite Food\nYellow River Carp is Emperor Kangxi's  Favorite Food\nMillet Porridge is Emperor Kangxi's  Favorite Food\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows five kinds of food.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Roasted Deer Liver.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Boiled Pork.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Milk Tea.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Yellow River Carp.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Millet Porridge.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: Emperor Kangxi in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_31_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: Roasted Deer Liver in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_31_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: Boiled Pork in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_31_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_32": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Glutinous Rice is one of the key ingredients of Ai Wo Wo\nCooked Flour is one of the key ingredients of Ai Wo Wo\nWalnut Kernels is one of the key ingredients of Ai Wo Wo\nSesame Seeds is one of the key ingredients of Ai Wo Wo\nHawthorn Cake is one of the key ingredients of Ai Wo Wo\nWhite Sugar is one of the key ingredients of Ai Wo Wo\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Glutinous Rice",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Cooked Flour",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Walnut Kernels",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Sesame Seeds",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Hawthorn Cake",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows White Sugar",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: Ai Wo Wo in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_32_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_33": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Glutinous Rice Flour is one of the key ingredients of Fu Rong Gao\nWheat Flour is one of the key ingredients of Fu Rong Gao\nWhite Sugar is one of the key ingredients of Fu Rong Gao\nCream is one of the key ingredients of Fu Rong Gao\nBrown Sugar is one of the key ingredients of Fu Rong Gao\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Glutinous Rice Flour",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Wheat Flour",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows White Sugar",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Cream",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Brown Sugar",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: Fu Rong Gao in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_33_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_34": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Sponge Cake (Pan di Spagna) is one of the key ingredients of Italian Cassata\nRicotta Cheese is one of the key ingredients of Italian Cassata\nCaster Sugar is one of the key ingredients of Italian Cassata\nCandied Fruits（Candied Orange Peel, Cherries, Zuccata) are one of the key ingredients of Italian Cassata\nChocolate Chips are one of the key ingredients of Italian Cassata\nMarzipan is one of the key ingredients of Italian Cassata\nIcing is one of the key ingredients of Italian Cassata\nSoaking Syrup (Bagna, made with sugar + liqueur) is one of the key ingredients of Italian Cassata\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Sponge Cake (Pan di Spagna)",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Ricotta Cheese",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Caster Sugar",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Candied Fruits（Candied Orange Peel, Cherries, Zuccata)",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Chocolate Chips",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Marzipan",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Icing",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Soaking Syrup (Bagna, made with sugar + liqueur)",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: Italian Cassata in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_34_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_35": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Foie Gras (Duck Liver or Goose Liver) is one of the key ingredients of French Foie Gras\nSalt is one of the key ingredients of French Foie Gras\nBlack Pepper is one of the key ingredients of French Foie Gras\nSugar is one of the key ingredients of French Foie Gras\nCognac is one of the key ingredients of French Foie Gras\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Foie Gras (Duck Liver or Goose Liver)",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Salt",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Black Pepper",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Sugar",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Cognac",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:French Foie Gras in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_35_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_36": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "five steps: 1.Prepare Puff Pastry, 2.Make the Cream Filling, 3.Assemble the Layers, 4.Decorate the Top, 5.Chill and Slice\nPrepare Puff Pastry: Repeatedly roll and fold dough with butter, then bake into crisp pastry sheets.\nMake the Cream Filling: Usually custard cream (milk + egg yolks + sugar + starch + vanilla).\nAssemble the Layers: Alternate layers of pastry and cream (typically three pastry layers, two cream layers).\nDecorate the Top: Dust with icing sugar or cover with fondant icing and create chocolate marbling.\nChill and Slice: Chill to set, then slice neatly to keep crisp layers.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows five steps of the preparation method for French Mille-feuille",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows rolling and fold dough with butter, then bake into crisp pastry sheets.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows using custard cream (milk + egg yolks + sugar + starch + vanilla) to make the Cream Filling",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows alternating layers of pastry and cream",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows dusting with icing sugar or cover with fondant icing and create chocolate marbling.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows chilling the Mille-feuille and slicing it neatly.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False:French Mille-feuille in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_36_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_37": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "five steps: 1.Prepare Custard Base, 2.Infuse with Smoke, 3.Chill & Mature, 4.Churn & Freeze ,5.Serve & Pair\nPrepare Custard Base: Heat milk, cream, egg yolks, and sugar into a custard, then cool.\nInfuse with Smoke: Use a cold smoker or smoking gun to infuse the custard base with wood smoke.\nChill & Mature: Cool quickly and refrigerate for several hours to let the smoky flavor blend.\nChurn & Freeze: Churn in an ice cream maker, then freeze until set.\nServe & Pair: Serve with nuts, caramel, or a sprinkle of sea salt for enhanced flavor.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows  five steps of the preparation method for smoked ice cream.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows preparing a custard base with milk, cream, egg yolks, and sugar.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows infusing the custard base with smoke using a smoking gun.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows chilling the mixture in a refrigerator.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows churning the mixture into ice cream.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows serving the ice cream with nuts, caramel, or sea salt.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False:smoked ice cream in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_37_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_38": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The newly launched signature dishes at Baronne restaurant in Paris include six items.\nTomahawk Steak is one of the newly launched signature dishes\nCarpaccio de Sériole is one of the newly launched signature dishes\nHomard Linguine with Creamy Bisque is one of the newly launched signature dishes\nCrayfish with Parsley Butter is one of the newly launched signature dishes\nPan-Seared Foie Gras is one of the newly launched signature dishes\nYellowtail Carpaccio with Smoked Vinaigrette is one of the newly launched signature dishes\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the newly launched signature dishes at Baronne restaurant in Paris include six items.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Tomahawk Steak",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Carpaccio de Sériole",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Homard Linguine with Creamy Bisque",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Crayfish with Parsley Butter",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Pan-Seared Foie Gras",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Yellowtail Carpaccio with Smoked Vinaigrette",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False:Tomahawk Steak in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_38_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False:Carpaccio de Sériole in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_38_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False:Homard Linguine with Creamy Bisque in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_38_2.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_11": {
+        "content": "True or False:Crayfish with Parsley Butter in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_38_3.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False:Pan-Seared Foie Gras in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_38_4.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_13": {
+        "content": "True or False:Yellowtail Carpaccio with Smoked Vinaigrette in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_38_5.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_39": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The newly launched signature dishes at Bacchanalia in London include six items.\nLobster Paccheri Pasta is one of the newly launched signature dishes\nStrip Loin Tagliata is one of the newly launched signature dishes\nChicken Skewer is one of the newly launched signature dishes\nRigatoni Ragù is one of the newly launched signature dishes\nSeafood Ragu Pasta is one of the newly launched signature dishes\nBacchanalia Tiramisu is one of the newly launched signature dishes\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the newly launched signature dishes at Bacchanalia in London include six items.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Lobster Paccheri Pasta",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Strip Loin Tagliata",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Chicken Skewer",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Rigatoni Ragù",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Seafood Ragu Pasta",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Bacchanalia Tiramisu",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False:Lobster Paccheri Pasta in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_39_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False:Strip Loin Tagliata in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_39_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False:Chicken Skewer in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_39_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False:Rigatoni Ragù in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_39_3.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False:Seafood Ragu Pasta in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_39_4.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_13": {
+        "content": "True or False:Bacchanalia Tiramisu in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_39_5.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_4": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Four steps: 1.Boil the noodles, 2.Drain and keep some water, 3.Mix with sauce，4.Finish with toppings\nBoil the noodles：Cook the noodles in about 600 ml of boiling water for 5 minutes until fully cooked and chewy.\nDrain and keep some wate：Drain most of the water, leaving about 120 ml (½ cup) of noodle water to maintain the right sauce consistency.\nMix with sauce：Add the liquid spicy sauce and stir-fry over medium-low heat for about 30 seconds so the noodles absorb the flavor.\nFinish with toppings：Add the dried seaweed and sesame packet, mix well, and enjoy.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the complete method of eating Fire Noodles",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the noodles being cooked in boiling water.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the process of draining the noodles.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows adding the liquid spicy sauce to the noodles。",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows adding the dried seaweed to the noodles.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: Buldak Noodles in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_4_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_40": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The newly launched signature dishes at Mirazur include five items.\nBluefin Tuna Belly with Nigella Petals is one of the newly launched signature dishes\nSmoked Eel with Pickled Rose Petals is one of the newly launched signature dishes\nSalt-Baked Beetroot with Caviar Cream is one of the newly launched signature dishes\nArtichoke Tart is one of the newly launched signature dishes\nBouillabaisse Reinterpreted with Saffron is one of the newly launched signature dishes\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the newly launched signature dishes at Mirazur include five items.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Bluefin Tuna Belly with Nigella Petals",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Smoked Eel with Pickled Rose Petals",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Salt-Baked Beetroot with Caviar Cream",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Artichoke Tart",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Bouillabaisse Reinterpreted with Saffron",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False:Bluefin Tuna Belly with Nigella Petals in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_40_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False:Smoked Eel with Pickled Rose Petals in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_40_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False:Salt-Baked Beetroot with Caviar Cream in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_40_2.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False:Artichoke Tart in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_40_3.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False:Bouillabaisse Reinterpreted with Saffron in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_40_4.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "food_41": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "six steps: 1.Mixing the Dough, 2.Fermentation ,3.Dividing into Dough Balls, 4.Hand Stretching, 5.Adding Toppings, 6.Baking\nMixing the Dough: Wheat flour + water + salt + yeast, knead until smooth and elastic.\nFermentation: Rest for 12–24 hours to develop flavor and extensibility.\nDividing into Dough Balls: Hand-divide into 200–280 g dough balls.\nHand Stretching: Stretch only by hand, no rolling pin, thin center with raised edge (cornicione).\nAdding Toppings: Classic toppings: tomato, mozzarella, basil, and olive oil.\nBaking: Wood-fired oven at 485°C, bake for 60–90 seconds.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows six steps of the preparation process of Neapolitan pizza.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows mixing the dough by hand.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows dough resting for fermentation.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows dividing the dough into balls.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows stretching the dough by hand.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows adding tomato, mozzarella, basil, and olive oil.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows a pizza being placed in a wood-fired oven.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False:Neapolitan pizza in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_41_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_42": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "five steps: 1.Prepare the Mold, 2.Make the Base, 3.Whip the Egg Whites, 4.Fold Together, 5.Fill and Bake\nPrepare the Mold: Butter the mold and coat with sugar or breadcrumbs to help the batter climb while baking.\nMake the Base: Prepare a béchamel or custard base, then add egg yolks and flavoring (chocolate, cheese, etc.).\nWhip the Egg Whites: Whip egg whites with sugar until stiff peaks form, creating a stable foam.\nFold Together: Gently fold the meringue into the base in batches to avoid deflating the foam.\nFill and Bake: Fill molds about 80% full, bake in a preheated oven (180–200°C) until golden and risen.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows five steps of the preparation process of soufflé.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows buttering the mold and coat with sugar or breadcrumbs",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Preparing a béchamel or custard base, then add egg yolks and flavoring",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Whipping egg whites with sugar until stiff peaks form, creating a stable foam.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows folding the meringue into the base in batches to avoid deflating the foam.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows filling molds about 80% full",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows baking in a preheated oven until golden and risen.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False:soufflé in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_42_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_43": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "five steps: 1.Tortilla Making, 2.Filling Preparation, 3.Salsa Making, 4.Toppings, 5.Assembly & Serving\nTortilla Making: Masa harina or flour dough → press/roll → cook on skillet.\nFilling Preparation: Carne Asada, Carnitas, Al Pastor, or Fish.\nSalsa Making: Pico de Gallo, Salsa Roja, Salsa Verde, Guacamole.\nToppings: onion, cilantro, lime.\nAssembly & Serving: Heat tortilla → add filling → add toppings → add salsa → squeeze lime juice.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows five steps of the process of making Mexican tacos.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Masa harina or flour dough is pressed or rolled flat and then cooked on a skillet.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows grilling beef, shredded pork, al pastor, or fish are used as the fillings.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows using Pico de Gallo, Salsa Roja, Salsa Verde, Guacamole to make the sauces.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows using onion, cilantro, and lime as toppings.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows heating the tortilla and add the filling with toppings.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows finish by adding salsa and squeezing lime juice.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False:Mexican tacos in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_43_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_44": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "six steps:1.Cooking Ragù, 2.Making Béchamel Sauce, 3.Preparing Pasta Sheets, 4.Preparing Cheeses, 5.Layering & Assembly, 6.Baking & Resting\nCooking Ragù: Sauté onion, carrot, and celery, add minced meat, tomato, wine, and stock, then simmer slowly.\nMaking Béchamel Sauce: Cook butter and flour into a roux, gradually add warm milk while stirring, season until thickened.\nPreparing Pasta Sheets: Use homemade or store-bought pasta sheets (boil regular type, or use no-boil type directly).\nPreparing Cheeses: Mozzarella for melting and stretch, Parmesan for savory depth, Ricotta for creamy texture.\nLayering & Assembly: Start with sauce at the bottom → pasta sheet → béchamel/ragù + cheese, repeat layers, finish with sauce and cheese on top.\nBaking & Resting: Preheat oven to 180–190°C, bake covered for 35–45 minutes, uncover and bake until golden. Let rest at least 15 minutes before slicing.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows six steps of making Italian lasagna.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows cooking ragù in a pan.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows making béchamel sauce in a saucepan.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows preparing pasta sheets.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows preparing cheeses.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows layering pasta sheets with sauce and cheese.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows finishing with a top layer of sauce and cheese.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_8": {
+        "content": "True or False: The picture shows baked lasagna resting in a dish.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: Italian lasagna in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_44_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_45": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "five steps: 1.Prepare Vegetables, 2.Cook Meat Sauce, 3.Make Béchamel Sauce, 4.Layer & Assemble, 5.Bake & Rest\nPrepare Vegetables: Salt eggplant slices to remove moisture and bitterness, parboil potatoes, then fry or bake both.\nCook Meat Sauce: Sauté onion and garlic, add lamb or beef, season with cinnamon and nutmeg, add tomato and red wine, simmer until thick.\nMake Béchamel Sauce: Cook butter and flour into a roux, whisk in milk, season, then enrich with egg yolks and cheese.\nLayer & Assemble: Layer potatoes at the bottom → eggplant → meat sauce → eggplant → top with thick béchamel.\nBake & Rest: Bake at 180–190°C until golden on top, then let rest at least 15 minutes before slicing.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows five steps of the process of making Greek moussaka.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows salt eggplant slices to remove moisture and bitterness",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows cooking meat sauce in a pan.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows making béchamel sauce in a saucepan.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows layering vegetables with meat sauce in a baking dish.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows topping the assembled layers with béchamel sauce.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows baked moussaka resting in a dish.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False:Greek moussaka in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_45_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_46": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Phyllo Dough is one of the key ingredients of Middle Eastern rose baklava\nPistachios is one of the key ingredients of Middle Eastern rose baklava\nHoney is one of the key ingredients of Middle Eastern rose baklava\nRose Water is one of the key ingredients of Middle Eastern rose baklava\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows phyllo dough.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows pistachios.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows honey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows rose water.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:Baklava with Rose Water in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_46_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_47": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "White bean paste is one of the key ingredients of Japanese sakura yokan\nSugar is one of the key ingredients of Japanese sakura yokan\nSalt-pickled sakura blossoms is one of the key ingredients of Japanese sakura yokan\nAgar is one of the key ingredients of Japanese sakura yokan\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows white bean paste.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows sugar.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows salt-pickled sakura blossoms.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows agar.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:Japanese sakura yokan in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_47_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:Agar in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_47_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False:Salt-pickled sakura blossoms in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_47_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False:White bean paste in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_47_3.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_48": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Black Glutinous Rice is one of the key ingredients of black glutinous rice with coconut milk\nCoconut Milk is one of the key ingredients of black glutinous rice with coconut milk\nPalm Sugar is one of the key ingredients of black glutinous rice with coconut milk\nMango is one of the key ingredients of black glutinous rice with coconut milk\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Black Glutinous Rice",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Coconut Milk",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Palm Sugar",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Mango",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:black glutinous rice with coconut milk in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_48_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "food_5": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The dessert that appears multiple times in In Search of Lost Time is the madeleine cake.\nMain Ingredients：cake flour，baking powder，unsalted butter (browned)，lemon zest / vanilla extract，eggs\nKey Steps：1.Brown the butter: Heat until nutty brown and aromatic, then let cool.\nWhisk eggs + sugar: Beat until pale and fluffy, add lemon zest or vanilla.\nFold in dry ingredients: Sift in flour and baking powder, gently fold.\nAdd browned butter: Incorporate butter into the batter until smooth.\nChill batter: Refrigerate for at least 1 hour.\nPrepare molds: Grease and flour mold, fill ¾ full with batter.\nBake with heat shock: Start at 220°C for 4–5 min, reduce to 180°C for 5–7 min.\nServe: Unmold, dust with sugar, enjoy warm with tea.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the dessert that appears multiple times in In Search of Lost Time is the madeleine cake.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the related ingredients,such as cake flour,baking powder,unsalted butter (browned),lemon zest / vanilla extract,eggs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the butter is browned.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows sift in flour and baking powder",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows add browned butter",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the batter being spooned into each mold.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the baked madeleine cakes are dusted with sugar.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows placing the batter in the refrigerator to chill.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False: madeleine cake  in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_5_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_6": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Breakfast: Eggs, bacon.\nBreakfast: coffee, Papa Cocktail (whisky with water)\nLunch: Roast beef, Yorkshire pudding\nLunch: seafood (especially oysters)\nDinner:Roast meats (beef or chicken),potatoes and vegetables\nDinner: Stilton cheese\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the differences in the three daily meals, showing what was eaten for breakfast, lunch, and dinner.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Churchill’s breakfast included eggs,bacon.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Churchill’s breakfast included coffee, Papa Cocktail.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Churchill’s lunch included roast beef, Yorkshire pudding.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Churchill’s lunch included seafood (especially oysters).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Churchill’s dinner included roast meats (beef or chicken),potatoes and vegetables.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Churchill’s dinner also included Stilton cheese.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: Yorkshire pudding in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_6_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_7": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Empress Dowager Cixi likes eight kinds of food.\nBird’s nest is Empress Dowager Cixi’s Favorite Food\nshark fin is Empress Dowager Cixi’s Favorite Food\nsea cucumber is Empress Dowager Cixi’s Favorite Food\nMini corn buns (refined palace version) is Empress Dowager Cixi’s Favorite Food\nGecha (fried mung-bean cake with meat) is Empress Dowager Cixi’s Favorite Food\nWang Zhihe stinky tofu  is Empress Dowager Cixi’s Favorite Food\nEight-Treasure Cake (medicinal health pastry) is Empress Dowager Cixi’s Favorite Food\nMutton dishes are Empress Dowager Cixi’s Favorite Food\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows eight kinds of food",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Bird’s nest",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows shark fin",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows sea cucumber",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Mini corn buns",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Gecha",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Wang Zhihe stinky tofu",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Eight-Treasure Cake",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Mutton dishes",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: Empress Dowager Cixi in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_7_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_8": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "President Truman likes four kinds of food.\nSteak, especially when cooked well-done, was President Truman’s favorite dish.\nfried chicken was President Truman’s favorite dish.\nMeatloaf was President Truman’s favorite dish.\nChocolate Cake，Especially liked the version made by his wife was President Truman’s favorite dish.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows four kinds of food",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Steak",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows fried chicken",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Chocolate Cake",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: meatloaf in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_8_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "food_9": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "India produces teas including Assam Tea, Darjeeling Tea, and Nilgiri Tea.\nDarjeeling Tea is light golden to amber, clear and transparent\nAssam Tea is Deep red, amber\nNilgiri Tea is golden yellow, bright and clear\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows three types of tea.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows India produces teas including Assam Tea, Darjeeling Tea, and Nilgiri Tea.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Darjeeling Tea is light golden to amber",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Assam Tea is Deep red, amber",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Nilgiri Tea is golden yellow",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: Darjeeling Tea in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_9_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: Assam Tea  in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_9_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: Nilgiri Tea in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/food_9_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  }
+}

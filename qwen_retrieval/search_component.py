@@ -7,17 +7,21 @@ from PIL import Image
 from io import BytesIO
 import os
 
-import retrieval_prompt as prompt
-import retrieval_prompt_img as prompt_img
-import retrieval_prompt_txt as prompt_txt
+import qwen_retrieval.retrieval_prompt as prompt
+import qwen_retrieval.retrieval_prompt_img as prompt_img
+import qwen_retrieval.retrieval_prompt_txt as prompt_txt
 
 from serpapi import GoogleSearch
 from qwen_retrieval.call_qwen import *
 
-QWEN_API_KEY = "YOUR_QWEN_API_KEY"
-SERPER_API_KEY = "YOUR_SERPER_API_KEY"
-# SERPAPI_API_KEY = "YOUR_SERPAPI_API_KEY"
-JINA_API_KEY = "YOUR_JINA_API_KEY"
+
+OPENAI_API_KEY = ""
+SERPER_API_KEY = ""
+SERPAPI_API_KEY = ""
+JINA_API_KEY = ""
+QWEN_API_KEY = ""
+
+QWEN_MODEL = 'qwen2.5-vl-7b-instruct'
 
 
 def parse_input(user_input: str) -> tuple:
@@ -40,7 +44,7 @@ def parse_input(user_input: str) -> tuple:
 
 
 def generate_warm_up_plan(input_prompt):
-    chat_client = MultimodalRetrievalClient(QWEN_API_KEY, model="qwen2.5-vl-72b-instruct")
+    chat_client = MultimodalRetrievalClient(QWEN_API_KEY, model=QWEN_MODEL)
 
     plan = chat_client.send_single_message(text=prompt.warm_up_search.format(input_prompt),
                                                system_prompt=prompt.warm_up_search_system)
@@ -138,7 +142,7 @@ def web_select(webs, query):
 
     system_prompt = "You are a helpful assistant."
 
-    chat_client = MultimodalRetrievalClient(QWEN_API_KEY, model="qwen2.5-vl-72b-instruct")
+    chat_client = MultimodalRetrievalClient(QWEN_API_KEY, model=QWEN_MODEL)
 
 
     selected_ids = chat_client.send_single_message(text=webs_info,
@@ -178,7 +182,7 @@ def extract_t2t_results(web_ids, webs, input_prompt, query):
     }
 
     successful_fetches = 0
-    target_fetches = len(web_ids)  # target fetches
+    target_fetches = len(web_ids)  # 目标获取数量
 
     tried_ids = set()
     for web_id in web_ids:
@@ -210,7 +214,7 @@ def extract_t2t_results(web_ids, webs, input_prompt, query):
     if successful_fetches == 0:
         return "No content available - all sources failed to load."
 
-    chat_client = MultimodalRetrievalClient(QWEN_API_KEY, model="qwen2.5-vl-72b-instruct")
+    chat_client = MultimodalRetrievalClient(QWEN_API_KEY, model=QWEN_MODEL)
 
     result = chat_client.send_single_message(text=webs_info,
                                                    system_prompt=system_prompt)
@@ -309,7 +313,7 @@ def round_t2t_summary(plan, results):
 
     round_input = f"<SearchPlan>\n{plan}\n</SearchPlan>\n\n<Results>\n{results}\n</Results>"
 
-    chat_client = MultimodalRetrievalClient(QWEN_API_KEY, model="qwen2.5-vl-72b-instruct")
+    chat_client = MultimodalRetrievalClient(QWEN_API_KEY, model=QWEN_MODEL)
 
     summary = chat_client.send_single_message(
         text=round_input,
@@ -353,7 +357,7 @@ def search_t2i_serpapi(query, retry_attempts=3):
     for i in range(retry_attempts):
         try:
             search = GoogleSearch(params)
-            results = search.get_dict()  # get image search results
+            results = search.get_dict()  # 获取图片搜索结果
             organic_results = results["images_results"]
             print(organic_results[0])
             return organic_results
@@ -361,7 +365,7 @@ def search_t2i_serpapi(query, retry_attempts=3):
         except Exception as e:
             print(f"Attempt {i + 1} failed: {e}")
             if i < retry_attempts - 1:
-                time.sleep(2)  # wait 2 seconds and retry
+                time.sleep(2)  # 等待2秒后重试
             else:
                 print("All retries failed.")
                 return False
@@ -444,7 +448,8 @@ def extract_t2i_results(img_data, input_prompt, query, background_knowledge):
         img_info += f"\n The title for <image_{idx}>: {title}"
         imgs.append(data.get("img_path"))
 
-    chat_client = MultimodalRetrievalClient(QWEN_API_KEY, model="qwen2.5-vl-72b-instruct")
+
+    chat_client = MultimodalRetrievalClient(QWEN_API_KEY, model=QWEN_MODEL)
 
     result = chat_client.send_single_message(text=img_info,image_paths=imgs,
                                                 system_prompt=system_prompt)
@@ -509,7 +514,7 @@ def coarse_filtered(input_prompt, txt_results, img_title, img_path):
 
     loop_coarse_filtered_input = prompt.loop_coarse_filtered.format(input_prompt, txt_content, img_content)
 
-    chat_client = MultimodalRetrievalClient(QWEN_API_KEY, model="qwen2.5-vl-72b-instruct")
+    chat_client = MultimodalRetrievalClient(QWEN_API_KEY, model=QWEN_MODEL)
 
     result = chat_client.send_single_message(text=loop_coarse_filtered_input, image_paths=img_path,
                                                 system_prompt=prompt.loop_coarse_filtered_system)

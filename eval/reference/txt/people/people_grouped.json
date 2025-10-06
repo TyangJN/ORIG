@@ -1,0 +1,2874 @@
+{
+  "people_0": {
+    "prompt_en": "Generate a picture of Dan Brown's career status in 1993.",
+    "prompt_zh": "生成一张丹·布朗 1993 年职业生涯状况的图片。",
+    "txt_reference": "Dan Brown is an American writer born in 1964.\nIn 1993, Brown became an English teacher at his alma mater.He was inspired to become a novelist and start writing while on vacation.\nBrown is known to have dark, thinning hair. \nDan Brown has deep blue eyes.\nDan Brown has pale skin.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The image in the picture shows Dan Brown's appearance as depicted in <image_0>.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:Brown in the picture is portrayed as an English teacher or writter.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:Dan Brown in the picture has dark, thinning hair.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:Dan Brown has deep blue eyes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:Dan Brown has pale skin.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False:The generated figure in the image is similar to the one in <image_0>.",
+        "img_path": "/reference/img/people_0_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: There is only one person in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "people_1": {
+    "prompt_en": "Generate an image of Yu Hua reading his breakthrough work.",
+    "prompt_zh": "生成余华阅读其成名作的图片",
+    "txt_reference": "Yu Hua's breakthrough work is To Live.\nYu Hua has fluffy hair.\nHis work, To Live, is written in Chinese as “活着”;\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:In the picture，Yu Hua's breakthrough work is To Live.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:In the picture,Yu Hua has fluffy hair.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:The picture has the symbol like \"活着\"",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows a man reading a book.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False:The cover of the book in the picture is similar to that in <image_0>.",
+        "img_path": "/reference/img/people_1_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:The character image in the picture is similar to that in <image_0>.",
+        "img_path": "/reference/img/people_1_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "people_10": {
+    "prompt_en": "Generate a picture of \"The Viper\" striking his classic pose on the WWE ring.",
+    "prompt_zh": "生成一张“毒蛇”在WWE擂台上摆出经典姿势的图片。",
+    "txt_reference": "\"The Viper\" is the nickname of Randy Orton in WWE.\nRandy Orton is 6 feet 5 inches tall and weighs 250 pounds.\nA tattoo with a tribal design that wraps around the neck, shoulders, and upper back\nHe usually wears shorts.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The person in the picture is Randy Orton.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The person in the picture has a tattoo on the neck.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The person in the picture has tattoos on the shoulders.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The person in the picture has tattoos on the upper back.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:He is wearing shorts in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False：The ring in this picture is similar to the one in <image_0>.",
+        "img_path": "/reference/img/people_10_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False：The posture of the generated Randy Orton in the picture is as shown in <image_0>.",
+        "img_path": "/reference/img/people_10_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "people_11": {
+    "prompt_en": "Generate a picture of the scene where Liu Bei's mount saves his life at a critical moment.",
+    "prompt_zh": "生成一张画面，描绘刘备的坐骑在关键时刻救他性命的场景。",
+    "txt_reference": "Liu Bei had extremely large ears\nHis arms are unusually long, \"extending beyond his knees.\"\nAt that scene, a group of soldiers was chasing Liu Bei.\nLiu Bei rode his steed and fled into deep water; unexpectedly, his steed leaped up and carried him to the opposite bank.\nThis horse has white spots all over its forehead and tear-like streaks running down near its eyes, which is considered an omen of misfortune.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:Liu Bei in the picture has extremely large ears.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:Liu Bei in the picture has very long arms.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:A group of soldiers in the picture is chasing Liu Bei.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: Hex Mark is carrying Liu Bei in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: Hex Mark has spots on its forehead.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:The generated image is similar to <image_0>.",
+        "img_path": "/reference/img/people_11_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: Hex Mark has tear-like streaks around its eyes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The horse in the picture is jumping (leaping).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False: The scene takes place near water.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "people_2": {
+    "prompt_en": "Generate an image of Goethe wearing Werther’s iconic outfit from The Sorrows of Young Werther.",
+    "prompt_zh": "生成歌德穿着《少年维特之烦恼》中维特的标志性服装的图片",
+    "txt_reference": "Werther’s iconic outfit includes a blue tailcoat.\nWerther’s iconic outfit includes a unique yellow waistcoat.\nTrousers were also part of Werther's attire, sometimes specified as yellow. \nHigh-top boots are an element of the iconic outfit.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:Goethe in the picture is wearing a blue tailcoat.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:Goethe in the picture is wearing a unique yellow waistcoat.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:Goethe in the picture is wearing yellow trousers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:Goethe in the picture is wearing high-top boots.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:The generated figure in the image is wearing clothes similar to the one in<image_0>.",
+        "img_path": "/reference/img/people_2_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:Goethe's appearance in the picture is similar to that in <image_0>.",
+        "img_path": "/reference/img/people_2_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: There is only one character in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "people_3": {
+    "prompt_en": "Generate a picture of Cai Xukun dunking while wearing the costume he wore on the variety show Idol Producer.",
+    "prompt_zh": "生成一张蔡徐坤扣篮的图片，他穿着在综艺节目《偶像练习生》中所穿的服装。",
+    "txt_reference": "Cai Xukun wore a black top during the talent show segment of Idol Producer.\nCai Xukun wore black leather shoes during the talent show segment of Idol Producer.\nCai Xukun wore gray-toned overalls with double shoulder straps during the talent show segment of Idol Producer.\nCai Xukun had a middle-parted light gray hairstyle at that time.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:Cai Xukun in the picture is wearing a black top.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:Cai Xukun in the picture is wearing black leather shoes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:Cai Xukun wore gray-toned overalls with double shoulder straps during the talent show segment of Idol Producer.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:Cai Xukun had a middle-parted light gray hairstyle in the picthure.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:Cai Xukun's outfit in the picture is similar to that in <image_0>.",
+        "img_path": "/reference/img/people_3_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:Cai Xukun in the picture is dunking (a basketball).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      }
+    }
+  },
+  "people_4": {
+    "prompt_en": "Generate an image of a duck styled after Cai Xukun's outfit style and image in Idol Producer, in the artistic style of Goose Goose Duck.",
+    "prompt_zh": "生成一张鸭子的图片，它的造型参考蔡徐坤在《偶像练习生》中的服装风格和形象，并采用《Goose Goose Duck》游戏的艺术风格。",
+    "txt_reference": "Cai Xukun wore a black top during the talent show segment of Idol Producer.\nCai Xukun wore black leather shoes during the talent show segment of Idol Producer.\nCai Xukun wore gray-toned overalls with double shoulder straps during the talent show segment of Idol Producer.\nCai Xukun had a middle-parted light gray hairstyle at that time.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:Cai Xukun in the picture is wearing a black top.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:Cai Xukun in the picture is wearing black leather shoes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:Cai Xukun wore gray-toned overalls with double shoulder straps during the talent show segment of Idol Producer.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:Cai Xukun had a middle-parted light gray hairstyle in the picthure.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:Cai Xukun's outfit in the picture is similar to that in <image_0>.",
+        "img_path": "/reference/img/people_4_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:The generated duck is drawn based on <image_0>.",
+        "img_path": "/reference/img/people_4_1.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "people_5": {
+    "prompt_en": "Generate an image of Zhuang Yan from The Three-Body Problem.",
+    "prompt_zh": "生成一张《三体》中庄颜的图片。",
+    "txt_reference": "Zhuang Yan is not tall, standing at around 1.6 meters.\nShe has a slender figure, so delicate that a gust of wind could almost blow her away—which is why she doesn’t look short.\nZhuang Yan has long hair.\nZhuang Yan likes to wear simple and elegant clothes and usually dresses in a white dress.\nZhuang Yan has deep eyes and a delicate face, brimming with charm.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:Zhuang Yan in the picture has a slender figure.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:Zhuang Yan has long hair.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:Zhuang Yan in the picture is wearing a white dress.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: Zhuang Yan in the picture has a delicate face.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: Zhuang Yan in the picture appears as an Oriental beauty.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:The generated figure in the image is similar to the one in <image_0>.",
+        "img_path": "/reference/img/people_5_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "people_6": {
+    "prompt_en": "Generate a scene depicting Lin Chong at the Snowy Mountain Temple.",
+    "prompt_zh": "生成一幅描绘林冲在雪山寺的场景的画面。",
+    "txt_reference": "Lin Chong has a fierce and dignified appearance, sharp eyes, and a strong physique, just like a leopard.\nIn this scene, Lin Chong's weapon is a red-tasseled spear.\nLin Chong carries a wine gourd.\nIn the bitter cold of winter, dark clouds covered the sky, and a northern wind gradually picked up—soon, it began to snow heavily all day long.\nA huge fire is burning in the hay depot in the distance.\nThere is a dilapidated mountain temple in the scene.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:Lin Chong has a fierce and dignified appearance",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:Lin Chong carries a red-tasseled spear.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:Lin Chong carries a wine gourd.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False:It is snowing heavily in the scene.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False:There is a glow of fire in the distance.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:There is a dilapidated mountain temple in the scene.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False:The figure in the image is similar to the one in <image_0>.\"",
+        "img_path": "/reference/img/people_6_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False:\"The temple in the image is similar to the one in <image_0>.\"",
+        "img_path": "/reference/img/people_6_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "people_7": {
+    "prompt_en": "Generate the scripture-pilgrimage team of Journey to the West after Sun Wukong defeated the White Bone Demon three times",
+    "prompt_zh": "生成一幅画面，描绘孙悟空三打白骨精后，《西游记》取经团队的情景。",
+    "txt_reference": "After defeating the White Bone Demon three times, Sun Wukong left the scripture-pilgrimage team.\nTang Seng is riding a white horse.\nUsually, Sha Wujing carries the luggage on a carrying pole.\nZhu Bajie's weapon is a nine-toothed rake.\nSha Wujing's weapon is a water-polished meditation staff.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:there are three characters in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: Tang Sanzang is riding a horse.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The horse Tang Sanzang rides is white.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:Sha Wujing in the picture is carrying the luggage on a carrying pole.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:Zhu Bajie's weapon is a nine-toothed rake.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:Sha Wujing's weapon is a water-polished meditation staff.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False:The character in the generated image is similar to the corresponding character in <image_0>.",
+        "img_path": "/reference/img/people_7_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: There are animals in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "people_8": {
+    "prompt_en": "Generate a picture of Lincoln and Linkin Park standing together.",
+    "prompt_zh": "生成一张林肯和林肯公园乐队站在一起的图片。",
+    "txt_reference": "Abraham's height is approximately 1.9 meters.\nHe is described as \"extremely thin\"—muscular yet slender.\nHis face is commonly described as deeply wrinkled and haggard, shaped like an \"axe blade\".\nLincoln is famous for his beard.\nLinkin Park has a total of 6 members, namely Mike Shinoda, Brad Delson, Joe Hahn, Dave \"Phoenix\" Farrell, Emily Armstrong, and Colin Brittain.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:Lincoln in the picture is taller than the other people.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:Lincoln looks very thin in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:There are many wrinkles on Lincoln's face in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: Lincoln has a beard in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:Besides Lincoln, 6 other people also appear in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:Lincoln's image in this picture is similar to that in <image_0>.",
+        "img_path": "/reference/img/people_8_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False:The members of Linkin Park in the generated image are similar to those in <image_0>",
+        "img_path": "/reference/img/people_8_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: All the people in the picture are standing.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "people_9": {
+    "prompt_en": "Generate an image of a Vietnamese girl wearing traditional ethnic clothing standing in Ba Dinh Square.",
+    "prompt_zh": "生成一张越南女孩身穿传统民族服装站在巴亭广场的图片。",
+    "txt_reference": "The ao dai, Vietnam's traditional costume, is a long, slit, waist-cinched outer garment.\nVietnam's traditional headwear Non La is a conical hat, which is usually worn together with the ao dai.\nThe ao dai is usually white, but it also comes in red and black, and is generally worn on specific occasions.\nThere are many grass grids in front of Ba Dinh Square.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The girl in the picture is wearing an ao dai.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:The girl in the picture is wearing a Non La.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:The ao dai worn by the girl in the picture is white.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:There are some grass grids in front of Ba Dinh Square.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: There is a Vietnamese national flag in front of Ba Dinh Square, as <image_0>",
+        "img_path": "/reference/img/people_9_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:The Ba Dinh Square in the picture is similar to the one in <image_0>.",
+        "img_path": "/reference/img/people_9_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The ao dai in the picture is a long garment.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "people_12": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Clinton couldn't contain his laughter at the press conference.\nYeltsin smiled on the outdoor podium.\nYeltsin was tall and sturdy with a head of white hair.\nClinton is 6 feet 2 inches tall, and Yeltsin is 6 feet 1 inch tall.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: Clinton is smiling in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: There are two people in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:Yeltsin in the picture is smiling.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:Yeltsin has white hair in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:Yeltsin and Clinton are almost the same height in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:The figure's posture and form in this image are similar to those in <image_0>.",
+        "img_path": "/reference/img/people_12_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows an outdoor setting.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "people_13": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "It was recorded at the ceremony that Napoleon wore a white silk corset.\nWhen Napoleon was crowned, he held the laurel wreath in his own hands and placed it on his head himself.\nThe top of the scepter held by Napoleon features a small statue of Charlemagne.\nHis cloak was adorned with golden bees.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: Napoleon is holding a crown in his hands.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: Napoleon is holding a scepter.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The top of the scepter has a small statue.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: Napoleon’s cloak is decorated with golden bees.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: Napoleon is wearing a long cloak.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: Napoleon is standing on a raised platform during the ceremony.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False:The generated scene in the picture is similar to that in <image_0>.",
+        "img_path": "/reference/img/people_13_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "people_14": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The robot protagonist Hadaly has exquisitely crafted eyes like \"gemstones,\" with unusually pure white pupils.\nHadaly has a rose-colored mouth.\nHadaly is a robot with feminine characteristics.\nHadaly has pearl-like teeth\nHer nails are as bright as diamonds and rose-colored.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:Hadaly has eyes like gemstones.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:Hadaly has pure white pupils.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:Hadaly has a rose-colored mouth.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:Hadaly is a robot with feminine characteristics.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:Hadaly has pearl-like teeth",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:Her nails are as bright as diamonds and rose-colored.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The character in the picture is female.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "people_15": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The protagonist Don has well-developed muscles.\nThe protagonist Don has bronze-colored skin.\nDon has glowing eyes.\nDon has hands with seven fingers.\nDon has skin with a metallic texture.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The character in the picture has well-developed muscles.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:The character in the picture has bronze-colored skin.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:The character in the picture has glowing eyes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:The character in the picture has hands with seven fingers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:The character in the picture has skin with a metallic texture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "people_16": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The rotating presidencies of the Council of the European Union in 2025 are Poland and Denmark.\nThe rotating presidencies of the Council of the European Union in 2025 are Poland and Denmark.\nDonald Tusk has blue eyes.\nDonald Tusk has a tanned skin.\nDonald Tusk has a slim build.\nMette Frederiksen has fair skin.\nMette Frederiksen has brown hair that is combed back.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The two government leaders in the picture are Donald Tusk, Prime Minister of Poland, and Mette Frederiksen, Prime Minister of Denmark.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:Donald Tusk has blue eyes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:Donald Tusk has a tanned skin.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:Donald Tusk has a slim build.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:Mette Frederiksen has fair skin.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False:Mette Frederiksen has brown hair that is combed back.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False:Donald Tusk in the picture is similar to the person in <image_0>.",
+        "img_path": "/reference/img/people_16_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False:Mette Frederiksen in the picture is similar to the one in<image_0>.",
+        "img_path": "/reference/img/people_16_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: There are two people in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "people_17": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The winning photograph, Curved Stream, is a black-and-white landscape photo.\nThe theme of the photo is that a narrow stream meanders through dark grasslands toward a vast, still lake in the distance.\nThe photographer, Ng Guang Ze, has short hair.\nThe photographer, Ng Guang Ze, wears glasses.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The award-winning work in the picture is in black and white.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:The theme of the photo is that a narrow stream meanders through dark grasslands toward a vast, still lake in the distance.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:The photographer, Ng Guang Ze, has short hair.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:The photographer, Ng Guang Ze, wears glasses.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:The photographer in this picture is the same person as the one in <image_0>.",
+        "img_path": "/reference/img/people_17_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:The photographic work in this picture is consistent with that in <image_0>.",
+        "img_path": "/reference/img/people_17_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture contains both a person and a landscape photo.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "people_18": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The current World Chess Champion is Gukesh Dommaraju.\nDemis Hassabis' favorite sport is chess.\nGukesh Dommaraju has wavy dark brown hair.\nGukesh Dommaraju has a beard.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:In the picture, Demis Hassabis' opponent is Gukesh Dommaraju.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:In the picture, Demis Hassabis is playing chess.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False:Gukesh Dommaraju has wavy dark brown hair.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:Gukesh Dommaraju has a beard.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:In the picture, Demis Hassabis' opponent is the same person as the one in <image_0>.",
+        "img_path": "/reference/img/people_18_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False:In the picture, Demis Hassabis is the same person as the one in <image_0>.",
+        "img_path": "/reference/img/people_18_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: Two people are sitting at a table in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "people_19": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Angela Merkel's main hobby is cooking\nAngela Merkel usually has short hair.\nAngela Merkel's favorite dish to make is homemade potato soup.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:Merkel is cooking in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False:Angela Merkel has short hair.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:The dish made by Merkel in the picture is in the style of potato soup.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:The image of Merkel in the picture is similar to that in <image_0>.",
+        "img_path": "/reference/img/people_19_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "people_20": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Volodymyr Zelenskyy worked as an actor in comedy shows from 1997 to 2003.\nIn 2019, Volodymyr Zelenskyy won the presidential election and became the 6th President of Ukraine.\nFrom 2003 to 2013, Volodymyr Zelenskyy worked as a producer.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The figure shows Volodymyr Zelenskyy's career as a comedian.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False:The figure depicts Volodymyr Zelenskyy's career as President.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False:The figure depicts Volodymyr Zelenskyy's career as a producer.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False:The image of Volodymyr Zelenskyy in his role as President in this picture is similar to that in<image_0>.",
+        "img_path": "/reference/img/people_20_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:The image of Volodymyr Zelenskyy in his role as an actor in the picture is similar to that in <image_0>.",
+        "img_path": "/reference/img/people_20_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The figure in the picture shows multiple stages of Zelenskyy’s life.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      }
+    }
+  },
+  "people_21": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Qin Shi Huang wore a mianliu (an imperial crown adorned with hanging beaded tassels).\nQin Shi Huang wore a black robe.\nQin Shi Huang was very likely to carry a sword.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:Qin Shi Huang in the picture is wearing a mianliu (an imperial crown adorned with hanging beaded tassels).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:Qin Shi Huang in the picture is wearing a black robe.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: Qin Shi Huang is shown with a sword.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False:The statue of Qin Shi Huang in Qinhuangdao is shown in <image_0>.",
+        "img_path": "/reference/img/people_21_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:The image of Qin Shi Huang in this picture is similar to that in <image_0>.",
+        "img_path": "/reference/img/people_21_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: There are two figures in the picture (Qin Shi Huang and the statue).",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "people_22": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Shi Tiesheng often sat in a wheelchair.\nShi Tiesheng wore square plastic-framed glasses.\nShi Tiesheng usually wore loose pullovers/sweaters.\nShi Tiesheng had a lean face.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:Shi Tiesheng in the picture is sitting in a wheelchair.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:Shi Tiesheng wore square plastic-framed glasses.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:Shi Tiesheng usually wore loose pullovers/sweaters.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:Shi Tiesheng had a lean face.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:Shi Tiesheng in this picture is similar to the one in <image_0>.",
+        "img_path": "/reference/img/people_22_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:The work Shi Tiesheng is reading in this picture is consistent with the one in <image_0>.",
+        "img_path": "/reference/img/people_22_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The book Shi Tiesheng is holding is open.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "people_23": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "At that time, Sun Wukong was trapped under a mountain shaped like five fingers.\nSun Wukong was trapped in a small cave under the mountain; he could speak but could not move his body.\nDuring his imprisonment, weeds once grew all around Sun Wukong's face.\nA gold-lettered tag is affixed to the Five-Finger Mountain.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:In the picture, Sun Wukong is pinned under the Five-Finger Mountain.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:In the picture, Sun Wukong is trapped in a small cave and unable to move his body.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:In the picture, some weeds are growing around Sun Wukong.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False:A gold-lettered tag is affixed to the Five-Finger Mountain.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:The scene in the picture is similar to that in <image_0>.",
+        "img_path": "/reference/img/people_23_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: Tang Seng appears in the picture",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "people_24": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The Stephen King in the picture is around thirty years old.\nStephen King often sits in front of his typewriter for hours.\nStephen King is blue-eyed, fair-skinned, and has thick black hair.\nStephen King wears glasses due to his poor eyesight.\nStephen King is using his wife's Olivetti portable typewriter.\nHe once created works in the laundry room of a double-wide trailer and on a children's desk.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:Stephen King in the picture sits in front of his typewriter.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:Stephen King in the picture has thick black hair.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: King in the picture wears glasses.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:The typewriter in the picture is Olivetti portable typewriter.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows King working in a small or unusual workspace.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "The typewriter in the generated image is consistent with the typewriter in the reference image <image_0>.",
+        "img_path": "/reference/img/people_24_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "The person in the generated image is consistent with the person in the reference image <image_0>.",
+        "img_path": "/reference/img/people_24_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: Stephen King looks young in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "people_25": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Wang Xifeng has a pair of phoenix-shaped eyes and two curved willow-leaf eyebrows.\nShe wears a narrow jacket made of red satin adorned with golden butterflies over flowers,\nShe wears a multicolored silk-embroidered silver-blue mink coat on top\nAnd she wears a jade-colored floral embroidered crepe skirt below.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:In the picture,Wang Xifeng has a pair of phoenix-shaped eyes and two curved willow-leaf eyebrows.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:In the picture,Wang is wearing a red inner top embroidered with golden butterflies and flowers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:In the picture,Wang is She is wearing a silver-blue mink coat.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:In the picture,She is wearing a thin silk dress embroidered with flowers in emerald green.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:The clothing of the characters in the generated image is consistent with that in the reference image <image_0>.",
+        "img_path": "/reference/img/people_25_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:The headwear of the characters in the generated image is similar to that in the reference image <image_0>.",
+        "img_path": "/reference/img/people_25_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False:The generated necklace is consistent with the reference <image_0>.",
+        "img_path": "/reference/img/people_25_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "people_26": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "No specific age is mentioned, estimated to be around 20 to 30 years old.\nThis paper was accepted at the NeurIPS 2020 conference.\nThe title of the paper is \"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks\"\nThe authors of the paper include Patrick Lewis and others.\nDue to COVID-19, the NeurlPS2020 conference was held online.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:Patrick Lewis in hte picture is around 20 to 30 years old.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False:There is \" NeurIPS 2020 \" in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False:The title of the paper is \"Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks\" in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:The author's name is\" Patrick Lewis \" in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:The generated image reflects that this is an online meeting.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False:The format of the meeting in the generated image is similar to the reference <image_0>.",
+        "img_path": "/reference/img/people_26_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: Patrick Lewis in the generated image is consistent with the person in the reference image <image_0>.",
+        "img_path": "/reference/img/people_26_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "people_27": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Einstein in the picture should be nearly 30-40.\nEinstein held positions at several German universities, most notably at the Humboldt University of Berlin(in 1913).\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:Einstein in the picture is nearly 30-40.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False:The background in the picture is Humboldt University of Berlin.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:Albert Einstein in the generated image is consistent with the person in the reference <image_0>.",
+        "img_path": "/reference/img/people_27_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False:A sculpture resembling the reference <image_0> in the generated picture background.",
+        "img_path": "/reference/img/people_27_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False:The background in the picture is Humboldt University of Berlin as the <image_0>.",
+        "img_path": "/reference/img/people_27_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "people_28": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "He has worked as an otolaryngologist.\nHe has also worked as a film and theater actor.\nHe has also worked as a theater director.\nThe image can show that he was born in 1927 and passed away in 2019.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:There is a note like \"otolaryngologist\" in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:There is a note like \" film and theater actor\" in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:There is a note like \"theater director\" in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False:There is a note like \"1927-2019\" in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: Shreeram Lagoo's appearance similar to the picture reference <image_0>. ",
+        "img_path": "/reference/img/people_28_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The image of his movie actor character generated matches the reference <image_0>.",
+        "img_path": "/reference/img/people_28_1.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "people_29": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The 97th actress is Mikaela Madison Rosberg.\nShe once played Susan Atkins in Quentin Tarantino's \"Once Upon a Time in Hollywood\".\nMichelle Yeoh height is 1.63m.\nEmma Stone height is 1.67m.\nMikaela Madison Rosberg is 1.61m.\nMichelle Yeoh wears a white fringed sleeveless dress.\nEmma's dress use a flared peplum waist and shell-like detailing.\nMikaela Madison Rosberg wears a custom two-tone Dior gown with a structured black velvet bodice and a flowing, pink satin skirt that featured a large bow at the waist and a dramatic train.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: There are three people in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Mikaela Madison Rosberg.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Michelle Yeoh ",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture showsEmma Stone ",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Mikaela Madison Rosberg.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Michelle Yeoh is the second tallest person.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Emma is the tallest person.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Mikaela is the third tallest person.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture of Mikaela Madison Rosberg is similar to that in <image_0>.",
+        "img_path": "/reference/img/people_29_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The picture shows Michelle Yeoh wears white dress, similar to the reference <image_0>. ",
+        "img_path": "/reference/img/people_29_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The picture shows Emma wears a white flared peplum, similar to the reference <image_0>. ",
+        "img_path": "/reference/img/people_29_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: The picture shows Mikaela Madison Rosberg wears a custom two-tone Dior gown, similar to the reference <image_0>. ",
+        "img_path": "/reference/img/people_29_3.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "people_30": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The 95th actor is Brendan Fraser.\nThe 96th actor is Cillian Murphy.\nThe 97th actor is Adrien Brody.\nBrendan Fraser is 191 centimeters tall.\nCillian Murphy is 175 centimeters tall.\nAdrien Brody is 185 centimeters tall.\nBrandon Fisher was dressed in a black tailcoat, paired with a white dress shirt, and a black bow tie.\nKieran Murphy was wearing a custom-made black wool tuxedo, which featured double-breasted buttons and was complemented by a very eye-catching golden brooch.\nAdrien Brody wear a suit jacket with satin peak lapels and a white shirt.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: There are three people in the image.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the 96th actor Cillian Murphy.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the 97th actor Adrien Brody.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Brendan is the tallest person among them.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Murphy is the shortest person among them.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Brody is the second tallest person among them.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: There are three people in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows the diamond bird brooch Adrien Brody wore during the award ceremony, as reference <image_0>",
+        "img_path": "/reference/img/people_30_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Murphy wears a bow tie, as reference <image_0>",
+        "img_path": "/reference/img/people_30_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The picture shows the clothing Brandon Fisher wore during the award ceremony, similar to the reference <image_0>. ",
+        "img_path": "/reference/img/people_30_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The picture shows the clothing Kieran Murphy wore during the award ceremony, similar to the reference <image_0>. ",
+        "img_path": "/reference/img/people_30_3.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: The picture shows the clothing Adrien Brody wore during the award ceremony, similar to the reference <image_0>. ",
+        "img_path": "/reference/img/people_30_4.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "people_31": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The 95th supporting actress is Jamie Lee Curtis\nThe 96th supporting actress is Da'Vine Joy Randolph.\nThe 97th supporting actress is Zoë Yadira Saldaña-Perego.\nJamie Lee Curtis is 1.7m.\nDa'Vine Joy Randolph is 1.61m.\nZoë Yadira Saldaña-Perego is 1.7m.\nJamie Lee Curtis wears a glittering nude gown with long sleeves, with boning around the bodice.\n",
+    "questions": {
+      "question_2": {
+        "content": "True or False: The picture shows Jamie is higher than Da'Vine Joy Randolph.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Da'Vine Joy Randolph is the shortest person among them.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Zoë Yadira Saldaña-Perego is as tall as Jamie.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the 95th supporting actress Jamie Lee Curtis <image_0> on the left",
+        "img_path": "/reference/img/people_31_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the 96th supporting actress Da'Vine Joy Randolph <image_0> in the middel",
+        "img_path": "/reference/img/people_31_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the 97th supporting actress Zoë Yadira Saldaña-Perego <image_0> on the right",
+        "img_path": "/reference/img/people_31_2.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows the clothing Jamie wore during the award ceremony as <image_0>",
+        "img_path": "/reference/img/people_31_0.png",
+        "modal": "I",
+        "class_id": 3
+      },
+      "question_9": {
+        "content": "True or False: The picture shows the second person's clothing is similar as <image_0>.",
+        "img_path": "/reference/img/people_31_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The picture shows the third person's clohing is similar as <image_0>.",
+        "img_path": "/reference/img/people_31_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "people_32": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The 95th supporting actor is Ke Quan.\nThe 96th supporting actor is Robert Downey Jr.\nThe 97th supporting actor is Kieran Culkin.\nKe Quan is 1.61m.\nRobert Downey Jr. is 1.75m.\nKieran Culkin's Height is 166.4 cm.\nKieran Culkin has black beard.\nKieran Culkin wore black shirt.\nRobert Downey Jr. wore glasses.\nRobert Downey Jr. wore black shirt.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the 95th supporting actor Ke Quan <image_0> on the left",
+        "img_path": "/reference/img/people_32_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the 96th supporting actor Robert Downey Jr <image_0> in the middle",
+        "img_path": "/reference/img/people_32_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the 97th supporting actor Kieran Culkin <image_0> on the right",
+        "img_path": "/reference/img/people_32_2.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Ke Quan is the shortest person among them.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Robert is the tallest person among them.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Kieran Culkin is the second tallest person among them.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Kieran Culkin has black beard.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Kieran Culkin wears black shirt.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Robert Downey Jr. wears glasses.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The picture shows Robert Downey Jr. wears black shirt.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: There are three people in the image.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "people_33": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The 95th Academy Award for Best Director are Daniel Kwan and Daniel Scheinert.\nThe 96th Academy Award for Best Director is Christopher Nolan.\nThe 97th Academy Award for Best Director is Sean Baker.\nDaniel Kwan height is 1.73m.\nDaniel Scheinert is higher than Daniel Kwan.\nChristopher Nolan height is 1.81m.\nSean Baker height is 1.75m.\nChristopher Nolan wears black suit and white shirt with black bow tie.\nSean Baker wears a black suit and a white shirt with black bow tie.\nDaniel Scheinert wears black tie.\nDaniel Kwan has a jade on his neck.\nThere is a golden peony flower embroidered on the left arm of Daniel Kwan's coat.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the 95th best director has two persons:Daniel Kwan and Daniel Scheinert, similar as <image_1>",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the 96th best director--Christopher Nolan as <image_2>",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the 97th best director--Sean Baker, as <image_0>",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Daniel Kwan is the shortest person among them.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Daniel Scheinert is higher than Daniel Kwan.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Chistopher Nolan is the tallest person.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Sean Baker is a little higher than Daniel Kwan.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows the clothing Christopher Nolan wore on the award ceremony.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows the clothing Sean Baker wore on the award ceremony.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_10": {
+        "content": "True or False: The picture shows Daniel Scheinert wears a black tie.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The picture shows Daniel Kwan wears a jade on his neck.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_12": {
+        "content": "True or False: The picture shows a golden peony flower pattern on the left arm of Daniel Kwan's coat.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_13": {
+        "content": "True or False: The picture shows Sean Baker's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_33_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_14": {
+        "content": "True or False: The picture shows Daniel Kwan and Daniel Scheinert's costumes are similar as <image_0>.",
+        "img_path": "/reference/img/people_33_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_15": {
+        "content": "True or False: There are four people in the image.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "people_34": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The 35th best actress was Meijuan Xi.\nThe 36th best actress was Saifei He.\nThe 37th best actress was Gengxi Li.\nMeijuan Xi's height is 1.68 m.\nSaifei He's height is 1.6m.\nGengxi Li's height is 1.65m.\nLi Gengxi was wearing a silver V-neck sleeveless long dress.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the 35th best actress of the Golden Rooster Awards Meijuan Xi <image_0> on the left",
+        "img_path": "/reference/img/people_34_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the 36th best actress of the Golden Rooster Awards Saifei He <image_0> in the middle",
+        "img_path": "/reference/img/people_34_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the 37th best actress of the Golden Rooster Awards Gengxi Li <image_0> on the right",
+        "img_path": "/reference/img/people_34_2.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Meijuan Xi is the tallest person among them.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Saifei He is the shortest person among them.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Gengxi Li is the second tallest person among them.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Meijuan Xi's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_34_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Saifei He's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_34_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Gengxi Li's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_34_2.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The picture shows Li Gengxi was wearing a silver V-neck sleeveless long dress.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "people_35": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The 35th best actor was Zhu Yilong.\nThe 37th best actor was Lei Jiayin.\nZhu Yilong height is 1.81m.\nTony Leung Chiu-wai height is 1.71m.\nLei Jiayin height is 1.84m.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the 35th best actor-- Zhu Yilon <image_0> on the left",
+        "img_path": "/reference/img/people_35_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the 36th best actor-- Chaowei Liang <image_0> in the middle",
+        "img_path": "/reference/img/people_35_2.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the 37th best actor --Lei Jiayin <image_0> on the right",
+        "img_path": "/reference/img/people_35_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Zhu Yilong is higher than Tony Leung Chiu-wai.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Tony Leung Chiu-wai is the shortest person among them.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Lei Jiayin is the tallest person among them.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Zhu Yilong's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_35_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Chaowei Liang's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_35_2.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Lei Jiayin's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_35_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "people_36": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The 35th best supporting actress is Qi Xi.\nThe 36th best supporting actress is Huang Miyi.\nThe 37th best supporting actress is Liu Dan.\nQi Xi's height is 1.74m.\nHuang Miyi's height is 1.65m.\nLiu Dan's height is 1.66m.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the 35th best supporting actress--Qi Xi <image_0> on the left",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the 36th best supporting actress--Huang Miyi <image_1> in the middle",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the 37th best supporting actress--Liu Dan <image_2> on the right",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Qi Xi's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_36_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Huang Miyi's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_36_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Liu Dan's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_36_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Qi Xi is the tallest person among them.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Huang Miyi is lower than Qi Xi.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Liu Dan is as tall as Huang Miyi.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "people_37": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The 35th best supporting actor was Xin Baiqing.\nThe 36th best supporting actor was Li Xuejian.\nThe 37th best supporting actor was Wang Xiao.\nXin Baiqing's height is 1.82m.\nLi Xuejian's height is 1.72m.\nWang Xiao's height is 1.78m.\nXin Baiqing is thin and tall.\nWang Xiao is 70kg and thin.\nWang Xiao is 47 years old.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the 35th best supporting actor--Xin Baiqing <image_0> on the left",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the 36th best supporting actor--Li Xuejian <image_1> in the middle",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the 37th best supporting actor--Wang Xiao <image_2> on the right",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Xin Baiqing is the tallest person among them.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Li Xuejian is the shortest person.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Wang Xiao is the second tallest person.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Xin Baiqing's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_37_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Li Xuejian's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_37_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Wang Xiao's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_37_2.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The picture shows Xin Baiqing is thin and tall.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The picture shows Wang Xiao's figure is thin.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: The picture shows Wang Xiao's age is almost 50 years old.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "people_38": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The 35th best directors are Tsui Hark, Chen Kaige, Dante Lam.\nThe 36th best director is Cheng Er.\nThe 37th best director is also Chen Kaige.\nThe 35th awarded film is \"The Battle at Lake Changjin\".\nThe 36th awarded film is \"Hidden Blade\".\nThe 37th awarded film is \"The Great War\".\nThe photo only has Tsui Hark, Chen Kaige, Dante Lam, and Cheng Er.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the 35th best directors have three people.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the 36th best director is Cheng Er.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the 37th best director is Chen Kaige.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the 35th awarded film name.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the 36th awarded film name.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the 37th awarded film name.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Tsui Hark's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_38_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Chen Kaige's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_38_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Dante Lam's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_38_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The picture shows Cheng Er's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_38_3.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_11": {
+        "content": "True or False: The picture shows four people.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "people_39": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The 67th best actress is Kriti Sanon.\nThe 68th and 69th best actress is the same person: Alia Bhatt.\nKriti Sanon is1.74m.\nAlia Bhatt's height is 1.54m.\nKriti Sanon wear all red sultry gown.\nAlia Bhatt wear a corset saree gown fit around the midriff and a sweetheart neckline.\nAlia Bhatt has shoulder-length hair, with the hair parted to the side.\nAlia Bhatt has straight hair.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows two people.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the 67th best actress Kriti Sanon as <image_0>",
+        "img_path": "/reference/img/people_39_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows 68th and 69th best actress is the same person: Alia Bhatt as <image_0>",
+        "img_path": "/reference/img/people_39_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Kriti Sanon is taller than Alia Bhatt.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Alia Bhatt is shorter than Kriti Sanon.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the clothing Kriti Sanon wore during the award ceremony.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Alia Bhatt wear a corset saree gown with neckline.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Alia Bhatt has shoulder-length hair, with the hair parted to the side.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Alia Bhatt has straight hair.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "people_40": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Ranveer Singh wears a daring red suit with white shirt.\nRajkummar Rao wears all-black suit.\nRanbir Kapoor wear black suit and white shirt with a bow tie.\nRanveer Singh wears diamond studs.\nRanveer Singh wears a big black butterfly bow tie.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the clothing Ranveer Singh wore on the award ceremony, as <image_0>",
+        "img_path": "/reference/img/people_40_0.png",
+        "modal": "I",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the clothing Rajkummar Rao wore on the award ceremony as <image_0>",
+        "img_path": "/reference/img/people_40_1.png",
+        "modal": "I",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the clothing Ranbir Kapoor wore on the award ceremony as <image_0>",
+        "img_path": "/reference/img/people_40_2.png",
+        "modal": "I",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the clothing Ranveer Singh <image_0> on the left",
+        "img_path": "/reference/img/people_40_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the clothing Rajkummar Rao <image_0> in the middle",
+        "img_path": "/reference/img/people_40_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the clothing Ranbir Kapoor <image_0> on the right",
+        "img_path": "/reference/img/people_40_2.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Ranveer Singh wears diamond studs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Ranveer Singh wears a big black butterfly bow tie.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "people_41": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Sai Tamhankar wears a gorgeous Black Trailing gown.\nVeteran Actress Shabana Azmi looked lovely in a traditional red saree.\nSai Tamhankar's hair is tied up.\nShabana Azmi has a red flower pinned to the back of her right ear.\nSai Tamhankar has a long ponytail.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Sai Tamhanker wears a black gown.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Shabana Azmi wears a traditional red saree.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Sai Tamhankar's hair style on the award ceremony.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Sheeba Chaddha's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_41_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Shabana Azmi wears a red flower on her head.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Sai Tamhankar has a long hair.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: There are three people in the image.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "people_42": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The 67th best supporting actor is Pankaj Tripathi.\nThe 68th best supporting actor is Anil Kapoor.\nThe 69th best supporting actor is Vicky Kaushal.\nAnil Kapoor wore an all-white, off-white suit.\nAnil Kapoor wears a striped tie.\nVicky Kaushal wears a smart black tuxedo, silver brooch and black sunglasses.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the 67th best supporting actor is Pankaj Tripathi <image_0>",
+        "img_path": "/reference/img/people_42_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the 68th best supporting actor is Anil Kapoor <image_0>",
+        "img_path": "/reference/img/people_42_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the 69th best supporting actor is Vicky Kaushal <image_0>",
+        "img_path": "/reference/img/people_42_2.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Anil Kapoor wears white suit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Anil Kapoor wears a striped tie.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the outfit Vicky Kaushal wore on the award ceremony.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the 67th best supporting actor is Pankaj Tripathi <image_0> on the left",
+        "img_path": "/reference/img/people_42_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows the 68th best supporting actor is Anil Kapoor <image_0> in the middle",
+        "img_path": "/reference/img/people_42_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture shows the 69th best supporting actor is Vicky Kaushal <image_0> on the right",
+        "img_path": "/reference/img/people_42_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "people_43": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Vishnuvardhan's height is 1.67m.\nSanjay leela bhansali's height is 1.74m.\nVidhu vinod chopra's height is 1.75m.\nVishnuvardhan wears a black suit and white shirt.\nVishnuvardhan wears a pair of black galsses.\nSanjay leela bhansali wears a black long coat and white trousers.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Vishnuvardhan is the shortest person among them.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Sanjay is taller than Vishnuvardhan.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Vidhu is almost as tall as Sanjay.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the clothing Vishnuvardhan wore during the award ceremony.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Vishnuvardhan wears a pair of black galsses.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Sanjay wears a black long coat and white trousers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: There are three people in the image.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "people_44": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Her first self-portrait is Self-portrait in a Velvet Dress.\nKahlo appears half length, wearing an elegant velvet dress, against a background of stylized waves. \nHer picture shows her slender elegant fingers.\nShe placed a mirror above the easel so that she could see herself.\nA portable easel was installed so that she can lying on the bed and drawing.\nShe has monobrow.\nShe has a little mustache.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Kahlo's first self-portrait.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Kahlo's self-portrait's features.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Kahlo's slender fingers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows a mirror above her easel.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Kahlo was lying on the bed.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Kahlo has monobrow.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Kahlo has a little mustache.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows her self-portrait is similar as <image_0>.",
+        "img_path": "/reference/img/people_44_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: Frida Kahlo is indoors in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "people_45": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "At that time, Beethoven was completely deaf.\nBeethoven used techniques to physically feel music and notes in his body.\nHe holding a pencil in his mouth and resting it against the piano.\nHis living environment is dirty and messy.\nBroken coffee cups and stacks of manuscript paper are on his table.\nBeethoven also cut the legs of his pianos.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Beethoven was deaf.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Beethoven used techniques to physically feel music.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Beethoven holds a pencil in his mouth.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Beethoven living condition is messy and dirty.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Beethoven's table condition.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The piano in the picture looks broken.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: Beethoven is indoors in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: Beethoven is sitting in front of a piano in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "people_46": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The 12nd champion is Anny Ogrezeanu.\nThe 13rd champion is Malou Lovis Kreyelkamp.\nThe 14th champion is Jennifer Lynn.\nAnny Ogrezeanu was wearing a black blouse, black leather pants and black leather shoes.\nMalou Lovis Kreyelkamp was wearing a purple plush coat.\nMalou Lovis Kreyelkamp has a nose ring on her nose.\nJennifer Lynn wears a balck suit.\nJennifer Lynn has her hair in a ponytail.\nAnny Ogrezeanu has dark brown curly short hair\nAnny Ogrezeanu's eye color is grey.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the 12nd champion Anny Ogrezeanu in Voice of Germany as <image_0>",
+        "img_path": "/reference/img/people_46_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the 13rd champion Malou Lovis Kreyelkamp in Voice of Germany as <image_0>",
+        "img_path": "/reference/img/people_46_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the 14th champion Jennifer Lynn in Voice of Germany as <image_0>",
+        "img_path": "/reference/img/people_46_2.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the Anny Ogrezeanu <image_0> on the left",
+        "img_path": "/reference/img/people_46_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the Malou Lovis Kreyelkamp <image_0> in the middle",
+        "img_path": "/reference/img/people_46_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the Jennifer Lynn <image_0> on the right ",
+        "img_path": "/reference/img/people_46_2.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Malou Lovis Kreyelkamp has a nose ring.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Jennifer Lynn wears a balck suit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Jennifer has a ponytail.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The picture shows Anny Ogrezeanu's hair is dark brown, curly and short.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The picture shows Anny's eye color is grey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "people_47": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The champion in 2020 is Shan Yichun.\nThe champion in 2021 is Wu Keyue\nThe champion in 2022 is Liang Yuying.\nShan Yichun wears white dress.\nWu Keyue wears a strapless white gown.\nLiang Yuying wears all black suit.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the champion of Voice of China in 2020 Shan Yichun <image_0> on the left",
+        "img_path": "/reference/img/people_47_0.png",
+        "modal": "I",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the champion of Voice of China in 2021 Wu Keyue <image_0> in the middle",
+        "img_path": "/reference/img/people_47_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the champion of Voice of China in 2022 Liang Yuying <image_0> on the right",
+        "img_path": "/reference/img/people_47_2.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Shan Yichun's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_47_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Wu Keyue's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_47_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Liang Yuying's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_47_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Shan Yichun wears a white dress.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Wu Keyue wears a strapless white gown.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Liang Yuying wears all black suit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "people_48": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Annie Ernaux wears a black suit.\nFosse is usually seen clad in black with a few days' stubble.\nHan Kang was wearing a long black dress.\nAnnie Ernaux was born in 1940.\nJon Fosse was born in 1959.\nHan Kang was born in 1970.\nThere are a few strands of white hair on the top of Han Kang's head.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Annie wears a black suit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Fosse is dressed in black with a few days' stubble.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Han Kang wears a long black dress.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Annie is the oldest person among them.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Jon Fosse is older than Han Kang.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Han Kang is the youngest person.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Han Kang has a few strands of white hair.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Han Kang's image is similar as <image_0>.",
+        "img_path": "/reference/img/people_48_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "people_49": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The best actress in 2022 is lou de laâge.\nThe best actress in 2023 is karla souza.\nThe best actress in 2024 is Chutimon Chuengcharoensukying.\nlou de laâge height is 1.7m.\nkarla souza height is 1.63m.\nChutimon Chuengcharoensukying is 1.76m.\nlou de laâge was wearing a black dress.\nKarla souza was wearing a silver sequined tight-fitting long dress.\nChutimon Chuengcharoensukying wears a white dress and white tights.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the best actress in 2022 lou de laâge <image_0>",
+        "img_path": "/reference/img/people_49_0.png",
+        "modal": "I",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the best actress in 2023 karla souza <image_0>",
+        "img_path": "/reference/img/people_49_1.png",
+        "modal": "I",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the best actress in 2024 Chutimon Chuengcharoensukying <image_0>",
+        "img_path": "/reference/img/people_49_2.png",
+        "modal": "I",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the best actress in 2022 lou de laâge <image_0> on the left",
+        "img_path": "/reference/img/people_49_0.png",
+        "modal": "I",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the best actress in 2023 karla souza <image_0> in the middle",
+        "img_path": "/reference/img/people_49_1.png",
+        "modal": "I",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the best actress in 2024 Chutimon Chuengcharoensukying <image_0> on the right",
+        "img_path": "/reference/img/people_49_2.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows lou de laâge is the second tallest person.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows karla souza is the shortest person.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Chutimon Chuengcharoensukying is the tallest person.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The picture shows lou de laâge wears a black dress.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The picture shows Karla souza wears a silver sequined tight-fitting long dress.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: The picture shows Chutimon Chuengcharoensukying wears a white dress and white tights.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "people_50": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The best actor in 2022 is Dougray Scott.\nThe best actor in 2023 is martin freeman.\nThe best actor in 2024 is timothy spall.\nDougray Scott wears black suit and black shirt.\nTimothy Spall wears black suit and black shirt.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the best actor in 2022 Dougray Scott <image_0> on the left",
+        "img_path": "/reference/img/people_50_0.png",
+        "modal": "I",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the best actor in 2023 Martin Freeman <image_0> in the middle",
+        "img_path": "/reference/img/people_50_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the best actor in 2024 Timothy Spall <image_0> on the right",
+        "img_path": "/reference/img/people_50_2.png",
+        "modal": "I",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the clothing Dougray Scott wore during the ceremony <image_0>",
+        "img_path": "/reference/img/people_50_0.png",
+        "modal": "I",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the clothing Martin Freeman wore during the ceremony <image_0>",
+        "img_path": "/reference/img/people_50_1.png",
+        "modal": "I",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the clothing Timothy Spall wore during the ceremony <image_0>",
+        "img_path": "/reference/img/people_50_2.png",
+        "modal": "I",
+        "class_id": 3
+      }
+    }
+  },
+  "people_51": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Jodie comer height is 1.73m.\nSarah paulson height is 1.68m.\nSarah snook height is 1.65m.\nJodie comer wears a midnight navy gown.\nSarah paulson was dressed in a custom-made white dress adorned with black sequin flowers.\nSarah snook wears a champagne-colored sequin gown.\nJodie comer has her hair loose.\nSarah paulson's hair is golden.\nSarah snook's hair was tied up.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Jodie comer is the tallest person.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Sarah paulson is the second tallest person.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Sarah snook is the shortest person.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Jodie Comer wears a midnight navy gown.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Sarah paulson wears white dress with the black flowers pattern.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Sarah snook wears a champagne-colored sequin gown.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Jodie has loose hair.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Sarah's hair color is golden.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Sarah's hair is tied up.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  }
+}

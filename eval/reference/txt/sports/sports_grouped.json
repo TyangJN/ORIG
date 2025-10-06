@@ -1,0 +1,2712 @@
+{
+  "sports_0": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "In the 2010 World Cup: The champion team is Spain.\nIn the 2010 World Cup: The captain is Iker Casillas.\nIn the 2010 World Cup: Iker Casillas wears a dark green goalkeeper jersey with number 1.\nIn the 2014 World Cup: The champion team is Germany.\nIn the 2014 World Cup: The captain is Philipp Lahm.\nIn the 2014 World Cup: Philipp Lahm wears Germany’s No.16\nIn the 2018 World Cup: The champion team is France.\nIn the 2018 World Cup: The captain is Hugo Lloris.\nIn the 2018 World Cup: Hugo Lloris wears a yellow goalkeeper jersey with number 1.\nIn the 2022 World Cup: The champion team is Argentina.\nIn the 2022 World Cup: The captain is Lionel Messi.\nIn the 2022 World Cup: Lionel Messi wears a blue and white striped jersey with number 10.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows four people.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Iker Casillas wearing a Spain national team jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Iker Casillas wearing a jersey with number 1.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Philipp Lahm wearing a Germany national team jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Philipp Lahmr wearing a jersey with number 16.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Hugo Lloris wearing a France national team jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Hugo Lloris wearing a jersey with number 1.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Lionel Messi wearing a Argentina national team jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Lionel Messi wearing a jersey with number 10.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The picture shows Lionel Messi resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_0_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The picture shows Hugo Lloris resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_0_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: The picture shows Philipp Lahm resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_0_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_13": {
+        "content": "True or False: The picture shows Iker Casillas resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_0_3.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_1": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "There are 4 Brazilian players who have won the Ballon d’Or. They are Ronaldo, Rivaldo, Ronaldinho, and Kaká.\nRonaldo won the Ballon d’Or in 1997 and 2002.\nRivaldo won the Ballon d’Or in 1999.\n\nRonaldinho won the Ballon d’Or in 2005.\n\nKaká won the Ballon d’Or in 2007.\n\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows four Brazilian football players.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Ronaldo as one of the Brazilian Ballon d'Or winners.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Rivaldo as one of the Brazilian Ballon d'Or winners.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Ronaldinho as one of the Brazilian Ballon d'Or winners.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Kaká as one of the Brazilian Ballon d'Or winners.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the four players wearing Brazilian national team uniforms.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      }
+    }
+  },
+  "sports_10": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "In the 2022 FIFA World Cup, the champion team is Argentina.\nThe captain of Argentina is Lionel Messi.\nLionel Messi wears the number 10 jersey.\nLionel Messi wears a blue and white striped jersey.\nIn the 2022 FIFA World Cup, the runner-up team is France.\nThe captain of France is Hugo Lloris.\nHugo Lloris wears the number 1 jersey.\nHugo Lloris wears a yellow goalkeeper jersey.\nIn the 2022 FIFA World Cup, the third place team is Croatia.\nThe captain of Croatia is Luka Modrić.\nLuka Modrić wears the number 10 jersey.\nLuka Modrić wears a red and white checkered jersey.\nIn the 2022 FIFA World Cup, the fourth place team is Morocco.\nThe captain of Morocco is Romain Saïss.\nRomain Saïss wears the number 6 jersey.\nRomain Saïss wears a red jersey.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a group photo of four people.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Lionel Messi wearing the Argentina national team jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Lionel Messi wearing the number 10 jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Hugo Lloris wearing the France national team jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Hugo Lloris wearing the number 1 jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Luka Modrić wearing the Croatia national team jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Luka Modrić wearing the number 10 jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Romain Saïss wearing the Morocco national team jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Romain Saïss wearing the number 6 jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The picture shows Lionel Messi resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_10_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The picture shows Hugo Lloris resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_10_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: The picture shows Luka Modrić resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_10_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_13": {
+        "content": "True or False: The picture shows Romain Saïss resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_10_3.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_11": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "In the 2023 FIFA Women’s World Cup, the champion team is Spain.\nThe captain of Spain is Olga Carmona.\nOlga Carmona wears the number 19 jersey.\nOlga Carmona wears a red jersey with yellow trim.\nIn the 2023 FIFA Women’s World Cup, the runner-up team is England.\nThe captain of England is Millie Bright.\nMillie Bright wears the number 6 jersey.\nMillie Bright wears a white jersey.\nIn the 2023 FIFA Women’s World Cup, the third-place team is Sweden.\nThe captain of Sweden is Kosovare Asllani.\nKosovare Asllani wears the number 9 jersey.\nKosovare Asllani wears a yellow jersey with blue shorts.\nIn the 2023 FIFA Women’s World Cup, the fourth-place team is Australia.\nThe captain of Australia is Sam Kerr.\nSam Kerr wears the number 20 jersey.\nSam Kerr wears a yellow jersey with green trim.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a group photo of four people.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Olga Carmona wearing the Spain national team jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Olga Carmona wearing the number 19 jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Millie Bright wearing the England national team jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Millie Bright wearing the number 6 jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Kosovare Asllani wearing the Sweden national team jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Kosovare Asllani wearing the number 9 jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Sam Kerr wearing the Australia national team jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Sam Kerr wearing the number 20 jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The picture shows Olga Carmona resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_11_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The picture shows Millie Bright resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_11_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_12": {
+        "content": "True or False: The picture shows Kosovare Asllani resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_11_2.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_13": {
+        "content": "True or False: The picture shows Sam Kerr resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_11_3.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_12": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "In the 2023 ICC Cricket World Cup, the champion team is Australia.\nThe captain of Australia is Pat Cummins.\nPat Cummins wears a yellow jersey with green trim.\nIn the 2019 ICC Cricket World Cup, the champion team is England.\nThe captain of England is Eoin Morgan.\nEoin Morgan wears a blue jersey.\nIn the 2015 ICC Cricket World Cup, the champion team is Australia.\nThe captain of Australia is Michael Clarke.\nMichael Clarke wears a gold jersey.\nIn the 2011 ICC Cricket World Cup, the champion team is India.\nThe captain of India is MS Dhoni.\nMS Dhoni wears a light blue jersey.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a group photo of four people.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Pat Cummins wearing the Australian national team jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Eoin Morgan wearing the England national team jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Michael Clarke wearing the Australian national team jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows MS Dhoni wearing the Indian national team jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Pat Cummins resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_12_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Eoin Morgan resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_12_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Michael Clarke resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_12_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows MS Dhoni resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_12_3.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_13": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The player is Ba Te, a Chinese footballer.\nThe match is the Jiangsu Suchao League game between Taizhou and Xuzhou on June 29, 2025.\nBa Te is wearing a deep blue jersey.\nBa Te’s jersey number is 11.\nThe opposing team players are wearing red jerseys.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a football match scene from the Jiangsu Suchao League.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Ba Te performing a bicycle kick.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Ba Te wearing a deep blue jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Ba Te wearing the number 11 jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_14": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The match takes place at Melbourne Park in Melbourne, Australia, on January 11, 2025.\nZheng Qinwen is wearing a dark gray tennis outfit.\nZheng Qinwen is wearing white shoes.\nZheng Qinwen has a white wristband on her wrist.\nZheng Qinwen has a black sleeve on her right arm.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a tennis match taking place at Melbourne Park.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Qinwen Zheng wearing a dark gray tennis outfit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Qinwen Zheng wearing white shoes.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Qinwen Zheng wearing a white wristband on her wrist.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Qinwen Zheng wearing a black sleeve on her right arm.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Qinwen Zheng resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_14_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_15": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "At the 2024 Summer Olympics, Chinese swimmer Pan Zhanle won gold in the men’s 100 metre freestyle.\nAt the 2024 Summer Olympics, Chinese swimmer Pan Zhanle broke the world record in the men’s 100 metre freestyle.\nChinese swimmer Pan Zhanle’s record in the men’s 100 metre freestyle is 46.40 seconds, setting a new world record.\nChinese swimmer Pan Zhanle is wearing a red swim cap.\nChinese swimmer Pan Zhanle is wearing red swim trunks.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The image shows Chinese swimmer Pan Zhanle at the 2024 Summer Olympics.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: Pan Zhanle won the gold medal in the men’s 100 metre freestyle.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: Pan Zhanle broke the world record in the men’s 100 metre freestyle.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The record in the men’s 100 metre freestyle is 46.40 seconds.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: Pan Zhanle is wearing a red swim cap.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: Pan Zhanle is wearing red swim trunks.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The image shows Pan Zhanle, as shown in <image_0>.",
+        "img_path": "/reference/img/sports_15_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_16": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The event is the 2024 Chinese Grand Prix at the Shanghai International Circuit on April 21, 2024.\nZhou Guanyu is a Chinese Formula 1 driver for Stake F1 Team KICK Sauber.\nZhou Guanyu is wearing a green and black racing suit with team and sponsor logos.\nZhou Guanyu is driving a green and black Stake F1 Team KICK Sauber car with number 24.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a group photo of Zhou Guanyu and his race car.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the 2024 Chinese Grand Prix at the Shanghai International Circuit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Zhou Guanyu wearing a green and black racing suit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Zhou Guanyu’s racing suit with team and sponsor logos.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Zhou Guanyu wearing the Stake F1 Team KICK Sauber racing suit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Zhou Guanyu’s race car with the number 24.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Zhou Guanyu resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_16_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Zhou Guanyu’s race car resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_16_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_17": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Tobi Amusan is the current world record holder in the women’s 100 metres hurdles.\nTobi Amusan set the world record at 12.12 seconds.\nTobi Amusan set the record in the women’s 100 metres hurdles semi-final at Eugene, Oregon, in 2022.\nTobi Amusan is a Nigerian athlete.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a hurdle race.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows an athlete breaking a hurdle during the race.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Tobi Amusan competing in the race.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Tobi Amusan resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_17_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "sports_18": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The 1930 World Cup final used two different balls.\nThe first-half ball is the Tiento, which is smaller in size.\nThe second-half ball is the T-Model, which is larger and heavier.\nThe 2022 World Cup final used the Al Hilm ball.\nThe Al Hilm ball has a burgundy and gold color scheme.\nThe Al Hilm ball has the same structure as Al Rihla but with a more elegant finish.\nThe Al Hilm ball features golden panels with burgundy patterns and sleek triangular shapes that highlight its premium design.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows four footballs for comparison.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows that the 1930 FIFA World Cup final used two different balls.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows three footballs for comparison.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the Tiento ball smaller than the T-Model ball.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the T-Model ball larger than the Tiento ball.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the Al Hilm ball with a burgundy and gold color scheme.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the Tiento ball resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_18_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows the T-Model ball resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_18_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows the Al Hilm ball resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_18_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_19": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Stage 1: 1891–1920\nThe players wear baggy trousers.\nThe players wear wool undershirts.\nStage 2: 1920–1940\nThe players wear mid-length shorts.\nThe players wear wool jerseys fastened underneath the crotch.\nThe women wear bloomers to the knee.\nThe women wear bloomers that are shorter in length.\nStage 3: 1940–1960\nThe players wear fitted jerseys made of polyester or nylon.\nThe players wear short shorts.\nStage 4: 1960–1988\nThe players wear vibrant jerseys.\nThe players wear long stripy socks.\nThe players wear headbands.\nThe players wear cotton and polyester blend jerseys.\nStage 5: 1988–2012\nThe players wear long shorts.\nThe players wear baggy jerseys.\nThe players wear Dri-Fit mesh jerseys and shorts.\nStage 6: 2017–NOW\nThe players wear Nike tailored jerseys.\nThe players wear lightweight jerseys with air vents.\nThe players wear jerseys with digital body scan fitting.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the evolution of basketball uniforms across six stages.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: In Stage 1, the picture shows players wearing baggy trousers.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: In Stage 2, the picture shows players wearing mid-length shorts.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: In Stage 2, the picture shows women wearing bloomers to the knee.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: In Stage 3, the picture shows players wearing short shorts.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: In Stage 4, the picture shows players wearing vibrant jerseys.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: In Stage 4, the picture shows players wearing long stripy socks.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: In Stage 4, the picture shows players wearing headbands.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: In Stage 5, the picture shows players wearing long shorts.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_10": {
+        "content": "True or False: In Stage 5, the picture shows players wearing mesh jerseys and shorts.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: In Stage 6, the picture shows players wearing jerseys that appear fitted to the body.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_2": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "German World Cup-winning team captains are four.\nGerman World Cup-winning team captain Fritz Walter 1954 white West Germany jersey World Cup trophy.\nGerman World Cup-winning team captain Franz Beckenbauer 1974 West Germany kit World Cup trophy.\nGerman World Cup-winning team captain Lothar Matthäus 1990 West Germany uniform World Cup trophy.\nGerman World Cup-winning team captain Philipp Lahm 2014 Germany jersey World Cup trophy.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows four German football players.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Fritz Walter wearing the 1954 white West Germany jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Franz Beckenbauer wearing the 1974 West Germany kit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Lothar Matthäus wearing the 1990 West Germany uniform.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Philipp Lahm wearing the 2014 Germany jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Fritz Walter resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_2_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Franz Beckenbauer resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_2_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Lothar Matthäus resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_2_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Philipp Lahm resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_2_3.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "sports_20": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Cristiano Ronaldo’s childhood idol was the Brazilian footballer Ronaldo Nazário.\nCristiano Ronaldo is a Portuguese professional footballer.\nRonaldo Nazário is a Brazilian former professional footballer.\nRonaldo Nazário played as a striker.\nCristiano Ronaldo has a height of 1.87 meters.\nRonaldo Nazário has a height of 1.83 meters.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The image shows two people playing football together.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: Cristiano Ronaldo appears taller than Ronaldo Nazário in the image.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The image shows Cristiano Ronaldo, as shown in <image_0>.",
+        "img_path": "/reference/img/sports_20_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The image shows Ronaldo Nazário, as shown in <image_0>.",
+        "img_path": "/reference/img/sports_20_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_21": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "This career transition chart mainly discusses how he was a bartender before becoming a boxer.\nOne half-side image shows his former career as a bartender.\nThe other half-side image shows his current identity as a UFC fighter.\nBecause of the injury, he has obvious cauliflower ears.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The generated image shows two periods.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:A part of the generated image shows that he is a bartender.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False:The other part of the generated image shows that he is a bartender.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False:The generated image shows that he has cauliflower ears after becoming a boxer.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False:In the generated image, he has cauliflower ears like those in the reference <image_0>.",
+        "img_path": "/reference/img/sports_21_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False:Tony Ferguson in the generated image is consistent with the person in the reference <image_0>.",
+        "img_path": "/reference/img/sports_21_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_22": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The match took place at Anfield Stadium.\nThe team at the farewell was Liverpool.\nThe audience spelled out Jürgen's name.\nJürgen Klopp is wearing a red hoodie.\nThe pattern on the clothes is a heart-shaped image of Anfield Stadium.\nThe clothes have 'Thank You Luv' written on them.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False:The background in the picture is Anfield Stadium.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False:Liu Bei in the picture has blue hair.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False:The audience in the picture spelled out Jürgen's name.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: Jürgen Klopp in the picture is wearing a red hoodie.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: There is a heart-shaped image of Anfield Stadium on his clothes in the picture.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The hoodie in the picture have 'Thank You Luv' written on them.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False:The background of the generated image matches the reference <image_0>.",
+        "img_path": "/reference/img/sports_22_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: Jürgen Klopp in the generated image is consistent with the person in the reference image <image_0>.",
+        "img_path": "/reference/img/sports_22_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_23": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The men's singles champion of the 2025 World Table Tennis Championships is Wang Chuqin\nThe men's singles champion of the 2021,2023 World Table Tennis Championships is Fan Zhendong\nThe men's singles champion of the 2017,2019 World Table Tennis Championships is Ma Long\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows three table tennis players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows all three players are wearing Chinese team jerseys",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the year of the championship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the names of the winners",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the correct height relationship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Wang Chuqin resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_23_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Fan Zhendong resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_23_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Ma long resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_23_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_24": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The table tennis women's singles champion of the 2024 Paris Olympics is Chen Meng\nChen Meng won the women's singles table tennis championship at the 2020 Tokyo Olympics\nDing Ning won the women's singles table tennis championship at the 2016 Rio Olympics\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows two table tennis players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows all players are wearing Chinese team jerseys",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the year of the championship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the names of the winners",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the correct height relationship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Chen Meng resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_24_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Ding Ning resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_24_1.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "sports_25": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Ma Long (China) at the 2016 Rio Olympics\nMa Long (China) at the 2020 Tokyo Olympics\nFan Zhendong (China) at the 2024 Paris Olympics\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows three table tennis players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows all three players are wearing Chinese team jerseys",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the year of the championship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the names of the winners",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the correct height relationship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Ma Long resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_25_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Fan Zhendong resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_25_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_26": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The 2022 Qatar World Cup Golden Boot is Kylian Mbappé\nThe 2018 Russia World Cup Golden Boot is Harry Edward Kane\nThe 2014 Brazil World Cup Golden Boot is James Rodríguez\nFrance has two championship stars\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows three football players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the correct football uniform",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the correct appearance of the trophy",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the correct height relationship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the names of football players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the correct year",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Kylian Mbappé resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_26_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Harry Edward Kane resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_26_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows James Rodríguez resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_26_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_27": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The winner of the 2024 Ballon d'Or is Rodrigo Hernández Cascante\nThe winner of the 2024 Ballon d'Or is Lionel Andrés Messi Cuccittini\nThe winner of the 2022 Ballon d'Or is Karim Mostafa Benzema\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows three football players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the correct football uniform",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the correct appearance of the trophy",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the correct height relationship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the names of football players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the correct year",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Rodrigo Hernández Cascante resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_27_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Lionel Andrés Messi Cuccittini resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_27_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Karim Mostafa Benzema resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_27_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "sports_28": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Lionel Andr é s Messi Cuccittini has won 8 Ballon d'Or awards\nCristiano Ronaldo dos Santos has won 5 Ballon d'Or awards\nJohan Cruijff has won 3 Ballon d'Or awards\nThree players have all won the Ballon d'Or three times\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows five football players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the correct football uniform",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the correct appearance of the trophy",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the correct height relationship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the names of football players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the correct year",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Lionel Andrés Messi Cuccittini resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_28_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Lionel Cristiano Ronaldo dos Santos resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_28_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Johan Cruijff resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_28_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_29": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Emiliano Martínez win the Golden Glove Award at the 2022 Qatar World Cup\nThibaut Courtois win the Golden Glove Award at the 2018 World Cup in Russia\nManuel Neuer win the Golden Glove Award at the 2014 Brazil World Cup\nThe Argentine team has three championship stars\nBelgium does not have a championship star\nGermany has four championship stars\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows three football players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the correct football uniform",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the correct appearance of the trophy",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the correct height relationship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the names of football players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the correct year",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Emiliano Martínez Cuccittini resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_29_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Thibaut Courtois resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_29_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Manuel Neuer resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_29_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_3": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "This moment comes from Game 1 of the 1997 NBA Finals.\n1997 NBA Finals Game 1 tied score tense arena.\nKarl Malone stands at free throw line in purple Jazz jersey.\nScottie Pippen leans in whispering to Malone.\nPacked Finals crowd watching in suspense.\nMalone misses free throw ball off rim.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a moment from Game 1 of the 1997 NBA Finals.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Karl Malone missing the free throw with the ball bouncing off the rim.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Scottie Pippen leaning in to whisper to Karl Malone.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Karl Malone wearing a purple Utah Jazz jersey.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Karl Malone at the free throw line.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Karl Malone resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_3_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Karl Malone and Scottie Pippen resembling the players shown in <image_0>.",
+        "img_path": "/reference/img/sports_3_1.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "sports_30": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Cristiano Ronaldo is 1.87 meters tall Weight 80 kilograms\nLionel Messi is 170 centimeters tall\nThey are Cristiano Ronaldo, Lionel Messi, and Robert Lewandowski\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows three football players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the correct football uniform",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the correct appearance of the trophy",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the correct height relationship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the names of football players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the correct year",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Cristiano Ronaldo dos Santos Aveiro resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_30_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Lionel Andrés Messi Cuccittini resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_30_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Robert Lewandowski resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_30_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_31": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Manchester City (captain Kyle Walker)\nReal Madrid (captain Nacho Fernandes)\nParis Saint Germain (captain Marquinhos)\nKyle Walker, Manchester City captain: 1.83 meters\nNacho Fern á ndez, Real Madrid captain: 1.80 meters\nMarquinhos (captain of Paris Saint Germain): 1.83 meters\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows three football players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the correct football uniform",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the correct appearance of the trophy",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the correct height relationship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the names of football players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the correct year",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Kyle Walker resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_31_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Nacho Fernandes resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_31_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Marquinhos resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_31_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "sports_32": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Shi Yuqi won the men's singles championship at the 2025 World Badminton Championships\nKunlavut Vitidsarn won the men's singles championship at the 2023 World Badminton Championships\nViktor Axelsen won the men's singles championship at the 2022 World Badminton Championships\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows three badminton players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the correct badminton clothing",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the correct appearance of the medals or trophies",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the correct height relationship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the names of badminton players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the correct year",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Shi Yuqi resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_32_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Kunlavut Vitidsarn resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_32_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Viktor Axelsen resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_32_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "sports_33": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "An Se-young won the women's singles badminton championship at the 2024 Paris Olympics\nChen Yufei won the women's singles badminton championship at the 2020 Tokyo Olympics\nCarolina Marín won the women's singles badminton championship at the 2016 Rio Olympics\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows three badminton players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the correct badminton clothing",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the correct appearance of the medals or trophies",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the correct height relationship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the names of badminton players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the correct year",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows An Se-young resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_33_0.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Chen Yufei resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_33_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Carolina Marín resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_33_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_34": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Viktor AXELSEN has won the gold medal at the 2024 Paris Olympics\nKunlavut VITIDSARN won the silver medal at the 2024 Paris Olympics\nLee Zii Jia won the third place at the 2024 Paris Olympics\nThe colors of the medals are gold, silver, and bronze\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows three badminton players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the correct badminton clothing",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the correct appearance of the medals or trophies",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the correct height relationship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the names of badminton players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the correct year",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Lee Zii Jia resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_34_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Kunlavut VITIDSARN resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_34_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Viktor AXELSEN resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_34_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_35": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The champions of the 2012 London Olympics and the 2008 Beijing Olympics were both Lin Dan\nThere are only three champions in these five Olympic Games\nThe champions of these five Olympic Games are Lin Dan in 2008, Lin Dan in 2012, Chen Long in 2016, An Sai Long in 2020, and An Sai Long in 2024\nLin Dan: 1.78 meters,Shen Long: 1.88 meters,Viktor Axelsen: 1.94 meters\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows three badminton players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the correct badminton clothing",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the correct appearance of the medals or trophies",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the correct height relationship",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the names of badminton players",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the correct year",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Lin Dan resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_35_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Chen Long resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_35_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Viktor AXELSEN resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_35_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_36": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Noah Lyles won the Men's 100m champion at the 2024 Paris Olympics\nLamont Marcell Jacobs won the Men's 100m champion at the 2020 Tokyo Olympics\nUsain St. Leo Bolt won the Men's 100m champion at the 2016 Rio Olympics\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Noah Lyles winning the Men's 100m champion at the 2024 Paris Olympics.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The Noah Lyles in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_36_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Lamont Marcell Jacobs winning the Men's 100m champion at the 2020 Tokyo Olympics.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The Lamont Marcell Jacobs in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_36_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Usain St. Leo Bolt winning the Men's 100m champion at the 2016 Rio Olympics.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The Usain St. Leo Bolt in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_36_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_37": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Letsile Tebogo won the Men's 200m champion at the 2024 Paris Olympics\nAndre De Grasse won the Men's 200m champion at the 2020 Tokyo Olympics\nUsain St. Leo Bolt won the Men's 200m champion at the 2020 Tokyo Olympics\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Letsile Tebogo winning the Men's 200m champion at the 2024 Paris Olympics.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The Letsile Tebogo in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_37_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Andre De Grasse winning the Men's 200m champion at the 2020 Tokyo Olympics.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The Andre De Grasse in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_37_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Usain St. Leo Bolt winning the Men's 200m champion at the 2020 Tokyo Olympics.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The Usain St. Leo Bolt in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_37_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_38": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Hamish Kerr won the Men's high jump champion at the 2024 Paris Olympics\nMutaz Essa Barshim and Gianmarco Tamberi won the Men's high jump champion at the 2020 Tokyo Olympics\nDerek Drouin won the Men's high jump champion at the 2016 Rio Olympics\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Hamish Kerr winning the Men's high jump champion at the 2024 Paris Olympics.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The Hamish Kerr in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_38_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Mutaz Essa Barshim and Gianmarco Tamberi winning the Men's high jump champion at the 2020 Tokyo Olympics.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The Mutaz Essa Barshim in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_38_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The Gianmarco Tamberi in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_38_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Derek Drouin winning the Men's high jump champion at the 2016 Rio Olympics.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_7": {
+        "content": "True or False: The Derek Drouin in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_38_3.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_39": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The captain of the 2025 NBA champion team is Shai Gilgeous-Alexander and Nikola Jokic.\nthe 2024 NBA champion team is the Boston Celtics\nthe 2023 NBA champion team is the Denver Nuggets\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Shai Gilgeous-Alexander and Nikola Jokic as the captains of the 2025 NBA champion team.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the Boston Celtics as the 2024 NBA champion team.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the Denver Nuggets as the 2023 NBA champion team.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The Nikola Jokic in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_39_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The Shai Gilgeous-Alexander in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_39_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The Jayson Tatum in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_39_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_4": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Su Bingtian is the Asian 100m record holder.\nSu Bingtian is a Chinese sprinter wearing a red China track uniform.\nSu Bingtian has a height of 1.72 m with a lean athletic build.\nUsain Bolt is the world 100m record holder.\nUsain Bolt is a Jamaican sprinter wearing a yellow and green Jamaica track uniform.\nUsain Bolt has a tall height of 1.95 m and strong build of 94 kg.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows two sprinters competing on a track.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Su Bingtian wearing a red China track uniform.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Usain Bolt wearing a yellow and green Jamaica track uniform.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Usain Bolt taller than Su Bingtian.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Su Bingtian resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_4_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Usain Bolt resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_4_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_40": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The current world record holder for the men's high jump is Javier Sotomayor Salamanca\nZhu Jianhua is the record holder of high jump in China\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Javier Sotomayor Salamanca as the current world record holder for the men's high jump.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The Javier Sotomayor Salamanca in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_40_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Zhu Jianhua as the record holder of high jump in China.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The Zhu Jianhua in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_40_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_41": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The captain of the 2025 NBA champion team is Shai Gilgeous-Alexander is Nikola Jokic.\nthe 2024 NBA champion team is the Boston Celtics\nthe 2023 NBA champion team is the Denver Nuggets\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Nikola Jokic as the captain of the 2025 NBA champion team.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The picture shows the Boston Celtics as the 2024 NBA champion team.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows the Denver Nuggets as the 2023 NBA champion team.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The Nikola Jokic in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_41_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The Shaivonte Aician Gilgeous-Alexander in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_41_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The Jayson Tatum in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_41_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_42": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Curry's total three-point shooting is 4058\nJames Harden's total three-point shooting is 3175\nRay Allen's total three-point shooting is 2973\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows the three players with the highest three-point shooting records in NBA history together.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The Stephen Curry in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_42_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture includes James Harden, one of the NBA’s top three-point shooters.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The James Harden in the picture resembles the one shown in <image_0>",
+        "img_path": "/reference/img/sports_42_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture includes Ray Allen, one of the NBA’s top three-point shooters.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The Ray Allen in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_42_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_43": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Michael Jordan has obtained 6 FMVPs\nLeBron James has obtained 4 FMVPs\nMagic Johnson has obtained 3 FMVPs\nShaquille O'Neal has obtained 3 FMVPs\nTim Duncan has obtained 6 FMVPs\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Michael Jordan, a player who has won 6 Finals MVPs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The Michael Jordan in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_43_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture includes LeBron James, a player who has won 4 Finals MVPs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The LeBron James in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_43_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture includes Magic Johnson, a player who has won 3 Finals MVPs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The Magic Johnson in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_43_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture includes Shaquille O'Neal, a player who has won 3 Finals MVPs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_8": {
+        "content": "True or False: The Shaquille O'Neal in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_43_3.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture includes Tim Duncan, a player who has won 6 Finals MVPs.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The Tim Duncan in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_43_4.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_44": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The champion of the 2024 World Motorcycle Championship is Jorge Martín\nThe champion of the 2023 World Motorcycle Championship is Francesco Bagnaia\nThe champion of the 2022 World Motorcycle Championship is Francesco Bagnaia\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Jorge Martín as the champion of the 2024 World Motorcycle Championship.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The Jorge Martín in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_44_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Francesco Bagnaia as the champion of the 2023 World Motorcycle Championship.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Francesco Bagnaia as the champion of the 2022 World Motorcycle Championship.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The Francesco Bagnaia in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_44_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_45": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Giacomo Agostini has won 7 championships at this World Motorcycle Championship\nMick Doohan has won 5 championships at this World Motorcycle Championship\nValentino Rossi has won 5 championships at this World Motorcycle Championship\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Giacomo Agostini",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The Giacomo Agostini in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_45_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Mick Doohan",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The Mick Doohan in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_45_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Valentino Rossi",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The Valentino Rossi in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_45_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_46": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Zhang Weili is the UFC women's strawweight champion\nValentina Shevchenko is the UFC women's flyweight champion\nJulianna Peña is the UFC women's bantamweight champion\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Zhang Weili is the UFC women's strawweight champion",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The Zhang Weili in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_46_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Valentina Shevchenko is the UFC women's flyweight champion",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The Valentina Shevchenko in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_46_1.png",
+        "modal": "I",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Julianna Peña is the UFC women's bantamweight champion",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The Julianna Peña in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_46_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_47": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Michael Schumacher has won seven F1 titles.\nLewis Hamilton has won seven F1 titles.\nJuan Manuel Fangio has won five F1 titles.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Michael Schumacher",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The Michael Schumacher in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_47_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Lewis Hamilton",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The Lewis Hamilton in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_47_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Juan Manuel Fangio",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The Juan Manuel Fangio in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_47_2.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_48": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Max Verstappen clinches 2024 Formula 1 title\nMax Verstappen clinches 2023 Formula 1 title\nMax Verstappen clinches 2022 Formula 1 title\nThe F1 champion for the past three years has been the same person\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Max Verstappen clinches 2024 Formula 1 title",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The Max Verstappen in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_48_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Max Verstappen clinches 2023 Formula 1 title",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Max Verstappen clinches 2022 Formula 1 title",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the F1 champion for the past three years has been the same person",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      }
+    }
+  },
+  "sports_49": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "2024: Tadej Pogačar (Slovenia)\n2023: Jonas Vingegaard (Denmark)\n2022: Jonas Vingegaard (Denmark)\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Tadej Pogačar as the 2024 Tour de France champion.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The Tadej Pogačar in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_49_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Jonas Vingegaard as the 2023 Tour de France champion.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_4": {
+        "content": "True or False: The Jonas Vingegaard in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_49_1.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_5": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "China’s first Olympic gold medalist is Xu Haifeng.\nThe event is the men’s 50m free pistol at the 1984 Los Angeles Olympics.\nXu Haifeng is wearing a red sports uniform.\nXu Haifeng is holding a pistol with one arm fully extended, firing his first shot.\nXu Haifeng’s expression is focused and determined.\nThe scene takes place at the Prado Olympic Shooting Park.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a competition scene at the men’s 50m free pistol event.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Xu Haifeng wearing a red sports uniform.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Xu Haifeng holding a pistol with one arm fully extended.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Xu Haifeng as a Chinese athlete.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows 1984 Los Angeles Olympics.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Xu Haifeng resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_5_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_50": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Zhao Xintong wins the 2025 World Snooker Championship\nKyren Wilson wins 2024 World Snooker gold medal\nLuca Brecel wins 2023 World Snooker gold medal\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Zhao Xintong as the 2025 World Snooker Champion.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_2": {
+        "content": "True or False: The Zhao Xintong in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_50_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Kyren Wilson as the 2024 World Snooker gold medalist.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The Kyren Wilson in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_50_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Luca Brecel as the 2023 World Snooker gold medalist.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_6": {
+        "content": "True or False: The Luca Brecel in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_50_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "sports_51": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "Joe Davis has won the World Snooker Championship 15 times\nFred Davis has won the World Snooker Championship 8 times\nHerbert John Pulman has won the World Snooker Championship 8 times\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows Joe Davis as having won the World Snooker Championship 15 times.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The Joe Davis in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_51_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Fred Davis as having won the World Snooker Championship 8 times.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The Fred Davis in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_51_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Herbert John Pulman as having won the World Snooker Championship 8 times.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_6": {
+        "content": "True or False: The Herbert John Pulman in the picture resembles the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_51_2.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "sports_6": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The first American to win an Olympic gold medal was James Connolly, who achieved this in the triple jump at the 1896 Athens Olympic Games.\nJames Connolly is shown mid-air during his triple jump.\nHe wears a simple white athletic outfit with “USA” lettering.\nThe competition takes place in the Panathenaic Stadium, built with marble stands.\nA large crowd of spectators in 19th-century clothing fills the stands.\nA judge in a black suit and bowler hat is watching with a measuring tape.\nThe atmosphere reflects the historic first modern Olympic Games.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a competition scene of the triple jump event.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows James Connolly mid-air during his triple jump.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows James Connolly wearing a simple white athletic outfit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows the letters “USA” on James Connolly’s outfit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows James Connolly as an American athlete.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows 1896 Athens Olympic Games.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows James Connolly resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_6_0.png",
+        "modal": "I",
+        "class_id": 2
+      }
+    }
+  },
+  "sports_7": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "John Baxter Taylor Jr. is the first African American Olympic gold medalist.\nThe event is the men’s 4x400 meter relay race.\nJohn Baxter Taylor Jr. has dark skin.\nThe competition takes place at the 1908 London Olympics.\nThe venue is the White City Stadium in London, filled with spectators.\nJohn Baxter Taylor Jr. is running strongly on the track.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a competition scene of the men’s 4x400 meter relay race.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows John Baxter Taylor Jr. running on the track.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 3
+      },
+      "question_3": {
+        "content": "True or False: The picture shows John Baxter Taylor Jr. with dark skin.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows John Baxter Taylor Jr. resembling the one shown in <image_0>.\n",
+        "img_path": "/reference/img/sports_7_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_8": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "The first female Olympic gold medallists in history were Switzerland's Hélène de Pourtalès, aboard the 'Lérina' boat.\nThe 'Lérina' boat is a wooden vessel with a classic design.\nThe boat features a large mainsail and jib.\nThe sail is white and shaped like a triangle.\nThere are three people aboard the boat.\nHélène de Pourtalès is standing on the boat, adjusting the sail.\nBernard de Pourtalès is operating the boat.\nHélène de Pourtalès and Bernard de Pourtalès are wearing contemporary upper-class recreation clothes.\nHélène de Pourtalès and Bernard de Pourtalès are dressed in white long-sleeved linen shirts.\nHélène de Pourtalès and Bernard de Pourtalès are wearing slacks.\nThe race takes place on the calm waters of the Seine River.\nThe sky is bright and clear.\nSpectators are visible on the riverbanks.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a sailing competition scene.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows three people aboard the boat.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_3": {
+        "content": "True or False: The picture shows a woman aboard the boat.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_4": {
+        "content": "True or False: The picture shows a wooden vessel with a classic design.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_5": {
+        "content": "True or False: The picture shows the boat with a large mainsail.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows the boat with a jib.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_7": {
+        "content": "True or False: The picture shows the sail on the boat being white.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows the sail on the boat being shaped like a triangle.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows the race taking place on calm waters.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_10": {
+        "content": "True or False: The picture shows spectators visible on the riverbanks.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_11": {
+        "content": "True or False: The picture shows the boat resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_8_0.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  },
+  "sports_9": {
+    "prompt_en": "",
+    "prompt_zh": "",
+    "txt_reference": "2023: The champion team is Spain, and the captain is Ivana Andrés.\n2019: The champion team is United States, and the captain is Megan Rapinoe.\n2015: The champion team is United States, and the captain is Christie Rampone.\n2011: The champion team is Japan, and the captain is Homare Sawa.\nIvana Andrés is the captain of Spain.\nIvana Andrés wears the red kit with the number 5.\nMegan Rapinoe is the captain of United States.\nMegan Rapinoe wears the blue kit with the number 15.\nChristie Rampone is the captain of United States.\nChristie Rampone wears the blue kit with the number 3.\nHomare Sawa is the captain of Japan.\nHomare Sawa wears the dark blue kit with the number 10.\n",
+    "questions": {
+      "question_1": {
+        "content": "True or False: The picture shows a group photo of four people.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_2": {
+        "content": "True or False: The picture shows Ivana Andrés wearing a Spain national team kit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_3": {
+        "content": "True or False: The picture shows Ivana Andrés wearing the number 5.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_4": {
+        "content": "True or False: The picture shows Megan Rapinoe wearing a United States national team kit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 2
+      },
+      "question_5": {
+        "content": "True or False: The picture shows Megan Rapinoe wearing the number 15.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_6": {
+        "content": "True or False: The picture shows Christie Rampone wearing a United States national team kit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_7": {
+        "content": "True or False: The picture shows Christie Rampone wearing the number 3.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_8": {
+        "content": "True or False: The picture shows Homare Sawa wearing a dark Japan national team kit.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_9": {
+        "content": "True or False: The picture shows Homare Sawa wearing the number 10.",
+        "img_path": null,
+        "modal": "T",
+        "class_id": 1
+      },
+      "question_10": {
+        "content": "True or False: The picture shows Ivana Andrés resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_9_0.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_11": {
+        "content": "True or False: The picture shows Megan Rapinoe resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_9_1.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_12": {
+        "content": "True or False: The picture shows Christie Rampone resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_9_2.png",
+        "modal": "I",
+        "class_id": 1
+      },
+      "question_13": {
+        "content": "True or False: The picture shows Homare Sawa resembling the one shown in <image_0>.",
+        "img_path": "/reference/img/sports_9_3.png",
+        "modal": "I",
+        "class_id": 1
+      }
+    }
+  }
+}
