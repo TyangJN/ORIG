@@ -239,8 +239,8 @@ batch_size = 50
 - **Hybrid Approach**: Combines both modalities for comprehensive enhancement
 
 ### Flexible Model Support
-- **Retrieval Models**: GPT-4, Qwen
-- **Generation Models**: OpenAI, Gemini, Qwen
+- **Retrieval Models**: GPT-5, Qwen
+- **Generation Models**: GPT-Image, Gemini-Image, Qwen-Image
 - **Easy Extension**: Modular design for adding new models
 
 ### Comprehensive Evaluation
