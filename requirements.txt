@@ -1,0 +1,40 @@
+# Core dependencies
+torch>=2.0.0
+transformers>=4.35.0
+openai>=1.0.0
+Pillow>=9.0.0
+requests>=2.28.0
+
+# Google AI dependencies
+google-generativeai>=0.3.0
+
+# Search API dependencies
+google-search-results>=2.4.2
+serpapi>=0.1.5
+
+# Qwen VL dependencies
+qwen-vl-utils>=0.0.1
+
+# Data processing
+numpy>=1.21.0
+pandas>=1.5.0
+jsonlines>=3.0.0
+
+# Excel processing (for openpyxl)
+openpyxl>=3.0.0
+
+# Image processing
+opencv-python>=4.5.0
+
+# Utilities
+pathlib2>=2.3.0
+typing-extensions>=4.0.0
+
+# Optional: For better performance
+accelerate>=0.20.0
+flash-attn>=2.0.0  # Optional, for faster attention computation
+
+# Development dependencies (optional)
+pytest>=7.0.0
+black>=22.0.0
+flake8>=5.0.0
