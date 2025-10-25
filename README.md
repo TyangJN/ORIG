@@ -262,36 +262,6 @@ batch_size = 50
 2. Implement model-specific prompt formatting
 3. Add configuration options
 
-### Custom Evaluation Metrics
-
-1. Extend evaluation module with new metrics
-2. Implement metric calculation functions
-3. Update reporting system
-
-## 📊 Performance Benchmarks
-
-The system has been tested on various datasets with the following performance characteristics:
-
-- **Processing Speed**: ~100 prompts/hour (depending on model and hardware)
-- **Memory Usage**: ~2-4GB RAM for typical workloads
-- **Accuracy**: Significant improvement over baseline direct generation
-
-## 🔧 Troubleshooting
-
-### Common Issues
-
-1. **API Key Errors**: Ensure all required API keys are properly configured
-2. **Memory Issues**: Reduce batch size or max_workers for large datasets
-3. **File Path Issues**: Check that all data paths are correctly specified
-
-### Debug Mode
-
-Enable debug logging for detailed execution information:
-
-```python
-import logging
-logging.basicConfig(level=logging.DEBUG)
-```
 
 ## 🤝 Contributing
 
