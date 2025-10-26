@@ -1,8 +1,11 @@
 # ORIG - Multi-Modal Retrieval-Enhanced Image Generation Evaluation System
 
-ORIG (Optimized Retrieval for Image Generation) is a multi-modal image generation evaluation system based on retrieval augmentation, supporting various combinations of retrieval models and generation models for assessing and comparing image generation quality across different modalities.
+[![arXiv](https://img.shields.io/badge/arXiv-2401.00000-b31b1b.svg)](https://arxiv.org/abs/2401.00000)[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/datasets/TyangJN/FIG/viewer)[![Web Project](https://img.shields.io/badge/Web%20Project-Demo-green)](https://tyangjn.github.io/orig.github.io/)
+
 
 ## 🎯 Project Overview
+
+Large Multimodal Models (LMMs) have achieved remarkable progress in generating photorealistic and prompt-aligned images, but they often produce outputs that contradict verifiable knowledge, especially when prompts involve fine-grained attributes or time-sensitive events. Conventional retrieval-augmented approaches attempt to address this issue by introducing external information, yet they are fundamentally incapable of grounding generation in accurate and evolving knowledge due to their reliance on static sources and shallow evidence integration. To bridge this gap, we introduce ORIG, an agentic open multimodal retrieval-augmented framework for Factual Image Generation (FIG), a new task that requires both visual realism and factual grounding. ORIG iteratively retrieves and filters multimodal evidence from the web and incrementally integrates the refined knowledge into enriched prompts to guide generation. To support systematic evaluation, we build FIG-Eval, a benchmark spanning ten categories across perceptual, compositional, and temporal dimensions. Experiments demonstrate that ORIG substantially improves factual consistency and overall image quality over strong baselines, highlighting the potential of open multimodal retrieval for factual image generation.
 
 This project implements a complete retrieval-enhanced image generation pipeline with the following core features:
 
@@ -278,6 +281,19 @@ We welcome contributions to improve the project:
 - Add tests for new features
 - Update documentation as needed
 - Ensure backward compatibility
+
+## 📖 Citation
+
+If you use this project in your research, please cite our paper:
+
+```bibtex
+@article{orig2024,
+  title={ORIG: Multi-Modal Retrieval-Enhanced Image Generation Evaluation System},
+  author={Your Name and Co-authors},
+  journal={arXiv preprint arXiv:2401.00000},
+  year={2024}
+}
+```
 
 ## 📄 License
 
