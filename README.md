@@ -168,6 +168,7 @@ Retrieval results include:
 - **Error Handling**: Comprehensive exception handling and logging
 
 ## 🎨 Dataset
+**The dataset covers information through September 30, 2025.**
 
 The project includes the FIG-Eval dataset covering the following categories:
 

@@ -30,9 +30,9 @@
 {"id": "event_29", "Prompt": "Generate a photo of the first cafe opening.", "指令": "生成第一家咖啡馆开业时候的图片", "category": "event"}
 {"id": "event_30", "Prompt": "Generate an image of Lü Bu shooting the halberd at the gate.", "指令": "生成吕布辕门射戟的图片", "category": "event"}
 {"id": "event_31", "Prompt": "Generate an image of the inauguration ceremony of the National  Assembly Building in Benin.", "指令": "生成贝宁国民议会大楼落成典礼", "category": "event"}
-{"id": "event_32", "Prompt": "Photo of the Japanese Prime Minister and the Expo mascot in  front of the Japan Pavilion at the Osaka Expo.", "指令": "大阪世博会，日本首相与本届世博会吉祥物在日本馆前的合影", "category": "event"}
+{"id": "event_32", "Prompt": "Photo of the current Japanese Prime Minister and the Expo mascot in  front of the Japan Pavilion at the Osaka Expo.", "指令": "大阪世博会，现任日本首相与本届世博会吉祥物在日本馆前的合影", "category": "event"}
 {"id": "event_33", "Prompt": "Generate an image showing the oldest person to have been in  space and the rocket he rode.", "指令": "生成图片，展示进入太空最高龄者和他搭乘的火箭", "category": "event"}
-{"id": "event_34", "Prompt": "Generate an image showing the  the top three finishers and their times in the 100-meter event of the  inaugural Robot Games.", "指令": "展示首届机器人运动会“百米”项目的前三名以及其成绩", "category": "event"}
+{"id": "event_34", "Prompt": "Generate an image showing the the top three finishers and their times in the 100-meter event of the  inaugural Robot Games.", "指令": "展示首届机器人运动会“百米”项目的前三名以及其成绩", "category": "event"}
 {"id": "event_35", "Prompt": "Generate an image showing the 2024 Nobel Prize in Physics  laureates receiving their awards.", "指令": "生成图片，展示2024年诺贝尔物理学奖获奖人领奖的图片", "category": "event"}
 {"id": "event_36", "Prompt": "Generate an image showing the 2024 World Food Prize laureates  with representative buildings they contributed to", "指令": "生成一张图片，展示 2024 年世界粮食奖获奖者和他们所贡献的代表性建筑物合照", "category": "event"}
 {"id": "event_37", "Prompt": "Generate an image showing the 2025 Pritzker Architecture Prize  laureates taking a group photo in front of the building they were awarded.", "指令": "生成图片，展示2025年普利兹克建筑奖得主在颁奖建筑前的合影", "category": "event"}

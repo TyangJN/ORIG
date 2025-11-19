@@ -287,12 +287,11 @@
 {"id": "event_29", "category": "event", "prompt_zh": "生成第一家咖啡馆开业时候的图片", "prompt_en": "Generate a photo of the first cafe opening."}
 {"id": "event_30", "category": "event", "prompt_zh": "生成吕布辕门射戟的图片", "prompt_en": "Generate an image of Lü Bu shooting the halberd at the gate."}
 {"id": "event_31", "category": "event", "prompt_zh": "生成贝宁国民议会大楼落成典礼", "prompt_en": "Generate an image of the inauguration ceremony of the National  Assembly Building in Benin."}
-{"id": "event_32", "category": "event", "prompt_zh": "大阪世博会，日本首相与本届世博会吉祥物在日本馆前的合影", "prompt_en": "Photo of the Japanese Prime Minister and the Expo mascot in  front of the Japan Pavilion at the Osaka Expo."}
+{"id": "event_32", "category": "event", "prompt_zh": "大阪世博会，日本现任首相与本届世博会吉祥物在日本馆前的合影", "prompt_en": "Photo of the current Japanese Prime Minister and the Expo mascot in  front of the Japan Pavilion at the Osaka Expo."}
 {"id": "event_33", "category": "event", "prompt_zh": "生成图片，展示进入太空最高龄者和他搭乘的火箭", "prompt_en": "Generate an image showing the oldest person to have been in  space and the rocket he rode."}
 {"id": "event_34", "category": "event", "prompt_zh": "展示首届机器人运动会“百米”项目的前三名以及其成绩", "prompt_en": "Generate an image showing the  the top three finishers and their times in the 100-meter event of the  inaugural Robot Games."}
 {"id": "event_35", "category": "event", "prompt_zh": "生成图片，展示2024年诺贝尔物理学奖获奖人领奖的图片", "prompt_en": "Generate an image showing the 2024 Nobel Prize in Physics  laureates receiving their awards."}
 {"id": "event_36", "category": "event", "prompt_zh": "生成一张图片，展示 2024 年世界粮食奖获奖者和他们所贡献的代表性建筑物合照", "prompt_en": "Generate an image showing the 2024 World Food Prize laureates  with representative buildings they contributed to"}
-{"id": "event_37", "category": "event", "prompt_zh": "生成图片，展示2025年普利兹克建筑奖得主在颁奖建筑前的合影", "prompt_en": "Generate an image showing the 2025 Pritzker Architecture Prize  laureates taking a group photo in front of the building they were awarded."}
 {"id": "event_38", "category": "event", "prompt_zh": "生成图片，展示2024年普利兹克建筑奖得主在颁奖建筑前的合影", "prompt_en": "Generate an image showing the 2024 Pritzker Architecture Prize  laureates taking a group photo in front of the building they were awarded."}
 {"id": "event_39", "category": "event", "prompt_zh": "生成图片，展示巴黎埃菲尔铁塔竣工典礼", "prompt_en": "Generate an image showing the completion ceremony of the  Eiffel Tower in Paris"}
 {"id": "event_40", "category": "event", "prompt_zh": "生成首款获批的飞行汽车的图像", "prompt_en": "Generate an image of the first flying car approved for  production"}
