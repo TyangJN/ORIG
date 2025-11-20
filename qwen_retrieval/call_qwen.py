@@ -7,7 +7,7 @@ from openai import OpenAI
 
 
 class MultimodalRetrievalClient:
-    def __init__(self, api_key: Optional[str] = None, model: str = "qwen-vl-max-latest",
+    def __init__(self, api_key: Optional[str] = None, model: str = "qwen2.5-vl-7b-instruct",
                  base_url: str = "https://dashscope.aliyuncs.com/compatible-mode/v1"):
         """
         Initialize Qwen Vision Language client using OpenAI compatible interface
@@ -130,8 +130,8 @@ class MultimodalRetrievalClient:
                 model=self.model,
                 messages=messages,
                 max_tokens=kwargs.get('max_tokens', 8192),
-                temperature=kwargs.get('temperature', 0.7),
-                top_p=kwargs.get('top_p', 0.9),
+                temperature=kwargs.get('temperature', 0.0),
+                top_p=kwargs.get('top_p', 1.0),
                 **{k: v for k, v in kwargs.items() if k not in ['max_tokens', 'temperature', 'top_p']}
             )
 

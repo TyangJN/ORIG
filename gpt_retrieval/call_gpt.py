@@ -86,7 +86,9 @@ class MultimodalRetrievalClient:
             response = self.client.chat.completions.create(
                 model=self.model,
                 messages=self.message_history,
-                max_completion_tokens=8192
+                max_completion_tokens=8192,
+                temperature = 0.0,
+                top_p = 1.0
             )
 
             # Get assistant reply
@@ -134,7 +136,9 @@ class MultimodalRetrievalClient:
             response = self.client.chat.completions.create(
                 model=self.model,
                 messages=messages,
-                max_completion_tokens=8192
+                max_completion_tokens=8192,
+                temperature=0.0,
+                top_p=1.0
             )
 
             # Return assistant reply directly (no history update)
