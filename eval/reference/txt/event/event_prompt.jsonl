@@ -1,4 +1,4 @@
-{"id": "event_0", "Prompt": "Please generate a group photo of undergraduate graduates from  four majors—engineering, science, agriculture, and liberal arts—at Peking  University.", "指令": "请生成北京大学本科工科，理科，农科，文科4个专业毕业生的合影", "category": "event"}
+{"id": "event_0", "Prompt": "Please generate a group photo of undergraduate graduates from three majors—engineering, science, and liberal arts—at Peking  University.", "指令": "请生成北京大学本科工科，理科，农科，文科4个专业毕业生的合影", "category": "event"}
 {"id": "event_1", "Prompt": "Generates a photo of the Statue of Liberty's dedication on  October 28, 1886", "指令": "生成 1886 年 10 月 28 日自由女神像落成典礼的照片", "category": "event"}
 {"id": "event_2", "Prompt": "Generate a scene of Galileo’s gravity experiment.", "指令": "生成伽利略引力实验的场景", "category": "event"}
 {"id": "event_3", "Prompt": "Generate a scene of the Magdeburg hemispheres experiment.", "指令": "生成马格德堡半球实验的场景", "category": "event"}

@@ -255,7 +255,7 @@
 {"id": "transportation_47", "category": "transportation", "prompt_zh": "生成“海贼王”中白胡子的船图片。", "prompt_en": "Generate an image showing Whitebeard's ship from \"One  Piece\"."}
 {"id": "transportation_48", "category": "transportation", "prompt_zh": "生成“汤汤庙”号游轮图片。", "prompt_en": "Generate an image of the cruise ship named \"Tangtang  Miao\"."}
 {"id": "transportation_49", "category": "transportation", "prompt_zh": "生成“阿凡达”中女武神穿梭机图片。", "prompt_en": "Generate an image showing the Valkyrie shuttle from Avatar."}
-{"id": "event_0", "category": "event", "prompt_zh": "请生成北京大学本科工科，理科，农科，文科4个专业毕业生的合影", "prompt_en": "Please generate a group photo of undergraduate graduates from  four majors—engineering, science, agriculture, and liberal arts—at Peking  University."}
+{"id": "event_0", "category": "event", "prompt_zh": "请生成北京大学本科工科，理科，文科4个专业毕业生的合影", "prompt_en": "Please generate a group photo of undergraduate graduates from three majors—engineering, science, and liberal arts—at Peking  University."}
 {"id": "event_1", "category": "event", "prompt_zh": "生成 1886 年 10 月 28 日自由女神像落成典礼的照片", "prompt_en": "Generates a photo of the Statue of Liberty's dedication on  October 28, 1886"}
 {"id": "event_2", "category": "event", "prompt_zh": "生成伽利略引力实验的场景", "prompt_en": "Generate a scene of Galileo’s gravity experiment."}
 {"id": "event_3", "category": "event", "prompt_zh": "生成马格德堡半球实验的场景", "prompt_en": "Generate a scene of the Magdeburg hemispheres experiment."}
