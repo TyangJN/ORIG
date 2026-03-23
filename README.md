@@ -1,6 +1,5 @@
 # ORIG - Multi-Modal Retrieval-Enhanced Image Generation Evaluation System
 
-[![arXiv](https://img.shields.io/badge/arXiv-2401.00000-b31b1b.svg)](https://arxiv.org/abs/2510.22521)[![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-blue)](https://huggingface.co/datasets/TyangJN/FIG/viewer)[![Web Project](https://img.shields.io/badge/Web%20Project-Demo-green)](https://tyangjn.github.io/orig.github.io/)
 
 
 ## 🎯 Project Overview
@@ -283,18 +282,7 @@ We welcome contributions to improve the project:
 - Update documentation as needed
 - Ensure backward compatibility
 
-## 📖 Citation
 
-If you use this project in your research, please cite our paper:
-
-```bibtex
-@article{orig2024,
-  title={ORIG: Multi-Modal Retrieval-Enhanced Image Generation Evaluation System},
-  author={Your Name and Co-authors},
-  journal={arXiv preprint arXiv:2401.00000},
-  year={2024}
-}
-```
 
 ## 📄 License
 
