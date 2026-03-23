@@ -288,12 +288,7 @@ We welcome contributions to improve the project:
 
 This project is licensed under the MIT License.
 
-## 📞 Contact
 
-For questions or suggestions, please contact us through:
-
-- Submit GitHub Issues
-- Send email to project maintainers
 
 ## 🙏 Acknowledgments
 
