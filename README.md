@@ -18,6 +18,7 @@
 
 - **Paper**: [`ACM DL`](https://doi.org/10.1145/3767308.3835240)
 - **Code Repository**: [`GitHub`](https://github.com/iLearn-Lab/MM26-FIG)
+- **Dataset**: [`HuggingFace`](https://huggingface.co/datasets/TyangJN/FIG/viewer)
 
 ---
 
