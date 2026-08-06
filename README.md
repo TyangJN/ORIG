@@ -377,4 +377,4 @@ If you find this work helpful, please cite our paper:
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+This project is released under the Apache License 2.0.
